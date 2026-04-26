@@ -3,7 +3,7 @@ import re
 from pathlib import Path
 
 from fastapi import FastAPI, Header, HTTPException, Request
-from fastapi.responses import FileResponse
+from fastapi.responses import Response
 
 
 AUDIO_DIR = Path(os.getenv("AUDIO_DIR", "/data/audio"))
@@ -53,11 +53,15 @@ def get_audio(filename: str):
     path = AUDIO_DIR / safe_name
     if not path.exists():
         raise HTTPException(status_code=404, detail="audio not found")
-    return FileResponse(
-        path,
-        media_type="audio/mp4",
-        filename=safe_name,
-        headers={"Cache-Control": "public, max-age=604800"},
+    data = path.read_bytes()
+    return Response(
+        data,
+        media_type="audio/x-m4a",
+        headers={
+            "Cache-Control": "public, max-age=604800",
+            "Content-Length": str(len(data)),
+            "Accept-Ranges": "bytes",
+        },
     )
 
 
@@ -67,11 +71,15 @@ def head_audio(filename: str):
     path = AUDIO_DIR / safe_name
     if not path.exists():
         raise HTTPException(status_code=404, detail="audio not found")
-    return FileResponse(
-        path,
-        media_type="audio/mp4",
-        filename=safe_name,
-        headers={"Cache-Control": "public, max-age=604800"},
+    size = path.stat().st_size
+    return Response(
+        content=b"",
+        media_type="audio/x-m4a",
+        headers={
+            "Cache-Control": "public, max-age=604800",
+            "Content-Length": str(size),
+            "Accept-Ranges": "bytes",
+        },
     )
 
 
