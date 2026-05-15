@@ -10,6 +10,7 @@ Environment variables:
 
 ```bash
 MEDIA_DIR=/data/audio
+ARCHIVE_DIR=/data/archive
 UPLOAD_TOKEN=choose-a-long-random-token
 PUBLIC_BASE_URL=https://your-zeabur-domain.zeabur.app
 ```
@@ -30,6 +31,14 @@ Endpoints:
 - `GET /audio/{filename}.m4a`
 - `GET /image/{filename}.png`
 - `GET /image/{filename}.jpg`
+- `POST /archive/upload/index.html` with header `X-Upload-Token`
+- `POST /archive/upload/search.json` with header `X-Upload-Token`
+- `POST /archive/upload/posts.jsonl` with header `X-Upload-Token`
+- `POST /archive/upload/posts/{post_id}.json` with header `X-Upload-Token`
+- `GET /archive/`
+- `GET /archive/search.json`
+- `GET /archive/posts.jsonl`
+- `GET /archive/posts/{post_id}.json`
 
 After deployment, configure Hermes:
 
@@ -40,4 +49,9 @@ LIFEBOT_AUDIO_BASE_URL=https://your-zeabur-domain.zeabur.app/audio
 LIFEBOT_IMAGE_UPLOAD_URL=https://your-zeabur-domain.zeabur.app/upload
 LIFEBOT_IMAGE_UPLOAD_TOKEN=the-same-token
 LIFEBOT_IMAGE_BASE_URL=https://your-zeabur-domain.zeabur.app/image
+LINE_ARCHIVE_UPLOAD_URL=https://your-zeabur-domain.zeabur.app/archive/upload
+LINE_ARCHIVE_UPLOAD_TOKEN=the-same-token
+LINE_ARCHIVE_PUBLIC_URL=https://your-zeabur-domain.zeabur.app/archive/
 ```
+
+Use `LINE_ARCHIVE_PUBLIC_URL` as the LINE rich menu or LIFF URL for "歷史文章".
