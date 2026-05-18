@@ -217,14 +217,29 @@ def get_podcast_feed_redirect():
     return podcast_response("feed.xml")
 
 
+@app.head("/podcast")
+def head_podcast_feed_redirect():
+    return podcast_response("feed.xml", head=True)
+
+
 @app.get("/podcast/")
 def get_podcast_feed_index():
     return podcast_response("feed.xml")
 
 
+@app.head("/podcast/")
+def head_podcast_feed_index():
+    return podcast_response("feed.xml", head=True)
+
+
 @app.get("/podcast/{path:path}")
 def get_podcast_file(path: str):
     return podcast_response(path)
+
+
+@app.head("/podcast/{path:path}")
+def head_podcast_file(path: str):
+    return podcast_response(path, head=True)
 
 
 def archive_response(path: str):
@@ -239,15 +254,16 @@ def archive_response(path: str):
     )
 
 
-def podcast_response(path: str):
+def podcast_response(path: str, head: bool = False):
     safe_path = safe_podcast_path(path)
     file_path = PODCAST_DIR / safe_path
     if not file_path.exists() or not file_path.is_file():
         raise HTTPException(status_code=404, detail="podcast file not found")
+    data = b"" if head else file_path.read_bytes()
     return Response(
-        content=file_path.read_bytes(),
+        content=data,
         media_type=podcast_media_type(safe_path.name),
-        headers={"Cache-Control": "public, max-age=300"},
+        headers={"Cache-Control": "public, max-age=300", "Content-Length": str(file_path.stat().st_size)},
     )
 
 
