@@ -1,6 +1,6 @@
 # LifeBot Media Server
 
-Small FastAPI service for hosting LifeBot `.m4a` audio files and `.png/.jpg` images so LINE can fetch them as audio and image messages.
+Small FastAPI service for hosting LifeBot `.m4a` audio files, `.png/.jpg` images, the LINE archive, and the public podcast RSS feed.
 
 ## Zeabur
 
@@ -11,6 +11,7 @@ Environment variables:
 ```bash
 MEDIA_DIR=/data/audio
 ARCHIVE_DIR=/data/archive
+PODCAST_DIR=/data/podcast
 UPLOAD_TOKEN=choose-a-long-random-token
 PUBLIC_BASE_URL=https://your-zeabur-domain.zeabur.app
 ```
@@ -39,6 +40,10 @@ Endpoints:
 - `GET /archive/search.json`
 - `GET /archive/posts.jsonl`
 - `GET /archive/posts/{post_id}.json`
+- `POST /podcast/upload/feed.xml` with header `X-Upload-Token`
+- `POST /podcast/upload/episodes.json` with header `X-Upload-Token`
+- `GET /podcast/feed.xml`
+- `GET /podcast/episodes.json`
 
 After deployment, configure Hermes:
 
@@ -52,6 +57,9 @@ LIFEBOT_IMAGE_BASE_URL=https://your-zeabur-domain.zeabur.app/image
 LINE_ARCHIVE_UPLOAD_URL=https://your-zeabur-domain.zeabur.app/archive/upload
 LINE_ARCHIVE_UPLOAD_TOKEN=the-same-token
 LINE_ARCHIVE_PUBLIC_URL=https://your-zeabur-domain.zeabur.app/archive/
+LIFEBOT_PODCAST_UPLOAD_URL=https://your-zeabur-domain.zeabur.app/podcast/upload
+LIFEBOT_PODCAST_FEED_URL=https://your-zeabur-domain.zeabur.app/podcast/feed.xml
 ```
 
 Use `LINE_ARCHIVE_PUBLIC_URL` as the LINE rich menu or LIFF URL for "歷史文章".
+Use `LIFEBOT_PODCAST_FEED_URL` in Spotify for Creators when submitting or switching the public podcast RSS feed.

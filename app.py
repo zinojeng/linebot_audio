@@ -9,6 +9,7 @@ from fastapi.responses import Response
 
 MEDIA_DIR = Path(os.getenv("MEDIA_DIR", os.getenv("AUDIO_DIR", "/data/audio")))
 ARCHIVE_DIR = Path(os.getenv("ARCHIVE_DIR", "/data/archive"))
+PODCAST_DIR = Path(os.getenv("PODCAST_DIR", "/data/podcast"))
 UPLOAD_TOKEN = os.getenv("UPLOAD_TOKEN", "")
 PUBLIC_BASE_URL = os.getenv("PUBLIC_BASE_URL", "").rstrip("/")
 
@@ -68,9 +69,31 @@ def archive_media_type(filename: str) -> str:
     raise HTTPException(status_code=400, detail="unsupported archive type")
 
 
+def safe_podcast_path(path: str) -> Path:
+    clean = Path(path)
+    if clean.is_absolute() or ".." in clean.parts:
+        raise HTTPException(status_code=400, detail="podcast path must be relative")
+    if len(clean.parts) > 2:
+        raise HTTPException(status_code=400, detail="podcast path is too deep")
+    if not re.fullmatch(r"[A-Za-z0-9._/-]+\.(xml|json)", path, flags=re.I):
+        raise HTTPException(status_code=400, detail="podcast file must be .xml or .json")
+    if len(clean.parts) == 2 and clean.parts[0] != "episodes":
+        raise HTTPException(status_code=400, detail="only episodes/ subdirectory is supported")
+    return clean
+
+
+def podcast_media_type(filename: str) -> str:
+    suffix = Path(filename).suffix.lower()
+    if suffix == ".xml":
+        return "application/rss+xml; charset=utf-8"
+    if suffix == ".json":
+        return "application/json; charset=utf-8"
+    raise HTTPException(status_code=400, detail="unsupported podcast type")
+
+
 @app.get("/")
 def health():
-    return {"ok": True, "service": "lifebot-media-server", "archive": "/archive/"}
+    return {"ok": True, "service": "lifebot-media-server", "archive": "/archive/", "podcast": "/podcast/feed.xml"}
 
 
 @app.post("/upload/{filename}")
@@ -84,7 +107,7 @@ async def upload_media(filename: str, request: Request, x_upload_token: str = He
     body = await request.body()
     if not body:
         raise HTTPException(status_code=400, detail="empty upload")
-    if len(body) > 20 * 1024 * 1024:
+    if len(body) > 100 * 1024 * 1024:
         raise HTTPException(status_code=413, detail="media file too large")
 
     MEDIA_DIR.mkdir(parents=True, exist_ok=True)
@@ -94,6 +117,29 @@ async def upload_media(filename: str, request: Request, x_upload_token: str = He
     public_path = public_path_for(safe_name)
     url = f"{PUBLIC_BASE_URL}{public_path}" if PUBLIC_BASE_URL else public_path
     return {"ok": True, "filename": safe_name, "kind": file_kind_for(safe_name), "url": url}
+
+
+@app.post("/podcast/upload/{path:path}")
+async def upload_podcast_file(path: str, request: Request, x_upload_token: str = Header(default="")):
+    if not UPLOAD_TOKEN:
+        raise HTTPException(status_code=500, detail="UPLOAD_TOKEN is not configured")
+    if x_upload_token != UPLOAD_TOKEN:
+        raise HTTPException(status_code=401, detail="invalid upload token")
+
+    safe_path = safe_podcast_path(path)
+    body = await request.body()
+    if not body:
+        raise HTTPException(status_code=400, detail="empty upload")
+    if len(body) > 10 * 1024 * 1024:
+        raise HTTPException(status_code=413, detail="podcast file too large")
+
+    target = PODCAST_DIR / safe_path
+    target.parent.mkdir(parents=True, exist_ok=True)
+    target.write_bytes(body)
+
+    public_path = f"/podcast/{safe_path.as_posix()}"
+    url = f"{PUBLIC_BASE_URL}{public_path}" if PUBLIC_BASE_URL else public_path
+    return {"ok": True, "path": safe_path.as_posix(), "kind": "podcast", "url": url}
 
 
 @app.post("/archive/upload/{path:path}")
@@ -166,6 +212,21 @@ def get_archive_file(path: str):
     return archive_response(path)
 
 
+@app.get("/podcast")
+def get_podcast_feed_redirect():
+    return podcast_response("feed.xml")
+
+
+@app.get("/podcast/")
+def get_podcast_feed_index():
+    return podcast_response("feed.xml")
+
+
+@app.get("/podcast/{path:path}")
+def get_podcast_file(path: str):
+    return podcast_response(path)
+
+
 def archive_response(path: str):
     safe_path = safe_archive_path(path)
     file_path = ARCHIVE_DIR / safe_path
@@ -174,6 +235,18 @@ def archive_response(path: str):
     return Response(
         content=file_path.read_bytes(),
         media_type=archive_media_type(safe_path.name),
+        headers={"Cache-Control": "public, max-age=300"},
+    )
+
+
+def podcast_response(path: str):
+    safe_path = safe_podcast_path(path)
+    file_path = PODCAST_DIR / safe_path
+    if not file_path.exists() or not file_path.is_file():
+        raise HTTPException(status_code=404, detail="podcast file not found")
+    return Response(
+        content=file_path.read_bytes(),
+        media_type=podcast_media_type(safe_path.name),
         headers={"Cache-Control": "public, max-age=300"},
     )
 
