@@ -1,5 +1,24 @@
 [
   {
+    "id": "2026-05-19-20260519-0720-attd2026-plenary-rayhan-lal",
+    "guid": "https://linebotaudio.zeabur.app/audio/2026-05-19-20260519-0720-attd2026-plenary-rayhan-lal.m4a",
+    "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Rayhan Lal - 2026 連續與間歇性監測總結 (Continuous and Intermittent Monitoring in 2026)",
+    "description": "ATTD 2026 專業整理：2026 連續與間歇性監測總結暨胰島素傳輸硬體進展\n\n本場由 Rayhan Lal 醫師主講的重點回顧，旨在探討連續血糖監測 (CGM) 的疾病預測潛力，並回顧 2024 至 2025 年間胰島素傳輸硬體 (幫浦、智慧注射筆與輸注套組) 的臨床實務進展與挑戰。演講突顯了新科技在改善特定族群預後上的潛力，同時也點出皮下吸收衰退與系統即時安全性等仍需克服的臨床限制。\n\n【CGM 的臨床應用進展與限制】\n在第一型糖尿病 (T1D) 的疾病進程中，利用 CGM 搭配臨床特徵有機會預測惡化為第三期 T1D 的風險；然而，目前受激發的 C-胜肽測量在評估上仍具有不可替代的地位，尚無法被 CGM 完全取代。在住院照護方面，針對第二型糖尿病患者，整合 CGM、可操作警報及胰島素滴定演算法能顯著改善預後，但其最大臨床效益高度依賴系統與滴定演算法的深度整合。\n\n【智慧注射筆與行為精準介入】\n遠距醫療結合硬體能為特定族群帶來顯著效益。Gomez-Peralta 等人的研究顯示，在護理之家使用胰島素的高齡患者中，結合 CGM 與聯網智慧筆蓋的介入，能達到低於目標範圍時間 (Time Below Range) 統計學上顯著的減少。此外，Wolpert 團隊利用聯網注射筆與 CGM 數據，成功將餐前大劑量行為進行特徵分類 (如延遲或遺漏)，這為未來臨床上針對行為因素進行編碼與精準衛教提供了實務方向。\n\n【皮下輸注的臨床痛點：長效套組與吸收衰退】\n維持穩定的皮下吸收仍是胰島素幫浦治療的「阿基里斯腱」。Yoshimura 的觀察性研究指出，使用者在更換輸注套組至第四天時，CGM 指標便出現惡化，且未觀察到代償性的胰島素輸注增加。\n這點在 Lal (2025) 針對新型長效輸注套組 (具備柔軟插管與強化線圈設計) 的樞紐試驗中得到印證：在連續配戴長達 7 天的過程中，從第四天至第七天，即使每日總胰島素劑量出現了代償性增加 (平均增加 6.4 單位)，高於目標範圍時間 (TAR >180 mg/dL) 依然微幅上升，目標範圍內時間 (TIR) 亦從 75.3% 下降至 67.8%。這提醒臨床醫師，在評估長效套組時需持保守態度，後期的皮下脂肪水腫與吸收衰退仍會對血糖平穩造成實質影響。\n\n【科技安全性與特殊環境風險】\n在系統除錯上，目前利用機器學習結合 CGM 與幫浦數據來偵測故障的技術雖具創新性，但偵測耗時約 3 小時，距離即時預防患者不適的臨床需求仍有落差。\n此外，環境氣壓變化對硬體安全性的影響值得重視。Garden 等人的實驗台與真實世界數據指出，飛機起飛 (氣壓下降) 時平均會導致 0.6 單位的胰島素過度輸注。對於成人而言影響輕微，但若患者是對胰島素高度敏感且配戴貼片型幫浦 (無法輕易斷開) 的孩童，這 0.6 單位的誤差將構成明確的低血糖風險。\n\n【長期趨勢與醫療不平等】\n回顧長達 34 年的縱向數據顯示，受惠於新型胰島素、幫浦阻塞警報、CGM 普及與臨床經驗累積，幫浦使用者發生 DKA 的風險比已從 1990 年代的高峰大幅且穩定地降至 1.25 到 1.50。然而，即便在實施全面幫浦給付計畫的地區，弱勢族群在取得幫浦資源上的醫療不平等現象依然持續存在。\n\n隨著長效型胰島素輸注套組與自動化系統的普及，面對配戴後期難以完全避免的皮下吸收衰退現象，臨床團隊應如何協助患者動態調整演算法設定或介入策略，以在設備便利性與血糖控制間取得最佳平衡？\n\n資料來源：\n 2026-連續與間歇性監測總結-continuous-and-intermittent-monitoring-in-2026.md\n連結：https://tinyurl.com/2y96bhlz\n\n本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。\n\n來源連結：https://tinyurl.com/2y96bhlz",
+    "pub_date": "2026-05-18T23:40:22.293515+00:00",
+    "pub_date_rfc2822": "Mon, 18 May 2026 23:40:22 +0000",
+    "audio_url": "https://linebotaudio.zeabur.app/audio/2026-05-19-20260519-0720-attd2026-plenary-rayhan-lal.m4a",
+    "audio_length": 12864425,
+    "audio_type": "audio/mp4",
+    "image_url": "https://linebotaudio.zeabur.app/image/2026-05-19-20260519-0720-attd2026-plenary-rayhan-lal.jpg",
+    "podcast_image_url": "",
+    "duration": "17:38",
+    "source_url": "https://tinyurl.com/2y96bhlz",
+    "explicit": "false",
+    "language": "zh-TW",
+    "manifest": "/Users/ander/Documents/hermes-agent/diabetes-news-social-post/output/notebooklm/2026-05-19-20260519-0720-attd2026-plenary-rayhan-lal.manifest.json",
+    "kind": "attd2026_professional_line_post"
+  },
+  {
     "id": "2026-05-18-20260518-1720-attd2026-symposium-irl-b-hirsch",
     "guid": "https://linebotaudio.zeabur.app/audio/2026-05-18-20260518-1720-attd2026-symposium-irl-b-hirsch.m4a",
     "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Irl B. Hirsch - \"I'VE RUN OUT OF REAL ESTATE\"- WHY SOME PATIENTS STRUGGLE WITH INSULIN PUMP THERAPY?",
