@@ -1,5 +1,24 @@
 [
   {
+    "id": "2026-05-19-20260519-1720-attd2026-symposium-thomas-martens",
+    "guid": "https://linebotaudio.zeabur.app/audio/2026-05-19-20260519-1720-attd2026-symposium-thomas-martens.m4a",
+    "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Thomas Martens - TECHNOLOGY IMPLEMENTATION IN PRIMARY CARE: WHAT IS THE BEST MODEL?",
+    "description": "ATTD 2026 演講重點：糖尿病科技導入基層醫療的最佳模式與挑戰\n\n這場演講主要探討當前糖尿病管理的重大臨床挑戰：隨著連續血糖監測儀 (CGM) 與自動化胰島素給藥系統 (AID) 等科技爆發性發展，能從中獲益的患者人數遠大於內分泌專科醫師的負荷量 。在美國，約 90% 的糖尿病與高達 30% 至 50% 的第一型糖尿病 (T1D) 是由基層醫療管理，但基層臨床醫師面臨看診時間極度壓縮、缺乏數位健康科技訓練以及缺乏完善工作流程等現實困境 [2-4]。\n\nThomas Martens 醫師指出，將糖尿病科技成功導入基層醫療需要三個核心要素的交集：簡單性、連結性與支持系統 。以 CGM 為例，新一代設備已在操作上達到簡單性，但在基層醫療的數據連結與使用上仍面臨巨大落差 。文獻指出，高達 15.2% 患者的自我監測血糖結果從未被臨床醫師用來推進治療 。即使在 MOBILE 與 DIAMOND 等臨床試驗中，CGM 雖然顯著改善了糖化血色素，但在試驗結束時，患者平均 A1C 仍未能降至 7.0% 以下 。這反映了僅給予設備是不夠的，必須將回顧性數據的判讀與劑量滴定，深度整合進基層醫師日常的電子病歷工作流程中 。\n\n對於更為複雜的 AID 系統，目前 ADA 糖尿病標準照護指引已將其列為所有成人 T1D 及部分胰島素依賴型第二型糖尿病 (T2D) 的 A 級推薦 。演講中引用一項針對基層醫師的調查指出，受訪者對傳統胰島素幫浦的接受度極低，但高達 93% 認為由基層醫師開立 AID 系統具有優勢，主因是系統的演算法承擔了複雜的劑量調整工作 。\n\n然而，將進階科技下放至基層的實證數據仍需保守解讀。講者引用 2025 年一項採用簡化設定的 iLet 仿生胰臟系統小型先導型隨機對照試驗，結果顯示由基層醫療或內分泌專科管理，以及實體或遠距衛教，其達成平均血糖目標的比例並無顯著差異 。但 Martens 醫師明確點出此研究的臨床限制：試驗規模小且僅為期兩週，受試者初始血糖控制本就優於一般大眾，最重要的是該研究未能反映真實世界中的安全性障礙 。在真實臨床環境中，胰島素給藥失敗引發的潛在酮酸中毒 (DKA) 危機、半夜的緊急技術問題以及繁瑣的耗材訂購工作流程，仍是基層醫療缺乏支持系統時難以獨立應對的痛點 。\n\n對內分泌臨床實務的啟發在於，專科團隊的任務除了親自診治，更應成為基層醫療的後盾。透過應用慢性病照護模式 (CCM) 與擴大遠距醫療 (Telehealth) 的運用，專科團隊可以作為基層的決策支援網絡，協助處理非同步的劑量滴定與突發的安全性挑戰 。\n\n在逐步推動糖尿病進階科技於基層醫療落地的過程中，內分泌專科團隊應如何設計低門檻且高效率的跨層級支援工作流程，以確保在擴展科技涵蓋率的同時，維持病患在真實世界使用的安全性？\n\n資料來源：\nThomas Martens. TECHNOLOGY IMPLEMENTATION IN PRIMARY CARE: WHAT IS THE BEST MODEL? ATTD 2026, Session PS30 .\n連結：https://tinyurl.com/25bhqavf\n\n本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。\n\n來源連結：https://tinyurl.com/25bhqavf",
+    "pub_date": "2026-05-19T09:39:55.171370+00:00",
+    "pub_date_rfc2822": "Tue, 19 May 2026 09:39:55 +0000",
+    "audio_url": "https://linebotaudio.zeabur.app/audio/2026-05-19-20260519-1720-attd2026-symposium-thomas-martens.m4a",
+    "audio_length": 13344330,
+    "audio_type": "audio/mp4",
+    "image_url": "https://linebotaudio.zeabur.app/image/2026-05-19-20260519-1720-attd2026-symposium-thomas-martens.jpg",
+    "podcast_image_url": "https://linebotaudio.zeabur.app/image/2026-05-19-20260519-1720-attd2026-symposium-thomas-martens-podcast-cover.jpg",
+    "duration": "18:18",
+    "source_url": "https://tinyurl.com/25bhqavf",
+    "explicit": "false",
+    "language": "zh-TW",
+    "manifest": "/Users/ander/Documents/hermes-agent/diabetes-news-social-post/output/notebooklm/2026-05-19-20260519-1720-attd2026-symposium-thomas-martens.manifest.json",
+    "kind": "attd2026_professional_line_post"
+  },
+  {
     "id": "2026-05-19-20260519-0720-attd2026-plenary-rayhan-lal",
     "guid": "https://linebotaudio.zeabur.app/audio/2026-05-19-20260519-0720-attd2026-plenary-rayhan-lal.m4a",
     "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Rayhan Lal - 2026 連續與間歇性監測總結 (Continuous and Intermittent Monitoring in 2026)",
