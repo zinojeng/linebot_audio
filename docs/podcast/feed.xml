@@ -1,5 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Tue, 19 May 2026 13:39:44 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Thomas Martens - TECHNOLOGY IMPLEMENTATION IN PRIMARY CARE: WHAT IS THE BEST MODEL?</title><description>ATTD 2026 演講重點：糖尿病科技導入基層醫療的最佳模式與挑戰
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Tue, 19 May 2026 23:38:44 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Satish K. Garg - ADJUNCTIVE TREATMENT WITH GLP/GIPS FOR PATIENTS WITH TYPE 1 DIABETES: CONSENSUS REPORT AND GUIDELINES FOR SAFER USE</title><description>ATTD 2026 專業整理：第 1 型糖尿病併用 GLP/GIP 輔助治療之專家共識與安全指引
+
+這場由 Satish K. Garg 教授主講的專題，針對第 1 型糖尿病（T1D）患者日益普遍的肥胖問題，提出了最新的臨床共識與安全使用指南。研究指出，T1D 患者的肥胖盛行率已上升 40-60%，且 off-label 使用 GLP-1 受體促效劑的人數在過去十多年間成長了 22 倍 。目前 FDA 僅核准 Pramlintide 作為 T1D 的輔助療法，但臨床實務上，醫師面臨越來越多需處理 T1D 患者過重、心血管與腎臟風險的需求 。
+
+在療效方面，真實世界數據顯示，雙機轉促效劑 Tirzepatide 的減重效果優於 Semaglutide（約為 2.5 倍），並能顯著增加目標範圍內時間（TIR）與極窄目標範圍時間（Tight TIR），同時降低血糖變異度（CV%） 。此外，觀察性資料顯示 Tirzepatide 能改善血壓、血脂與 eGFR 等心腎生物標記，且與較低的全因死亡率相關 。
+
+臨床實務最關鍵的挑戰在於胰島素劑量的個體化調整（The art of titration）。專家共識建議，啟動 GLP/GIP 治療時通常需先將總胰島素劑量（TDD）減少約 20%，並要求患者在 2-3 天內回診 。臨床醫師需警惕兩大風險：第一是胰島素減量不足導致的嚴重低血糖；第二則是患者因恐懼低血糖而過度調降基礎胰島素（例如減少達 60%），進而誘發「自我誘導性酮症」（Self-induced ketosis）或 DKA 。此外，研究提醒若 A1c 降幅過快（每三個月大於 0.5%），需注意視網膜病變惡化的風險，這點與在第 2 型糖尿病中的觀察一致 。
+
+雖然目前大型隨機對照試驗（如 SURPASS-T1D）仍在進行中，現有的實證多來自真實世界觀察與專家共識 。在缺乏正式適應症的情況下，臨床醫師應保守解讀代謝獲益，並在治療初期強化患者對於酮症症狀（如噁心、嘔吐、腹痛）與藥物腸胃道副作用的鑑別診斷教育 。
+
+在 T1D 患者合併肥胖的比例持續攀升下，我們該如何建立更標準化的「酮體監測機制」，以確保患者在追求心腎代謝獲益的同時，能有效規避優血糖酮酸中毒（Euglycemic DKA）的風險？
+
+來源：
+1. Satish K. Garg, ATTD 2026 Plenary Session: ADJUNCTIVE TREATMENT WITH GLP/GIPS FOR PATIENTS WITH TYPE 1 DIABETES: CONSENSUS REPORT AND GUIDELINES FOR SAFER USE. 
+2. Garg SK et al. Diabetes Technol Ther (DTT), 26:363-366, 2024. 
+3. Akturk et al. DTT, 2026. 
+4. Polsky et al. ATTD, 2026. 
+5. Xu Y et al. DOM, 2025.
+連結：https://tinyurl.com/2cdtjb6p
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://tinyurl.com/2cdtjb6p</description><content:encoded>ATTD 2026 專業整理：第 1 型糖尿病併用 GLP/GIP 輔助治療之專家共識與安全指引&lt;br /&gt;
+&lt;br /&gt;
+這場由 Satish K. Garg 教授主講的專題，針對第 1 型糖尿病（T1D）患者日益普遍的肥胖問題，提出了最新的臨床共識與安全使用指南。研究指出，T1D 患者的肥胖盛行率已上升 40-60%，且 off-label 使用 GLP-1 受體促效劑的人數在過去十多年間成長了 22 倍 。目前 FDA 僅核准 Pramlintide 作為 T1D 的輔助療法，但臨床實務上，醫師面臨越來越多需處理 T1D 患者過重、心血管與腎臟風險的需求 。&lt;br /&gt;
+&lt;br /&gt;
+在療效方面，真實世界數據顯示，雙機轉促效劑 Tirzepatide 的減重效果優於 Semaglutide（約為 2.5 倍），並能顯著增加目標範圍內時間（TIR）與極窄目標範圍時間（Tight TIR），同時降低血糖變異度（CV%） 。此外，觀察性資料顯示 Tirzepatide 能改善血壓、血脂與 eGFR 等心腎生物標記，且與較低的全因死亡率相關 。&lt;br /&gt;
+&lt;br /&gt;
+臨床實務最關鍵的挑戰在於胰島素劑量的個體化調整（The art of titration）。專家共識建議，啟動 GLP/GIP 治療時通常需先將總胰島素劑量（TDD）減少約 20%，並要求患者在 2-3 天內回診 。臨床醫師需警惕兩大風險：第一是胰島素減量不足導致的嚴重低血糖；第二則是患者因恐懼低血糖而過度調降基礎胰島素（例如減少達 60%），進而誘發「自我誘導性酮症」（Self-induced ketosis）或 DKA 。此外，研究提醒若 A1c 降幅過快（每三個月大於 0.5%），需注意視網膜病變惡化的風險，這點與在第 2 型糖尿病中的觀察一致 。&lt;br /&gt;
+&lt;br /&gt;
+雖然目前大型隨機對照試驗（如 SURPASS-T1D）仍在進行中，現有的實證多來自真實世界觀察與專家共識 。在缺乏正式適應症的情況下，臨床醫師應保守解讀代謝獲益，並在治療初期強化患者對於酮症症狀（如噁心、嘔吐、腹痛）與藥物腸胃道副作用的鑑別診斷教育 。&lt;br /&gt;
+&lt;br /&gt;
+在 T1D 患者合併肥胖的比例持續攀升下，我們該如何建立更標準化的「酮體監測機制」，以確保患者在追求心腎代謝獲益的同時，能有效規避優血糖酮酸中毒（Euglycemic DKA）的風險？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+1. Satish K. Garg, ATTD 2026 Plenary Session: ADJUNCTIVE TREATMENT WITH GLP/GIPS FOR PATIENTS WITH TYPE 1 DIABETES: CONSENSUS REPORT AND GUIDELINES FOR SAFER USE. &lt;br /&gt;
+2. Garg SK et al. Diabetes Technol Ther (DTT), 26:363-366, 2024. &lt;br /&gt;
+3. Akturk et al. DTT, 2026. &lt;br /&gt;
+4. Polsky et al. ATTD, 2026. &lt;br /&gt;
+5. Xu Y et al. DOM, 2025.&lt;br /&gt;
+連結：https://tinyurl.com/2cdtjb6p&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://tinyurl.com/2cdtjb6p</content:encoded><pubDate>Tue, 19 May 2026 23:37:37 +0000</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-05-20-20260520-0720-attd2026-plenary-satish-k-garg.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-05-20-20260520-0720-attd2026-plenary-satish-k-garg.m4a" length="10586330" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>14:30</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-05-20-20260520-0720-attd2026-plenary-satish-k-garg-podcast-cover.jpg" /><link>https://tinyurl.com/2cdtjb6p</link></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Thomas Martens - TECHNOLOGY IMPLEMENTATION IN PRIMARY CARE: WHAT IS THE BEST MODEL?</title><description>ATTD 2026 演講重點：糖尿病科技導入基層醫療的最佳模式與挑戰
 
 這場演講主要探討當前糖尿病管理的重大臨床挑戰：隨著連續血糖監測儀 (CGM) 與自動化胰島素給藥系統 (AID) 等科技爆發性發展，能從中獲益的患者人數遠大於內分泌專科醫師的負荷量 。在美國，約 90% 的糖尿病與高達 30% 至 50% 的第一型糖尿病 (T1D) 是由基層醫療管理，但基層臨床醫師面臨看診時間極度壓縮、缺乏數位健康科技訓練以及缺乏完善工作流程等現實困境 [2-4]。
 
