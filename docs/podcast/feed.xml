@@ -1,5 +1,51 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Wed, 20 May 2026 05:02:02 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Amit Gupta - KEY PERSPECTIVES: GLOBAL INSIGHTS ON THE FUTURE OF DIABETES EDUCATION</title><description>ATTD 2026 演講重點：全球糖尿病衛教的未來視角與臨床挑戰
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Wed, 20 May 2026 09:39:37 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Casey Wells, Nouran Y. Salah - INTERACTIVE CHALLENGE: REAL-WORLD DECISION MAKING IN DIABETES CARE &amp; EDUCATION</title><description>ATTD 2026 專業整理：真實世界糖尿病照護與衛教決策挑戰
+
+本場次由臨床藥師 Casey Wells 與小兒糖尿病助理教授 Nouran Y. Salah 共同主持，探討臨床實務中針對青少年糖尿病的初始診斷、自動化胰島素輸注系統（AID）參數設定、動態葡萄糖頻譜（AGP）解讀，以及臨床診斷的動態修正與輔助用藥選擇 。演講透過一個真實世界的追蹤案例，點出年輕族群糖尿病表徵的重疊性與後續處置的複雜度，並結合多位專家的座談，反思現行專業衛教資源的整合與未來發展方向 。
+
+這場演講核心處理的臨床問題在於「年輕初發糖尿病的診斷流動性」以及「先進醫療科技（如 AID）在服從度不佳患者上的真實數據表現」 。
+
+在臨床評估與介入方面，講者指出，面對以糖尿病酮酸中毒（DKA）表現的青少年，初期通常以第一型糖尿病作為預設診斷，依據 2024 年 ISPAD 臨床指引與 2026 年 ADA 照護標準，起始胰島素建議劑量為每天每公斤 0.4 到 1.0 單位，而第二型糖尿病起始則落在 0.1 到 0.2 單位 。若患者後續轉換使用 AID 系統（如 Medtronic 780G），依據 2023 年內分泌學會的技術共識，其目標值建議設定為 100 到 120 mg/dL 。
+
+演講中分享了一項值得注意的 AGP 數據觀察：該名青少年患者在未規律施打餐前胰島素、且碳水化合物攝取極高（每日 350 克）的情況下，其目標範圍內時間（TIR）仍可達 78%，且無頻繁低血糖，主要歸功於系統高比例的自動基礎劑量（68%）與自動校正（33%）介入 。此外，在追蹤一年後，因患者每日總胰島素需求量（TDD）顯著下降至每天每公斤 0.2 單位，且空腹 C-peptide 升至 1.9 ng/ml 並伴隨自體抗體陰性，臨床上被重新診斷為合併肥胖的第二型糖尿病 。根據 2026 年 ADA 標準，此時第一線首選的輔助治療藥物為 GLP-1 促效劑 。
+
+在臨床實務的啟發與需要保守解讀的部分：
+首先，患者即使遺漏餐前劑量仍能維持良好 TIR，這反映的是特定 AID 演算法（如案例中 780G 系統的自動校正機制）的安全網效應，但這屬於單一案例的觀察性結果，臨床上不應將此解讀為「患者可以常規省略餐前胰島素」，且過度依賴自動校正仍可能面臨餐後高血糖或系統負荷的極限 。其次，此案例凸顯了臨床表現（如 DKA）可能具有誤導性，對於胰島素需求量隨時間不增反降的患者，適時重新檢視 C-peptide 與自體抗體，對於修正診斷與優化藥物（如及時導入 GLP-1）至關重要 。
+
+在專業衛教發展的座談中，專家群強調專業衛教不應單純受新科技驅動，而必須以臨床醫師與病患的真實需求為核心，特別是針對不同資源環境（如中低收入國家）建立模組化與微學習機制 。未來的專業培訓架構應走向常態化，邀請病患作為共同創造者，並應建立明確的能力分級與評估機制，而非僅提供單向、一次性的資訊傳遞 。
+
+在面對初發表現非典型或病程變化不符合預期的年輕糖尿病患者時，我們目前的臨床路徑是否具備足夠的靈活度，能及時重新評估自體抗體與胰島功能，進而優化後續的科技輔助與藥物介入策略？
+
+資料來源：
+ interactive-challenge-real-world-decision-making-in-diabetes-care-education.md
+連結：https://tinyurl.com/2b5f5kde
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://tinyurl.com/2b5f5kde</description><content:encoded>ATTD 2026 專業整理：真實世界糖尿病照護與衛教決策挑戰&lt;br /&gt;
+&lt;br /&gt;
+本場次由臨床藥師 Casey Wells 與小兒糖尿病助理教授 Nouran Y. Salah 共同主持，探討臨床實務中針對青少年糖尿病的初始診斷、自動化胰島素輸注系統（AID）參數設定、動態葡萄糖頻譜（AGP）解讀，以及臨床診斷的動態修正與輔助用藥選擇 。演講透過一個真實世界的追蹤案例，點出年輕族群糖尿病表徵的重疊性與後續處置的複雜度，並結合多位專家的座談，反思現行專業衛教資源的整合與未來發展方向 。&lt;br /&gt;
+&lt;br /&gt;
+這場演講核心處理的臨床問題在於「年輕初發糖尿病的診斷流動性」以及「先進醫療科技（如 AID）在服從度不佳患者上的真實數據表現」 。&lt;br /&gt;
+&lt;br /&gt;
+在臨床評估與介入方面，講者指出，面對以糖尿病酮酸中毒（DKA）表現的青少年，初期通常以第一型糖尿病作為預設診斷，依據 2024 年 ISPAD 臨床指引與 2026 年 ADA 照護標準，起始胰島素建議劑量為每天每公斤 0.4 到 1.0 單位，而第二型糖尿病起始則落在 0.1 到 0.2 單位 。若患者後續轉換使用 AID 系統（如 Medtronic 780G），依據 2023 年內分泌學會的技術共識，其目標值建議設定為 100 到 120 mg/dL 。&lt;br /&gt;
+&lt;br /&gt;
+演講中分享了一項值得注意的 AGP 數據觀察：該名青少年患者在未規律施打餐前胰島素、且碳水化合物攝取極高（每日 350 克）的情況下，其目標範圍內時間（TIR）仍可達 78%，且無頻繁低血糖，主要歸功於系統高比例的自動基礎劑量（68%）與自動校正（33%）介入 。此外，在追蹤一年後，因患者每日總胰島素需求量（TDD）顯著下降至每天每公斤 0.2 單位，且空腹 C-peptide 升至 1.9 ng/ml 並伴隨自體抗體陰性，臨床上被重新診斷為合併肥胖的第二型糖尿病 。根據 2026 年 ADA 標準，此時第一線首選的輔助治療藥物為 GLP-1 促效劑 。&lt;br /&gt;
+&lt;br /&gt;
+在臨床實務的啟發與需要保守解讀的部分：&lt;br /&gt;
+首先，患者即使遺漏餐前劑量仍能維持良好 TIR，這反映的是特定 AID 演算法（如案例中 780G 系統的自動校正機制）的安全網效應，但這屬於單一案例的觀察性結果，臨床上不應將此解讀為「患者可以常規省略餐前胰島素」，且過度依賴自動校正仍可能面臨餐後高血糖或系統負荷的極限 。其次，此案例凸顯了臨床表現（如 DKA）可能具有誤導性，對於胰島素需求量隨時間不增反降的患者，適時重新檢視 C-peptide 與自體抗體，對於修正診斷與優化藥物（如及時導入 GLP-1）至關重要 。&lt;br /&gt;
+&lt;br /&gt;
+在專業衛教發展的座談中，專家群強調專業衛教不應單純受新科技驅動，而必須以臨床醫師與病患的真實需求為核心，特別是針對不同資源環境（如中低收入國家）建立模組化與微學習機制 。未來的專業培訓架構應走向常態化，邀請病患作為共同創造者，並應建立明確的能力分級與評估機制，而非僅提供單向、一次性的資訊傳遞 。&lt;br /&gt;
+&lt;br /&gt;
+在面對初發表現非典型或病程變化不符合預期的年輕糖尿病患者時，我們目前的臨床路徑是否具備足夠的靈活度，能及時重新評估自體抗體與胰島功能，進而優化後續的科技輔助與藥物介入策略？&lt;br /&gt;
+&lt;br /&gt;
+資料來源：&lt;br /&gt;
+ interactive-challenge-real-world-decision-making-in-diabetes-care-education.md&lt;br /&gt;
+連結：https://tinyurl.com/2b5f5kde&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://tinyurl.com/2b5f5kde</content:encoded><pubDate>Wed, 20 May 2026 09:38:27 +0000</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-05-20-20260520-1720-attd2026-symposium-casey-wells-nouran-y-salah.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-05-20-20260520-1720-attd2026-symposium-casey-wells-nouran-y-salah.m4a" length="13493137" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>18:30</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-05-20-20260520-1720-attd2026-symposium-casey-wells-nouran-y-salah-podcast-cover.jpg" /><link>https://tinyurl.com/2b5f5kde</link></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Amit Gupta - KEY PERSPECTIVES: GLOBAL INSIGHTS ON THE FUTURE OF DIABETES EDUCATION</title><description>ATTD 2026 演講重點：全球糖尿病衛教的未來視角與臨床挑戰
 
 講者：Amit Gupta
 主題：KEY PERSPECTIVES: GLOBAL INSIGHTS ON THE FUTURE OF DIABETES EDUCATION
