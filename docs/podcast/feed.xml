@@ -1,5 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Wed, 20 May 2026 10:00:35 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Amit Gupta - KEY PERSPECTIVES: GLOBAL INSIGHTS ON THE FUTURE OF DIABETES EDUCATION</title><description>ATTD 2026 演講重點：全球糖尿病衛教的未來視角與臨床挑戰
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Wed, 20 May 2026 13:25:14 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Peter Schwarz, Amit Gupta, Banshi Saboo, Viral N. Shah, Lucia Feito Allonca - PANEL DIALOGUE: INTEGRATING CLINICAL EXPERTISE, PATIENT VOICES &amp; NEXT-GENER</title><description>ATTD 2026 演講重點：整合臨床專業、病患聲音與次世代領導力
+
+本次 ATTD 2026 的專題論壇（Session PS31）由 Peter Schwarz, Amit Gupta, Banshi Saboo, Viral N. Shah 與 Lucia Feito Allonca 共同主講。這場演講真正想處理的臨床問題在於：如何革新現有的持續醫學教育（CME）架構以減少不同職類間的照護落差、如何整合病患的真實世界經驗進入醫療決策，以及如何有效克服第二型糖尿病患者在社會與臨床上遭遇的污名化。
+
+演講關鍵訊息與對內分泌臨床實務的啟發：
+
+1. 運用 AI 突破傳統醫學教育的評估限制
+傳統醫學教育多依賴前測與後測，難以真實反映基層醫師、研究員或主治醫師之間截然不同的知識落差 。專家指出，現代化的學習平台正朝向由人工智慧引擎驅動的結構化評估發展。系統能精準辨識出個人的「知識盲區」，例如某位醫師可能熟稔自動胰島素遞送（AID）與連續血糖監測（CGM）的應用，卻對最新的血脂異常或血壓管理指引不熟悉，進而推播專屬的微學習（micro learning）模組，使持續醫學教育更加個人化且具備實質效益 。
+
+2. 跨職類的分眾培訓與全球專科標準化
+醫療體系龐大，不同職務「必須知道」的重點差異極大。講者舉例，臨床上常見護理人員因病患未進食而錯誤扣留長效胰島素（如 Lantus），這類風險凸顯了指派專屬階段性課程的重要性 。此外，目前全球近兩百個國家中，僅有 22 個國家擁有獲委員會認證的糖尿病專科醫師（diabetologist），因此學術組織（如 ATTD 與 IDF）正致力於協調並建立全球標準化的培訓課程 。
+
+3. 正視第二型糖尿病污名化與引導病患共同創作
+相較於第一型糖尿病社群在權益倡議上的成功，第二型糖尿病患者常背負強烈的罪惡感與社會污名，導致其參與臨床決策與自我管理的動力低落 。這與 2025 年 ADA 照護指引中強調應使用「以人為本、具包容性」的用語（如避免稱呼 diabetic，改稱 person with diabetes）之精神一致 。論壇提倡應將第一型社群的倡議經驗轉移，並推動「病患共同創作」。特別是許多病患本身也是藥師、心理學家或護理師，醫療組織應建立專屬機制，將這群具備雙重身分者的第一人稱視角納入衛教設計中 。在某些資源匱乏地區（如甘比亞），甚至發展出由病友自主培訓當地傳統治療師使用糖尿病科技的在地化模式 。
+
+需要保守解讀的地方：
+本場演講的觀點多基於跨國專家共識與各地觀察性經驗。例如，透過 AI 驅動找出知識盲區的個人化教育平台，目前仍處於持續開發與驗證階段，尚待嚴謹的隨機對照試驗（RCT）來證實其對最終臨床預後與醫療品質的實質提升 。另外，由病患主導培訓非正規醫療人員（如傳統治療師）的案例，屬於高度適應當地資源匱乏情境的特例，在具備完善醫療法規與常規體系的國家中，並不具備直接的臨床可操作性 。
+
+面對人工智慧教育科技與病患賦權的發展，臨床團隊應如何重新設計院內的培訓與衛教機制，以精準填補不同職類（如病房護理師、初階醫師）的知識盲區，同時有效借重具備醫療專業背景之病患的真實經驗？
+
+資料來源：
+1. panel-dialogue-integrating-clinical-expertise-patient-voices-next-generation-lea.md [1-4, 6, 7]
+2. 2025 ADA Standards of Medical Care in Diabetes: Updates!
+連結：https://tinyurl.com/22mscj6q
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://tinyurl.com/22mscj6q</description><content:encoded>ATTD 2026 演講重點：整合臨床專業、病患聲音與次世代領導力&lt;br /&gt;
+&lt;br /&gt;
+本次 ATTD 2026 的專題論壇（Session PS31）由 Peter Schwarz, Amit Gupta, Banshi Saboo, Viral N. Shah 與 Lucia Feito Allonca 共同主講。這場演講真正想處理的臨床問題在於：如何革新現有的持續醫學教育（CME）架構以減少不同職類間的照護落差、如何整合病患的真實世界經驗進入醫療決策，以及如何有效克服第二型糖尿病患者在社會與臨床上遭遇的污名化。&lt;br /&gt;
+&lt;br /&gt;
+演講關鍵訊息與對內分泌臨床實務的啟發：&lt;br /&gt;
+&lt;br /&gt;
+1. 運用 AI 突破傳統醫學教育的評估限制&lt;br /&gt;
+傳統醫學教育多依賴前測與後測，難以真實反映基層醫師、研究員或主治醫師之間截然不同的知識落差 。專家指出，現代化的學習平台正朝向由人工智慧引擎驅動的結構化評估發展。系統能精準辨識出個人的「知識盲區」，例如某位醫師可能熟稔自動胰島素遞送（AID）與連續血糖監測（CGM）的應用，卻對最新的血脂異常或血壓管理指引不熟悉，進而推播專屬的微學習（micro learning）模組，使持續醫學教育更加個人化且具備實質效益 。&lt;br /&gt;
+&lt;br /&gt;
+2. 跨職類的分眾培訓與全球專科標準化&lt;br /&gt;
+醫療體系龐大，不同職務「必須知道」的重點差異極大。講者舉例，臨床上常見護理人員因病患未進食而錯誤扣留長效胰島素（如 Lantus），這類風險凸顯了指派專屬階段性課程的重要性 。此外，目前全球近兩百個國家中，僅有 22 個國家擁有獲委員會認證的糖尿病專科醫師（diabetologist），因此學術組織（如 ATTD 與 IDF）正致力於協調並建立全球標準化的培訓課程 。&lt;br /&gt;
+&lt;br /&gt;
+3. 正視第二型糖尿病污名化與引導病患共同創作&lt;br /&gt;
+相較於第一型糖尿病社群在權益倡議上的成功，第二型糖尿病患者常背負強烈的罪惡感與社會污名，導致其參與臨床決策與自我管理的動力低落 。這與 2025 年 ADA 照護指引中強調應使用「以人為本、具包容性」的用語（如避免稱呼 diabetic，改稱 person with diabetes）之精神一致 。論壇提倡應將第一型社群的倡議經驗轉移，並推動「病患共同創作」。特別是許多病患本身也是藥師、心理學家或護理師，醫療組織應建立專屬機制，將這群具備雙重身分者的第一人稱視角納入衛教設計中 。在某些資源匱乏地區（如甘比亞），甚至發展出由病友自主培訓當地傳統治療師使用糖尿病科技的在地化模式 。&lt;br /&gt;
+&lt;br /&gt;
+需要保守解讀的地方：&lt;br /&gt;
+本場演講的觀點多基於跨國專家共識與各地觀察性經驗。例如，透過 AI 驅動找出知識盲區的個人化教育平台，目前仍處於持續開發與驗證階段，尚待嚴謹的隨機對照試驗（RCT）來證實其對最終臨床預後與醫療品質的實質提升 。另外，由病患主導培訓非正規醫療人員（如傳統治療師）的案例，屬於高度適應當地資源匱乏情境的特例，在具備完善醫療法規與常規體系的國家中，並不具備直接的臨床可操作性 。&lt;br /&gt;
+&lt;br /&gt;
+面對人工智慧教育科技與病患賦權的發展，臨床團隊應如何重新設計院內的培訓與衛教機制，以精準填補不同職類（如病房護理師、初階醫師）的知識盲區，同時有效借重具備醫療專業背景之病患的真實經驗？&lt;br /&gt;
+&lt;br /&gt;
+資料來源：&lt;br /&gt;
+1. panel-dialogue-integrating-clinical-expertise-patient-voices-next-generation-lea.md [1-4, 6, 7]&lt;br /&gt;
+2. 2025 ADA Standards of Medical Care in Diabetes: Updates!&lt;br /&gt;
+連結：https://tinyurl.com/22mscj6q&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://tinyurl.com/22mscj6q</content:encoded><pubDate>Wed, 20 May 2026 13:23:55 +0000</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-05-20-20260520-2101-attd2026-symposium-peter-schwarz-amit-gupta-bansh.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-05-20-20260520-2101-attd2026-symposium-peter-schwarz-amit-gupta-bansh.m4a" length="13719985" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>18:48</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-05-20-20260520-2101-attd2026-symposium-peter-schwarz-amit-gupta-bansh-podcast-cover.jpg" /><link>https://tinyurl.com/22mscj6q</link></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Amit Gupta - KEY PERSPECTIVES: GLOBAL INSIGHTS ON THE FUTURE OF DIABETES EDUCATION</title><description>ATTD 2026 演講重點：全球糖尿病衛教的未來視角與臨床挑戰
 
 講者：Amit Gupta
 主題：KEY PERSPECTIVES: GLOBAL INSIGHTS ON THE FUTURE OF DIABETES EDUCATION
