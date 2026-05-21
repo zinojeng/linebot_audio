@@ -1,5 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Thu, 21 May 2026 10:00:31 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Amit Gupta - BENCHMARKING BETTER: USING TECHNOLOGY TO ALIGN PRACTICE WITH EVOLVING DIABETES CARE GUIDELINES</title><description>ATTD 2026 演講重點：優化標竿—運用科技讓臨床實務接軌最新糖尿病照護指引
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Thu, 21 May 2026 10:03:16 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Manoj Chawla - A DUOLOGUE ON CGM IN NON-REIMBURSABLE MARKETS</title><description>ATTD 2026 演講重點：非給付市場下的 CGM 策略與間歇性使用新典範
+
+本次分享源自 Manoj Chawla 醫師於 ATTD 2026 的專題演講 (Session: PS32)。在多數由國家保險給付的醫療體系外，如同印度等高達 70% 糖尿病照護支出仰賴病患自費的「非給付市場」中，連續葡萄糖監測 (CGM) 的高昂經常性開銷成為推廣的最大阻礙 。本場演講的核心探討如何在經濟與基礎設施雙重受限的環境下，將 CGM 的臨床效益最大化，並提出「間歇性使用 CGM」作為第二型糖尿病照護的新典範 。
+
+臨床問題與間歇性使用的實務意義
+對於無法負擔全年連續使用 CGM 的廣大第二型糖尿病患，講者提出以間歇性配戴 (例如每季 14 天) 作為務實的替代方案 。臨床實務發現，在精心挑選的 14 天監測窗口內，已足以識別出 70% 至 80% 具臨床行動價值的血糖模式 。這種間歇性模式不僅將年度花費大幅降低至連續使用的十分之一左右，更能促成病患行為改變與醫療團隊的藥物優化 。
+
+為最大化這短暫 14 天的臨床價值，講者建議導入「第 7 天介入」的互聯照護 (Connected care) 結構化遠距諮詢模式：在病患配戴感測器收集數據至一半時進行介入，讓臨床醫師得以及時調整處方或給予衛教反饋，並直接在剩餘的 7 天內驗證改變的成效 。
+
+證據層級與臨床適應症的差異
+在證據強度上，針對不同族群需有差異化的解讀。對於第一型糖尿病、多次胰島素注射 (MDI) 或胰島素幫浦使用者、孕期及反覆低血糖 (或 HbA1c 大於 9%) 的患者，CGM 具備強烈實證支持 。多項 RCT 研究 (如 DIAMOND、COMISAIR) 證實連續使用可顯著降低 HbA1c 達 0.5% 至 1.0% 並減少低血糖時間 40% 至 60%，在此類族群中仍應盡可能推廣為標準照護 。
+
+相對地，將間歇性 CGM 應用於非胰島素治療的第二型糖尿病 (包含使用每週一次 GLP-1/GIP 受體促效劑) 或糖尿病前期患者，雖有新興證據指出可改善 HbA1c 約 0.3% 至 0.5%，並使生活型態改變依從性提升 3 到 4 倍，但此領域的推廣目前仍多立基於專家共識與觀察性資料 。在解讀其長期硬指標效益時需較為保守，不宜與 T1D 的強烈 RCT 證據完全等同視之。
+
+臨床限制與挑戰
+在基層推廣 CGM 時，醫師是否有足夠時間與量能解讀複雜的動態數據 (AGP) 是一大挑戰，且需克服病患的警報疲勞與數據超載問題 。此外，為解決負擔能力而導入部分在地研發的低成本 CGM 設備時，醫療團隊必須落實嚴格的「醫材安全監視」(Mechano-vigilance)，密切關注其設備準確度 (MARD)、皮膚過敏反應等潛在問題 。未來產業界是否能參考新型降糖藥物在不同國家採行的差異化定價策略，將是打破 CGM 普及率天花板的關鍵 。
+
+面對非給付市場的經濟屏障，我們應如何將「間歇性 CGM 搭配第 7 天遠距介入」的模式標準化，以在不增加臨床團隊過度負擔的前提下，精準提升第二型糖尿病患者的代謝達標率？
+
+資料來源：
+ ATTD 2026, Manoj Chawla: A DUOLOGUE ON CGM IN NON-REIMBURSABLE MARKETS (Session PS32)
+連結：https://tinyurl.com/2amldbv7
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://tinyurl.com/2amldbv7</description><content:encoded>ATTD 2026 演講重點：非給付市場下的 CGM 策略與間歇性使用新典範&lt;br /&gt;
+&lt;br /&gt;
+本次分享源自 Manoj Chawla 醫師於 ATTD 2026 的專題演講 (Session: PS32)。在多數由國家保險給付的醫療體系外，如同印度等高達 70% 糖尿病照護支出仰賴病患自費的「非給付市場」中，連續葡萄糖監測 (CGM) 的高昂經常性開銷成為推廣的最大阻礙 。本場演講的核心探討如何在經濟與基礎設施雙重受限的環境下，將 CGM 的臨床效益最大化，並提出「間歇性使用 CGM」作為第二型糖尿病照護的新典範 。&lt;br /&gt;
+&lt;br /&gt;
+臨床問題與間歇性使用的實務意義&lt;br /&gt;
+對於無法負擔全年連續使用 CGM 的廣大第二型糖尿病患，講者提出以間歇性配戴 (例如每季 14 天) 作為務實的替代方案 。臨床實務發現，在精心挑選的 14 天監測窗口內，已足以識別出 70% 至 80% 具臨床行動價值的血糖模式 。這種間歇性模式不僅將年度花費大幅降低至連續使用的十分之一左右，更能促成病患行為改變與醫療團隊的藥物優化 。&lt;br /&gt;
+&lt;br /&gt;
+為最大化這短暫 14 天的臨床價值，講者建議導入「第 7 天介入」的互聯照護 (Connected care) 結構化遠距諮詢模式：在病患配戴感測器收集數據至一半時進行介入，讓臨床醫師得以及時調整處方或給予衛教反饋，並直接在剩餘的 7 天內驗證改變的成效 。&lt;br /&gt;
+&lt;br /&gt;
+證據層級與臨床適應症的差異&lt;br /&gt;
+在證據強度上，針對不同族群需有差異化的解讀。對於第一型糖尿病、多次胰島素注射 (MDI) 或胰島素幫浦使用者、孕期及反覆低血糖 (或 HbA1c 大於 9%) 的患者，CGM 具備強烈實證支持 。多項 RCT 研究 (如 DIAMOND、COMISAIR) 證實連續使用可顯著降低 HbA1c 達 0.5% 至 1.0% 並減少低血糖時間 40% 至 60%，在此類族群中仍應盡可能推廣為標準照護 。&lt;br /&gt;
+&lt;br /&gt;
+相對地，將間歇性 CGM 應用於非胰島素治療的第二型糖尿病 (包含使用每週一次 GLP-1/GIP 受體促效劑) 或糖尿病前期患者，雖有新興證據指出可改善 HbA1c 約 0.3% 至 0.5%，並使生活型態改變依從性提升 3 到 4 倍，但此領域的推廣目前仍多立基於專家共識與觀察性資料 。在解讀其長期硬指標效益時需較為保守，不宜與 T1D 的強烈 RCT 證據完全等同視之。&lt;br /&gt;
+&lt;br /&gt;
+臨床限制與挑戰&lt;br /&gt;
+在基層推廣 CGM 時，醫師是否有足夠時間與量能解讀複雜的動態數據 (AGP) 是一大挑戰，且需克服病患的警報疲勞與數據超載問題 。此外，為解決負擔能力而導入部分在地研發的低成本 CGM 設備時，醫療團隊必須落實嚴格的「醫材安全監視」(Mechano-vigilance)，密切關注其設備準確度 (MARD)、皮膚過敏反應等潛在問題 。未來產業界是否能參考新型降糖藥物在不同國家採行的差異化定價策略，將是打破 CGM 普及率天花板的關鍵 。&lt;br /&gt;
+&lt;br /&gt;
+面對非給付市場的經濟屏障，我們應如何將「間歇性 CGM 搭配第 7 天遠距介入」的模式標準化，以在不增加臨床團隊過度負擔的前提下，精準提升第二型糖尿病患者的代謝達標率？&lt;br /&gt;
+&lt;br /&gt;
+資料來源：&lt;br /&gt;
+ ATTD 2026, Manoj Chawla: A DUOLOGUE ON CGM IN NON-REIMBURSABLE MARKETS (Session PS32)&lt;br /&gt;
+連結：https://tinyurl.com/2amldbv7&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://tinyurl.com/2amldbv7</content:encoded><pubDate>Thu, 21 May 2026 18:00:29 +0000</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-05-21-20260521-1720-attd2026-symposium-manoj-chawla.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-05-21-20260521-1720-attd2026-symposium-manoj-chawla.m4a" length="19983353" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>27:25</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-05-21-20260521-1720-attd2026-symposium-manoj-chawla-podcast-cover.jpg" /><link>https://tinyurl.com/2amldbv7</link></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Amit Gupta - BENCHMARKING BETTER: USING TECHNOLOGY TO ALIGN PRACTICE WITH EVOLVING DIABETES CARE GUIDELINES</title><description>ATTD 2026 演講重點：優化標竿—運用科技讓臨床實務接軌最新糖尿病照護指引
 
 本次 ATTD 2026 會議中，Amit Gupta 醫師針對全球糖尿病照護的執行落差，提出以科技為核心的系統性解決方案 。
 
