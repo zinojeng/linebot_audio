@@ -1,5 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Thu, 21 May 2026 00:00:26 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Casey Wells, Nouran Y. Salah - INTERACTIVE CHALLENGE: REAL-WORLD DECISION MAKING IN DIABETES CARE &amp; EDUCATION</title><description>ATTD 2026 專業整理：真實世界糖尿病照護與衛教決策挑戰
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Thu, 21 May 2026 00:02:57 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Mark Clements - CLOSED-LOOP, DECISION SUPPORT, AND ARTIFICIAL INTELLIGENCE</title><description>ATTD 2026 演講重點：閉環系統、決策支援與人工智慧在糖尿病照護的最新實證
+
+講者 Mark Clements 醫師於 ATTD 2026 全面回顧了自動胰島素輸送系統 (AID)、決策支援系統 (DSS) 與人工智慧 (AI) 在糖尿病管理的發展。近年相關技術的演進已從過去依賴方程式驅動 (如 PID、MPC)，正式邁向基於機器學習與 AI 的數據驅動控制。本次演講主要探討這些新興技術如何應用於第二型糖尿病 (T2D) 的門診與住院照護，並統整最新的臨床實證。
+
+閉環系統 (AID) 於第二型糖尿病的實證突破
+在閉環系統方面，一篇 2025 年發表於《新英格蘭醫學雜誌》(NEJM) 的隨機對照試驗 (RCT) 提供了重要證據。該試驗為期 13 週，納入 319 位 T2D 患者，結果顯示使用 AID 系統的介入組，相較於單獨使用連續血糖監測 (CGM) 的對照組，HbA1c 達到了 -0.6% 的顯著平均校正差異，且目標血糖範圍內時間 (TIR) 的兩組平均差異高達 14%。這項具備高度證據層級的 RCT 證實，AID 系統能為 T2D 患者帶來穩定且顯著的控糖優勢。
+
+決策支援系統 (DSS) 的指引升級與住院落地
+在決策支援應用上，2025 年 ADA 照護標準已將支持劑量計算機與 DSS 的證據等級由 C 級正式提升至 B 級。針對住院照護，一項發表於 2025 年《JAMA Network Open》的 RCT 首度評估了基於機器學習的胰島素臨床決策支援系統 (iNCDSS)。該研究將 149 位 T2D 住院患者隨機分組，結果顯示，接受 iNCDSS 建議進行為期 5 天劑量調整的介入組，其 TIR 達 76.4%，成功達到相對於資深醫師主導調整組 (TIR 73.6%) 的非劣性標準。這顯示 AI 輔助系統在住院胰島素劑量調整上，已具備不亞於專科醫師的精準度。
+
+對臨床實務的啟發與需保守解讀之處
+儘管技術進展快速，這些研究在臨床轉譯上仍有需保守解讀的限制。上述針對住院患者的 iNCDSS 試驗僅觀察 5 天，且受試者集中於中國三個醫學中心的 T2D 成人族群，其長期的臨床安全性，以及對第一型糖尿病或不同併發症共病族群的泛用性，尚待進一步驗證。此外，美國 FDA 於 2025 年最新發布了 AI 醫療器材生命週期指引，這意味著此類 AI 動態演算法模型在真實世界的穩定性監測與法規適應，將是未來實務導入的一大挑戰。
+
+隨著 AI 驅動的胰島素決策支援系統在特定臨床場域逐漸展現出不亞於專科醫師的短期控糖成效，臨床醫師未來應如何重新定位自身角色，以在醫療團隊中發揮「人機協同」的最大照護價值？
+
+資料來源：
+ CLOSED-LOOP, DECISION SUPPORT, AND ARTIFICIAL INTELLIGENCE (ATTD 2026 演講)
+連結：https://tinyurl.com/25wzomxe
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://tinyurl.com/25wzomxe</description><content:encoded>ATTD 2026 演講重點：閉環系統、決策支援與人工智慧在糖尿病照護的最新實證&lt;br /&gt;
+&lt;br /&gt;
+講者 Mark Clements 醫師於 ATTD 2026 全面回顧了自動胰島素輸送系統 (AID)、決策支援系統 (DSS) 與人工智慧 (AI) 在糖尿病管理的發展。近年相關技術的演進已從過去依賴方程式驅動 (如 PID、MPC)，正式邁向基於機器學習與 AI 的數據驅動控制。本次演講主要探討這些新興技術如何應用於第二型糖尿病 (T2D) 的門診與住院照護，並統整最新的臨床實證。&lt;br /&gt;
+&lt;br /&gt;
+閉環系統 (AID) 於第二型糖尿病的實證突破&lt;br /&gt;
+在閉環系統方面，一篇 2025 年發表於《新英格蘭醫學雜誌》(NEJM) 的隨機對照試驗 (RCT) 提供了重要證據。該試驗為期 13 週，納入 319 位 T2D 患者，結果顯示使用 AID 系統的介入組，相較於單獨使用連續血糖監測 (CGM) 的對照組，HbA1c 達到了 -0.6% 的顯著平均校正差異，且目標血糖範圍內時間 (TIR) 的兩組平均差異高達 14%。這項具備高度證據層級的 RCT 證實，AID 系統能為 T2D 患者帶來穩定且顯著的控糖優勢。&lt;br /&gt;
+&lt;br /&gt;
+決策支援系統 (DSS) 的指引升級與住院落地&lt;br /&gt;
+在決策支援應用上，2025 年 ADA 照護標準已將支持劑量計算機與 DSS 的證據等級由 C 級正式提升至 B 級。針對住院照護，一項發表於 2025 年《JAMA Network Open》的 RCT 首度評估了基於機器學習的胰島素臨床決策支援系統 (iNCDSS)。該研究將 149 位 T2D 住院患者隨機分組，結果顯示，接受 iNCDSS 建議進行為期 5 天劑量調整的介入組，其 TIR 達 76.4%，成功達到相對於資深醫師主導調整組 (TIR 73.6%) 的非劣性標準。這顯示 AI 輔助系統在住院胰島素劑量調整上，已具備不亞於專科醫師的精準度。&lt;br /&gt;
+&lt;br /&gt;
+對臨床實務的啟發與需保守解讀之處&lt;br /&gt;
+儘管技術進展快速，這些研究在臨床轉譯上仍有需保守解讀的限制。上述針對住院患者的 iNCDSS 試驗僅觀察 5 天，且受試者集中於中國三個醫學中心的 T2D 成人族群，其長期的臨床安全性，以及對第一型糖尿病或不同併發症共病族群的泛用性，尚待進一步驗證。此外，美國 FDA 於 2025 年最新發布了 AI 醫療器材生命週期指引，這意味著此類 AI 動態演算法模型在真實世界的穩定性監測與法規適應，將是未來實務導入的一大挑戰。&lt;br /&gt;
+&lt;br /&gt;
+隨著 AI 驅動的胰島素決策支援系統在特定臨床場域逐漸展現出不亞於專科醫師的短期控糖成效，臨床醫師未來應如何重新定位自身角色，以在醫療團隊中發揮「人機協同」的最大照護價值？&lt;br /&gt;
+&lt;br /&gt;
+資料來源：&lt;br /&gt;
+ CLOSED-LOOP, DECISION SUPPORT, AND ARTIFICIAL INTELLIGENCE (ATTD 2026 演講)&lt;br /&gt;
+連結：https://tinyurl.com/25wzomxe&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://tinyurl.com/25wzomxe</content:encoded><pubDate>Thu, 21 May 2026 08:00:24 +0000</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-05-21-20260521-0738-attd2026-plenary-mark-clements.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-05-21-20260521-0738-attd2026-plenary-mark-clements.m4a" length="10017188" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>13:44</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-05-21-20260521-0738-attd2026-plenary-mark-clements-podcast-cover.jpg" /><link>https://tinyurl.com/25wzomxe</link></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Casey Wells, Nouran Y. Salah - INTERACTIVE CHALLENGE: REAL-WORLD DECISION MAKING IN DIABETES CARE &amp; EDUCATION</title><description>ATTD 2026 專業整理：真實世界糖尿病照護與衛教決策挑戰
 
 本場次由臨床藥師 Casey Wells 與小兒糖尿病助理教授 Nouran Y. Salah 共同主持，探討臨床實務中針對青少年糖尿病的初始診斷、自動化胰島素輸注系統（AID）參數設定、動態葡萄糖頻譜（AGP）解讀，以及臨床診斷的動態修正與輔助用藥選擇 。演講透過一個真實世界的追蹤案例，點出年輕族群糖尿病表徵的重疊性與後續處置的複雜度，並結合多位專家的座談，反思現行專業衛教資源的整合與未來發展方向 。
 
