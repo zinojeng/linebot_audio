@@ -1,5 +1,63 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Thu, 21 May 2026 05:00:25 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Mark Clements - CLOSED-LOOP, DECISION SUPPORT, AND ARTIFICIAL INTELLIGENCE</title><description>ATTD 2026 演講重點：閉環系統、決策支援與人工智慧在糖尿病照護的最新實證
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Thu, 21 May 2026 05:01:41 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Amit Gupta - BENCHMARKING BETTER: USING TECHNOLOGY TO ALIGN PRACTICE WITH EVOLVING DIABETES CARE GUIDELINES</title><description>ATTD 2026 演講重點：優化標竿—運用科技讓臨床實務接軌最新糖尿病照護指引
+
+本次 ATTD 2026 會議中，Amit Gupta 醫師針對全球糖尿病照護的執行落差，提出以科技為核心的系統性解決方案 。
+
+真正想處理的臨床問題：照護傳遞落差
+全球糖尿病負擔日益沉重，多數患者集中於醫療資源有限的中低收入國家 。目前的臨床困境在於「照護傳遞落差」：各國學會頻繁更新實證指引，但第一線基層醫療往往缺乏專科醫師支援，難以將這些指引落實於常規照護中 。此外，隨著多種降糖藥物機轉出現、個人化治療需求提升，再加上連續血糖監測 (CGM) 與自動胰島素傳遞系統 (AID) 的普及，更讓糖尿病與心血管代謝共病管理的複雜度大幅攀升 。
+
+關鍵訊息：以 CDSS 彌平知識到實務的落差
+講者強調，面對日益複雜的疾病管理，單靠傳統醫學繼續教育已顯不足 。未來的發展關鍵在於建構具備擴充性的解決方案，特別是將臨床決策支援系統 (Clinical Decision Support Systems, CDSS) 整合進常規臨床工作流程中 。透過系統提供即時的實證建議與標準化照護路徑，能減少因醫師時間緊迫或知識未即時更新而產生的照護落差 。
+
+文獻實證與證據層級
+演講中引用多項研究支持數位介入模型的潛力：
+• SIMcard 與 mWellCare 試驗：這兩項群集隨機試驗 (Cluster RCT) 顯示，導入 CDSS 能讓抗高血壓用藥淨增加超過 25.5%，並將降糖藥物的服藥順從性從 68.9% 大幅提升至 82.4% 。
+• CARRS 試驗：跨國研究指出，將 CDSS 連結電子健康紀錄 (EHR)，能使達成糖尿病照護目標的患者絕對增加 12% 。
+• 任務轉移 (Task shifting)：mPower Heart 計畫與 iTRAC 模型證明，CDSS 能輔助護理師或非醫師的醫療提供者進行管理，有效降低血糖與血壓 。
+
+對臨床實務的啟發與保守解讀
+對內分泌與糖尿病照護團隊而言，此模式最大的價值在於透過數位工具賦權整體團隊，實現任務轉移，進而減輕專科醫師負擔並提升整體公衛量能 。
+然而，在解讀成效時仍需留意幾項限制：講者提到 CARRS 試驗經過 6.5 年追蹤，發現 CDSS 介入組首次微血管事件發生率較低，但這屬於事後分析 (Post-hoc analysis) 的觀察結果，確切的長期大血管與微血管預後仍待大型前瞻性試驗確認 。此外，這類系統高度依賴國家與醫療機構端 EHR 系統的互通性與資訊基礎建設（如印度的 ABDM 數位任務），若缺乏底層系統支持，CDSS 在不同醫療體系中的可推廣性將面臨挑戰 。
+
+隨著糖尿病照護指引日趨複雜且強調個人化，在我們現有的電子病歷架構下，應如何無縫導入類似的臨床決策支援工具，使其真正輔助第一線診療，同時避免對臨床醫師造成過多的警示疲勞與行政負擔？
+
+來源：
+ ATTD 2026 lecture source Title: BENCHMARKING BETTER: USING TECHNOLOGY TO ALIGN PRACTICE WITH EVOLVING DIABETES CARE GUIDELINES
+, , , , , , , , , , , ,  benchmarking-better-using-technology-to-align-practice-with-evolving-diabetes-ca.md
+連結：https://tinyurl.com/25guqolp
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://tinyurl.com/25guqolp</description><content:encoded>ATTD 2026 演講重點：優化標竿—運用科技讓臨床實務接軌最新糖尿病照護指引&lt;br /&gt;
+&lt;br /&gt;
+本次 ATTD 2026 會議中，Amit Gupta 醫師針對全球糖尿病照護的執行落差，提出以科技為核心的系統性解決方案 。&lt;br /&gt;
+&lt;br /&gt;
+真正想處理的臨床問題：照護傳遞落差&lt;br /&gt;
+全球糖尿病負擔日益沉重，多數患者集中於醫療資源有限的中低收入國家 。目前的臨床困境在於「照護傳遞落差」：各國學會頻繁更新實證指引，但第一線基層醫療往往缺乏專科醫師支援，難以將這些指引落實於常規照護中 。此外，隨著多種降糖藥物機轉出現、個人化治療需求提升，再加上連續血糖監測 (CGM) 與自動胰島素傳遞系統 (AID) 的普及，更讓糖尿病與心血管代謝共病管理的複雜度大幅攀升 。&lt;br /&gt;
+&lt;br /&gt;
+關鍵訊息：以 CDSS 彌平知識到實務的落差&lt;br /&gt;
+講者強調，面對日益複雜的疾病管理，單靠傳統醫學繼續教育已顯不足 。未來的發展關鍵在於建構具備擴充性的解決方案，特別是將臨床決策支援系統 (Clinical Decision Support Systems, CDSS) 整合進常規臨床工作流程中 。透過系統提供即時的實證建議與標準化照護路徑，能減少因醫師時間緊迫或知識未即時更新而產生的照護落差 。&lt;br /&gt;
+&lt;br /&gt;
+文獻實證與證據層級&lt;br /&gt;
+演講中引用多項研究支持數位介入模型的潛力：&lt;br /&gt;
+• SIMcard 與 mWellCare 試驗：這兩項群集隨機試驗 (Cluster RCT) 顯示，導入 CDSS 能讓抗高血壓用藥淨增加超過 25.5%，並將降糖藥物的服藥順從性從 68.9% 大幅提升至 82.4% 。&lt;br /&gt;
+• CARRS 試驗：跨國研究指出，將 CDSS 連結電子健康紀錄 (EHR)，能使達成糖尿病照護目標的患者絕對增加 12% 。&lt;br /&gt;
+• 任務轉移 (Task shifting)：mPower Heart 計畫與 iTRAC 模型證明，CDSS 能輔助護理師或非醫師的醫療提供者進行管理，有效降低血糖與血壓 。&lt;br /&gt;
+&lt;br /&gt;
+對臨床實務的啟發與保守解讀&lt;br /&gt;
+對內分泌與糖尿病照護團隊而言，此模式最大的價值在於透過數位工具賦權整體團隊，實現任務轉移，進而減輕專科醫師負擔並提升整體公衛量能 。&lt;br /&gt;
+然而，在解讀成效時仍需留意幾項限制：講者提到 CARRS 試驗經過 6.5 年追蹤，發現 CDSS 介入組首次微血管事件發生率較低，但這屬於事後分析 (Post-hoc analysis) 的觀察結果，確切的長期大血管與微血管預後仍待大型前瞻性試驗確認 。此外，這類系統高度依賴國家與醫療機構端 EHR 系統的互通性與資訊基礎建設（如印度的 ABDM 數位任務），若缺乏底層系統支持，CDSS 在不同醫療體系中的可推廣性將面臨挑戰 。&lt;br /&gt;
+&lt;br /&gt;
+隨著糖尿病照護指引日趨複雜且強調個人化，在我們現有的電子病歷架構下，應如何無縫導入類似的臨床決策支援工具，使其真正輔助第一線診療，同時避免對臨床醫師造成過多的警示疲勞與行政負擔？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ ATTD 2026 lecture source Title: BENCHMARKING BETTER: USING TECHNOLOGY TO ALIGN PRACTICE WITH EVOLVING DIABETES CARE GUIDELINES&lt;br /&gt;
+, , , , , , , , , , , ,  benchmarking-better-using-technology-to-align-practice-with-evolving-diabetes-ca.md&lt;br /&gt;
+連結：https://tinyurl.com/25guqolp&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://tinyurl.com/25guqolp</content:encoded><pubDate>Thu, 21 May 2026 13:00:23 +0000</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-05-21-20260521-1220-attd2026-scientific_parallel-amit-gupta.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-05-21-20260521-1220-attd2026-scientific_parallel-amit-gupta.m4a" length="13776132" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>18:54</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-05-21-20260521-1220-attd2026-scientific_parallel-amit-gupta.jpg" /><link>https://tinyurl.com/25guqolp</link></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Mark Clements - CLOSED-LOOP, DECISION SUPPORT, AND ARTIFICIAL INTELLIGENCE</title><description>ATTD 2026 演講重點：閉環系統、決策支援與人工智慧在糖尿病照護的最新實證
 
 講者 Mark Clements 醫師於 ATTD 2026 全面回顧了自動胰島素輸送系統 (AID)、決策支援系統 (DSS) 與人工智慧 (AI) 在糖尿病管理的發展。近年相關技術的演進已從過去依賴方程式驅動 (如 PID、MPC)，正式邁向基於機器學習與 AI 的數據驅動控制。本次演講主要探討這些新興技術如何應用於第二型糖尿病 (T2D) 的門診與住院照護，並統整最新的臨床實證。
 

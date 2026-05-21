@@ -1,5 +1,24 @@
 [
   {
+    "id": "2026-05-21-20260521-1220-attd2026-scientific_parallel-amit-gupta",
+    "guid": "https://linebotaudio.zeabur.app/audio/2026-05-21-20260521-1220-attd2026-scientific_parallel-amit-gupta.m4a",
+    "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Amit Gupta - BENCHMARKING BETTER: USING TECHNOLOGY TO ALIGN PRACTICE WITH EVOLVING DIABETES CARE GUIDELINES",
+    "description": "ATTD 2026 演講重點：優化標竿—運用科技讓臨床實務接軌最新糖尿病照護指引\n\n本次 ATTD 2026 會議中，Amit Gupta 醫師針對全球糖尿病照護的執行落差，提出以科技為核心的系統性解決方案 。\n\n真正想處理的臨床問題：照護傳遞落差\n全球糖尿病負擔日益沉重，多數患者集中於醫療資源有限的中低收入國家 。目前的臨床困境在於「照護傳遞落差」：各國學會頻繁更新實證指引，但第一線基層醫療往往缺乏專科醫師支援，難以將這些指引落實於常規照護中 。此外，隨著多種降糖藥物機轉出現、個人化治療需求提升，再加上連續血糖監測 (CGM) 與自動胰島素傳遞系統 (AID) 的普及，更讓糖尿病與心血管代謝共病管理的複雜度大幅攀升 。\n\n關鍵訊息：以 CDSS 彌平知識到實務的落差\n講者強調，面對日益複雜的疾病管理，單靠傳統醫學繼續教育已顯不足 。未來的發展關鍵在於建構具備擴充性的解決方案，特別是將臨床決策支援系統 (Clinical Decision Support Systems, CDSS) 整合進常規臨床工作流程中 。透過系統提供即時的實證建議與標準化照護路徑，能減少因醫師時間緊迫或知識未即時更新而產生的照護落差 。\n\n文獻實證與證據層級\n演講中引用多項研究支持數位介入模型的潛力：\n• SIMcard 與 mWellCare 試驗：這兩項群集隨機試驗 (Cluster RCT) 顯示，導入 CDSS 能讓抗高血壓用藥淨增加超過 25.5%，並將降糖藥物的服藥順從性從 68.9% 大幅提升至 82.4% 。\n• CARRS 試驗：跨國研究指出，將 CDSS 連結電子健康紀錄 (EHR)，能使達成糖尿病照護目標的患者絕對增加 12% 。\n• 任務轉移 (Task shifting)：mPower Heart 計畫與 iTRAC 模型證明，CDSS 能輔助護理師或非醫師的醫療提供者進行管理，有效降低血糖與血壓 。\n\n對臨床實務的啟發與保守解讀\n對內分泌與糖尿病照護團隊而言，此模式最大的價值在於透過數位工具賦權整體團隊，實現任務轉移，進而減輕專科醫師負擔並提升整體公衛量能 。\n然而，在解讀成效時仍需留意幾項限制：講者提到 CARRS 試驗經過 6.5 年追蹤，發現 CDSS 介入組首次微血管事件發生率較低，但這屬於事後分析 (Post-hoc analysis) 的觀察結果，確切的長期大血管與微血管預後仍待大型前瞻性試驗確認 。此外，這類系統高度依賴國家與醫療機構端 EHR 系統的互通性與資訊基礎建設（如印度的 ABDM 數位任務），若缺乏底層系統支持，CDSS 在不同醫療體系中的可推廣性將面臨挑戰 。\n\n隨著糖尿病照護指引日趨複雜且強調個人化，在我們現有的電子病歷架構下，應如何無縫導入類似的臨床決策支援工具，使其真正輔助第一線診療，同時避免對臨床醫師造成過多的警示疲勞與行政負擔？\n\n來源：\n ATTD 2026 lecture source Title: BENCHMARKING BETTER: USING TECHNOLOGY TO ALIGN PRACTICE WITH EVOLVING DIABETES CARE GUIDELINES\n, , , , , , , , , , , ,  benchmarking-better-using-technology-to-align-practice-with-evolving-diabetes-ca.md\n連結：https://tinyurl.com/25guqolp\n\n本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。\n\n來源連結：https://tinyurl.com/25guqolp",
+    "pub_date": "2026-05-21T13:00:23+00:00",
+    "pub_date_rfc2822": "Thu, 21 May 2026 13:00:23 +0000",
+    "audio_url": "https://linebotaudio.zeabur.app/audio/2026-05-21-20260521-1220-attd2026-scientific_parallel-amit-gupta.m4a",
+    "audio_length": 13776132,
+    "audio_type": "audio/mp4",
+    "image_url": "https://linebotaudio.zeabur.app/image/2026-05-21-20260521-1220-attd2026-scientific_parallel-amit-gupta.jpg",
+    "podcast_image_url": "",
+    "duration": "18:54",
+    "source_url": "https://tinyurl.com/25guqolp",
+    "explicit": "false",
+    "language": "zh-TW",
+    "manifest": "/Users/ander/Documents/hermes-agent/diabetes-news-social-post/output/notebooklm/2026-05-21-20260521-1220-attd2026-scientific_parallel-amit-gupta.manifest.json",
+    "kind": "attd2026_professional_line_post"
+  },
+  {
     "id": "2026-05-21-20260521-0738-attd2026-plenary-mark-clements",
     "guid": "https://linebotaudio.zeabur.app/audio/2026-05-21-20260521-0738-attd2026-plenary-mark-clements.m4a",
     "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Mark Clements - CLOSED-LOOP, DECISION SUPPORT, AND ARTIFICIAL INTELLIGENCE",
