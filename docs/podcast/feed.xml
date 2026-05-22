@@ -1,5 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Fri, 22 May 2026 00:00:58 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Manoj Chawla - A DUOLOGUE ON CGM IN NON-REIMBURSABLE MARKETS</title><description>ATTD 2026 演講重點：非給付市場下的 CGM 策略與間歇性使用新典範
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Fri, 22 May 2026 00:15:29 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：David M. Maahs - DIABETES TECHNOLOGY AND THERAPY IN THE PEDIATRIC AGE GROUP</title><description>ATTD 2026 演講重點：小兒與青少年族群的糖尿病科技與治療進展
+
+各位臨床醫師與糖尿病照護團隊好，本次與大家分享 ATTD 2026 PL-YEARBOOK 議程中，由 David M. Maahs 醫師主講的兒童與青少年糖尿病科技應用回顧 。這場演講聚焦於一個核心臨床問題：在兒童與青少年族群確診第1型糖尿病後，早期導入連續式血糖監測與自動胰島素輸送系統等科技，對於長期血糖控制預後的實質效益與現況為何 。
+
+關鍵訊息與臨床實務啟發
+演講中引用了近期的重要觀察性與登錄資料研究，為早期科技介入提供了真實世界證據 。Zimmermann 等人發表於 2025 年《刺胳針糖尿病與內分泌學》的研究，匯集了包含 T1DX-QI、DPV 等 9 個全球主要第1型糖尿病登錄系統從 2013 至 2022 年的縱向數據 。結果顯示，隨著連續式血糖監測、胰島素幫浦與自動胰島素輸送系統使用率的提升，各國兒科族群的整體糖化血色素均呈現下降改善的趨勢，同時嚴重低血糖的發生率也隨之減少 。
+
+針對科技介入的時機點，Mann 等人 2025 年發表於《Diabetes Care》的一項多學科回顧性分析進一步確立了早期使用的重要性 。該研究分析了 4164 名 18 歲及以下的患者數據，發現在確診第1型糖尿病後不到 6 個月內即啟動連續式血糖監測的孩童，其 3 年後的糖化血色素中位數可穩定維持在 7.9% 。相較之下，完全不使用連續式血糖監測的患者，其糖化血色素則高達 9.5% 。對臨床實務的重要啟發是，醫療團隊必須積極在病患確診後儘早消除取得與使用連續式血糖監測的障礙，因為早期介入科技對長期血糖預後具有舉足輕重的影響 。
+
+需要保守解讀與臨床限制
+儘管糖尿病科技在兒科領域取得了實質進展，Maahs 醫師也特別提醒在解讀數據時需留意其限制 。上述重要發現多奠基於回顧性資料庫分析，在推論上仍有其觀察性研究的先天侷限 。此外，即便有這些科技輔助且整體指標呈現改善趨勢，目前全球兒科第1型糖尿病的控制水平，距離三十多年前 DCCT 試驗所設立的理想目標仍有未達標的落差 。
+
+在各國臨床指引紛紛強調確診早期即應導入連續式血糖監測的趨勢下，面對不同家庭支持度或抗拒穿戴裝置的青少年患者，臨床上應如何調整醫病溝通與衛教策略，以確保這些科技益處能克服數位與心理障礙並真正落實？
+
+資料來源：
+ ATTD 2026 lecture source Title: DIABETES TECHNOLOGY AND THERAPY IN THE PEDIATRIC AGE GROUP
+ 兒童及青少年族群的糖尿病科技與治療演講重點
+ 國際第 1 型糖尿病登錄資料與技術進展亮點
+ 9 個國際第 1 型糖尿病登錄系統縱向數據分析與限制
+ 早期啟動 CGM 對血糖預後的回顧性研究
+ 確診後及早消除 CGM 使用障礙之長期預後差異
+連結：https://tinyurl.com/ysyp2fsh
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://tinyurl.com/ysyp2fsh</description><content:encoded>ATTD 2026 演講重點：小兒與青少年族群的糖尿病科技與治療進展&lt;br /&gt;
+&lt;br /&gt;
+各位臨床醫師與糖尿病照護團隊好，本次與大家分享 ATTD 2026 PL-YEARBOOK 議程中，由 David M. Maahs 醫師主講的兒童與青少年糖尿病科技應用回顧 。這場演講聚焦於一個核心臨床問題：在兒童與青少年族群確診第1型糖尿病後，早期導入連續式血糖監測與自動胰島素輸送系統等科技，對於長期血糖控制預後的實質效益與現況為何 。&lt;br /&gt;
+&lt;br /&gt;
+關鍵訊息與臨床實務啟發&lt;br /&gt;
+演講中引用了近期的重要觀察性與登錄資料研究，為早期科技介入提供了真實世界證據 。Zimmermann 等人發表於 2025 年《刺胳針糖尿病與內分泌學》的研究，匯集了包含 T1DX-QI、DPV 等 9 個全球主要第1型糖尿病登錄系統從 2013 至 2022 年的縱向數據 。結果顯示，隨著連續式血糖監測、胰島素幫浦與自動胰島素輸送系統使用率的提升，各國兒科族群的整體糖化血色素均呈現下降改善的趨勢，同時嚴重低血糖的發生率也隨之減少 。&lt;br /&gt;
+&lt;br /&gt;
+針對科技介入的時機點，Mann 等人 2025 年發表於《Diabetes Care》的一項多學科回顧性分析進一步確立了早期使用的重要性 。該研究分析了 4164 名 18 歲及以下的患者數據，發現在確診第1型糖尿病後不到 6 個月內即啟動連續式血糖監測的孩童，其 3 年後的糖化血色素中位數可穩定維持在 7.9% 。相較之下，完全不使用連續式血糖監測的患者，其糖化血色素則高達 9.5% 。對臨床實務的重要啟發是，醫療團隊必須積極在病患確診後儘早消除取得與使用連續式血糖監測的障礙，因為早期介入科技對長期血糖預後具有舉足輕重的影響 。&lt;br /&gt;
+&lt;br /&gt;
+需要保守解讀與臨床限制&lt;br /&gt;
+儘管糖尿病科技在兒科領域取得了實質進展，Maahs 醫師也特別提醒在解讀數據時需留意其限制 。上述重要發現多奠基於回顧性資料庫分析，在推論上仍有其觀察性研究的先天侷限 。此外，即便有這些科技輔助且整體指標呈現改善趨勢，目前全球兒科第1型糖尿病的控制水平，距離三十多年前 DCCT 試驗所設立的理想目標仍有未達標的落差 。&lt;br /&gt;
+&lt;br /&gt;
+在各國臨床指引紛紛強調確診早期即應導入連續式血糖監測的趨勢下，面對不同家庭支持度或抗拒穿戴裝置的青少年患者，臨床上應如何調整醫病溝通與衛教策略，以確保這些科技益處能克服數位與心理障礙並真正落實？&lt;br /&gt;
+&lt;br /&gt;
+資料來源：&lt;br /&gt;
+ ATTD 2026 lecture source Title: DIABETES TECHNOLOGY AND THERAPY IN THE PEDIATRIC AGE GROUP&lt;br /&gt;
+ 兒童及青少年族群的糖尿病科技與治療演講重點&lt;br /&gt;
+ 國際第 1 型糖尿病登錄資料與技術進展亮點&lt;br /&gt;
+ 9 個國際第 1 型糖尿病登錄系統縱向數據分析與限制&lt;br /&gt;
+ 早期啟動 CGM 對血糖預後的回顧性研究&lt;br /&gt;
+ 確診後及早消除 CGM 使用障礙之長期預後差異&lt;br /&gt;
+連結：https://tinyurl.com/ysyp2fsh&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://tinyurl.com/ysyp2fsh</content:encoded><pubDate>Fri, 22 May 2026 08:00:56 +0000</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-05-22-20260522-0737-attd2026-plenary-david-m-maahs.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-05-22-20260522-0737-attd2026-plenary-david-m-maahs.m4a" length="12111041" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>16:36</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-05-22-20260522-0737-attd2026-plenary-david-m-maahs-podcast-cover.jpg" /><link>https://tinyurl.com/ysyp2fsh</link></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Manoj Chawla - A DUOLOGUE ON CGM IN NON-REIMBURSABLE MARKETS</title><description>ATTD 2026 演講重點：非給付市場下的 CGM 策略與間歇性使用新典範
 
 本次分享源自 Manoj Chawla 醫師於 ATTD 2026 的專題演講 (Session: PS32)。在多數由國家保險給付的醫療體系外，如同印度等高達 70% 糖尿病照護支出仰賴病患自費的「非給付市場」中，連續葡萄糖監測 (CGM) 的高昂經常性開銷成為推廣的最大阻礙 。本場演講的核心探討如何在經濟與基礎設施雙重受限的環境下，將 CGM 的臨床效益最大化，並提出「間歇性使用 CGM」作為第二型糖尿病照護的新典範 。
 
