@@ -1,5 +1,24 @@
 [
   {
+    "id": "2026-05-22-20260522-1220-attd2026-scientific_parallel-jothydev-kesavadev",
+    "guid": "https://linebotaudio.zeabur.app/audio/2026-05-22-20260522-1220-attd2026-scientific_parallel-jothydev-kesavadev.m4a",
+    "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Jothydev Kesavadev - ARTIFICIAL INTELLIGENCE (AI) IN DIABETES CARE: REAL-WORLD EMR INTEGRATION WITH DTMS AND FUTURE DIRECTIONS",
+    "description": "ATTD 2026 專業整理：糖尿病照護的混合智能—真實世界 EMR 與 AI 的深度整合\n\n本次分享聚焦於 ATTD 2026 第 PS32 場次，由印度糖尿病專家 Jothydev Kesavadev 醫師主講的 ARTIFICIAL INTELLIGENCE (AI) IN DIABETES CARE: REAL-WORLD EMR INTEGRATION WITH DTMS AND FUTURE DIRECTIONS 。\n\n臨床實務痛點與解方\n在糖尿病這類多系統、具時間依賴性的疾病中，醫師面臨高頻繁且多維度的數據衝擊，包含實驗室數值、連續血糖監測 (CGM)、多重用藥與行為改變等 。講者指出，臨床上常見的治療慣性 (Therapeutic inertia) 往往並非因為知識缺乏，而是肇因於人類大腦對龐雜數據模式的延遲辨識 (delayed pattern recognition) 與認知超載 。因此，將人工智慧 (AI) 整合入電子病歷 (EMR) 以提供訊號放大與時間維度風險偵測，已不再是可有可無的選項 。\n\n混合智能架構與核心模組\n演講提出混合智能 (Hybrid intelligence) 概念，讓 AI 負責處理機器擅長的大規模數據監控警戒、跨變數關聯分析與趨勢偵測，而醫師則掌握情境脈絡與最終的醫療決策權 。在系統設計上，AI 作為唯讀的臨床決策支援，不具備自主學習能力，以確保醫療法律的安全性 。\n\n該團隊的糖尿病遠距管理系統 (DTMS) 發展出六大 AI 模組，涵蓋自動化實驗室數據解讀、縱向趨勢分析、風險預測、多來源臨床摘要、群體分析與處方安全監控 。臨床實務上，AI 能將碎片化的跨領域資訊整合為具時間戳記的結構化摘要，使看診時間能從單純的資料收集，轉向更高價值的智慧決策 。\n\n臨床應用亮點\n1. 隱性風險偵測：AI 可藉由長期趨勢關聯，例如自動對比血紅素下降與 eGFR 降低的趨勢，主動提示潛在的慢性腎臟病相關貧血 ；在腫瘤標記監測上，亦能結合病患肥胖與發炎狀態，區分單次異常升高與持續性風險，減少不必要的專科轉診 。\n2. 用藥安全網：針對複雜的糖尿病處方，AI 可即時掃描同類藥物重複開立或禁忌症，例如自動攔截並警告 GLP-1 促效劑與 DPP-4 抑制劑的重複處方，發揮常規照護中的藥物安全監視作用 。\n3. 醫病溝通輔助：對於抗拒新科技的第一型糖尿病患者，系統能生成病患友善的語音，依據 ADA 等國際指引，向患者說明自動化胰島素遞送 (AID) 系統在改善目標範圍內時間 (TIR) 的實證效益，協助克服心理障礙 。\n\n實務反思與保守解讀\n雖然講者展示了長達 29 年的真實世界數位骨幹，並提及遠距醫療世代能顯著減少血管併發症 ，但這屬於長期觀察性的真實世界數據 (Real-World Data)，其成效是否能完全單獨歸功於 AI 介入，或是團隊密集的遠距衛教介入所致，仍待更嚴謹的前瞻性對照研究來驗證。此外，雖然 AI 提供直接面向患者的語音治療建議有助於醫病溝通，但在目前的醫療法規與實務下，這類應用的責任歸屬仍具潛在爭議性，需謹慎評估其適用情境與倫理考量 。\n\n隨著醫療 AI 模組逐漸具備跨維度的資料關聯能力，臨床團隊應如何重新設計門診工作流程，以在不增加警示疲勞 (alert fatigue) 的前提下，最大化這類「臨床記憶層」帶來的決策優勢？\n\n資料來源：\n ATTD 2026 Jothydev Kesavadev: ARTIFICIAL INTELLIGENCE (AI) IN DIABETES CARE: REAL-WORLD EMR INTEGRATION WITH DTMS AND FUTURE DIRECTIONS.\n, , , , , , , , , ,  artificial-intelligence-ai-in-diabetes-care-real-world-emr-integration-with-dtms.md\n連結：https://tinyurl.com/ynu37oxt\n\n本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。\n\n來源連結：https://tinyurl.com/ynu37oxt",
+    "pub_date": "2026-05-22T13:00:04+08:00",
+    "pub_date_rfc2822": "Fri, 22 May 2026 13:00:04 +0800",
+    "audio_url": "https://linebotaudio.zeabur.app/audio/2026-05-22-20260522-1220-attd2026-scientific_parallel-jothydev-kesavadev.m4a",
+    "audio_length": 14811702,
+    "audio_type": "audio/mp4",
+    "image_url": "https://linebotaudio.zeabur.app/image/2026-05-22-20260522-1220-attd2026-scientific_parallel-jothydev-kesavadev.jpg",
+    "podcast_image_url": "https://linebotaudio.zeabur.app/image/2026-05-22-20260522-1220-attd2026-scientific_parallel-jothydev-kesavadev-podcast-cover.jpg",
+    "duration": "20:17",
+    "source_url": "https://tinyurl.com/ynu37oxt",
+    "explicit": "false",
+    "language": "zh-TW",
+    "manifest": "/Users/ander/Documents/hermes-agent/diabetes-news-social-post/output/notebooklm/2026-05-22-20260522-1220-attd2026-scientific_parallel-jothydev-kesavadev.manifest.json",
+    "kind": "attd2026_professional_line_post"
+  },
+  {
     "id": "2026-05-22-20260522-0737-attd2026-plenary-david-m-maahs",
     "guid": "https://linebotaudio.zeabur.app/audio/2026-05-22-20260522-0737-attd2026-plenary-david-m-maahs.m4a",
     "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：David M. Maahs - DIABETES TECHNOLOGY AND THERAPY IN THE PEDIATRIC AGE GROUP",
