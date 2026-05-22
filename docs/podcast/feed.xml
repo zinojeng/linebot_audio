@@ -1,5 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Fri, 22 May 2026 09:39:40 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Jothydev Kesavadev - ARTIFICIAL INTELLIGENCE (AI) IN DIABETES CARE: REAL-WORLD EMR INTEGRATION WITH DTMS AND FUTURE DIRECTIONS</title><description>ATTD 2026 專業整理：糖尿病照護的混合智能—真實世界 EMR 與 AI 的深度整合
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Fri, 22 May 2026 10:02:08 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Thomas Danne - UNLOCKING INTERVENTIONAL T1D ENDOCRINOLOGY: THE BREAKTHROUGH T1D–ATTD COURSE</title><description>ATTD 2026 專業整理：解鎖介入性第一型糖尿病內分泌學的未來藍圖與 Breakthrough T1D 課程
+
+本次演講由小兒內分泌專家 Thomas Danne 主講，探討第一型糖尿病照護的典範轉移 。過去 T1D 的臨床管理多集中於胰島素依賴期的血糖控制，但臨床焦點正逐漸前移至在需要使用胰島素前及早介入 。這場演講勾勒了未來治療的光譜，並宣告了旨在建立預防與進階管理橋樑的 Breakthrough T1D 課程正式啟動 。
+
+演講重點與臨床啟發：
+
+第一型糖尿病患者的生命軌跡漫長，講者強調小兒科與成人內分泌學必須走向整合，採取全人照護的宏觀視角 。為落實此一理念，演講提出了貫穿 T1D 完整病程的新典範，涵蓋預防、疾病修飾、最佳化以及邁向治癒的四大治療層次 ：
+
+一、免疫攔截（第1至2階段）：探討內在型與疾病分期，應用 Teplizumab、ATG 等免疫調節藥物，並聚焦於胰島 B 細胞保存 。
+二、精準監測：涵蓋自體抗體、OGTT/MMTT 與生物標記，以及在第 2 階段與治療後應用連續型血糖監測追蹤進程 。
+三、進階管理（第3階段）：探討胰島素以外的輔助治療、酮體監測與 DKA 預防，以及 CGM 結合自動化胰島素給藥系統 。
+四、未來攔截與治癒策略：包含抗原特異性免疫療法、改變微生態、幹細胞、微膠囊化技術與胰島細胞療法等具潛力的發展方向 。
+
+臨床實務的挑戰與保守解讀：
+
+演講的核心願景是將免疫科學與真實世界臨床試驗計畫結合 。然而，建構「攔截診所」與「未來治癒策略診所」雖是本次培訓課程中模擬演練的重點 ，將這些前瞻概念轉化為常規醫療仍面臨現實挑戰。例如 Teplizumab 等早期介入藥物的臨床應用，以及幹細胞與微膠囊化技術，多數仍處於積極發展或等待更多真實世界長期數據驗證的階段 。臨床醫師在解讀這類早期攔截與治癒策略時，應認知到這些新療法從試驗環境走向普及化，仍需考量監測成本與醫療資源整合的限制。
+
+為推動此典範轉移，ATTD 推出了結合系列網路研討會與雙日實體密集演練的課程，主要針對處於早期職涯發展的內分泌醫師與照護團隊，期望培育新一代能落實介入性內分泌學的明日之星 。
+
+隨著第一型糖尿病進入分期管理與早期免疫介入的新紀元，我們的臨床團隊應如何重新建構跨年齡層的轉銜照護，以承接未來逐漸成真的早期攔截治療模式？
+
+資料來源：
+Thomas Danne. UNLOCKING INTERVENTIONAL T1D ENDOCRINOLOGY: THE BREAKTHROUGH T1D–ATTD COURSE. ATTD 2026, Session 132.
+連結：https://tinyurl.com/ymmmx32d
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://tinyurl.com/ymmmx32d</description><content:encoded>ATTD 2026 專業整理：解鎖介入性第一型糖尿病內分泌學的未來藍圖與 Breakthrough T1D 課程&lt;br /&gt;
+&lt;br /&gt;
+本次演講由小兒內分泌專家 Thomas Danne 主講，探討第一型糖尿病照護的典範轉移 。過去 T1D 的臨床管理多集中於胰島素依賴期的血糖控制，但臨床焦點正逐漸前移至在需要使用胰島素前及早介入 。這場演講勾勒了未來治療的光譜，並宣告了旨在建立預防與進階管理橋樑的 Breakthrough T1D 課程正式啟動 。&lt;br /&gt;
+&lt;br /&gt;
+演講重點與臨床啟發：&lt;br /&gt;
+&lt;br /&gt;
+第一型糖尿病患者的生命軌跡漫長，講者強調小兒科與成人內分泌學必須走向整合，採取全人照護的宏觀視角 。為落實此一理念，演講提出了貫穿 T1D 完整病程的新典範，涵蓋預防、疾病修飾、最佳化以及邁向治癒的四大治療層次 ：&lt;br /&gt;
+&lt;br /&gt;
+一、免疫攔截（第1至2階段）：探討內在型與疾病分期，應用 Teplizumab、ATG 等免疫調節藥物，並聚焦於胰島 B 細胞保存 。&lt;br /&gt;
+二、精準監測：涵蓋自體抗體、OGTT/MMTT 與生物標記，以及在第 2 階段與治療後應用連續型血糖監測追蹤進程 。&lt;br /&gt;
+三、進階管理（第3階段）：探討胰島素以外的輔助治療、酮體監測與 DKA 預防，以及 CGM 結合自動化胰島素給藥系統 。&lt;br /&gt;
+四、未來攔截與治癒策略：包含抗原特異性免疫療法、改變微生態、幹細胞、微膠囊化技術與胰島細胞療法等具潛力的發展方向 。&lt;br /&gt;
+&lt;br /&gt;
+臨床實務的挑戰與保守解讀：&lt;br /&gt;
+&lt;br /&gt;
+演講的核心願景是將免疫科學與真實世界臨床試驗計畫結合 。然而，建構「攔截診所」與「未來治癒策略診所」雖是本次培訓課程中模擬演練的重點 ，將這些前瞻概念轉化為常規醫療仍面臨現實挑戰。例如 Teplizumab 等早期介入藥物的臨床應用，以及幹細胞與微膠囊化技術，多數仍處於積極發展或等待更多真實世界長期數據驗證的階段 。臨床醫師在解讀這類早期攔截與治癒策略時，應認知到這些新療法從試驗環境走向普及化，仍需考量監測成本與醫療資源整合的限制。&lt;br /&gt;
+&lt;br /&gt;
+為推動此典範轉移，ATTD 推出了結合系列網路研討會與雙日實體密集演練的課程，主要針對處於早期職涯發展的內分泌醫師與照護團隊，期望培育新一代能落實介入性內分泌學的明日之星 。&lt;br /&gt;
+&lt;br /&gt;
+隨著第一型糖尿病進入分期管理與早期免疫介入的新紀元，我們的臨床團隊應如何重新建構跨年齡層的轉銜照護，以承接未來逐漸成真的早期攔截治療模式？&lt;br /&gt;
+&lt;br /&gt;
+資料來源：&lt;br /&gt;
+Thomas Danne. UNLOCKING INTERVENTIONAL T1D ENDOCRINOLOGY: THE BREAKTHROUGH T1D–ATTD COURSE. ATTD 2026, Session 132.&lt;br /&gt;
+連結：https://tinyurl.com/ymmmx32d&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://tinyurl.com/ymmmx32d</content:encoded><pubDate>Fri, 22 May 2026 18:00:39 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-05-22-20260522-1720-attd2026-symposium-thomas-danne.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-05-22-20260522-1720-attd2026-symposium-thomas-danne.m4a" length="9580287" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>13:08</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-05-22-20260522-1720-attd2026-symposium-thomas-danne-podcast-cover.jpg" /><link>https://tinyurl.com/ymmmx32d</link></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Jothydev Kesavadev - ARTIFICIAL INTELLIGENCE (AI) IN DIABETES CARE: REAL-WORLD EMR INTEGRATION WITH DTMS AND FUTURE DIRECTIONS</title><description>ATTD 2026 專業整理：糖尿病照護的混合智能—真實世界 EMR 與 AI 的深度整合
 
 本次分享聚焦於 ATTD 2026 第 PS32 場次，由印度糖尿病專家 Jothydev Kesavadev 醫師主講的 ARTIFICIAL INTELLIGENCE (AI) IN DIABETES CARE: REAL-WORLD EMR INTEGRATION WITH DTMS AND FUTURE DIRECTIONS 。
 

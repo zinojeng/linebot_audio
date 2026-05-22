@@ -1,5 +1,24 @@
 [
   {
+    "id": "2026-05-22-20260522-1720-attd2026-symposium-thomas-danne",
+    "guid": "https://linebotaudio.zeabur.app/audio/2026-05-22-20260522-1720-attd2026-symposium-thomas-danne.m4a",
+    "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Thomas Danne - UNLOCKING INTERVENTIONAL T1D ENDOCRINOLOGY: THE BREAKTHROUGH T1D–ATTD COURSE",
+    "description": "ATTD 2026 專業整理：解鎖介入性第一型糖尿病內分泌學的未來藍圖與 Breakthrough T1D 課程\n\n本次演講由小兒內分泌專家 Thomas Danne 主講，探討第一型糖尿病照護的典範轉移 。過去 T1D 的臨床管理多集中於胰島素依賴期的血糖控制，但臨床焦點正逐漸前移至在需要使用胰島素前及早介入 。這場演講勾勒了未來治療的光譜，並宣告了旨在建立預防與進階管理橋樑的 Breakthrough T1D 課程正式啟動 。\n\n演講重點與臨床啟發：\n\n第一型糖尿病患者的生命軌跡漫長，講者強調小兒科與成人內分泌學必須走向整合，採取全人照護的宏觀視角 。為落實此一理念，演講提出了貫穿 T1D 完整病程的新典範，涵蓋預防、疾病修飾、最佳化以及邁向治癒的四大治療層次 ：\n\n一、免疫攔截（第1至2階段）：探討內在型與疾病分期，應用 Teplizumab、ATG 等免疫調節藥物，並聚焦於胰島 B 細胞保存 。\n二、精準監測：涵蓋自體抗體、OGTT/MMTT 與生物標記，以及在第 2 階段與治療後應用連續型血糖監測追蹤進程 。\n三、進階管理（第3階段）：探討胰島素以外的輔助治療、酮體監測與 DKA 預防，以及 CGM 結合自動化胰島素給藥系統 。\n四、未來攔截與治癒策略：包含抗原特異性免疫療法、改變微生態、幹細胞、微膠囊化技術與胰島細胞療法等具潛力的發展方向 。\n\n臨床實務的挑戰與保守解讀：\n\n演講的核心願景是將免疫科學與真實世界臨床試驗計畫結合 。然而，建構「攔截診所」與「未來治癒策略診所」雖是本次培訓課程中模擬演練的重點 ，將這些前瞻概念轉化為常規醫療仍面臨現實挑戰。例如 Teplizumab 等早期介入藥物的臨床應用，以及幹細胞與微膠囊化技術，多數仍處於積極發展或等待更多真實世界長期數據驗證的階段 。臨床醫師在解讀這類早期攔截與治癒策略時，應認知到這些新療法從試驗環境走向普及化，仍需考量監測成本與醫療資源整合的限制。\n\n為推動此典範轉移，ATTD 推出了結合系列網路研討會與雙日實體密集演練的課程，主要針對處於早期職涯發展的內分泌醫師與照護團隊，期望培育新一代能落實介入性內分泌學的明日之星 。\n\n隨著第一型糖尿病進入分期管理與早期免疫介入的新紀元，我們的臨床團隊應如何重新建構跨年齡層的轉銜照護，以承接未來逐漸成真的早期攔截治療模式？\n\n資料來源：\nThomas Danne. UNLOCKING INTERVENTIONAL T1D ENDOCRINOLOGY: THE BREAKTHROUGH T1D–ATTD COURSE. ATTD 2026, Session 132.\n連結：https://tinyurl.com/ymmmx32d\n\n本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。\n\n來源連結：https://tinyurl.com/ymmmx32d",
+    "pub_date": "2026-05-22T18:00:39+08:00",
+    "pub_date_rfc2822": "Fri, 22 May 2026 18:00:39 +0800",
+    "audio_url": "https://linebotaudio.zeabur.app/audio/2026-05-22-20260522-1720-attd2026-symposium-thomas-danne.m4a",
+    "audio_length": 9580287,
+    "audio_type": "audio/mp4",
+    "image_url": "https://linebotaudio.zeabur.app/image/2026-05-22-20260522-1720-attd2026-symposium-thomas-danne.jpg",
+    "podcast_image_url": "https://linebotaudio.zeabur.app/image/2026-05-22-20260522-1720-attd2026-symposium-thomas-danne-podcast-cover.jpg",
+    "duration": "13:08",
+    "source_url": "https://tinyurl.com/ymmmx32d",
+    "explicit": "false",
+    "language": "zh-TW",
+    "manifest": "/Users/ander/Documents/hermes-agent/diabetes-news-social-post/output/notebooklm/2026-05-22-20260522-1720-attd2026-symposium-thomas-danne.manifest.json",
+    "kind": "attd2026_professional_line_post"
+  },
+  {
     "id": "2026-05-22-20260522-1220-attd2026-scientific_parallel-jothydev-kesavadev",
     "guid": "https://linebotaudio.zeabur.app/audio/2026-05-22-20260522-1220-attd2026-scientific_parallel-jothydev-kesavadev.m4a",
     "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Jothydev Kesavadev - ARTIFICIAL INTELLIGENCE (AI) IN DIABETES CARE: REAL-WORLD EMR INTEGRATION WITH DTMS AND FUTURE DIRECTIONS",
