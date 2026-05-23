@@ -1,5 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Fri, 22 May 2026 23:46:23 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Thomas Danne - UNLOCKING INTERVENTIONAL T1D ENDOCRINOLOGY: THE BREAKTHROUGH T1D–ATTD COURSE</title><description>ATTD 2026 專業整理：解鎖介入性第一型糖尿病內分泌學的未來藍圖與 Breakthrough T1D 課程
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Sat, 23 May 2026 00:01:08 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Satish K. Garg - EMERGING TRENDS IN MASLD AND MASH</title><description>ATTD 2026 演講重點：Satish K. Garg 教授解析代謝疾病新趨勢與糖尿病照護進展
+
+本場由 Satish K. Garg 教授主講的 PL-YEARBOOK 專題演講，主要聚焦於糖尿病前期的重新定義、GLP-1 類似物在第一型糖尿病的擴展應用，以及虛擬照護與新型抗肥胖藥物對內分泌臨床實務的影響。雖然原定標題涵蓋 MASLD 與 MASH 的新興趨勢，但講者將核心觀點精準切入更上游的代謝與肥胖介入，探討如何從根本上改變糖尿病與代謝異常的病程。
+
+臨床問題與關鍵訊息
+首先，針對第二型糖尿病的預防，演講提出了一個重要的典範轉移：臨床醫學界應考慮捨棄「糖尿病前期」(Prediabetes) 這個較為模糊的術語，轉而採用「疾病分期」(Staging) 的概念。講者強調，醫療團隊的目標應是積極預防患者從第二期進展到第三期的第二型糖尿病。基於 SELECT 試驗與 SURMOUNT 試驗的臨床證據，證實了透過介入來阻斷病程惡化為第二型糖尿病不僅可能，而且具備高度可行性。
+
+其次，在第一型糖尿病合併肥胖的治療困境上，GLP-1 類似物展現了實質的輔助治療潛力。演講引用了 2025 年發表於《NEJM Evid》的「司美格魯肽治療第一型糖尿病與肥胖成人」研究，以及 ADJUST T1D 試驗的相關數據，點出新型藥物在輔助自動化胰島素給藥、改善血糖控制與潛在心血管結果方面的臨床價值。
+
+此外，演講也統整了虛擬照護在糖尿病管理中的定位。從近年的文獻回顧可知，虛擬照護已從疫情期間的應急措施轉變為常規照護模式，因其能大幅減少患者的就醫障礙，未來將持續在慢性病長期追蹤中扮演關鍵角色。會中同時也預告了每週一次新型 GLP-1 類似物在肥胖治療領域的持續發展。
+
+對內分泌臨床實務的啟發與限制解讀
+將「糖尿病前期」改為「疾病分期」，有助於臨床醫師與照護團隊更積極地在早期階段導入代謝與體重管理策略。然而，在實務應用與文獻解讀上仍需注意以下限制：
+第一，儘管大型 RCT (如 SELECT 與 SURMOUNT 試驗) 數據亮眼，但目前針對「預防」第二型糖尿病的藥物適應症，仍亟需建立明確的法規與藥物核准途徑，這反映了文獻證據與現行監管核准之間的落差，實務上仍需考量適應症與給付規範。
+第二，針對 GLP-1 RA 用於第一型糖尿病，雖然現有試驗顯示其具備療效，但作為常規的輔助治療，其實際應用的心血管長期獲益與潛在風險（如腸胃道副作用、劑量調整等）仍有待更多臨床指引的細部規範，建議以現有共識為基礎進行個別化評估。
+
+當我們準備將代謝異常與第二型糖尿病的防線推向更早期的「疾病分期」介入時，醫療體系與法規監管端應如何建立相應的核准途徑與照護指引，以確保這類新型抗肥胖藥物能安全且廣泛地惠及高風險患者？
+
+資料來源：
+emerging-trends-in-masld-and-mash.md , , , ,
+連結：https://tinyurl.com/24d64sm6
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://tinyurl.com/24d64sm6</description><content:encoded>ATTD 2026 演講重點：Satish K. Garg 教授解析代謝疾病新趨勢與糖尿病照護進展&lt;br /&gt;
+&lt;br /&gt;
+本場由 Satish K. Garg 教授主講的 PL-YEARBOOK 專題演講，主要聚焦於糖尿病前期的重新定義、GLP-1 類似物在第一型糖尿病的擴展應用，以及虛擬照護與新型抗肥胖藥物對內分泌臨床實務的影響。雖然原定標題涵蓋 MASLD 與 MASH 的新興趨勢，但講者將核心觀點精準切入更上游的代謝與肥胖介入，探討如何從根本上改變糖尿病與代謝異常的病程。&lt;br /&gt;
+&lt;br /&gt;
+臨床問題與關鍵訊息&lt;br /&gt;
+首先，針對第二型糖尿病的預防，演講提出了一個重要的典範轉移：臨床醫學界應考慮捨棄「糖尿病前期」(Prediabetes) 這個較為模糊的術語，轉而採用「疾病分期」(Staging) 的概念。講者強調，醫療團隊的目標應是積極預防患者從第二期進展到第三期的第二型糖尿病。基於 SELECT 試驗與 SURMOUNT 試驗的臨床證據，證實了透過介入來阻斷病程惡化為第二型糖尿病不僅可能，而且具備高度可行性。&lt;br /&gt;
+&lt;br /&gt;
+其次，在第一型糖尿病合併肥胖的治療困境上，GLP-1 類似物展現了實質的輔助治療潛力。演講引用了 2025 年發表於《NEJM Evid》的「司美格魯肽治療第一型糖尿病與肥胖成人」研究，以及 ADJUST T1D 試驗的相關數據，點出新型藥物在輔助自動化胰島素給藥、改善血糖控制與潛在心血管結果方面的臨床價值。&lt;br /&gt;
+&lt;br /&gt;
+此外，演講也統整了虛擬照護在糖尿病管理中的定位。從近年的文獻回顧可知，虛擬照護已從疫情期間的應急措施轉變為常規照護模式，因其能大幅減少患者的就醫障礙，未來將持續在慢性病長期追蹤中扮演關鍵角色。會中同時也預告了每週一次新型 GLP-1 類似物在肥胖治療領域的持續發展。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的啟發與限制解讀&lt;br /&gt;
+將「糖尿病前期」改為「疾病分期」，有助於臨床醫師與照護團隊更積極地在早期階段導入代謝與體重管理策略。然而，在實務應用與文獻解讀上仍需注意以下限制：&lt;br /&gt;
+第一，儘管大型 RCT (如 SELECT 與 SURMOUNT 試驗) 數據亮眼，但目前針對「預防」第二型糖尿病的藥物適應症，仍亟需建立明確的法規與藥物核准途徑，這反映了文獻證據與現行監管核准之間的落差，實務上仍需考量適應症與給付規範。&lt;br /&gt;
+第二，針對 GLP-1 RA 用於第一型糖尿病，雖然現有試驗顯示其具備療效，但作為常規的輔助治療，其實際應用的心血管長期獲益與潛在風險（如腸胃道副作用、劑量調整等）仍有待更多臨床指引的細部規範，建議以現有共識為基礎進行個別化評估。&lt;br /&gt;
+&lt;br /&gt;
+當我們準備將代謝異常與第二型糖尿病的防線推向更早期的「疾病分期」介入時，醫療體系與法規監管端應如何建立相應的核准途徑與照護指引，以確保這類新型抗肥胖藥物能安全且廣泛地惠及高風險患者？&lt;br /&gt;
+&lt;br /&gt;
+資料來源：&lt;br /&gt;
+emerging-trends-in-masld-and-mash.md , , , ,&lt;br /&gt;
+連結：https://tinyurl.com/24d64sm6&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://tinyurl.com/24d64sm6</content:encoded><pubDate>Sat, 23 May 2026 08:00:09 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-05-23-20260523-0730-attd2026-plenary-satish-k-garg.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-05-23-20260523-0730-attd2026-plenary-satish-k-garg.m4a" length="10829630" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>14:50</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-05-23-20260523-0730-attd2026-plenary-satish-k-garg-podcast-cover.jpg" /><link>https://tinyurl.com/24d64sm6</link></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Thomas Danne - UNLOCKING INTERVENTIONAL T1D ENDOCRINOLOGY: THE BREAKTHROUGH T1D–ATTD COURSE</title><description>ATTD 2026 專業整理：解鎖介入性第一型糖尿病內分泌學的未來藍圖與 Breakthrough T1D 課程
 
 本次演講由小兒內分泌專家 Thomas Danne 主講，探討第一型糖尿病照護的典範轉移 。過去 T1D 的臨床管理多集中於胰島素依賴期的血糖控制，但臨床焦點正逐漸前移至在需要使用胰島素前及早介入 。這場演講勾勒了未來治療的光譜，並宣告了旨在建立預防與進階管理橋樑的 Breakthrough T1D 課程正式啟動 。
 
