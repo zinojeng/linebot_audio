@@ -1,5 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Sat, 23 May 2026 04:36:45 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Satish K. Garg - EMERGING TRENDS IN MASLD AND MASH</title><description>ATTD 2026 演講重點：Satish K. Garg 教授解析代謝疾病新趨勢與糖尿病照護進展
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Sat, 23 May 2026 05:01:46 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Tadej Battelino - CONCLUSIONS</title><description>ATTD 2026 專業整理：介入性內分泌學的新興培訓概念與臨床實務展望
+
+本場大會總結環節探討了未來內分泌科醫師的專業培訓藍圖，特別聚焦於「介入性內分泌科醫師」的發展，以及如何改善第一型糖尿病照護中的醫病關係[1-3]。
+
+目前臨床實務上正面臨兩大挑戰：首先，隨著植入式連續血糖感測器或甲狀腺微波與射頻燒灼等介入性技術的普及，具備相關操作能力的介入性糖尿病專家與內分泌科醫師出現短缺。其次，在第一型糖尿病的長期照護中，患者與醫療照護團隊之間常存在溝通不佳或關係緊張的實務困境。
+
+為因應上述挑戰，會中討論了一項針對年輕醫師的「明日之星」培訓計畫，並帶來幾項關鍵的實務啟發：
+
+落實高互動性的醫學教育。為確保學習品質與密切交流，該計畫初期採小班制運行，將人數妥協控制在三十人左右，以避免流於失去互動意義的大型講座。
+
+將患者真實經歷融入專業訓練。有鑑於過往病患可能產生對特定醫師反感的負面就醫經驗，新一代的培訓將直接邀請真實經歷糖尿病的患者參與課程。透過持續且直接的對話，協助年輕醫師學習如何建立更具同理心的溝通模式，以實質改善醫病關係。
+
+確立「介入性內分泌科醫師」的專業定位。從介入性糖尿病專家到介入性內分泌科醫師的稱呼轉換，反映了次專科技術在臨床應用上的廣泛性與必要性。專家指出，為了吸引更多年輕醫師投入此領域，未來課程將保持彈性，可能依據糖尿病專家與內分泌科醫師的不同臨床需求，提供雙軌制的培訓軌道。
+
+在臨床解讀上需要保留的是，目前這項培訓計畫與「介入性內分泌科醫師」的專業軌道，仍屬於學界前瞻性的觀察與概念倡議階段。其確切的課程分流機制、對整體醫療人力短缺的實際挹注程度，均尚待計畫於未來正式運行後的長期觀察與驗證，目前亦非基於隨機對照試驗的臨床療效探討。
+
+隨著介入性技術在內分泌領域的比重日益增加，我們在現有的專科醫師訓練架構中，應如何更系統化地整合這類硬體技術操作與軟性醫病溝通能力的雙重評核？
+
+資料來源：
+, , ,  conclusions.md
+連結：https://tinyurl.com/23d8oeky
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://tinyurl.com/23d8oeky</description><content:encoded>ATTD 2026 專業整理：介入性內分泌學的新興培訓概念與臨床實務展望&lt;br /&gt;
+&lt;br /&gt;
+本場大會總結環節探討了未來內分泌科醫師的專業培訓藍圖，特別聚焦於「介入性內分泌科醫師」的發展，以及如何改善第一型糖尿病照護中的醫病關係[1-3]。&lt;br /&gt;
+&lt;br /&gt;
+目前臨床實務上正面臨兩大挑戰：首先，隨著植入式連續血糖感測器或甲狀腺微波與射頻燒灼等介入性技術的普及，具備相關操作能力的介入性糖尿病專家與內分泌科醫師出現短缺。其次，在第一型糖尿病的長期照護中，患者與醫療照護團隊之間常存在溝通不佳或關係緊張的實務困境。&lt;br /&gt;
+&lt;br /&gt;
+為因應上述挑戰，會中討論了一項針對年輕醫師的「明日之星」培訓計畫，並帶來幾項關鍵的實務啟發：&lt;br /&gt;
+&lt;br /&gt;
+落實高互動性的醫學教育。為確保學習品質與密切交流，該計畫初期採小班制運行，將人數妥協控制在三十人左右，以避免流於失去互動意義的大型講座。&lt;br /&gt;
+&lt;br /&gt;
+將患者真實經歷融入專業訓練。有鑑於過往病患可能產生對特定醫師反感的負面就醫經驗，新一代的培訓將直接邀請真實經歷糖尿病的患者參與課程。透過持續且直接的對話，協助年輕醫師學習如何建立更具同理心的溝通模式，以實質改善醫病關係。&lt;br /&gt;
+&lt;br /&gt;
+確立「介入性內分泌科醫師」的專業定位。從介入性糖尿病專家到介入性內分泌科醫師的稱呼轉換，反映了次專科技術在臨床應用上的廣泛性與必要性。專家指出，為了吸引更多年輕醫師投入此領域，未來課程將保持彈性，可能依據糖尿病專家與內分泌科醫師的不同臨床需求，提供雙軌制的培訓軌道。&lt;br /&gt;
+&lt;br /&gt;
+在臨床解讀上需要保留的是，目前這項培訓計畫與「介入性內分泌科醫師」的專業軌道，仍屬於學界前瞻性的觀察與概念倡議階段。其確切的課程分流機制、對整體醫療人力短缺的實際挹注程度，均尚待計畫於未來正式運行後的長期觀察與驗證，目前亦非基於隨機對照試驗的臨床療效探討。&lt;br /&gt;
+&lt;br /&gt;
+隨著介入性技術在內分泌領域的比重日益增加，我們在現有的專科醫師訓練架構中，應如何更系統化地整合這類硬體技術操作與軟性醫病溝通能力的雙重評核？&lt;br /&gt;
+&lt;br /&gt;
+資料來源：&lt;br /&gt;
+, , ,  conclusions.md&lt;br /&gt;
+連結：https://tinyurl.com/23d8oeky&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://tinyurl.com/23d8oeky</content:encoded><pubDate>Sat, 23 May 2026 13:00:29 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-05-23-20260523-1220-attd2026-scientific_parallel-tadej-battelino.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-05-23-20260523-1220-attd2026-scientific_parallel-tadej-battelino.m4a" length="11838459" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>16:13</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-05-23-20260523-1220-attd2026-scientific_parallel-tadej-battelino-podcast-cover.jpg" /><link>https://tinyurl.com/23d8oeky</link></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Satish K. Garg - EMERGING TRENDS IN MASLD AND MASH</title><description>ATTD 2026 演講重點：Satish K. Garg 教授解析代謝疾病新趨勢與糖尿病照護進展
 
 本場由 Satish K. Garg 教授主講的 PL-YEARBOOK 專題演講，主要聚焦於糖尿病前期的重新定義、GLP-1 類似物在第一型糖尿病的擴展應用，以及虛擬照護與新型抗肥胖藥物對內分泌臨床實務的影響。雖然原定標題涵蓋 MASLD 與 MASH 的新興趨勢，但講者將核心觀點精準切入更上游的代謝與肥胖介入，探討如何從根本上改變糖尿病與代謝異常的病程。
 
