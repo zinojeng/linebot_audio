@@ -1,5 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Sat, 23 May 2026 23:42:54 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Michael J. Haller - SCREENING PROGRAMS FOR TYPE 1 DIABETES IN THE US: FROM RESEARCH TO STANDARD OF CARE</title><description>ATTD 2026 演講重點：美國第一型糖尿病篩檢計畫—從臨床研究邁向標準照護
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Sun, 24 May 2026 00:01:38 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Desmond Schatz - IMMUNE INTERVENTION AND BETA CELL REPLACEMENT THERAPIES IN TYPE 1 DIABETES</title><description>ATTD 2026 演講重點：第 1 型糖尿病的免疫介入與 β 細胞替代療法新進展
+
+講者 Desmond Schatz 在 ATTD 2026 的 PL-YEARBOOK 議程中，彙整回顧了 2024 年中至 2025 年中關於第 1 型糖尿病免疫介入與修復性療法的頂尖文獻 。這場演講試圖突破過去僅從單一免疫視角看待疾病修飾療法的框架，進一步探討這類藥物如何實質影響體內的代謝動力學 。
+
+長久以來，針對第 2 階段第 1 型糖尿病的免疫介入療法如 Teplizumab，其臨床機轉普遍被認為純粹是透過免疫調節發揮作用 。然而，Schatz 醫師引述了來自 TrialNet-10 (TN10) 預防性臨床試驗的最新分析 (Galderisi et al. Diabetologia 2025) 。該研究導入了非侵入性的口服最小模型來模擬進食刺激後的葡萄糖與胰島素動態，藉此評估 β 細胞功能軌跡與胰島素清除率 。分析結果顯示，相較於安慰劑組，接受 Teplizumab 治療的患者不僅在隨機分組後的 3、6、12 個月皆展現出顯著增加的總胰島素分泌量，更在第 3 與 6 個月時觀察到顯著的胰島素清除率下降 。
+
+這項發現對內分泌臨床實務帶來了重要啟發，提示 Teplizumab 的療效不僅止於免疫系統的干預，更同時對代謝動力學產生顯著的正面效應 。透過降低胰島素清除率，可能有助於在發病早期更有效地維持體內胰島素濃度的動態平衡 。這意味著未來在評估第 1 型糖尿病疾病修飾藥物的潛力時，不能只看免疫指標，也必須將整體的胰島素分泌與清除平衡納入評估範疇。
+
+儘管上述發現擴展了我們對免疫介入藥物多效性機轉的認知，但在臨床解讀上仍須保持保守。目前的代謝指標變化主要來自於特定 RCT 預防性試驗結合數學微分方程式模型的推導，且演講中亦提及在快速進展者與緩慢進展者之間存在疾病軌跡的差異 。這類動力學指標的改變是否能完全解釋延緩發病的機轉，以及是否能精準對應到長期真實世界的臨床獲益，仍有待後續更大規模的觀察與驗證。
+
+隨著免疫藥物展現出超越免疫調節的代謝效應，未來在設計第 1 型糖尿病的早期介入與監測策略時，我們是否應將胰島素清除率等動態代謝指標常規納入，以作為個人化臨床決策或預後評估的重要依據？
+
+資料來源：
+ ATTD 2026 演講稿：Desmond Schatz - IMMUNE INTERVENTION AND BETA CELL REPLACEMENT THERAPIES IN TYPE 1 DIABETES
+連結：https://tinyurl.com/29hpuzsk
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://tinyurl.com/29hpuzsk</description><content:encoded>ATTD 2026 演講重點：第 1 型糖尿病的免疫介入與 β 細胞替代療法新進展&lt;br /&gt;
+&lt;br /&gt;
+講者 Desmond Schatz 在 ATTD 2026 的 PL-YEARBOOK 議程中，彙整回顧了 2024 年中至 2025 年中關於第 1 型糖尿病免疫介入與修復性療法的頂尖文獻 。這場演講試圖突破過去僅從單一免疫視角看待疾病修飾療法的框架，進一步探討這類藥物如何實質影響體內的代謝動力學 。&lt;br /&gt;
+&lt;br /&gt;
+長久以來，針對第 2 階段第 1 型糖尿病的免疫介入療法如 Teplizumab，其臨床機轉普遍被認為純粹是透過免疫調節發揮作用 。然而，Schatz 醫師引述了來自 TrialNet-10 (TN10) 預防性臨床試驗的最新分析 (Galderisi et al. Diabetologia 2025) 。該研究導入了非侵入性的口服最小模型來模擬進食刺激後的葡萄糖與胰島素動態，藉此評估 β 細胞功能軌跡與胰島素清除率 。分析結果顯示，相較於安慰劑組，接受 Teplizumab 治療的患者不僅在隨機分組後的 3、6、12 個月皆展現出顯著增加的總胰島素分泌量，更在第 3 與 6 個月時觀察到顯著的胰島素清除率下降 。&lt;br /&gt;
+&lt;br /&gt;
+這項發現對內分泌臨床實務帶來了重要啟發，提示 Teplizumab 的療效不僅止於免疫系統的干預，更同時對代謝動力學產生顯著的正面效應 。透過降低胰島素清除率，可能有助於在發病早期更有效地維持體內胰島素濃度的動態平衡 。這意味著未來在評估第 1 型糖尿病疾病修飾藥物的潛力時，不能只看免疫指標，也必須將整體的胰島素分泌與清除平衡納入評估範疇。&lt;br /&gt;
+&lt;br /&gt;
+儘管上述發現擴展了我們對免疫介入藥物多效性機轉的認知，但在臨床解讀上仍須保持保守。目前的代謝指標變化主要來自於特定 RCT 預防性試驗結合數學微分方程式模型的推導，且演講中亦提及在快速進展者與緩慢進展者之間存在疾病軌跡的差異 。這類動力學指標的改變是否能完全解釋延緩發病的機轉，以及是否能精準對應到長期真實世界的臨床獲益，仍有待後續更大規模的觀察與驗證。&lt;br /&gt;
+&lt;br /&gt;
+隨著免疫藥物展現出超越免疫調節的代謝效應，未來在設計第 1 型糖尿病的早期介入與監測策略時，我們是否應將胰島素清除率等動態代謝指標常規納入，以作為個人化臨床決策或預後評估的重要依據？&lt;br /&gt;
+&lt;br /&gt;
+資料來源：&lt;br /&gt;
+ ATTD 2026 演講稿：Desmond Schatz - IMMUNE INTERVENTION AND BETA CELL REPLACEMENT THERAPIES IN TYPE 1 DIABETES&lt;br /&gt;
+連結：https://tinyurl.com/29hpuzsk&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://tinyurl.com/29hpuzsk</content:encoded><pubDate>Sun, 24 May 2026 08:00:29 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-05-24-20260524-0727-attd2026-plenary-desmond-schatz.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-05-24-20260524-0727-attd2026-plenary-desmond-schatz.m4a" length="11880071" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>16:17</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-05-24-20260524-0727-attd2026-plenary-desmond-schatz-podcast-cover.jpg" /><link>https://tinyurl.com/29hpuzsk</link></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Michael J. Haller - SCREENING PROGRAMS FOR TYPE 1 DIABETES IN THE US: FROM RESEARCH TO STANDARD OF CARE</title><description>ATTD 2026 演講重點：美國第一型糖尿病篩檢計畫—從臨床研究邁向標準照護
 
 📌 臨床核心問題
 過去第一型糖尿病患者多在出現明顯症狀時才確診，導致初診斷時併發糖尿病酮酸中毒 (DKA) 的比例高達 35% 至 60% 。Michael J. Haller 教授指出，目前推動早期篩檢不僅是為了找出適合參與臨床試驗與接受疾病修飾療法 (如 Teplizumab) 的早期患者，最明確且可重複的臨床益處，是能將初診斷 DKA 發生率穩定降至 5% 以下 。此外，篩檢能提供家屬心理與社會的準備度，讓他們能提早熟悉連續血糖監測儀 (CGM) 或預先規劃胰島素治療 。
