@@ -1,5 +1,24 @@
 [
   {
+    "id": "2026-05-24-20260524-1221-attd2026-scientific_parallel-boris-kovatchev",
+    "guid": "https://linebotaudio.zeabur.app/audio/2026-05-24-20260524-1221-attd2026-scientific_parallel-boris-kovatchev.m4a",
+    "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Boris Kovatchev - COULD CGM REPLACE ANTIBODIES SCREENING?",
+    "description": "ATTD 2026 演講重點：CGM 能否翻轉第一型糖尿病的自體抗體篩檢模式？\n\n[臨床問題與挑戰]\n現行第一型糖尿病 (T1D) 的篩檢流程，多從檢測兩種自體抗體的人群啟動，這通常針對有 T1D 家族史或其他自體免疫疾病史的族群進行 。然而，Boris Kovatchev 教授在演講中明確指出，高達 85% 至 90% 最終確診 T1D 的患者並沒有家族病史 。此外，具備高基因風險的親屬中，超過 95% 終其一生不會進展為糖尿病，基因風險標記的可靠度相當低 。依賴抗體作為篩檢第一線，會遺漏大量未來可能罹病的潛在患者，且臨床實務上，即使早期驗出抗體，醫師通常也會等到患者進入第二期 (出現血糖異常) 才會啟動臨床介入 。這種將篩檢起點建立在抗體上的現行共識，使得早期預防的效益與覆蓋率受限 。\n\n[關鍵訊息與臨床啟發]\nKovatchev 教授針對此痛點提出了一個簡化且反轉的臨床策略：建議先運用目前普及、便宜且具有非處方醫材資格的連續血糖監測 (CGM) 進行「血糖異常」的早期篩檢 。一旦透過 CGM 捕捉到早期血糖異常，再進一步檢測自體抗體，將抗體檢測回歸到「鑑別診斷」的角色，藉此區分 T1D 與其他形式的血糖異常 [1-3]。\n\n在具體指標的應用上，講者引述 ASK 等研究數據與 2025 年 Klonoff 醫師等人的共識指出，CGM 數據中「血糖高於 140 mg/dL 時間佔比大於 10%」是反映早期代謝異常的優異切點 。此指標的敏感度達 87.5%，特異度為 90.7%，不僅遠優於傳統 HbA1c (敏感度僅 43.8%)，在預測與臨床監測的表現上更可媲美執行難度較高的口服葡萄糖耐受試驗 (OGTT) 。\n\n[進階血糖動態學解析]\n除了單一的高血糖閾值，演講進一步探討更早期的「血糖動態學」指標 。在 T1D 發展初期，第一階段胰島素分泌反應 (FPIR) 會最先喪失 。此時病患整體高於目標範圍的時間或許尚未改變，但餐後血糖動態已從健康的雙相反應逐漸轉變為達到峰值時間延長的單相曲線 。\n\n為偵測這種早期異常，團隊導入了進階的資訊學與物理學指標：例如熵率 (Entropy Rate，以每秒位元數評估連續 CGM 讀數的一致性)，以及龐加萊圖 (Poincaré plot，評估葡萄糖-胰島素動態系統在遭遇葡萄糖挑戰時的混亂與擴散程度) 。研究顯示，這些系統動態學標記能以極高的準確度 (AUC 分別可達 0.98 與 0.99) 提早捕捉到血糖系統失去連貫性的狀態 。講者亦展示了結合人工智慧的動態波動分佈圖演算法，該系統能自動提取數位生物標記、標記可疑的餐後血糖波動，並計算病患對應 T1D 血糖異常反應的整體風險分數，未來有望直接內建於 CGM App 中提供基層醫療端預警 。\n\n[需要保守解讀的限制]\n儘管以 CGM 進行第一線大範圍篩檢的觀念深具突破性，這項流程目前仍屬專家學者的倡議與觀察性數據延伸 。演講中提及的 AI 輔助風險預測模型，初期是基於妊娠糖尿病的數據集開發後再針對 T1D 進行調整，目前仍屬於進行中的工作，尚待大規模實作驗證 。此外，講者坦言目前臨床研究遭遇諸多行政阻礙，要證實這套新策略的最終效益，亟需建立能同時整合自體抗體、人口統計特徵與縱向重複測量 CGM 數據的大型資料庫 。\n\n[臨床思考]\n隨著非處方 CGM 日益普及與 AI 演算法的成熟，當基層醫療端頻繁地在尚未出現典型症狀的就診者身上，觀察到 CGM 報表顯示早期餐後血糖動態異常或高風險分數時，專科照護團隊該如何建立一套具備實證基礎的後續追蹤與抗體檢測轉介標準？\n\n資料來源：\n1. COULD CGM REPLACE ANTIBODIES SCREENING? (ATTD 2026, Boris Kovatchev, Session PS01)\n連結：https://tinyurl.com/23p65ep5\n\n本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。\n\n來源連結：https://tinyurl.com/23p65ep5",
+    "pub_date": "2026-05-24T13:00:09+08:00",
+    "pub_date_rfc2822": "Sun, 24 May 2026 13:00:09 +0800",
+    "audio_url": "https://linebotaudio.zeabur.app/audio/2026-05-24-20260524-1221-attd2026-scientific_parallel-boris-kovatchev.m4a",
+    "audio_length": 8797291,
+    "audio_type": "audio/mp4",
+    "image_url": "https://linebotaudio.zeabur.app/image/2026-05-24-20260524-1221-attd2026-scientific_parallel-boris-kovatchev.jpg",
+    "podcast_image_url": "https://linebotaudio.zeabur.app/image/2026-05-24-20260524-1221-attd2026-scientific_parallel-boris-kovatchev-podcast-cover.jpg",
+    "duration": "12:04",
+    "source_url": "https://tinyurl.com/23p65ep5",
+    "explicit": "false",
+    "language": "zh-TW",
+    "manifest": "/Users/ander/Documents/hermes-agent/diabetes-news-social-post/output/notebooklm/2026-05-24-20260524-1221-attd2026-scientific_parallel-boris-kovatchev.manifest.json",
+    "kind": "attd2026_professional_line_post"
+  },
+  {
     "id": "2026-05-24-20260524-0727-attd2026-plenary-desmond-schatz",
     "guid": "https://linebotaudio.zeabur.app/audio/2026-05-24-20260524-0727-attd2026-plenary-desmond-schatz.m4a",
     "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Desmond Schatz - IMMUNE INTERVENTION AND BETA CELL REPLACEMENT THERAPIES IN TYPE 1 DIABETES",
