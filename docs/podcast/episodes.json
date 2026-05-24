@@ -1,5 +1,24 @@
 [
   {
+    "id": "2026-05-24-20260524-1720-attd2026-symposium-desmond-schatz",
+    "guid": "https://linebotaudio.zeabur.app/audio/2026-05-24-20260524-1720-attd2026-symposium-desmond-schatz.m4a",
+    "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Desmond Schatz - IS IT TIME TO RE-EVALUATE OUR RECOMMENDATIONS FOR SCREENING THE GENERAL POPULATION FOR RISK FOR TYPE 1 DIABETES",
+    "description": "ATTD 2026 專業整理：重新評估第一型糖尿病一般族群篩檢建議的時機\n\nDesmond Schatz 醫師在 ATTD 2026 (Session PS01) 針對第一型糖尿病 (T1D) 的篩檢策略提出了深刻的臨床反思：我們是否已經準備好將篩檢範圍從高風險族群擴展至一般社會大眾？\n\n目前內分泌臨床實務面臨的重大挑戰在於 T1D 的高疾病負擔與延遲診斷。即便在醫療發達國家，初診 T1D 伴隨糖尿病酮酸中毒 (DKA) 的比例仍高達 30% 至 70%，且近期觀察性數據顯示 DKA 發生率不降反升 。雖然針對患者親屬進行篩檢有其合理性（風險為 1/20），但親屬僅佔所有 T1D 新增病例的 10% 至 15%，高達 85% 至 90% 的患者來自風險較低（約 1/300）的一般族群 。\n\n針對此臨床困境，講者帶來了以下關鍵訊息與實務啟發：\n\n首先，在現行規範與證據層級方面，美國糖尿病學會 (ADA) 目前仍建議將無症狀篩檢侷限於研究計畫內、T1D 家族史或具高基因風險（如器官特異性自體免疫疾病）的兒童 。ISPAD 指引則建議透過篩檢來識別處於第 1、2 及 3a 階段的患者，以利及早引入監測與介入措施，但講者特別強調，這項建議目前僅屬於專家共識（E 級證據），尚未達到 A 級證據的標準 。\n\n其次，在早期介入的療效證據上，具指標性的 TN-10 隨機對照試驗 (RCT) 證實，針對處於第二階段（具兩種以上自體抗體且有血糖異常）的 T1D 患者，使用 Teplizumab 可將進展至臨床發病的中位數時間顯著延遲近兩年（49.5 個月 vs. 24.9 個月）。這為早期篩檢與分期提供了強而有力的介入後盾。\n\n然而，講者也點出針對一般大眾進行「公共衛生廣泛篩檢」需要極度保守解讀與謹慎評估的限制：\n1. 陽性預測值 (PPV) 的挑戰：依據貝氏定理，當疾病盛行率低於一般族群時，即便篩檢工具有極高的敏感度與特異度，其 PPV 仍會大幅下降。這意味著廣泛篩檢將產生大量偽陽性，帶來不必要的心理恐慌與後續醫療負擔 。\n2. 缺乏嚴密追蹤的篩檢無效論：雖然 TEDDY 研究顯示新生兒篩檢可有效降低嬰幼兒的 DKA 發生率至 15% 左右，但來自芬蘭與瑞典的真實世界觀察性登記數據卻顯示，5 歲以下兒童的 DKA 發生率並未因篩檢而顯著下降。這強烈暗示了若篩檢計畫無法綁定嚴密的長期後續追蹤與衛教，單憑檢測本身無法有效改善臨床預後 。\n\n因此，2026 年當前的共識是，並不建議將針對無症狀、低風險個體的廣泛測試作為常規的公共衛生篩檢 。未來的挑戰不僅在於提升自體抗體檢測的精準度，更在於整體醫療體系量能是否足以負荷龐大的長期監測需求。\n\n面對一般族群篩檢在統計學上帶來的高偽陽性率以及龐大的追蹤成本，臨床端應如何在現有資源下，優化高風險族群的精準識別與長期代謝監測，以最大化預防 DKA 的實質效益？\n\n資料來源：\n NotebookLM: IS IT TIME TO RE-EVALUATE OUR RECOMMENDATIONS FOR SCREENING THE GENERAL POPULATION FOR RISK FOR TYPE 1 DIABETES (Desmond Schatz, ATTD 2026)\n連結：https://tinyurl.com/2dgjrpsj\n\n本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。\n\n來源連結：https://tinyurl.com/2dgjrpsj",
+    "pub_date": "2026-05-24T18:00:02+08:00",
+    "pub_date_rfc2822": "Sun, 24 May 2026 18:00:02 +0800",
+    "audio_url": "https://linebotaudio.zeabur.app/audio/2026-05-24-20260524-1720-attd2026-symposium-desmond-schatz.m4a",
+    "audio_length": 12629114,
+    "audio_type": "audio/mp4",
+    "image_url": "https://linebotaudio.zeabur.app/image/2026-05-24-20260524-1720-attd2026-symposium-desmond-schatz.jpg",
+    "podcast_image_url": "",
+    "duration": "17:20",
+    "source_url": "https://tinyurl.com/2dgjrpsj",
+    "explicit": "false",
+    "language": "zh-TW",
+    "manifest": "/Users/ander/Documents/hermes-agent/diabetes-news-social-post/output/notebooklm/2026-05-24-20260524-1720-attd2026-symposium-desmond-schatz.manifest.json",
+    "kind": "attd2026_professional_line_post"
+  },
+  {
     "id": "2026-05-24-20260524-1221-attd2026-scientific_parallel-boris-kovatchev",
     "guid": "https://linebotaudio.zeabur.app/audio/2026-05-24-20260524-1221-attd2026-scientific_parallel-boris-kovatchev.m4a",
     "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Boris Kovatchev - COULD CGM REPLACE ANTIBODIES SCREENING?",
