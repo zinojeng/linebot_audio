@@ -1,5 +1,24 @@
 [
   {
+    "id": "2026-05-25-20260525-1720-attd2026-auto-satish-k-garg",
+    "guid": "https://linebotaudio.zeabur.app/audio/2026-05-25-20260525-1720-attd2026-auto-satish-k-garg.m4a",
+    "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Satish K. Garg - CGM FREQUENCY USE IN TYPE 2 DIABETES",
+    "description": "ATTD 2026 演講重點：第 2 型糖尿病的 CGM 使用頻率與臨床實務效益\n\n本次 ATTD 2026 的 PS04 議程中，Satish K. Garg 探討了連續血糖監測 (CGM) 在第 2 型糖尿病 (T2D) 的使用頻率及其帶來的臨床效益 [1-3]。這場演講主要處理的臨床核心問題是：獲取血糖數據的頻率是否直接影響 T2D 的預後？特別是在非胰島素治療 (NIT) 或是使用新型 GLP-1 類似物的族群中，持續使用 CGM 的附加價值為何 。\n\n演講的關鍵訊息建構在龐大的真實世界證據 (RWE) 上。講者引用 Optum Market Clarity 資料庫中超過七萬名 T2D CGM 使用者的回溯性電子病歷資料指出，無論患者是接受非胰島素治療 (NIT)、基礎胰島素 (BIT) 或餐前強化胰島素 (PIT)，使用 CGM 後的 6 至 12 個月內，全因住院率、急性糖尿病相關住院率及急診就診率皆顯著下降；其中急性糖尿病相關住院率的降幅更達 31.0% 至 52.7% 不等 。\n\n此外，近期發表於《JAMA》的分析加入了未使用 CGM 的對照組，進一步證實了使用頻率的重要性。數據顯示，每年使用 CGM 超過 270 天的高頻率使用者，追蹤 12 個月時的 A1C 降幅達 1.5%，顯著優於對照組的 0.7% 。\n\n對內分泌臨床實務的啟發，主要在於 CGM 與新型降糖藥物的「乘數效應」。講者指出，合併使用 GLP-1 與高頻率 CGM 的患者，A1C 降幅顯著大於單用 GLP-1 的族群 (-2.2% vs. -1.4%) 。透過臨床案例也點出，即便患者因使用 Tirzepatide 或 Semaglutide 等新型腸泌素而成功達標並停用胰島素，CGM 依然具備不可替代的價值。它不僅能揭露傳統指尖血容易忽略的餐後血糖波動，更能作為行為強化的視覺化工具，讓患者親眼看見飲食介入與高價藥物帶來的改變，進而鞏固長期的醫囑順從性 。\n\n然而，在解讀這些數據時仍需保留保守的評估。講者所引用的 Optum 數據以及提及美國退伍軍人事務部 (VA) 系統中 CGM 與全因死亡率降低有關的發現，皆屬於大型回溯性觀察型研究 。儘管這類真實世界數據涵蓋層面廣且有進行變數校正，但相較於隨機對照試驗 (RCT)，仍無法完全排除未知的干擾因子。因此，CGM 對住院率下降與死亡率的保護作用，目前仍偏向觀察性關聯，其絕對的因果關係仍待更多前瞻性證據支持。\n\n在新型腸泌素能高效控糖甚至促成部分患者停用胰島素的時代，臨床醫師應如何為非胰島素依賴型的第 2 型糖尿病患者，精準界定持續處方 CGM 的長期成本效益與最佳的退場時機？\n\n資料來源：\n cgm-frequency-use-in-type-2-diabetes.md\n cgm-frequency-use-in-type-2-diabetes.md\n cgm-frequency-use-in-type-2-diabetes.md\n cgm-frequency-use-in-type-2-diabetes.md\n cgm-frequency-use-in-type-2-diabetes.md\n cgm-frequency-use-in-type-2-diabetes.md\n cgm-frequency-use-in-type-2-diabetes.md\n連結：https://tinyurl.com/27cuk3bx\n\n本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。\n\n來源連結：https://tinyurl.com/27cuk3bx",
+    "pub_date": "2026-05-25T18:00:11+08:00",
+    "pub_date_rfc2822": "Mon, 25 May 2026 18:00:11 +0800",
+    "audio_url": "https://linebotaudio.zeabur.app/audio/2026-05-25-20260525-1720-attd2026-auto-satish-k-garg.m4a",
+    "audio_length": 17079847,
+    "audio_type": "audio/mp4",
+    "image_url": "https://linebotaudio.zeabur.app/image/2026-05-25-20260525-1720-attd2026-auto-satish-k-garg.jpg",
+    "podcast_image_url": "https://linebotaudio.zeabur.app/image/2026-05-25-20260525-1720-attd2026-auto-satish-k-garg-podcast-cover.jpg",
+    "duration": "23:26",
+    "source_url": "https://tinyurl.com/27cuk3bx",
+    "explicit": "false",
+    "language": "zh-TW",
+    "manifest": "/Users/ander/Documents/hermes-agent/diabetes-news-social-post/output/notebooklm/2026-05-25-20260525-1720-attd2026-auto-satish-k-garg.manifest.json",
+    "kind": "attd2026_professional_line_post"
+  },
+  {
     "id": "2026-05-25-20260525-1220-attd2026-scientific_parallel-yogish-c-kudva",
     "guid": "https://linebotaudio.zeabur.app/audio/2026-05-25-20260525-1220-attd2026-scientific_parallel-yogish-c-kudva.m4a",
     "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Yogish C. Kudva - CURRENT EVIDENCE FOR USE OF AID SYSTEMS IN OLDER ADULTS WITH DIABETES",
