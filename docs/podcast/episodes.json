@@ -1,5 +1,24 @@
 [
   {
+    "id": "2026-05-25-20260525-1220-attd2026-scientific_parallel-yogish-c-kudva",
+    "guid": "https://linebotaudio.zeabur.app/audio/2026-05-25-20260525-1220-attd2026-scientific_parallel-yogish-c-kudva.m4a",
+    "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Yogish C. Kudva - CURRENT EVIDENCE FOR USE OF AID SYSTEMS IN OLDER ADULTS WITH DIABETES",
+    "description": "ATTD 2026 專業整理：高齡糖尿病患者使用自動化胰島素輸注系統 (AID) 的最新臨床證據與實務反思\n\n高齡第1型糖尿病 (T1D) 患者因罹病時間長，常伴隨對低血糖的無感 (hypoglycemia unawareness)，這使得他們發生骨折、心律不整甚至猝死的風險大幅上升 。在美國聯邦醫療保險的長者數據中，低血糖相關的住院率、1年死亡率與急診就診率均顯著偏高 。因此，如何利用自動化胰島素輸注系統 (AID) 來降低這類高危險族群的低血糖事件，是內分泌與新陳代謝科急需處理的臨床難題 。\n\nYogish C. Kudva 醫師在此次演講中，深度解析了三項針對高齡 T1D 患者使用 AID 的前瞻性隨機對照試驗 (RCT)：英國的 CamAPS FX、澳洲的 ORACLE 以及美國的 AIDE 研究 [1-4]。這些試驗涵蓋了平均年齡 67 至 71 歲的族群，數據一致證實 AID 系統能將目標範圍內時間 (TIR) 顯著提升約 6.2% 至 9% [4-6]。其中最顯著的臨床效益在於夜間血糖控制的大幅改善，以及極端高低血糖時間的縮短 。\n\n在臨床實務的啟發上，AIDE 研究帶來了突破性的觀點。該研究刻意納入了約 27% 患有輕度認知障礙 (MCI) 的高齡患者，結果證實使用混合閉環系統 (HCL) 不僅有效減少低血糖時間，還能安全地將 HbA1c 降至 6.9% 。這挑戰了傳統上認為「高齡患者為防低血糖必須放寬 HbA1c 標準」的觀念 。此外，在 AIDE 的延伸研究中，高達 91% 的參與者選擇繼續使用 HCL 系統，顯示此科技在高齡族群中具有極高的接受度與黏著度 。\n\n然而，在解讀這些數據時仍有需要保守看待的限制。首先，雖然 AID 在高齡第2型糖尿病 (T2D) 患者中（如 Control-IQ 與 SECURE-T2D 研究）也展現出降低 HbA1c 與提升 TIR 的潛力，但這些結論主要來自大型試驗的次族群分析 (Subgroup analysis)，目前仍缺乏專為高齡 T2D 設計的大型獨立試驗證據 。其次，RCT 的樣本數相對較小，對於嚴重低血糖 (SH) 或糖尿病酮酸中毒 (DKA) 等罕見嚴重不良事件的發生率差異，仍無足夠的統計檢定力來下定論 。最關鍵的臨床實務限制在於，將先進科技導入高齡族群時，醫療團隊必須投入比預期更多的心力，為患者及其家屬提供持續性的技術與衛教支援 。\n\n面對高齡且伴隨輕度認知退化的糖尿病患者，臨床照護團隊應如何重新設計衛教流程與家庭支持網路，以確保他們能安全、穩定地從 AID 系統的長期使用中獲益？\n\n資料來源：\n ATTD 2026 lecture source: CURRENT EVIDENCE FOR USE OF AID SYSTEMS IN OLDER ADULTS WITH DIABETES (Speaker: Yogish C. Kudva)\n連結：https://tinyurl.com/25nlhl8k\n\n本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。\n\n來源連結：https://tinyurl.com/25nlhl8k",
+    "pub_date": "2026-05-25T13:00:13+08:00",
+    "pub_date_rfc2822": "Mon, 25 May 2026 13:00:13 +0800",
+    "audio_url": "https://linebotaudio.zeabur.app/audio/2026-05-25-20260525-1220-attd2026-scientific_parallel-yogish-c-kudva.m4a",
+    "audio_length": 14844376,
+    "audio_type": "audio/mp4",
+    "image_url": "https://linebotaudio.zeabur.app/image/2026-05-25-20260525-1220-attd2026-scientific_parallel-yogish-c-kudva.jpg",
+    "podcast_image_url": "https://linebotaudio.zeabur.app/image/2026-05-25-20260525-1220-attd2026-scientific_parallel-yogish-c-kudva-podcast-cover.jpg",
+    "duration": "20:22",
+    "source_url": "https://tinyurl.com/25nlhl8k",
+    "explicit": "false",
+    "language": "zh-TW",
+    "manifest": "/Users/ander/Documents/hermes-agent/diabetes-news-social-post/output/notebooklm/2026-05-25-20260525-1220-attd2026-scientific_parallel-yogish-c-kudva.manifest.json",
+    "kind": "attd2026_professional_line_post"
+  },
+  {
     "id": "2026-05-25-20260525-0723-attd2026-plenary-alon-liberman",
     "guid": "https://linebotaudio.zeabur.app/audio/2026-05-25-20260525-0723-attd2026-plenary-alon-liberman.m4a",
     "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Alon Liberman - IMPACT OF DIABETES TECHNOLOGIES ON PSYCHOSOCIAL OUTCOMES",
