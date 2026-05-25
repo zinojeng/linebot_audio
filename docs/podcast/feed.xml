@@ -1,5 +1,57 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Sun, 24 May 2026 23:40:41 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Desmond Schatz - IS IT TIME TO RE-EVALUATE OUR RECOMMENDATIONS FOR SCREENING THE GENERAL POPULATION FOR RISK FOR TYPE 1 DIABETES</title><description>ATTD 2026 專業整理：重新評估第一型糖尿病一般族群篩檢建議的時機
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Mon, 25 May 2026 00:01:28 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Alon Liberman - IMPACT OF DIABETES TECHNOLOGIES ON PSYCHOSOCIAL OUTCOMES</title><description>ATTD 2026 演講重點：糖尿病科技對病患心理社會結果的衝擊與臨床實務反思
+
+本次 ATTD 2026 的 PL-YEARBOOK 議程中，由 Alon Liberman 探討糖尿病科技與監測指標的演進，如何深刻影響第一型糖尿病青少年及其家屬的心理社會狀態。隨著連續血糖監測（CGM）指標從傳統的目標範圍內時間（TIR）邁向更嚴格的 TITR（Time in Tight Range），臨床醫師面臨的新挑戰不再僅是單純的數值達標，還包含如何管理病患因數據檢視標準改變而產生的情緒負荷。
+
+演講真正想處理的臨床問題與關鍵訊息
+過去 TIR（70-180 mg/dL）已成為糖尿病照護的核心，但對病患與家屬而言，這些數據常被視為具備強烈情感意義的「成績單」，甚至在門診前引發焦慮。研究觀察指出，當臨床將管理指標進一步限縮至 TITR（70-140 mg/dL）時，會帶來巨大的視覺與心理衝擊。例如，同一位病患在 TIR 標準下可能有高達 76% 的綠色達標率，但切換至 TITR 後，綠色範圍瞬間縮水至 55%，而代表高血糖的黃色警示區間暴增至 35%。這種「我們被教導綠色就是好」的情感框架，容易讓原本已在努力控糖的家庭產生「經常處於高血糖」的錯覺與自我批評。
+
+為應對此壓力，許多家庭發展出個性化的「個人舒適圈」作為情感應對策略。這些範圍往往基於對低血糖的恐懼或日常生活的實際感受所形塑，未必完全符合官方建議，但這能在心理上幫助家屬維持疾病管理的一致性認知與控制感。
+
+對內分泌臨床實務的啟發
+這提醒臨床照護團隊在導入 TITR 時，必須採用漸進式推廣，並提供清晰的科學依據與溝通，避免病患因達標百分比驟降而感到困惑或失去信心。門診解說時，應主動說明 TIR 與 TITR 的差異，降低 CGM 介面顏色變化所引發的情緒觸發。此外，科技的介入也能帶來解套與正面效益：例如已使用自動胰島素輸送系統（AID）的家庭，往往認為 TITR 是可達成且能提升安全感的目標。講者亦引述即將發表的研究指出，即使是具備執行功能挑戰的青少年，在使用胰島素幫浦後，仍能在不增加糖尿病酮酸中毒或嚴重低血糖風險的前提下降低 HbA1c，凸顯科技在輔助神經認知弱勢族群上的潛力。
+
+需要保守解讀的地方
+演講中所提及的心理社會觀點，主要奠基於發表於《Diabetic Medicine》等期刊的焦點團體訪談與質性研究，深刻反映了真實世界的病患心聲，但必須留意不同個體對 TITR 的情緒反應差異極大，有人視為負擔，亦有人視為激勵。此外，在回顧住院病患使用 CGM 的 RCT 研究（The TIGHT study）時也發現，強化治療組與標準組在整體平均血糖上並無統計學顯著差異，僅有基線 HbA1c 較低的次族群在 TIR 有實質提升。這顯示不論是門診指標的轉換，或住院 CGM 的常規化，目前仍無法一體適用，必須依賴高度結構化的指引與個體化評估。
+
+在追求更嚴格的 TITR 與推廣進階糖尿病科技時，我們該如何調整門診的衛教語言與數據解讀方式，才能在不增加病患「成績單焦慮」的前提下，引導他們建立對新指標的安全感與信任？
+
+資料來源：
+1. NotebookLM 來源資料：IMPACT OF DIABETES TECHNOLOGIES ON PSYCHOSOCIAL OUTCOMES (ATTD 2026, Alon Liberman)
+2. Hirsch IB et al., The TIGHT study, Diabetes Care (2025)
+3. Tanenbaum ML et al., "We're taught green is good", Diabetic Medicine (2024)
+4. Vitale RJ et al., Diabetes Technology &amp; Therapeutics (2025)
+連結：https://tinyurl.com/2yqtayfy
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://tinyurl.com/2yqtayfy</description><content:encoded>ATTD 2026 演講重點：糖尿病科技對病患心理社會結果的衝擊與臨床實務反思&lt;br /&gt;
+&lt;br /&gt;
+本次 ATTD 2026 的 PL-YEARBOOK 議程中，由 Alon Liberman 探討糖尿病科技與監測指標的演進，如何深刻影響第一型糖尿病青少年及其家屬的心理社會狀態。隨著連續血糖監測（CGM）指標從傳統的目標範圍內時間（TIR）邁向更嚴格的 TITR（Time in Tight Range），臨床醫師面臨的新挑戰不再僅是單純的數值達標，還包含如何管理病患因數據檢視標準改變而產生的情緒負荷。&lt;br /&gt;
+&lt;br /&gt;
+演講真正想處理的臨床問題與關鍵訊息&lt;br /&gt;
+過去 TIR（70-180 mg/dL）已成為糖尿病照護的核心，但對病患與家屬而言，這些數據常被視為具備強烈情感意義的「成績單」，甚至在門診前引發焦慮。研究觀察指出，當臨床將管理指標進一步限縮至 TITR（70-140 mg/dL）時，會帶來巨大的視覺與心理衝擊。例如，同一位病患在 TIR 標準下可能有高達 76% 的綠色達標率，但切換至 TITR 後，綠色範圍瞬間縮水至 55%，而代表高血糖的黃色警示區間暴增至 35%。這種「我們被教導綠色就是好」的情感框架，容易讓原本已在努力控糖的家庭產生「經常處於高血糖」的錯覺與自我批評。&lt;br /&gt;
+&lt;br /&gt;
+為應對此壓力，許多家庭發展出個性化的「個人舒適圈」作為情感應對策略。這些範圍往往基於對低血糖的恐懼或日常生活的實際感受所形塑，未必完全符合官方建議，但這能在心理上幫助家屬維持疾病管理的一致性認知與控制感。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的啟發&lt;br /&gt;
+這提醒臨床照護團隊在導入 TITR 時，必須採用漸進式推廣，並提供清晰的科學依據與溝通，避免病患因達標百分比驟降而感到困惑或失去信心。門診解說時，應主動說明 TIR 與 TITR 的差異，降低 CGM 介面顏色變化所引發的情緒觸發。此外，科技的介入也能帶來解套與正面效益：例如已使用自動胰島素輸送系統（AID）的家庭，往往認為 TITR 是可達成且能提升安全感的目標。講者亦引述即將發表的研究指出，即使是具備執行功能挑戰的青少年，在使用胰島素幫浦後，仍能在不增加糖尿病酮酸中毒或嚴重低血糖風險的前提下降低 HbA1c，凸顯科技在輔助神經認知弱勢族群上的潛力。&lt;br /&gt;
+&lt;br /&gt;
+需要保守解讀的地方&lt;br /&gt;
+演講中所提及的心理社會觀點，主要奠基於發表於《Diabetic Medicine》等期刊的焦點團體訪談與質性研究，深刻反映了真實世界的病患心聲，但必須留意不同個體對 TITR 的情緒反應差異極大，有人視為負擔，亦有人視為激勵。此外，在回顧住院病患使用 CGM 的 RCT 研究（The TIGHT study）時也發現，強化治療組與標準組在整體平均血糖上並無統計學顯著差異，僅有基線 HbA1c 較低的次族群在 TIR 有實質提升。這顯示不論是門診指標的轉換，或住院 CGM 的常規化，目前仍無法一體適用，必須依賴高度結構化的指引與個體化評估。&lt;br /&gt;
+&lt;br /&gt;
+在追求更嚴格的 TITR 與推廣進階糖尿病科技時，我們該如何調整門診的衛教語言與數據解讀方式，才能在不增加病患「成績單焦慮」的前提下，引導他們建立對新指標的安全感與信任？&lt;br /&gt;
+&lt;br /&gt;
+資料來源：&lt;br /&gt;
+1. NotebookLM 來源資料：IMPACT OF DIABETES TECHNOLOGIES ON PSYCHOSOCIAL OUTCOMES (ATTD 2026, Alon Liberman)&lt;br /&gt;
+2. Hirsch IB et al., The TIGHT study, Diabetes Care (2025)&lt;br /&gt;
+3. Tanenbaum ML et al., "We're taught green is good", Diabetic Medicine (2024)&lt;br /&gt;
+4. Vitale RJ et al., Diabetes Technology &amp; Therapeutics (2025)&lt;br /&gt;
+連結：https://tinyurl.com/2yqtayfy&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://tinyurl.com/2yqtayfy</content:encoded><pubDate>Mon, 25 May 2026 08:00:08 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-05-25-20260525-0723-attd2026-plenary-alon-liberman.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-05-25-20260525-0723-attd2026-plenary-alon-liberman.m4a" length="12610761" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>17:17</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-05-25-20260525-0723-attd2026-plenary-alon-liberman-podcast-cover.jpg" /><link>https://tinyurl.com/2yqtayfy</link></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Desmond Schatz - IS IT TIME TO RE-EVALUATE OUR RECOMMENDATIONS FOR SCREENING THE GENERAL POPULATION FOR RISK FOR TYPE 1 DIABETES</title><description>ATTD 2026 專業整理：重新評估第一型糖尿病一般族群篩檢建議的時機
 
 Desmond Schatz 醫師在 ATTD 2026 (Session PS01) 針對第一型糖尿病 (T1D) 的篩檢策略提出了深刻的臨床反思：我們是否已經準備好將篩檢範圍從高風險族群擴展至一般社會大眾？
 
