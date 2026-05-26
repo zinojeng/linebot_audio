@@ -1,5 +1,24 @@
 [
   {
+    "id": "2026-05-26-20260526-0725-attd2026-plenary-jeremy-pettus",
+    "guid": "https://linebotaudio.zeabur.app/audio/2026-05-26-20260526-0725-attd2026-plenary-jeremy-pettus.m4a",
+    "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Jeremy Pettus - Jeremy Pettus - THE PROGRESS STUDY - PHASE 1 - 2 CLINICAL TRIAL OF KRIYA-839, A NOVEL AAV GENE THERAPY FOR ADULTS WITH TYPE 1 DIABETES",
+    "description": "ATTD 2026 演講重點：第1型糖尿病的新型 AAV 基因療法 KRIYA-839 (PROGRESS 研究)\n\n針對第1型糖尿病的治療，即便有自動胰島素遞送系統等科技輔助，仍有高達七成患者未能達到血糖控制目標，且終身需面臨外源性胰島素管理與潛在低血糖的負擔 。Jeremy Pettus 醫師在 ATTD 2026 的 PL-HOTOVEN 議程中，發表了即將進入人體試驗的 KRIYA-839 AAV 基因療法，提出以單次給藥、無須長期免疫抑制來解決此臨床困境的新方向 。\n\nKRIYA-839 的核心機轉是透過肌肉內注射，將帶有「葡萄糖激酶」與「胰島素」雙基因的 AAV 病毒載體遞送至股四頭肌 。此療法完全獨立於自體胰臟 β 細胞之外，而是將肌肉組織轉化為具備感測能力的胰島素分泌中心 。其中，葡萄糖激酶扮演葡萄糖感測器的角色，在相對高血糖時活化以啟動糖解作用，低血糖時則不活化；胰島素基因則負責分泌胰島素、促使 GLUT4 表現以將葡萄糖帶入細胞 。由於肌肉細胞不常分裂，此基因產物具備在患者體內長期存續的潛力 。\n\n在臨床實務的給藥程序上，這項技術設計為單次 30 到 60 分鐘的門診超音波導引肌肉注射療程 。為避免免疫系統對病毒衣殼產生反應並增強基因物質進入細胞的效率，患者僅需在注射前後接受為期兩到三個月的短期免疫調節，例如每兩週皮下注射一次 IL-6 藥物（如 Tocilizumab），完全不需要如同傳統器官或胰島細胞移植般終身使用免疫抑制劑 。\n\n在證據層級與需要保守解讀的部分，目前令人振奮的療效數據主要來自臨床前的動物模型。在誘導型第1型糖尿病的狗模型中，接受雙基因 AAV 治療的組別在無外源性胰島素與長期免疫抑制下，達成了完全正常的血糖控制長達 1600 天（約四年），部分數據甚至長達七年 。然而，動物實驗的驚人成效仍有待人體試驗嚴謹驗證。預計今年啟動的 PROGRESS 臨床試驗將推進至第一與第二期，基於安全性考量，初期將先收案糖化血色素大於 7 且正在使用自動胰島素遞送系統（AID）的成人患者，以確認 AAV 基因療法的合適劑量，後續再擴大至每日多次注射的族群，並以 52 週的糖化血色素、CGM 目標範圍內時間（TIR）與低血糖事件作為主要評估標準 。此技術在人體肌肉組織中是否能達到與動物模型同樣精準的生理反饋與長期存活率，尚待進一步的 RCT 數據支持。\n\n考量到利用周邊肌肉組織做為葡萄糖感測與胰島素分泌的替代途徑，其生理動態與門脈循環中的原生胰島 β 細胞仍有差異，未來若這類基因療法成功導入臨床，我們應如何為第1型糖尿病患者重新定義「功能性治癒」的標準與後續的監控指標？\n\n來源：\nJeremy Pettus - THE PROGRESS STUDY - PHASE 1 - 2 CLINICAL TRIAL OF KRIYA-839, A NOVEL AAV GENE THERAPY FOR ADULTS WITH TYPE 1 DIABETES (ATTD 2026, Session: PL-HOTOVEN)\n連結：https://tinyurl.com/298x5qmd\n\n本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。\n\n來源連結：https://tinyurl.com/298x5qmd",
+    "pub_date": "2026-05-26T08:00:50+08:00",
+    "pub_date_rfc2822": "Tue, 26 May 2026 08:00:50 +0800",
+    "audio_url": "https://linebotaudio.zeabur.app/audio/2026-05-26-20260526-0725-attd2026-plenary-jeremy-pettus.m4a",
+    "audio_length": 14667529,
+    "audio_type": "audio/mp4",
+    "image_url": "https://linebotaudio.zeabur.app/image/2026-05-26-20260526-0725-attd2026-plenary-jeremy-pettus.jpg",
+    "podcast_image_url": "https://linebotaudio.zeabur.app/image/2026-05-26-20260526-0725-attd2026-plenary-jeremy-pettus-podcast-cover.jpg",
+    "duration": "20:06",
+    "source_url": "https://tinyurl.com/298x5qmd",
+    "explicit": "false",
+    "language": "zh-TW",
+    "manifest": "/Users/ander/Documents/hermes-agent/diabetes-news-social-post/output/notebooklm/2026-05-26-20260526-0725-attd2026-plenary-jeremy-pettus.manifest.json",
+    "kind": "attd2026_professional_line_post"
+  },
+  {
     "id": "2026-05-25-20260525-1720-attd2026-auto-satish-k-garg",
     "guid": "https://linebotaudio.zeabur.app/audio/2026-05-25-20260525-1720-attd2026-auto-satish-k-garg.m4a",
     "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Satish K. Garg - CGM FREQUENCY USE IN TYPE 2 DIABETES",
