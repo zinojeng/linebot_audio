@@ -1,5 +1,24 @@
 [
   {
+    "id": "2026-05-26-20260526-1720-attd2026-auto-eda-cengiz",
+    "guid": "https://linebotaudio.zeabur.app/audio/2026-05-26-20260526-1720-attd2026-auto-eda-cengiz.m4a",
+    "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Eda Cengiz - SHIFTING THE PARADIGM: INNOVATIONS IN GENDER-SPECIFIC DIABETES TECHNOLOGY",
+    "description": "ATTD 2026 演講重點：轉變典範—性別專屬糖尿病科技的創新與發展\n\n講者：Eda Cengiz\n場次：PS05 (SHIFTING THE PARADIGM: INNOVATIONS IN GENDER-SPECIFIC DIABETES TECHNOLOGY)\n\n臨床問題意識\n目前的糖尿病治療演算法大多基於男性為主或混合性別的人群進行開發與驗證，未能充分考量女性在青春期、月經週期、分娩到更年期等不同生命階段的生理性別與社會心理差異。隨著自動化胰島素遞送（AID）系統的普及，缺乏「月經週期感知」的性別中立演算法，使女性患者在面對荷爾蒙波動時，仍需承擔極高的疑難排解負擔，這也突顯了當前科技在精準醫療上的缺口。\n\n關鍵訊息與臨床實務啟發\n為了解決性別專屬的知識差距，科技所提供的「高數據密度」成為個人化照護的基礎。演講指出，性別專屬糖尿病科技的創新可分為以下幾個實務面向：\n\n第一，女性真實世界數據分析（Femalytics）：例如 Tidepool 的月經計畫正著手整合月經週期追蹤數據與連續血糖監測（CGM）、幫浦數據，建立大型開源資料庫；而 UCSF 團隊則利用電子病歷數據開發女性健康的數位孿生模型（Digital Twins），藉此釐清荷爾蒙波動與血糖變異性的關聯。這提示臨床醫師在解讀女性患者的 CGM 報表時，需更系統性地將月經週期與荷爾蒙變化納入考量。\n\n第二，無針檢測的潛在典範轉移：目前已有如 Qvin 等公司開發具備 FDA 許可的經血收集裝置（Q-Pad）投入研究，透過被動收集經血樣本進行檢測。初步觀察性數據顯示，經血樣本的 HbA1c 及 TSH、AMH 等生物標記與靜脈抽血結果具有高度相關性。這項創新未來有望成為回診間的居家非侵入性監測工具。\n\n第三，AID 系統的性別差異與精準自動化：2024 年 ISPAD 指引明確指出，黃體期的較高血糖是由黃體素介導，且會顯著降低速效胰島素的降糖作用。然而目前的 AID 系統尚無法自動因應此變化。在 UCSF 進行的完全自動化 AID 系統（無需宣告進食與計算碳水）初期小型世代研究中，次群體分析初步觀察到男性在多項血糖指標的改善程度略高於女性。這不僅凸顯了開發女性專屬演算法的必要性，也預告了未來 AID 將整合穿戴式裝置（如智慧戒指量測之體溫、心率）等生理訊號，邁向真正的精準自動化。\n\n臨床限制與保守解讀\n講者所提及之完全自動化 AID 系統的性別差異結果，僅為極小樣本（10名女性與12名男性）的次群體觀察性分析，且未納入月經週期的數據校正，因此對於「完全自動化 AID 對男性效果較佳」的推論尚待大型隨機對照試驗驗證。此外，經血診斷標記與各項數位孿生模型的臨床應用，目前多處於概念驗證與初步研究階段，距離廣泛應用與納入標準臨床指引仍需更多實證支持。\n\n當未來的自動化胰島素遞送系統開始常規整合患者的生理週期與各類穿戴裝置訊號時，臨床醫師應如何調整審閱報表與臨床決策的工作流程，以避免龐雜的數據反而造成醫療團隊的資訊超載？\n\n資料來源：\n ATTD 2026, Session PS05: SHIFTING THE PARADIGM: INNOVATIONS IN GENDER-SPECIFIC DIABETES TECHNOLOGY (Speaker: Eda Cengiz).\n連結：https://tinyurl.com/23btgnr6\n\n本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。\n\n來源連結：https://tinyurl.com/23btgnr6",
+    "pub_date": "2026-05-26T18:00:34+08:00",
+    "pub_date_rfc2822": "Tue, 26 May 2026 18:00:34 +0800",
+    "audio_url": "https://linebotaudio.zeabur.app/audio/2026-05-26-20260526-1720-attd2026-auto-eda-cengiz.m4a",
+    "audio_length": 14859808,
+    "audio_type": "audio/mp4",
+    "image_url": "https://linebotaudio.zeabur.app/image/2026-05-26-20260526-1720-attd2026-auto-eda-cengiz.jpg",
+    "podcast_image_url": "https://linebotaudio.zeabur.app/image/2026-05-26-20260526-1720-attd2026-auto-eda-cengiz-podcast-cover.jpg",
+    "duration": "20:23",
+    "source_url": "https://tinyurl.com/23btgnr6",
+    "explicit": "false",
+    "language": "zh-TW",
+    "manifest": "/Users/ander/Documents/hermes-agent/diabetes-news-social-post/output/notebooklm/2026-05-26-20260526-1720-attd2026-auto-eda-cengiz.manifest.json",
+    "kind": "attd2026_professional_line_post"
+  },
+  {
     "id": "2026-05-26-20260526-1220-attd2026-scientific_parallel-richard-m-bergenstal",
     "guid": "https://linebotaudio.zeabur.app/audio/2026-05-26-20260526-1220-attd2026-scientific_parallel-richard-m-bergenstal.m4a",
     "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Richard M. Bergenstal - ADAPTING CGM REPORTS FOR THE USE IN REAL LIFE",

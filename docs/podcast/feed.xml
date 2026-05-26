@@ -1,5 +1,61 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Tue, 26 May 2026 09:42:43 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Richard M. Bergenstal - ADAPTING CGM REPORTS FOR THE USE IN REAL LIFE</title><description>ATTD 2026 專業整理：Richard M. Bergenstal - 將 CGM 報告落實於真實臨床情境 (Adapting CGM Reports for the Use in Real Life)
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Tue, 26 May 2026 10:02:33 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Eda Cengiz - SHIFTING THE PARADIGM: INNOVATIONS IN GENDER-SPECIFIC DIABETES TECHNOLOGY</title><description>ATTD 2026 演講重點：轉變典範—性別專屬糖尿病科技的創新與發展
+
+講者：Eda Cengiz
+場次：PS05 (SHIFTING THE PARADIGM: INNOVATIONS IN GENDER-SPECIFIC DIABETES TECHNOLOGY)
+
+臨床問題意識
+目前的糖尿病治療演算法大多基於男性為主或混合性別的人群進行開發與驗證，未能充分考量女性在青春期、月經週期、分娩到更年期等不同生命階段的生理性別與社會心理差異。隨著自動化胰島素遞送（AID）系統的普及，缺乏「月經週期感知」的性別中立演算法，使女性患者在面對荷爾蒙波動時，仍需承擔極高的疑難排解負擔，這也突顯了當前科技在精準醫療上的缺口。
+
+關鍵訊息與臨床實務啟發
+為了解決性別專屬的知識差距，科技所提供的「高數據密度」成為個人化照護的基礎。演講指出，性別專屬糖尿病科技的創新可分為以下幾個實務面向：
+
+第一，女性真實世界數據分析（Femalytics）：例如 Tidepool 的月經計畫正著手整合月經週期追蹤數據與連續血糖監測（CGM）、幫浦數據，建立大型開源資料庫；而 UCSF 團隊則利用電子病歷數據開發女性健康的數位孿生模型（Digital Twins），藉此釐清荷爾蒙波動與血糖變異性的關聯。這提示臨床醫師在解讀女性患者的 CGM 報表時，需更系統性地將月經週期與荷爾蒙變化納入考量。
+
+第二，無針檢測的潛在典範轉移：目前已有如 Qvin 等公司開發具備 FDA 許可的經血收集裝置（Q-Pad）投入研究，透過被動收集經血樣本進行檢測。初步觀察性數據顯示，經血樣本的 HbA1c 及 TSH、AMH 等生物標記與靜脈抽血結果具有高度相關性。這項創新未來有望成為回診間的居家非侵入性監測工具。
+
+第三，AID 系統的性別差異與精準自動化：2024 年 ISPAD 指引明確指出，黃體期的較高血糖是由黃體素介導，且會顯著降低速效胰島素的降糖作用。然而目前的 AID 系統尚無法自動因應此變化。在 UCSF 進行的完全自動化 AID 系統（無需宣告進食與計算碳水）初期小型世代研究中，次群體分析初步觀察到男性在多項血糖指標的改善程度略高於女性。這不僅凸顯了開發女性專屬演算法的必要性，也預告了未來 AID 將整合穿戴式裝置（如智慧戒指量測之體溫、心率）等生理訊號，邁向真正的精準自動化。
+
+臨床限制與保守解讀
+講者所提及之完全自動化 AID 系統的性別差異結果，僅為極小樣本（10名女性與12名男性）的次群體觀察性分析，且未納入月經週期的數據校正，因此對於「完全自動化 AID 對男性效果較佳」的推論尚待大型隨機對照試驗驗證。此外，經血診斷標記與各項數位孿生模型的臨床應用，目前多處於概念驗證與初步研究階段，距離廣泛應用與納入標準臨床指引仍需更多實證支持。
+
+當未來的自動化胰島素遞送系統開始常規整合患者的生理週期與各類穿戴裝置訊號時，臨床醫師應如何調整審閱報表與臨床決策的工作流程，以避免龐雜的數據反而造成醫療團隊的資訊超載？
+
+資料來源：
+ ATTD 2026, Session PS05: SHIFTING THE PARADIGM: INNOVATIONS IN GENDER-SPECIFIC DIABETES TECHNOLOGY (Speaker: Eda Cengiz).
+連結：https://tinyurl.com/23btgnr6
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://tinyurl.com/23btgnr6</description><content:encoded>ATTD 2026 演講重點：轉變典範—性別專屬糖尿病科技的創新與發展&lt;br /&gt;
+&lt;br /&gt;
+講者：Eda Cengiz&lt;br /&gt;
+場次：PS05 (SHIFTING THE PARADIGM: INNOVATIONS IN GENDER-SPECIFIC DIABETES TECHNOLOGY)&lt;br /&gt;
+&lt;br /&gt;
+臨床問題意識&lt;br /&gt;
+目前的糖尿病治療演算法大多基於男性為主或混合性別的人群進行開發與驗證，未能充分考量女性在青春期、月經週期、分娩到更年期等不同生命階段的生理性別與社會心理差異。隨著自動化胰島素遞送（AID）系統的普及，缺乏「月經週期感知」的性別中立演算法，使女性患者在面對荷爾蒙波動時，仍需承擔極高的疑難排解負擔，這也突顯了當前科技在精準醫療上的缺口。&lt;br /&gt;
+&lt;br /&gt;
+關鍵訊息與臨床實務啟發&lt;br /&gt;
+為了解決性別專屬的知識差距，科技所提供的「高數據密度」成為個人化照護的基礎。演講指出，性別專屬糖尿病科技的創新可分為以下幾個實務面向：&lt;br /&gt;
+&lt;br /&gt;
+第一，女性真實世界數據分析（Femalytics）：例如 Tidepool 的月經計畫正著手整合月經週期追蹤數據與連續血糖監測（CGM）、幫浦數據，建立大型開源資料庫；而 UCSF 團隊則利用電子病歷數據開發女性健康的數位孿生模型（Digital Twins），藉此釐清荷爾蒙波動與血糖變異性的關聯。這提示臨床醫師在解讀女性患者的 CGM 報表時，需更系統性地將月經週期與荷爾蒙變化納入考量。&lt;br /&gt;
+&lt;br /&gt;
+第二，無針檢測的潛在典範轉移：目前已有如 Qvin 等公司開發具備 FDA 許可的經血收集裝置（Q-Pad）投入研究，透過被動收集經血樣本進行檢測。初步觀察性數據顯示，經血樣本的 HbA1c 及 TSH、AMH 等生物標記與靜脈抽血結果具有高度相關性。這項創新未來有望成為回診間的居家非侵入性監測工具。&lt;br /&gt;
+&lt;br /&gt;
+第三，AID 系統的性別差異與精準自動化：2024 年 ISPAD 指引明確指出，黃體期的較高血糖是由黃體素介導，且會顯著降低速效胰島素的降糖作用。然而目前的 AID 系統尚無法自動因應此變化。在 UCSF 進行的完全自動化 AID 系統（無需宣告進食與計算碳水）初期小型世代研究中，次群體分析初步觀察到男性在多項血糖指標的改善程度略高於女性。這不僅凸顯了開發女性專屬演算法的必要性，也預告了未來 AID 將整合穿戴式裝置（如智慧戒指量測之體溫、心率）等生理訊號，邁向真正的精準自動化。&lt;br /&gt;
+&lt;br /&gt;
+臨床限制與保守解讀&lt;br /&gt;
+講者所提及之完全自動化 AID 系統的性別差異結果，僅為極小樣本（10名女性與12名男性）的次群體觀察性分析，且未納入月經週期的數據校正，因此對於「完全自動化 AID 對男性效果較佳」的推論尚待大型隨機對照試驗驗證。此外，經血診斷標記與各項數位孿生模型的臨床應用，目前多處於概念驗證與初步研究階段，距離廣泛應用與納入標準臨床指引仍需更多實證支持。&lt;br /&gt;
+&lt;br /&gt;
+當未來的自動化胰島素遞送系統開始常規整合患者的生理週期與各類穿戴裝置訊號時，臨床醫師應如何調整審閱報表與臨床決策的工作流程，以避免龐雜的數據反而造成醫療團隊的資訊超載？&lt;br /&gt;
+&lt;br /&gt;
+資料來源：&lt;br /&gt;
+ ATTD 2026, Session PS05: SHIFTING THE PARADIGM: INNOVATIONS IN GENDER-SPECIFIC DIABETES TECHNOLOGY (Speaker: Eda Cengiz).&lt;br /&gt;
+連結：https://tinyurl.com/23btgnr6&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://tinyurl.com/23btgnr6</content:encoded><pubDate>Tue, 26 May 2026 18:00:34 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-05-26-20260526-1720-attd2026-auto-eda-cengiz.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-05-26-20260526-1720-attd2026-auto-eda-cengiz.m4a" length="14859808" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>20:23</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-05-26-20260526-1720-attd2026-auto-eda-cengiz-podcast-cover.jpg" /><link>https://tinyurl.com/23btgnr6</link></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Richard M. Bergenstal - ADAPTING CGM REPORTS FOR THE USE IN REAL LIFE</title><description>ATTD 2026 專業整理：Richard M. Bergenstal - 將 CGM 報告落實於真實臨床情境 (Adapting CGM Reports for the Use in Real Life)
 
 本次演講核心處理的臨床痛點在於，面對日益普及的連續血糖監測 (CGM)，臨床醫師有時仍停留在單純開立處方或僅確認目標範圍內時間 (TIR)，而缺乏系統性解讀 AGP 報告並轉化為具體治療行動的框架。Richard M. Bergenstal 醫師指出，隨著第 1 型與第 2 型糖尿病治療策略逐漸融合，臨床團隊需要新的數據解讀視角與調整工具，才能發揮 CGM 的最大臨床價值。
 
