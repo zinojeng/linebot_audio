@@ -1,5 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Wed, 27 May 2026 04:36:43 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Torben Biester - NEW INSULINS, BIOSIMILARS AND INSULIN THERAPY</title><description>ATTD 2026 演講重點：新型胰島素、生物相似藥與胰島素治療進展
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Wed, 27 May 2026 05:02:19 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Martina Rothenbühler - INTERPLAY BETWEEN THE MENSTRUAL CYCLE AND TYPE 1 DIABETES MANAGEMENT</title><description>ATTD 2026 演講重點：月經週期與第一型糖尿病管理的交互作用
+
+這場由 Martina Rothenbühler 博士主講的內容，探討了第一型糖尿病女性在月經週期中面臨的血糖控制挑戰 。臨床實務中常聽聞女性病患在排卵期或經期需要大幅調整胰島素劑量，但過去對於月經週期引起胰島素需求變化的實證數據相對稀缺 。此演講旨在點出當前自動化胰島素給藥系統（AID）在應對女性荷爾蒙波動時的演算法盲區，並透過真實世界數據探討病患如何透過手動介入來維持平穩的血糖控制 。
+
+演講中分享了目前的研究進展，現階段的證據主要來自回溯性觀察資料與質性訪談。在與 Tidepool 合作的回溯性研究中，共收集 77 位美國女性、380 個月經週期（超過 10,105 天）的數據 。透過階層式貝氏模型與卡爾曼濾波器進行的胰島素敏感度建模證實，胰島素敏感度在月經週期中存在顯著波動：濾泡期的胰島素敏感度較高，而胰島素敏感度的最低點（即胰島素阻抗最高）落在中期黃體期，也就是排卵後四天至下次月經週期開始的前三天 。數據同時顯示，在整個月經週期中，連續血糖監測（CGM）數值與胰島素施打量會呈現同步上升的趨勢 。
+
+臨床行為方面，研究發現高達 42% 的使用者會針對這些變化進行 AID 系統的手動設定調整，且有回報進行手動調整的女性，其目標範圍內時間（TIR）顯著高於未調整者 。進一步的質性焦點團體訪談發現，使用者發展出多達 20 種介入措施，包含刻意開啟睡眠模式或體力活動模式等變通方法，藉由繞過（bypassing）演算法來應對胰島素需求的快速改變 。
+
+對內分泌臨床實務而言，這項研究點出了糖尿病科技發展中將男性身體視為預設標準的性別偏見問題 。目前的 AID 系統主要依賴過去長達兩週的歷史數據來預測當日的胰島素需求，這導致了學習落後（learning lag）的現象，系統缺乏荷爾蒙上下文資訊，無法即時適應劇烈的波動 。此外，由於病患頻繁透過變通模式繞過演算法，真實的生理變化無法進入系統的訓練模型與預測模型中，進一步加劇了演算法盲區 。
+
+然而，在臨床應用上仍需保守解讀這些發現。目前關於手動調整有助提升 TIR 的結論，主要基於回溯性與觀察性資料，尚無法完全排除運動、飲食行為或其他交干擾因子的影響 。為進一步釐清這些變數，目前正進行一項名為 TIMES 的跨國前瞻性臨床研究，計畫追蹤 350 位女性共 6 個月經週期的詳細數據，這些介入策略的實際效益尚待前瞻性試驗結果的進一步驗證 。
+
+在評估女性第一型糖尿病患者的 AID 系統數據時，臨床醫師可以如何系統性地將月經週期與病患自行採取的變通策略納入考量，以提供更精準且安全的個人化調整建議？
+
+來源：
+ ATTD 2026 演講稿 INTERPLAY BETWEEN THE MENSTRUAL CYCLE AND TYPE 1 DIABETES MANAGEMENT (Martina Rothenbühler, Session PS05)
+連結：https://tinyurl.com/2dh5ojhk
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://tinyurl.com/2dh5ojhk</description><content:encoded>ATTD 2026 演講重點：月經週期與第一型糖尿病管理的交互作用&lt;br /&gt;
+&lt;br /&gt;
+這場由 Martina Rothenbühler 博士主講的內容，探討了第一型糖尿病女性在月經週期中面臨的血糖控制挑戰 。臨床實務中常聽聞女性病患在排卵期或經期需要大幅調整胰島素劑量，但過去對於月經週期引起胰島素需求變化的實證數據相對稀缺 。此演講旨在點出當前自動化胰島素給藥系統（AID）在應對女性荷爾蒙波動時的演算法盲區，並透過真實世界數據探討病患如何透過手動介入來維持平穩的血糖控制 。&lt;br /&gt;
+&lt;br /&gt;
+演講中分享了目前的研究進展，現階段的證據主要來自回溯性觀察資料與質性訪談。在與 Tidepool 合作的回溯性研究中，共收集 77 位美國女性、380 個月經週期（超過 10,105 天）的數據 。透過階層式貝氏模型與卡爾曼濾波器進行的胰島素敏感度建模證實，胰島素敏感度在月經週期中存在顯著波動：濾泡期的胰島素敏感度較高，而胰島素敏感度的最低點（即胰島素阻抗最高）落在中期黃體期，也就是排卵後四天至下次月經週期開始的前三天 。數據同時顯示，在整個月經週期中，連續血糖監測（CGM）數值與胰島素施打量會呈現同步上升的趨勢 。&lt;br /&gt;
+&lt;br /&gt;
+臨床行為方面，研究發現高達 42% 的使用者會針對這些變化進行 AID 系統的手動設定調整，且有回報進行手動調整的女性，其目標範圍內時間（TIR）顯著高於未調整者 。進一步的質性焦點團體訪談發現，使用者發展出多達 20 種介入措施，包含刻意開啟睡眠模式或體力活動模式等變通方法，藉由繞過（bypassing）演算法來應對胰島素需求的快速改變 。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務而言，這項研究點出了糖尿病科技發展中將男性身體視為預設標準的性別偏見問題 。目前的 AID 系統主要依賴過去長達兩週的歷史數據來預測當日的胰島素需求，這導致了學習落後（learning lag）的現象，系統缺乏荷爾蒙上下文資訊，無法即時適應劇烈的波動 。此外，由於病患頻繁透過變通模式繞過演算法，真實的生理變化無法進入系統的訓練模型與預測模型中，進一步加劇了演算法盲區 。&lt;br /&gt;
+&lt;br /&gt;
+然而，在臨床應用上仍需保守解讀這些發現。目前關於手動調整有助提升 TIR 的結論，主要基於回溯性與觀察性資料，尚無法完全排除運動、飲食行為或其他交干擾因子的影響 。為進一步釐清這些變數，目前正進行一項名為 TIMES 的跨國前瞻性臨床研究，計畫追蹤 350 位女性共 6 個月經週期的詳細數據，這些介入策略的實際效益尚待前瞻性試驗結果的進一步驗證 。&lt;br /&gt;
+&lt;br /&gt;
+在評估女性第一型糖尿病患者的 AID 系統數據時，臨床醫師可以如何系統性地將月經週期與病患自行採取的變通策略納入考量，以提供更精準且安全的個人化調整建議？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ ATTD 2026 演講稿 INTERPLAY BETWEEN THE MENSTRUAL CYCLE AND TYPE 1 DIABETES MANAGEMENT (Martina Rothenbühler, Session PS05)&lt;br /&gt;
+連結：https://tinyurl.com/2dh5ojhk&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://tinyurl.com/2dh5ojhk</content:encoded><pubDate>Wed, 27 May 2026 13:00:55 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-05-27-20260527-1220-attd2026-scientific_parallel-martina-rothenb-hler.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-05-27-20260527-1220-attd2026-scientific_parallel-martina-rothenb-hler.m4a" length="14768297" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>20:16</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-05-27-20260527-1220-attd2026-scientific_parallel-martina-rothenb-hler.jpg" /><link>https://tinyurl.com/2dh5ojhk</link></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Torben Biester - NEW INSULINS, BIOSIMILARS AND INSULIN THERAPY</title><description>ATTD 2026 演講重點：新型胰島素、生物相似藥與胰島素治療進展
 
 本次演講由 Torben Biester 醫師於 PL-YEARBOOK 議程中發表，統整了過去一年內關於胰島素治療的關鍵文獻與未來趨勢，旨在探討如何透過新型胰島素製劑與給藥科技，進一步優化第 1 型糖尿病患者的血糖控制與治療選擇。
 
