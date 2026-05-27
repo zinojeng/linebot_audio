@@ -1,5 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Tue, 26 May 2026 23:44:59 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Eda Cengiz - SHIFTING THE PARADIGM: INNOVATIONS IN GENDER-SPECIFIC DIABETES TECHNOLOGY</title><description>ATTD 2026 演講重點：轉變典範—性別專屬糖尿病科技的創新與發展
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Wed, 27 May 2026 00:02:13 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Torben Biester - NEW INSULINS, BIOSIMILARS AND INSULIN THERAPY</title><description>ATTD 2026 演講重點：新型胰島素、生物相似藥與胰島素治療進展
+
+本次演講由 Torben Biester 醫師於 PL-YEARBOOK 議程中發表，統整了過去一年內關於胰島素治療的關鍵文獻與未來趨勢，旨在探討如何透過新型胰島素製劑與給藥科技，進一步優化第 1 型糖尿病患者的血糖控制與治療選擇。
+
+演講首先勾勒了未來幾年內分泌臨床實務將面臨的版圖變化：隨著生物相似藥大量問世，患者將擁有更多元且具經濟效益的選擇；同時，超長效的 Fc 融合胰島素（Fc insulin）與 Icodec 胰島素的臨床數據正大量湧現，可望大幅改變基礎胰島素的給藥頻率；此外，吸入性胰島素（Inhaled insulin）的臨床試驗探討也越發蓬勃 。
+
+在臨床應用核心，講者特別聚焦於超速效胰島素類似物搭配混合閉環系統（如 CamAPS FX 演算法）的實際效益。一項由劍橋大學團隊發表的事後分析，檢視了兩項設計完全相同的雙盲、隨機交叉試驗。結果揭示了重要的臨床訊息：在控制餐後 2 小時與 4 小時的增量血糖曲線下面積（iAUC）上，新型配方的 Lispro-treprostinil 療效確實優於傳統的 Lispro；但值得注意的是，Faster Aspart 卻未能在該自動胰島素給藥系統中展現出優於傳統 Aspart 的表現 。這提醒了臨床醫師，並非所有標榜超速效的胰島素在自動給藥系統中都能帶來對等的額外臨床益處。
+
+在證據層級與臨床解讀的限制上，講者強調雖然上述兩項隨機對照試驗採用了相同的試驗計畫書，提供了難得的比較框架，但因兩項試驗的受試者群體為不同的一群人，臨床實務上仍應保守解讀，避免直接將兩種新型超速效物質進行直接的優劣定論 。另外，演講亦提及發表於《Diabetes Care》的 INHALE-3 隨機試驗，該研究探討了吸入性胰島素搭配基礎胰島素對比常規治療的差異，開啟了非常規給藥途徑的討論，但其實際的全面效益仍需依賴該試驗後續公佈的完整數據來驗證 。
+
+隨著各類新型超速效胰島素與不同自動化演算法的組合日益多元，臨床團隊未來在為閉環系統使用者制定個人化治療策略時，應如何更精確地評估不同藥理特性與特定演算法演繹邏輯之間的交互作用？
+
+資料來源：
+1. ATTD 2026 Session PL-YEARBOOK: NEW INSULINS, BIOSIMILARS AND INSULIN THERAPY (Speaker: Torben Biester)
+連結：https://tinyurl.com/27fmuvgq
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://tinyurl.com/27fmuvgq</description><content:encoded>ATTD 2026 演講重點：新型胰島素、生物相似藥與胰島素治療進展&lt;br /&gt;
+&lt;br /&gt;
+本次演講由 Torben Biester 醫師於 PL-YEARBOOK 議程中發表，統整了過去一年內關於胰島素治療的關鍵文獻與未來趨勢，旨在探討如何透過新型胰島素製劑與給藥科技，進一步優化第 1 型糖尿病患者的血糖控制與治療選擇。&lt;br /&gt;
+&lt;br /&gt;
+演講首先勾勒了未來幾年內分泌臨床實務將面臨的版圖變化：隨著生物相似藥大量問世，患者將擁有更多元且具經濟效益的選擇；同時，超長效的 Fc 融合胰島素（Fc insulin）與 Icodec 胰島素的臨床數據正大量湧現，可望大幅改變基礎胰島素的給藥頻率；此外，吸入性胰島素（Inhaled insulin）的臨床試驗探討也越發蓬勃 。&lt;br /&gt;
+&lt;br /&gt;
+在臨床應用核心，講者特別聚焦於超速效胰島素類似物搭配混合閉環系統（如 CamAPS FX 演算法）的實際效益。一項由劍橋大學團隊發表的事後分析，檢視了兩項設計完全相同的雙盲、隨機交叉試驗。結果揭示了重要的臨床訊息：在控制餐後 2 小時與 4 小時的增量血糖曲線下面積（iAUC）上，新型配方的 Lispro-treprostinil 療效確實優於傳統的 Lispro；但值得注意的是，Faster Aspart 卻未能在該自動胰島素給藥系統中展現出優於傳統 Aspart 的表現 。這提醒了臨床醫師，並非所有標榜超速效的胰島素在自動給藥系統中都能帶來對等的額外臨床益處。&lt;br /&gt;
+&lt;br /&gt;
+在證據層級與臨床解讀的限制上，講者強調雖然上述兩項隨機對照試驗採用了相同的試驗計畫書，提供了難得的比較框架，但因兩項試驗的受試者群體為不同的一群人，臨床實務上仍應保守解讀，避免直接將兩種新型超速效物質進行直接的優劣定論 。另外，演講亦提及發表於《Diabetes Care》的 INHALE-3 隨機試驗，該研究探討了吸入性胰島素搭配基礎胰島素對比常規治療的差異，開啟了非常規給藥途徑的討論，但其實際的全面效益仍需依賴該試驗後續公佈的完整數據來驗證 。&lt;br /&gt;
+&lt;br /&gt;
+隨著各類新型超速效胰島素與不同自動化演算法的組合日益多元，臨床團隊未來在為閉環系統使用者制定個人化治療策略時，應如何更精確地評估不同藥理特性與特定演算法演繹邏輯之間的交互作用？&lt;br /&gt;
+&lt;br /&gt;
+資料來源：&lt;br /&gt;
+1. ATTD 2026 Session PL-YEARBOOK: NEW INSULINS, BIOSIMILARS AND INSULIN THERAPY (Speaker: Torben Biester)&lt;br /&gt;
+連結：https://tinyurl.com/27fmuvgq&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://tinyurl.com/27fmuvgq</content:encoded><pubDate>Wed, 27 May 2026 08:00:56 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-05-27-20260527-0726-attd2026-plenary-torben-biester.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-05-27-20260527-0726-attd2026-plenary-torben-biester.m4a" length="15578759" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>21:21</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-05-27-20260527-0726-attd2026-plenary-torben-biester.jpg" /><link>https://tinyurl.com/27fmuvgq</link></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Eda Cengiz - SHIFTING THE PARADIGM: INNOVATIONS IN GENDER-SPECIFIC DIABETES TECHNOLOGY</title><description>ATTD 2026 演講重點：轉變典範—性別專屬糖尿病科技的創新與發展
 
 講者：Eda Cengiz
 場次：PS05 (SHIFTING THE PARADIGM: INNOVATIONS IN GENDER-SPECIFIC DIABETES TECHNOLOGY)
