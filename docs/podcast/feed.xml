@@ -1,5 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Thu, 28 May 2026 04:40:20 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Viral N. Shah - OBESITY AND DIABETES</title><description>ATTD 2026 演講重點：Viral N. Shah 解析肥胖與糖尿病的最新進展、免疫代謝機轉與早期介入
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Thu, 28 May 2026 05:02:10 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Dessi P. Zaharieva - EXERCISE AND TYPE 1 DIABETES: CLINICAL TRIALS VERSUS REAL-WORLD EVIDENCE - WHICH TELLS THE FULL STORY?</title><description>ATTD 2026 專業整理：第1型糖尿病與運動—臨床試驗與真實世界證據的落差與整合
+
+在本次 ATTD 2026 的 PS03 場次中，講者 Dessi P. Zaharieva 深入探討了第 1 型糖尿病（T1D）患者在運動管理上，標準化臨床試驗（RCT）與自由生活真實世界證據（RWE）之間的巨大鴻溝與互補性。
+
+本場演講欲處理的臨床核心問題在於，現行的運動共識指引在真實世界中往往難以執行。一項針對超過 100 位具規律運動習慣之 T1D 成人的調查指出，即使是經常達標的患者，也鮮少完全遵從指引中建議的胰島素調整或進食策略，且運動後低血糖與糖尿病酮酸中毒（DKA）的風險依然普遍存在 。這凸顯了高度受控的 RCT 雖能提供生理機轉的深刻見解，但普遍性受限；而 RWE 雖充滿變異與雜訊，卻能真實反映患者的日常挑戰 。
+
+在科技輔助與實務調整上，近期的 RCT 提供了許多具臨床價值的微調策略。以 Omnipod 5 關鍵試驗的子研究（N=38）為例，數據顯示患者若能在運動前 30 分鐘或 60 分鐘啟動活動功能（Activity feature），其減少胰島素輸注並降低低血糖風險的效果顯著優於 Auto 模式（低血糖發生率分別約為 24%、29% 對比 43%）。這提示臨床醫師，即便患者無法依循傳統指引在運動前兩小時進行設定，提前 30 分鐘的介入依舊具備保護效力。此外，一項針對青少年的小型 RCT 顯示，運用 mHealth 應用程式輔助阻力訓練，能顯著減少每日總胰島素劑量（-0.17 U/kg/day）且不增加低血糖風險 。另外，來自 FACTS 研究尚待發表的數據提示，鼓勵患者設定暫時性目標（TempTarget），可能有助於增加嚴格目標範圍內時間（Time in tight range）並減少低血糖 。
+
+真實世界數據（RWE）則帶來了突破傳統框架的啟發。大型 T1DEXI 觀察性數據顯示，在真實世界中，無氧運動並不一定如過往認知般總會造成血糖上升，這反映了日常生活型態的複雜度 。針對新診斷 T1D 青少年的 4T 縱向觀察計畫（N=98，含 42% 西班牙裔）則證實了單純結合活動追蹤器與運動衛教的影響力：相較於久坐日，運動日的高於目標範圍時間（TAR）顯著減少且目標範圍內時間（TIR）增加，且低於目標範圍時間（TBR）仍維持在小於 4% 的臨床標準內。追蹤 12 個月後，衛教組不僅步數與中高強度活動時間顯著增加，其 HbA1c（7.5%）也優於僅配戴裝置的對照組（7.9%） [8-10]。
+
+在解讀這些證據時，臨床團隊需保持保守。例如，針對 mHealth 應用程式的 RCT 樣本數較小且追蹤期短，尚無法直接推論至長期的真實世界表現 ；而 FACTS 研究關於 TempTarget 的發現仍屬未發表數據，尚待同儕審查 。真實世界數據雖普遍性高，但容易受到漏打胰島素、非預期進食等變數干擾 。講者強調，未來的研究將朝向實驗室與居家環境結合的混合型設計發展（例如近期的 CGM 準確度頭對頭比較），唯有兼顧兩者，才能描繪出 T1D 運動管理的完整樣貌 。
+
+在現行共識指引往往難以完全落實於病患日常的挑戰下，臨床團隊未來該如何更有彈性地結合連續性血糖監測（CGM）與真實世界數據，為 T1D 患者制定更個人化的運動胰島素調整策略？
+
+資料來源：
+ ATTD 2026 lecture source: EXERCISE AND TYPE 1 DIABETES: CLINICAL TRIALS VERSUS REAL-WORLD EVIDENCE - WHICH TELLS THE FULL STORY? (Speaker: Dessi P. Zaharieva)
+連結：https://www.google.com/search?q=ATTD+2026+Dessi+P.+Zaharieva+EXERCISE+AND+TYPE+1+DIABETES%3A+CLINICAL+TRIALS+VERSUS+REAL-WORLD+EVIDENCE+-+WHICH+TELLS+THE+FULL+STORY%3F
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://www.google.com/search?q=ATTD+2026+Dessi+P.+Zaharieva+EXERCISE+AND+TYPE+1+DIABETES%3A+CLINICAL+TRIALS+VERSUS+REAL-WORLD+EVIDENCE+-+WHICH+TELLS+THE+FULL+STORY%3F</description><content:encoded>ATTD 2026 專業整理：第1型糖尿病與運動—臨床試驗與真實世界證據的落差與整合&lt;br /&gt;
+&lt;br /&gt;
+在本次 ATTD 2026 的 PS03 場次中，講者 Dessi P. Zaharieva 深入探討了第 1 型糖尿病（T1D）患者在運動管理上，標準化臨床試驗（RCT）與自由生活真實世界證據（RWE）之間的巨大鴻溝與互補性。&lt;br /&gt;
+&lt;br /&gt;
+本場演講欲處理的臨床核心問題在於，現行的運動共識指引在真實世界中往往難以執行。一項針對超過 100 位具規律運動習慣之 T1D 成人的調查指出，即使是經常達標的患者，也鮮少完全遵從指引中建議的胰島素調整或進食策略，且運動後低血糖與糖尿病酮酸中毒（DKA）的風險依然普遍存在 。這凸顯了高度受控的 RCT 雖能提供生理機轉的深刻見解，但普遍性受限；而 RWE 雖充滿變異與雜訊，卻能真實反映患者的日常挑戰 。&lt;br /&gt;
+&lt;br /&gt;
+在科技輔助與實務調整上，近期的 RCT 提供了許多具臨床價值的微調策略。以 Omnipod 5 關鍵試驗的子研究（N=38）為例，數據顯示患者若能在運動前 30 分鐘或 60 分鐘啟動活動功能（Activity feature），其減少胰島素輸注並降低低血糖風險的效果顯著優於 Auto 模式（低血糖發生率分別約為 24%、29% 對比 43%）。這提示臨床醫師，即便患者無法依循傳統指引在運動前兩小時進行設定，提前 30 分鐘的介入依舊具備保護效力。此外，一項針對青少年的小型 RCT 顯示，運用 mHealth 應用程式輔助阻力訓練，能顯著減少每日總胰島素劑量（-0.17 U/kg/day）且不增加低血糖風險 。另外，來自 FACTS 研究尚待發表的數據提示，鼓勵患者設定暫時性目標（TempTarget），可能有助於增加嚴格目標範圍內時間（Time in tight range）並減少低血糖 。&lt;br /&gt;
+&lt;br /&gt;
+真實世界數據（RWE）則帶來了突破傳統框架的啟發。大型 T1DEXI 觀察性數據顯示，在真實世界中，無氧運動並不一定如過往認知般總會造成血糖上升，這反映了日常生活型態的複雜度 。針對新診斷 T1D 青少年的 4T 縱向觀察計畫（N=98，含 42% 西班牙裔）則證實了單純結合活動追蹤器與運動衛教的影響力：相較於久坐日，運動日的高於目標範圍時間（TAR）顯著減少且目標範圍內時間（TIR）增加，且低於目標範圍時間（TBR）仍維持在小於 4% 的臨床標準內。追蹤 12 個月後，衛教組不僅步數與中高強度活動時間顯著增加，其 HbA1c（7.5%）也優於僅配戴裝置的對照組（7.9%） [8-10]。&lt;br /&gt;
+&lt;br /&gt;
+在解讀這些證據時，臨床團隊需保持保守。例如，針對 mHealth 應用程式的 RCT 樣本數較小且追蹤期短，尚無法直接推論至長期的真實世界表現 ；而 FACTS 研究關於 TempTarget 的發現仍屬未發表數據，尚待同儕審查 。真實世界數據雖普遍性高，但容易受到漏打胰島素、非預期進食等變數干擾 。講者強調，未來的研究將朝向實驗室與居家環境結合的混合型設計發展（例如近期的 CGM 準確度頭對頭比較），唯有兼顧兩者，才能描繪出 T1D 運動管理的完整樣貌 。&lt;br /&gt;
+&lt;br /&gt;
+在現行共識指引往往難以完全落實於病患日常的挑戰下，臨床團隊未來該如何更有彈性地結合連續性血糖監測（CGM）與真實世界數據，為 T1D 患者制定更個人化的運動胰島素調整策略？&lt;br /&gt;
+&lt;br /&gt;
+資料來源：&lt;br /&gt;
+ ATTD 2026 lecture source: EXERCISE AND TYPE 1 DIABETES: CLINICAL TRIALS VERSUS REAL-WORLD EVIDENCE - WHICH TELLS THE FULL STORY? (Speaker: Dessi P. Zaharieva)&lt;br /&gt;
+連結：https://www.google.com/search?q=ATTD+2026+Dessi+P.+Zaharieva+EXERCISE+AND+TYPE+1+DIABETES%3A+CLINICAL+TRIALS+VERSUS+REAL-WORLD+EVIDENCE+-+WHICH+TELLS+THE+FULL+STORY%3F&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://www.google.com/search?q=ATTD+2026+Dessi+P.+Zaharieva+EXERCISE+AND+TYPE+1+DIABETES%3A+CLINICAL+TRIALS+VERSUS+REAL-WORLD+EVIDENCE+-+WHICH+TELLS+THE+FULL+STORY%3F</content:encoded><pubDate>Thu, 28 May 2026 13:00:39 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-05-28-20260528-1220-attd2026-scientific_parallel-dessi-p-zaharieva.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-05-28-20260528-1220-attd2026-scientific_parallel-dessi-p-zaharieva.m4a" length="9847330" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>13:29</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-05-28-20260528-1220-attd2026-scientific_parallel-dessi-p-zaharieva.jpg" /><link>https://www.google.com/search?q=ATTD+2026+Dessi+P.+Zaharieva+EXERCISE+AND+TYPE+1+DIABETES%3A+CLINICAL+TRIALS+VERSUS+REAL-WORLD+EVIDENCE+-+WHICH+TELLS+THE+FULL+STORY%3F</link></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Viral N. Shah - OBESITY AND DIABETES</title><description>ATTD 2026 演講重點：Viral N. Shah 解析肥胖與糖尿病的最新進展、免疫代謝機轉與早期介入
 
 本次摘要整理自 ATTD 2026 PL-YEARBOOK 議程，由 Viral N. Shah 醫師主講的「OBESITY AND DIABETES」。本場演講主要探討三個核心臨床議題：第一型糖尿病的疾病修飾與細胞療法進展、肥胖引發的免疫代謝失調機轉，以及 GLP-1 相關藥物在重塑「糖尿病前期」臨床定義上的潛力。
 
