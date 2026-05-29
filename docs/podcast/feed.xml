@@ -1,5 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Fri, 29 May 2026 09:40:12 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Michael C. Riddell - LACTATE METABOLISM AND WHY A CONTINUOUS LACTATE MONITOR MIGHT BE OF VALUE</title><description>ATTD 2026 演講重點：乳酸代謝新觀念與連續乳酸監測儀在糖尿病照護的潛力
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Fri, 29 May 2026 10:01:45 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Deniz Dalton - HELMSLEY FUNDING AREAS AND TYPE 1 DIABETES AND EXERCISE INITIATIVE (T1-DEXI)</title><description>ATTD 2026 專業整理：第一型糖尿病與運動倡議 (T1-DEXI) 的真實世界數據與臨床挑戰
+
+本次演講由 Helmsley 慈善基金會第一型糖尿病計畫負責人 Deniz Dalton 主講，聚焦探討「第一型糖尿病與運動倡議」(T1-DEXI) 所揭示的臨床挑戰與未來解方 , 。過去關於第一型糖尿病與運動的數據多來自規模小、範圍受限且時間短的臨床研究，難以提供全面且落地的臨床指引 。為此，T1-DEXI 啟動了一項涵蓋 750 名成人的為期一個月真實世界研究，收集了包含高強度間歇運動、阻力訓練及日常體能活動等廣泛數據，並將資料公開以促進跨領域的研發合作 , 。
+
+講者指出，T1-DEXI 的真實世界數據凸顯了目前臨床實務上的幾個關鍵困境 。首先在科技面，現有的自動胰島素給藥 (AID) 系統仍無法有效處理持續超過 30 分鐘的運動，這促使學界開始著手開發能將運動因素納入考量的新型演算法 。其次，現行皮下注射胰島素的作用與清除速度往往無法跟上運動期間快速變化的生理需求，導致許多病患仍必須高度依賴補充碳水化合物來預防運動前後的低血糖，目前正有團隊針對吸入性胰島素結合 AID 系統的創新應用進行探索 。此外，女性患者在月經週期、第一型糖尿病與運動交集處面臨的獨特挑戰，也是過去較少被充分檢視的重要領域 。
+
+對於內分泌臨床照護團隊而言，這項倡議最大的啟發在於提醒我們，儘管關於第一型糖尿病運動的臨床指引已經存在，但真實世界中的採用率依然相當有限，如何落實衛教並弭平臨床缺口仍是一大考驗 。在解讀這些資訊時，臨床醫師應保持一定的保守態度：T1-DEXI 本質上屬於觀察性的真實世界數據庫 ，而演講中提及的新型演算法、吸入性胰島素搭配 AID 等介入方式，目前多屬於正在進行中的研究專案或早期探索，其實際療效與臨床適用性仍尚待未來更嚴謹的試驗驗證 。
+
+隨著 AID 系統日益普及但仍難以完美應對運動挑戰，臨床團隊在現有科技與藥物動力學的限制下，該如何更精準地客製化調整給藥策略與碳水化合物補充，以切實提高患者遵循運動指引的安全感與意願？
+
+資料來源：
+ ATTD 2026 演講稿與投影片解析：HELMSLEY FUNDING AREAS AND TYPE 1 DIABETES AND EXERCISE INITIATIVE (T1-DEXI), Deniz Dalton. Session: PS06.
+連結：https://tinyurl.com/2xwkcx3g
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://tinyurl.com/2xwkcx3g</description><content:encoded>ATTD 2026 專業整理：第一型糖尿病與運動倡議 (T1-DEXI) 的真實世界數據與臨床挑戰&lt;br /&gt;
+&lt;br /&gt;
+本次演講由 Helmsley 慈善基金會第一型糖尿病計畫負責人 Deniz Dalton 主講，聚焦探討「第一型糖尿病與運動倡議」(T1-DEXI) 所揭示的臨床挑戰與未來解方 , 。過去關於第一型糖尿病與運動的數據多來自規模小、範圍受限且時間短的臨床研究，難以提供全面且落地的臨床指引 。為此，T1-DEXI 啟動了一項涵蓋 750 名成人的為期一個月真實世界研究，收集了包含高強度間歇運動、阻力訓練及日常體能活動等廣泛數據，並將資料公開以促進跨領域的研發合作 , 。&lt;br /&gt;
+&lt;br /&gt;
+講者指出，T1-DEXI 的真實世界數據凸顯了目前臨床實務上的幾個關鍵困境 。首先在科技面，現有的自動胰島素給藥 (AID) 系統仍無法有效處理持續超過 30 分鐘的運動，這促使學界開始著手開發能將運動因素納入考量的新型演算法 。其次，現行皮下注射胰島素的作用與清除速度往往無法跟上運動期間快速變化的生理需求，導致許多病患仍必須高度依賴補充碳水化合物來預防運動前後的低血糖，目前正有團隊針對吸入性胰島素結合 AID 系統的創新應用進行探索 。此外，女性患者在月經週期、第一型糖尿病與運動交集處面臨的獨特挑戰，也是過去較少被充分檢視的重要領域 。&lt;br /&gt;
+&lt;br /&gt;
+對於內分泌臨床照護團隊而言，這項倡議最大的啟發在於提醒我們，儘管關於第一型糖尿病運動的臨床指引已經存在，但真實世界中的採用率依然相當有限，如何落實衛教並弭平臨床缺口仍是一大考驗 。在解讀這些資訊時，臨床醫師應保持一定的保守態度：T1-DEXI 本質上屬於觀察性的真實世界數據庫 ，而演講中提及的新型演算法、吸入性胰島素搭配 AID 等介入方式，目前多屬於正在進行中的研究專案或早期探索，其實際療效與臨床適用性仍尚待未來更嚴謹的試驗驗證 。&lt;br /&gt;
+&lt;br /&gt;
+隨著 AID 系統日益普及但仍難以完美應對運動挑戰，臨床團隊在現有科技與藥物動力學的限制下，該如何更精準地客製化調整給藥策略與碳水化合物補充，以切實提高患者遵循運動指引的安全感與意願？&lt;br /&gt;
+&lt;br /&gt;
+資料來源：&lt;br /&gt;
+ ATTD 2026 演講稿與投影片解析：HELMSLEY FUNDING AREAS AND TYPE 1 DIABETES AND EXERCISE INITIATIVE (T1-DEXI), Deniz Dalton. Session: PS06.&lt;br /&gt;
+連結：https://tinyurl.com/2xwkcx3g&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://tinyurl.com/2xwkcx3g</content:encoded><pubDate>Fri, 29 May 2026 18:00:16 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-05-29-20260529-1720-attd2026-auto-deniz-dalton.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-05-29-20260529-1720-attd2026-auto-deniz-dalton.m4a" length="13491767" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>18:26</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-05-29-20260529-1720-attd2026-auto-deniz-dalton.jpg" /><link>https://tinyurl.com/2xwkcx3g</link></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Michael C. Riddell - LACTATE METABOLISM AND WHY A CONTINUOUS LACTATE MONITOR MIGHT BE OF VALUE</title><description>ATTD 2026 演講重點：乳酸代謝新觀念與連續乳酸監測儀在糖尿病照護的潛力
 
 在第一型糖尿病的臨床照護中，運動期間與運動後的血糖波動一直是自動胰島素傳輸（AID）系統面臨的重大挑戰。傳統上，高強度無氧運動常導致反調節荷爾蒙大量釋放而引發高血糖，但目前的 AID 系統往往只能被動反應。Michael C. Riddell 博士在 ATTD 2026 的演講中，探討了連續乳酸監測儀（CLM）的發展，以及它如何作為突破此瓶頸的關鍵生理指標。
 
