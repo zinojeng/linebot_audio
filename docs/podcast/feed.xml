@@ -1,5 +1,51 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Fri, 29 May 2026 04:36:42 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Gregg D. Simonson - PRIMARY CARE AND DIABETES TECHNOLOGIES AND TREATMENTS</title><description>ATTD 2026 演講重點：基層醫療的糖尿病科技應用與高齡照護去處方化 (Primary Care and Diabetes Technologies and Treatments)
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Fri, 29 May 2026 05:02:22 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Michael C. Riddell - LACTATE METABOLISM AND WHY A CONTINUOUS LACTATE MONITOR MIGHT BE OF VALUE</title><description>ATTD 2026 演講重點：乳酸代謝新觀念與連續乳酸監測儀在糖尿病照護的潛力
+
+在第一型糖尿病的臨床照護中，運動期間與運動後的血糖波動一直是自動胰島素傳輸（AID）系統面臨的重大挑戰。傳統上，高強度無氧運動常導致反調節荷爾蒙大量釋放而引發高血糖，但目前的 AID 系統往往只能被動反應。Michael C. Riddell 博士在 ATTD 2026 的演講中，探討了連續乳酸監測儀（CLM）的發展，以及它如何作為突破此瓶頸的關鍵生理指標。
+
+演講關鍵訊息與機轉探討：
+過去醫學界普遍將乳酸視為無氧代謝的廢物與肌肉疲勞的元兇，但當代生理學已重塑此觀念。乳酸實際上是一種重要的能量來源（供慢縮肌、心臟與大腦使用）與信號分子，能促進血管新生與粒線體生成。在運動期間，乳酸產生的速率呈指數增長，其變化與骨骼肌的代謝壓力高度相關。
+
+針對運動員與代謝疾病患者，傳統測試仰賴頻繁的指尖或耳垂採血來尋找乳酸閾值。隨著生物感測技術的進步，分析汗液、組織間液的微針技術，以及結合光學讀取的多重分析物感測器（如同時測量酮體、乳酸與葡萄糖的概念型裝置）正快速發展，宣告連續乳酸監測時代即將到來。
+
+對內分泌臨床實務的啟發：
+Riddell 博士團隊與加州大學合作的初步臨床數據顯示，第一型糖尿病患者在進行高強度運動時，乳酸的急遽上升往往早於葡萄糖的攀升。在臨床實務上，乳酸可被視為一種「早期預警信號」。若未來的閉環人工胰臟系統能整合 CLM 數據，演算法將有機會提前辨識高度無氧代謝活動，並更積極、主動地調整胰島素輸注，以應對隨後的高血糖，而非單純等待 CGM 數值上升才被動介入。這也意味著未來臨床醫師與照護團隊可能不再需要將患者的運動生硬地劃分為純有氧或純無氧，而是依據個體化的多重代謝物動態反應來提供精準醫療。
+
+需要保守解讀與後續驗證之處：
+儘管 CLM 展現出優化 AID 系統的巨大潛力，但目前的技術仍多處於概念驗證與早期開發階段。講者坦言，當前的乳酸感測器在體外實驗極為精準，但在活體內的平均絕對相對誤差（MARD）仍偏高，尚需克服生物體內的干擾因素，距離常規臨床應用仍有一段距離。此外，在 Q&amp;A 階段提及使用 GLP-1 或是 SGLT2 抑制劑等輔助療法是否能降低運動期間的低血糖風險，專家群亦強調目前針對第一型糖尿病的觀察性數據極為有限，機轉尚待釐清，仍需要大型隨機對照試驗來驗證，現階段不應過度推論其具備明確的保護療效。
+
+隨著連續生理監測技術逐漸跨越單一葡萄糖指標，當未來的自動胰島素傳輸系統開始接收乳酸的即時數據時，臨床醫師應如何重新建構針對複雜運動型態的胰島素調整邏輯，以在預防高強度運動當下的高血糖，與防範運動後因乳酸清除及受體敏感度改變所導致的遲發性低血糖之間，取得最佳平衡？
+
+資料來源：
+ ATTD 2026 演講：LACTATE METABOLISM AND WHY A CONTINUOUS LACTATE MONITOR MIGHT BE OF VALUE (講者: Michael C. Riddell, Session: PS03)
+連結：https://tinyurl.com/26n6mea2
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://tinyurl.com/26n6mea2</description><content:encoded>ATTD 2026 演講重點：乳酸代謝新觀念與連續乳酸監測儀在糖尿病照護的潛力&lt;br /&gt;
+&lt;br /&gt;
+在第一型糖尿病的臨床照護中，運動期間與運動後的血糖波動一直是自動胰島素傳輸（AID）系統面臨的重大挑戰。傳統上，高強度無氧運動常導致反調節荷爾蒙大量釋放而引發高血糖，但目前的 AID 系統往往只能被動反應。Michael C. Riddell 博士在 ATTD 2026 的演講中，探討了連續乳酸監測儀（CLM）的發展，以及它如何作為突破此瓶頸的關鍵生理指標。&lt;br /&gt;
+&lt;br /&gt;
+演講關鍵訊息與機轉探討：&lt;br /&gt;
+過去醫學界普遍將乳酸視為無氧代謝的廢物與肌肉疲勞的元兇，但當代生理學已重塑此觀念。乳酸實際上是一種重要的能量來源（供慢縮肌、心臟與大腦使用）與信號分子，能促進血管新生與粒線體生成。在運動期間，乳酸產生的速率呈指數增長，其變化與骨骼肌的代謝壓力高度相關。&lt;br /&gt;
+&lt;br /&gt;
+針對運動員與代謝疾病患者，傳統測試仰賴頻繁的指尖或耳垂採血來尋找乳酸閾值。隨著生物感測技術的進步，分析汗液、組織間液的微針技術，以及結合光學讀取的多重分析物感測器（如同時測量酮體、乳酸與葡萄糖的概念型裝置）正快速發展，宣告連續乳酸監測時代即將到來。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的啟發：&lt;br /&gt;
+Riddell 博士團隊與加州大學合作的初步臨床數據顯示，第一型糖尿病患者在進行高強度運動時，乳酸的急遽上升往往早於葡萄糖的攀升。在臨床實務上，乳酸可被視為一種「早期預警信號」。若未來的閉環人工胰臟系統能整合 CLM 數據，演算法將有機會提前辨識高度無氧代謝活動，並更積極、主動地調整胰島素輸注，以應對隨後的高血糖，而非單純等待 CGM 數值上升才被動介入。這也意味著未來臨床醫師與照護團隊可能不再需要將患者的運動生硬地劃分為純有氧或純無氧，而是依據個體化的多重代謝物動態反應來提供精準醫療。&lt;br /&gt;
+&lt;br /&gt;
+需要保守解讀與後續驗證之處：&lt;br /&gt;
+儘管 CLM 展現出優化 AID 系統的巨大潛力，但目前的技術仍多處於概念驗證與早期開發階段。講者坦言，當前的乳酸感測器在體外實驗極為精準，但在活體內的平均絕對相對誤差（MARD）仍偏高，尚需克服生物體內的干擾因素，距離常規臨床應用仍有一段距離。此外，在 Q&amp;A 階段提及使用 GLP-1 或是 SGLT2 抑制劑等輔助療法是否能降低運動期間的低血糖風險，專家群亦強調目前針對第一型糖尿病的觀察性數據極為有限，機轉尚待釐清，仍需要大型隨機對照試驗來驗證，現階段不應過度推論其具備明確的保護療效。&lt;br /&gt;
+&lt;br /&gt;
+隨著連續生理監測技術逐漸跨越單一葡萄糖指標，當未來的自動胰島素傳輸系統開始接收乳酸的即時數據時，臨床醫師應如何重新建構針對複雜運動型態的胰島素調整邏輯，以在預防高強度運動當下的高血糖，與防範運動後因乳酸清除及受體敏感度改變所導致的遲發性低血糖之間，取得最佳平衡？&lt;br /&gt;
+&lt;br /&gt;
+資料來源：&lt;br /&gt;
+ ATTD 2026 演講：LACTATE METABOLISM AND WHY A CONTINUOUS LACTATE MONITOR MIGHT BE OF VALUE (講者: Michael C. Riddell, Session: PS03)&lt;br /&gt;
+連結：https://tinyurl.com/26n6mea2&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://tinyurl.com/26n6mea2</content:encoded><pubDate>Fri, 29 May 2026 13:00:44 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-05-29-20260529-1220-attd2026-scientific_parallel-michael-c-riddell.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-05-29-20260529-1220-attd2026-scientific_parallel-michael-c-riddell.m4a" length="8890868" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>12:11</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-05-29-20260529-1220-attd2026-scientific_parallel-michael-c-riddell.jpg" /><link>https://tinyurl.com/26n6mea2</link></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Gregg D. Simonson - PRIMARY CARE AND DIABETES TECHNOLOGIES AND TREATMENTS</title><description>ATTD 2026 演講重點：基層醫療的糖尿病科技應用與高齡照護去處方化 (Primary Care and Diabetes Technologies and Treatments)
 
 講者：Gregg D. Simonson
 場次：PL-YEARBOOK
