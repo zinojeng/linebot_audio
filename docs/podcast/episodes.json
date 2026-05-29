@@ -1,5 +1,24 @@
 [
   {
+    "id": "2026-05-29-20260529-0720-attd2026-plenary-gregg-d-simonson",
+    "guid": "https://linebotaudio.zeabur.app/audio/2026-05-29-20260529-0720-attd2026-plenary-gregg-d-simonson.m4a",
+    "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Gregg D. Simonson - PRIMARY CARE AND DIABETES TECHNOLOGIES AND TREATMENTS",
+    "description": "ATTD 2026 演講重點：基層醫療的糖尿病科技應用與高齡照護去處方化 (Primary Care and Diabetes Technologies and Treatments)\n\n講者：Gregg D. Simonson\n場次：PL-YEARBOOK\n\n本場演講主要探討基層醫療與內分泌臨床實務面臨的雙重挑戰：一方面是如何在不同治療強度的第二型糖尿病患者中有效整合連續血糖監測(CGM)以改善預後，另一方面則是面對高齡與多重共病患者時，如何突破傳統「強化治療」的思維，建立結構化的減藥與去處方化(Deprescribing)策略。\n\n關鍵訊息與實務啟發：\n\n第一部分：CGM 在基層醫療第二型糖尿病的真實世界效益\n講者引用發表於 2024 年《Diabetes, Obesity and Metabolism》的觀察性研究，分析 CGM 導入基層醫療對不同治療群體的影響。研究將患者分為非胰島素治療組(NIT)、基礎胰島素治療組(BIT)以及餐時胰島素治療組(PIT)。觀察 12 個月發現，無論患者身處哪一個治療階段，導入 CGM 皆可帶來大約 1% 的糖化血色素(HbA1c)顯著降幅，例如非胰島素組由 8.6% 降至 7.5%，餐時胰島素組由 8.9% 降至 8.0%。這顯示在基層醫療中，及早為第二型糖尿病患者使用 CGM，不僅有助於減少糖尿病相關的急性急診與住院率，更能實質改善整體血糖管理。\n需保守解讀之處：此結論主要來自觀察性資料，雖高度符合臨床實務樣貌，但缺乏隨機分派臨床試驗(RCT)的嚴格控制對照。在解讀其平均降幅時，仍需考量患者衛教遵從性、就醫頻率與醫療資源介入等潛在干擾因子。\n\n第二部分：高齡糖尿病患者的 4S 途徑與去處方化策略\n在積極擁抱新科技的同時，講者特別強調對於伴隨多重共病的高齡患者，有時更需要「降低治療強度」。目前的糖尿病指引多聚焦於增加藥物與科技以強化血糖管理，卻鮮少針對減輕高齡患者藥物負擔提供具體指引。為此，講者引述 2025 年《The Lancet Diabetes & Endocrinology》由國際老年糖尿病學會推動的去處方化共識倡議，提出 4S 途徑(4S Pathway)：\n• S1 (Seeking triggers)：主動尋找觸發因素。臨床醫師應留意危險訊號，如跌倒疑慮、失智、對藥物焦慮、漏服多服、認知功能障礙惡化、慢性腎臟病(CKD)進展、反覆泌尿道感染或有害的體重減輕等。\n• S2 (Shared decision making)：醫病共享決策。與患者及其照護伴侶共同討論接下來的處置步驟。\n• S3 (Set or reset goals)：重新設定目標。依據患者心理社會狀況、環境變化與個人偏好，務實調整並修正目標。\n• S4 (Simpler and safer treatment)：更簡單、安全的治療。將處方修改為以「安全性」為最高指導原則的簡化策略。\n需保守解讀之處：4S 途徑屬於專家共識層級的倡議框架，旨在提供系統性的思維邏輯。實務操作上，每位高齡患者的器官衰退程度與社會支持系統差異極大，仍高度仰賴臨床醫師的個別化判斷。去處方化在實務上與強化治療具有同等的重要性。\n\n在積極導入各類連續血糖監測與先進自動給藥科技的同時，臨床團隊應如何在門診有限的時間內，建立一套系統性的評估機制，以及時辨識出需要啟動去處方化的高齡脆弱族群？\n\n資料來源：\n1. primary-care-and-diabetes-technologies-and-treatments.md\n連結：https://tinyurl.com/2csup8eu\n\n本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。\n\n來源連結：https://tinyurl.com/2csup8eu",
+    "pub_date": "2026-05-29T08:00:30+08:00",
+    "pub_date_rfc2822": "Fri, 29 May 2026 08:00:30 +0800",
+    "audio_url": "https://linebotaudio.zeabur.app/audio/2026-05-29-20260529-0720-attd2026-plenary-gregg-d-simonson.m4a",
+    "audio_length": 14670919,
+    "audio_type": "audio/mp4",
+    "image_url": "https://linebotaudio.zeabur.app/image/2026-05-29-20260529-0720-attd2026-plenary-gregg-d-simonson.jpg",
+    "podcast_image_url": "",
+    "duration": "20:08",
+    "source_url": "https://tinyurl.com/2csup8eu",
+    "explicit": "false",
+    "language": "zh-TW",
+    "manifest": "/Users/ander/Documents/hermes-agent/diabetes-news-social-post/output/notebooklm/2026-05-29-20260529-0720-attd2026-plenary-gregg-d-simonson.manifest.json",
+    "kind": "attd2026_professional_line_post"
+  },
+  {
     "id": "2026-05-28-20260528-1720-attd2026-auto-klemen-dovc",
     "guid": "https://linebotaudio.zeabur.app/audio/2026-05-28-20260528-1720-attd2026-auto-klemen-dovc.m4a",
     "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Klemen Dovc - IS VO2MAX IMPORTANT FOR EXERCISE PLANNING?",
