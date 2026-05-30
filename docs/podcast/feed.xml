@@ -1,5 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Sat, 30 May 2026 04:38:56 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Deniz Dalton - HELMSLEY FUNDING AREAS AND TYPE 1 DIABETES AND EXERCISE INITIATIVE (T1-DEXI)</title><description>ATTD 2026 專業整理：第一型糖尿病與運動倡議 (T1-DEXI) 的真實世界數據與臨床挑戰
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Sat, 30 May 2026 05:01:24 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Dessi P. Zaharieva - TYPE 1 DIABETES AND EXERCISE EDUCATION &amp; INFORMATION RESOURCES, UPCOMING INNOVATIVE SOLUTIONS, AND INSPIRE-T1D</title><description>ATTD 2026 演講重點：第1型糖尿病運動衛教資源、創新解方與 INSPIRE-T1D 倡議
+
+在臨床實務中，第1型糖尿病 (T1D) 族群在進行身體活動時，常面臨低血糖風險與胰島素動態難以預測的挑戰。現有的運動共識指引往往長達數十頁，患者難以在真實生活情境中快速應用；同時，臨床醫師也缺乏能即時整合連續血糖監測 (CGM) 與胰島素動態變化的輔助決策工具。Dessi P. Zaharieva 在本場演講中，針對這些臨床痛點，分享了如何透過創新儀表板與資源整合平台，推動運動衛教成為 T1D 的標準照護 (Standard of Care)。
+
+演講關鍵訊息與臨床實務啟發：
+
+首先是「淨活動胰島素與運動工具包」(NetIOB &amp; Exercise Toolkit for T1D, 簡稱 NEXT) 的開發。現行幫浦或系統多半只顯示單純的活動胰島素，而 NEXT 原型系統的創新之處在於它能即時顯示淨活動胰島素 (Net IOB)，將追加胰島素 (Bolus) 與基礎胰島素 (Basal) 的累積變化同時納入計算，並疊加 CGM 趨勢圖 (包含 70 至 180 mg/dL 的閾值)。對內分泌臨床實務的啟發在於，這類視覺化工具能協助醫療團隊與患者回溯並理解運動後的血糖波動機制，例如：運動前施打了追加胰島素，隨後幫浦長時間暫停給藥，這種動態變化如何導致運動後的反彈性高血糖 。
+
+需要保守解讀的是，NEXT 儀表板目前仍處於原型與先導觀察案例階段，講者亦明言目前尚無具體數據可供分享。此系統未來能否有效降低運動相關的低血糖發生率或提升目標範圍內時間 (TIR)，仍須等待即將進行的臨床試驗與前瞻性研究來進一步驗證 。
+
+其次，在衛教資源的實務轉譯上，講者團隊與美國糖尿病學會 (ADA) 青年策略委員會合作，將生硬的共識指引轉化為 12 份針對具體情境的實用指南。例如針對「高海拔地區運動」、「炎熱環境運動」或「體內具高活性胰島素 (High IOB) 狀態」提供簡明的碳水化合物補充或延後運動等策略。這解決了臨床上患者不知如何啟動運動計畫的障礙 。
+
+此外，為了解決線上資訊雜亂的問題，講者介紹了具備實證基礎的 DiabetesWise (約 8.4 萬使用者) 與 DiabetesWISER (約 1 千使用者) 平台，後者更導入了由臨床專家與研究人員管理的論壇支援，確保患者獲得的科技與運動建議皆具備科學根據。同時，透過籌組 INSPIRE-T1D 國際網絡，講者期盼能整合臨床、研究與群體三個層面，未來更預計納入 T1DEXI 的臨床試驗數據，弭平全球 T1D 族群在獲取安全運動資源上的落差 [4-6]。
+
+隨著淨活動胰島素 (Net IOB) 視覺化儀表板的概念逐漸發展，未來在常規門診衛教中，臨床醫師應如何引導使用不同廠牌自動胰島素給藥系統 (AID) 的患者，利用現有數據更精準地評估自身體內胰島素殘留量，進而安全地調整運動強度與碳水化合物攝取？
+
+資料來源：
+ ATTD 2026 演講稿：TYPE 1 DIABETES AND EXERCISE EDUCATION &amp; INFORMATION RESOURCES, UPCOMING INNOVATIVE SOLUTIONS, AND INSPIRE-T1D (Speaker: Dessi P. Zaharieva, Session: PS06)
+連結：https://tinyurl.com/2b6pvrfx
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://tinyurl.com/2b6pvrfx</description><content:encoded>ATTD 2026 演講重點：第1型糖尿病運動衛教資源、創新解方與 INSPIRE-T1D 倡議&lt;br /&gt;
+&lt;br /&gt;
+在臨床實務中，第1型糖尿病 (T1D) 族群在進行身體活動時，常面臨低血糖風險與胰島素動態難以預測的挑戰。現有的運動共識指引往往長達數十頁，患者難以在真實生活情境中快速應用；同時，臨床醫師也缺乏能即時整合連續血糖監測 (CGM) 與胰島素動態變化的輔助決策工具。Dessi P. Zaharieva 在本場演講中，針對這些臨床痛點，分享了如何透過創新儀表板與資源整合平台，推動運動衛教成為 T1D 的標準照護 (Standard of Care)。&lt;br /&gt;
+&lt;br /&gt;
+演講關鍵訊息與臨床實務啟發：&lt;br /&gt;
+&lt;br /&gt;
+首先是「淨活動胰島素與運動工具包」(NetIOB &amp; Exercise Toolkit for T1D, 簡稱 NEXT) 的開發。現行幫浦或系統多半只顯示單純的活動胰島素，而 NEXT 原型系統的創新之處在於它能即時顯示淨活動胰島素 (Net IOB)，將追加胰島素 (Bolus) 與基礎胰島素 (Basal) 的累積變化同時納入計算，並疊加 CGM 趨勢圖 (包含 70 至 180 mg/dL 的閾值)。對內分泌臨床實務的啟發在於，這類視覺化工具能協助醫療團隊與患者回溯並理解運動後的血糖波動機制，例如：運動前施打了追加胰島素，隨後幫浦長時間暫停給藥，這種動態變化如何導致運動後的反彈性高血糖 。&lt;br /&gt;
+&lt;br /&gt;
+需要保守解讀的是，NEXT 儀表板目前仍處於原型與先導觀察案例階段，講者亦明言目前尚無具體數據可供分享。此系統未來能否有效降低運動相關的低血糖發生率或提升目標範圍內時間 (TIR)，仍須等待即將進行的臨床試驗與前瞻性研究來進一步驗證 。&lt;br /&gt;
+&lt;br /&gt;
+其次，在衛教資源的實務轉譯上，講者團隊與美國糖尿病學會 (ADA) 青年策略委員會合作，將生硬的共識指引轉化為 12 份針對具體情境的實用指南。例如針對「高海拔地區運動」、「炎熱環境運動」或「體內具高活性胰島素 (High IOB) 狀態」提供簡明的碳水化合物補充或延後運動等策略。這解決了臨床上患者不知如何啟動運動計畫的障礙 。&lt;br /&gt;
+&lt;br /&gt;
+此外，為了解決線上資訊雜亂的問題，講者介紹了具備實證基礎的 DiabetesWise (約 8.4 萬使用者) 與 DiabetesWISER (約 1 千使用者) 平台，後者更導入了由臨床專家與研究人員管理的論壇支援，確保患者獲得的科技與運動建議皆具備科學根據。同時，透過籌組 INSPIRE-T1D 國際網絡，講者期盼能整合臨床、研究與群體三個層面，未來更預計納入 T1DEXI 的臨床試驗數據，弭平全球 T1D 族群在獲取安全運動資源上的落差 [4-6]。&lt;br /&gt;
+&lt;br /&gt;
+隨著淨活動胰島素 (Net IOB) 視覺化儀表板的概念逐漸發展，未來在常規門診衛教中，臨床醫師應如何引導使用不同廠牌自動胰島素給藥系統 (AID) 的患者，利用現有數據更精準地評估自身體內胰島素殘留量，進而安全地調整運動強度與碳水化合物攝取？&lt;br /&gt;
+&lt;br /&gt;
+資料來源：&lt;br /&gt;
+ ATTD 2026 演講稿：TYPE 1 DIABETES AND EXERCISE EDUCATION &amp; INFORMATION RESOURCES, UPCOMING INNOVATIVE SOLUTIONS, AND INSPIRE-T1D (Speaker: Dessi P. Zaharieva, Session: PS06)&lt;br /&gt;
+連結：https://tinyurl.com/2b6pvrfx&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://tinyurl.com/2b6pvrfx</content:encoded><pubDate>Sat, 30 May 2026 13:00:06 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-05-30-20260530-1220-attd2026-scientific_parallel-dessi-p-zaharieva.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-05-30-20260530-1220-attd2026-scientific_parallel-dessi-p-zaharieva.m4a" length="16986558" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>23:18</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-05-30-20260530-1220-attd2026-scientific_parallel-dessi-p-zaharieva.jpg" /><link>https://tinyurl.com/2b6pvrfx</link></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Deniz Dalton - HELMSLEY FUNDING AREAS AND TYPE 1 DIABETES AND EXERCISE INITIATIVE (T1-DEXI)</title><description>ATTD 2026 專業整理：第一型糖尿病與運動倡議 (T1-DEXI) 的真實世界數據與臨床挑戰
 
 本次演講由 Helmsley 慈善基金會第一型糖尿病計畫負責人 Deniz Dalton 主講，聚焦探討「第一型糖尿病與運動倡議」(T1-DEXI) 所揭示的臨床挑戰與未來解方 , 。過去關於第一型糖尿病與運動的數據多來自規模小、範圍受限且時間短的臨床研究，難以提供全面且落地的臨床指引 。為此，T1-DEXI 啟動了一項涵蓋 750 名成人的為期一個月真實世界研究，收集了包含高強度間歇運動、阻力訓練及日常體能活動等廣泛數據，並將資料公開以促進跨領域的研發合作 , 。
 
