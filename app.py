@@ -18,8 +18,8 @@ app = FastAPI(title="LifeBot Media Server")
 
 def safe_media_filename(filename: str) -> str:
     name = Path(filename).name
-    if not re.fullmatch(r"[A-Za-z0-9._-]+\.(m4a|mp3|png|jpg|jpeg)", name, flags=re.I):
-        raise HTTPException(status_code=400, detail="filename must be a safe .m4a, .mp3, .png, .jpg, or .jpeg name")
+    if not re.fullmatch(r"[A-Za-z0-9._-]+\.(m4a|mp3|mp4|png|jpg|jpeg)", name, flags=re.I):
+        raise HTTPException(status_code=400, detail="filename must be a safe .m4a, .mp3, .mp4, .png, .jpg, or .jpeg name")
     return name
 
 
@@ -29,6 +29,8 @@ def media_type_for(filename: str) -> str:
         return "audio/mp4"
     if suffix == ".mp3":
         return "audio/mpeg"
+    if suffix == ".mp4":
+        return "video/mp4"
     if suffix == ".png":
         return "image/png"
     if suffix in {".jpg", ".jpeg"}:
@@ -40,11 +42,18 @@ def public_path_for(filename: str) -> str:
     suffix = Path(filename).suffix.lower()
     if suffix in {".m4a", ".mp3"}:
         return f"/audio/{filename}"
+    if suffix == ".mp4":
+        return f"/video/{filename}"
     return f"/image/{filename}"
 
 
 def file_kind_for(filename: str) -> str:
-    return "audio" if Path(filename).suffix.lower() in {".m4a", ".mp3"} else "image"
+    suffix = Path(filename).suffix.lower()
+    if suffix in {".m4a", ".mp3"}:
+        return "audio"
+    if suffix == ".mp4":
+        return "video"
+    return "image"
 
 
 def safe_archive_path(path: str) -> Path:
@@ -107,7 +116,7 @@ async def upload_media(filename: str, request: Request, x_upload_token: str = He
     body = await request.body()
     if not body:
         raise HTTPException(status_code=400, detail="empty upload")
-    if len(body) > 100 * 1024 * 1024:
+    if len(body) > 200 * 1024 * 1024:
         raise HTTPException(status_code=413, detail="media file too large")
 
     MEDIA_DIR.mkdir(parents=True, exist_ok=True)
@@ -184,7 +193,7 @@ def head_audio(filename: str):
 @app.get("/image/{filename}")
 def get_image(filename: str):
     safe_name = safe_media_filename(filename)
-    if Path(safe_name).suffix.lower() in {".m4a", ".mp3"}:
+    if Path(safe_name).suffix.lower() in {".m4a", ".mp3", ".mp4"}:
         raise HTTPException(status_code=400, detail="image endpoint only serves images")
     return media_response(safe_name)
 
@@ -192,8 +201,24 @@ def get_image(filename: str):
 @app.head("/image/{filename}")
 def head_image(filename: str):
     safe_name = safe_media_filename(filename)
-    if Path(safe_name).suffix.lower() in {".m4a", ".mp3"}:
+    if Path(safe_name).suffix.lower() in {".m4a", ".mp3", ".mp4"}:
         raise HTTPException(status_code=400, detail="image endpoint only serves images")
+    return media_response(safe_name, head=True)
+
+
+@app.get("/video/{filename}")
+def get_video(filename: str, range_header: str = Header(default="", alias="Range")):
+    safe_name = safe_media_filename(filename)
+    if Path(safe_name).suffix.lower() != ".mp4":
+        raise HTTPException(status_code=400, detail="video endpoint only serves .mp4")
+    return media_response(safe_name, range_header=range_header)
+
+
+@app.head("/video/{filename}")
+def head_video(filename: str):
+    safe_name = safe_media_filename(filename)
+    if Path(safe_name).suffix.lower() != ".mp4":
+        raise HTTPException(status_code=400, detail="video endpoint only serves .mp4")
     return media_response(safe_name, head=True)
 
 
