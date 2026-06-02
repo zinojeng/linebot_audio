@@ -1,5 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Tue, 02 Jun 2026 09:42:34 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Dale Morrison - USE OF WHEY PROTEIN TO REDUCE RISK OF HYPOGLYCEMIA DURING EXERCISE FOR PEOPLE WITH TYPE 1 DIABETES</title><description>ATTD 2026 演講重點：第一型糖尿病運動低血糖的預防與乳清蛋白臨床應用
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Tue, 02 Jun 2026 11:44:27 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Concetta Irace - CONNECTED PENS IN TYPE 2 DIABETES</title><description>ATTD 2026 演講重點：第二型糖尿病的連網胰島素筆應用與臨床指引
+
+本次 ATTD 2026 會議中，Concetta Irace 教授於 PS09 場次深入探討了連網胰島素筆與智慧胰島素筆在第二型糖尿病患者照護上的應用潛力與實務挑戰。演講主要聚焦於解決臨床上高達五至六成第二型糖尿病患者存在的胰島素治療不遵從性（包含漏打、時間錯誤或劑量計算錯誤），這些問題在真實世界數據中被證實會顯著降低目標範圍內時間 (TIR) 並增加血糖管理指標 (GMI)。
+
+演講首先釐清了兩項核心工具的差異：連網胰島素筆 (Connected Pen) 主要負責客觀記錄並傳輸胰島素施打劑量、部位與時間至應用程式；智慧胰島素筆 (Smart Pen) 則進一步整合連續血糖監測 (CGM) 數據，提供餐前與校正劑量建議，並具備防漏打警報功能。
+
+在臨床證據層級上，講者點出目前文獻多屬回顧性觀察或真實世界資料。例如一篇涵蓋超過八萬名患者的大型回顧性觀察研究指出，連網筆雖能提升整體 TIR，但獲益最顯著的其實是基準線 TIR 小於 40% 的血糖控制不佳族群。另一項收錄近兩千人的歐洲真實世界數據則顯示，患者對智慧筆漏打警報的「回應率」與其 TIR 呈顯著正相關。然而在保守解讀方面，講者明確表示目前仍缺乏長期的大型隨機對照試驗 (RCT) 指引，韓國近期針對具備決策支援系統的連網筆所進行的第五階段 RCT 結果，將是未來填補此一證據缺口的關鍵 。
+
+對內分泌臨床實務的重大啟發，在於數據整合與胰島素滴定的典範轉移。專家共識建議，臨床醫師不應再單憑空腹血糖來調整基礎胰島素，而應改為觀察睡前與早晨平均血糖的差值 (Delta)；若中位數變動達 30 mg/dL 以上，即應考慮增減基礎劑量 。此外，調整餐前追加劑量時，應結合 CGM 趨勢與每日總劑量、基礎與追加比例等胰島素數據。考量到第二型糖尿病患者可能不熟悉碳水化合物計算，實務操作上可善用系統內建的「餐點份量（小、中、大）」模式來降低門檻。
+
+在實務限制上，儘管醫護與患者的滿意度極高，但這類設備在部分醫療先進地區的滲透率仍低於一成。要將設備效益最大化，醫療團隊必須建立結構化的衛教路徑，並針對個別患者正確設定血糖目標、高低血糖與漏打警報，避免過多無效資訊造成患者負擔；而整體系統的廣泛導入，仍有待明確的成本效益數據支持 。
+
+面對這類整合型數位工具，臨床醫師在現有門診時間與衛教資源下，應如何透過特定指標篩選出最能將警示數據轉化為實質控糖行動的第二型糖尿病合適表型？
+
+資料來源：
+ ATTD 2026 lecture source Title: CONNECTED PENS IN TYPE 2 DIABETES (Speaker: Concetta Irace, Session: PS09)
+連結：https://tinyurl.com/2y36yerv
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://tinyurl.com/2y36yerv</description><content:encoded>ATTD 2026 演講重點：第二型糖尿病的連網胰島素筆應用與臨床指引&lt;br /&gt;
+&lt;br /&gt;
+本次 ATTD 2026 會議中，Concetta Irace 教授於 PS09 場次深入探討了連網胰島素筆與智慧胰島素筆在第二型糖尿病患者照護上的應用潛力與實務挑戰。演講主要聚焦於解決臨床上高達五至六成第二型糖尿病患者存在的胰島素治療不遵從性（包含漏打、時間錯誤或劑量計算錯誤），這些問題在真實世界數據中被證實會顯著降低目標範圍內時間 (TIR) 並增加血糖管理指標 (GMI)。&lt;br /&gt;
+&lt;br /&gt;
+演講首先釐清了兩項核心工具的差異：連網胰島素筆 (Connected Pen) 主要負責客觀記錄並傳輸胰島素施打劑量、部位與時間至應用程式；智慧胰島素筆 (Smart Pen) 則進一步整合連續血糖監測 (CGM) 數據，提供餐前與校正劑量建議，並具備防漏打警報功能。&lt;br /&gt;
+&lt;br /&gt;
+在臨床證據層級上，講者點出目前文獻多屬回顧性觀察或真實世界資料。例如一篇涵蓋超過八萬名患者的大型回顧性觀察研究指出，連網筆雖能提升整體 TIR，但獲益最顯著的其實是基準線 TIR 小於 40% 的血糖控制不佳族群。另一項收錄近兩千人的歐洲真實世界數據則顯示，患者對智慧筆漏打警報的「回應率」與其 TIR 呈顯著正相關。然而在保守解讀方面，講者明確表示目前仍缺乏長期的大型隨機對照試驗 (RCT) 指引，韓國近期針對具備決策支援系統的連網筆所進行的第五階段 RCT 結果，將是未來填補此一證據缺口的關鍵 。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的重大啟發，在於數據整合與胰島素滴定的典範轉移。專家共識建議，臨床醫師不應再單憑空腹血糖來調整基礎胰島素，而應改為觀察睡前與早晨平均血糖的差值 (Delta)；若中位數變動達 30 mg/dL 以上，即應考慮增減基礎劑量 。此外，調整餐前追加劑量時，應結合 CGM 趨勢與每日總劑量、基礎與追加比例等胰島素數據。考量到第二型糖尿病患者可能不熟悉碳水化合物計算，實務操作上可善用系統內建的「餐點份量（小、中、大）」模式來降低門檻。&lt;br /&gt;
+&lt;br /&gt;
+在實務限制上，儘管醫護與患者的滿意度極高，但這類設備在部分醫療先進地區的滲透率仍低於一成。要將設備效益最大化，醫療團隊必須建立結構化的衛教路徑，並針對個別患者正確設定血糖目標、高低血糖與漏打警報，避免過多無效資訊造成患者負擔；而整體系統的廣泛導入，仍有待明確的成本效益數據支持 。&lt;br /&gt;
+&lt;br /&gt;
+面對這類整合型數位工具，臨床醫師在現有門診時間與衛教資源下，應如何透過特定指標篩選出最能將警示數據轉化為實質控糖行動的第二型糖尿病合適表型？&lt;br /&gt;
+&lt;br /&gt;
+資料來源：&lt;br /&gt;
+ ATTD 2026 lecture source Title: CONNECTED PENS IN TYPE 2 DIABETES (Speaker: Concetta Irace, Session: PS09)&lt;br /&gt;
+連結：https://tinyurl.com/2y36yerv&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://tinyurl.com/2y36yerv</content:encoded><pubDate>Tue, 02 Jun 2026 19:43:03 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-02-20260602-1720-attd2026-auto-concetta-irace.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-02-20260602-1720-attd2026-auto-concetta-irace.m4a" length="12359249" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>16:58</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-02-20260602-1720-attd2026-auto-concetta-irace-podcast-cover.jpg" /><link>https://tinyurl.com/2y36yerv</link></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Dale Morrison - USE OF WHEY PROTEIN TO REDUCE RISK OF HYPOGLYCEMIA DURING EXERCISE FOR PEOPLE WITH TYPE 1 DIABETES</title><description>ATTD 2026 演講重點：第一型糖尿病運動低血糖的預防與乳清蛋白臨床應用
 
 講者：Dale Morrison 
 場次：PS06 - USE OF WHEY PROTEIN TO REDUCE RISK OF HYPOGLYCEMIA DURING EXERCISE FOR PEOPLE WITH TYPE 1 DIABETES 
