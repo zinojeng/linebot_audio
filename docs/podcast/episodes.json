@@ -1,5 +1,24 @@
 [
   {
+    "id": "2026-06-03-20260603-0720-attd2026-plenary-neal-kaufman",
+    "guid": "https://linebotaudio.zeabur.app/audio/2026-06-03-20260603-0720-attd2026-plenary-neal-kaufman.m4a",
+    "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Neal Kaufman - USING DIGITAL HEALTH TECHNOLOGY TO PREVENT AND TREAT DIABETES",
+    "description": "ATTD 2026 專業整理：Neal Kaufman 探討數位健康科技於糖尿病之預防與治療\n\n各位醫師與糖尿病照護團隊同仁好：\n\n本次彙整 ATTD 2026 議程中，由 Neal Kaufman 醫師主講的重點內容。此場演講主要探討人工智慧 (AI)、機器學習 (ML) 及數位健康介入，如何解決目前糖尿病照護中，從住院血糖管理、門診精準分型到複雜病患居家行為改變的臨床挑戰。講者團隊回顧了近期的核心文獻，並梳理出數位科技在實務應用上的潛力與需要保守解讀的限制。\n\n關鍵臨床實證與實務啟發：\n\n1. 住院血糖管理 AI 系統的成效與隱憂\n一篇針對 149 名住院病患的 JAMA 隨機對照試驗 (RCT) 指出，基於 AI 的血糖管理系統在維持目標血糖範圍 (Time in target range) 的表現上，已達到不劣於資深臨床醫師傳統介入的成效。\n實務啟發與保守解讀：儘管達到不劣性，但該研究並未報告低血糖的發生率與暴露風險。在實務導入新興 AI 工具時，臨床醫師應持保守態度，需進一步將其與已證實能幾乎消除住院低血糖的既有系統（例如使用 11 項變數多變量模型的 EndoTool 平台）進行比對研究，以確保住院病患的絕對安全。\n\n2. 運用機器學習進行第 2 型糖尿病代謝亞型預測\n2025 年發表的 Nature Biomedical Engineering 深度表型分析研究，利用口服葡萄糖耐受試驗 (OGTT) 的時間序列數據來訓練機器學習模型，並結合多基因風險評分與處置指數等參數，成功找出顯性與共顯性的代謝亞型。這些亞型與高達 34% 的肌肉或肝臟胰島素阻抗，以及 40% 的胰島貝他細胞功能障礙相關。\n實務啟發與保守解讀：此分析展示了未來精準醫學的方向，透過整合連續血糖監測 (CGM) 與多維度臨床數據，可協助內分泌科醫師提早識別病患的病理機轉特徵。但須注意此為僅收案 32 名個案的研究，雖然數據量龐大且具指標意義，其預測準確度仍尚待大規模臨床驗證。\n\n3. 強化學習演算法在數位行為介入的應用\n針對糖尿病合併憂鬱症這類較難推動行為改變的族群，發表於 J Med Internet Res 的 DIAMANTE 隨機對照試驗展示了強化學習 (Reinforcement learning) 的潛力。該研究讓演算法每日動態評估並發送個人化的激勵簡訊，評估最佳的訊息類別與發送時段。\n實務啟發：結果顯示，接受適應性訊息的病患其每日步數顯著增加了 19%，遠高於對照組的 3.9% 與隨機訊息組的 1.6%。這為臨床團隊提供了強而有力的 RCT 證據：數位工具結合強化學習的動態個人化回饋，能真正跨越語言與文化多樣性，有效驅動複雜病患的行為改變。\n\n未來展望：\n講者預測，整合病史、基因與血糖數據的大型語言模型 (LLMs) 與生成式 AI，將是未來五年糖尿病醫學文獻中成長最快速的領域，並有望發展為 24 小時的隨身決策支援系統。此外，科技如何支援家庭照護者的角色也逐漸受到重視。\n\n面對逐漸成熟的適應性演算法與即時預測模型，臨床團隊在將這類 24 小時自動化決策支援系統整合入現有照護流程時，應如何界定演算法建議與醫師最終臨床裁量權之間的醫療責任邊界？\n\n資料來源：\n NotebookLM: using-digital-health-technology-to-prevent-and-treat-diabetes.md (ATTD 2026, Neal Kaufman)\n連結：https://tinyurl.com/2aqkgd6o\n\n本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。\n\n來源連結：https://tinyurl.com/2aqkgd6o",
+    "pub_date": "2026-06-03T08:11:58+08:00",
+    "pub_date_rfc2822": "Wed, 03 Jun 2026 08:11:58 +0800",
+    "audio_url": "https://linebotaudio.zeabur.app/audio/2026-06-03-20260603-0720-attd2026-plenary-neal-kaufman.m4a",
+    "audio_length": 9380164,
+    "audio_type": "audio/mp4",
+    "image_url": "https://linebotaudio.zeabur.app/image/2026-06-03-20260603-0720-attd2026-plenary-neal-kaufman.jpg",
+    "podcast_image_url": "https://linebotaudio.zeabur.app/image/2026-06-03-20260603-0720-attd2026-plenary-neal-kaufman-podcast-cover.jpg",
+    "duration": "12:50",
+    "source_url": "https://tinyurl.com/2aqkgd6o",
+    "explicit": "false",
+    "language": "zh-TW",
+    "manifest": "/Users/ander/Documents/hermes-agent/diabetes-news-social-post/output/notebooklm/2026-06-03-20260603-0720-attd2026-plenary-neal-kaufman.manifest.json",
+    "kind": "attd2026_professional_line_post"
+  },
+  {
     "id": "2026-06-02-20260602-1720-attd2026-auto-concetta-irace",
     "guid": "https://linebotaudio.zeabur.app/audio/2026-06-02-20260602-1720-attd2026-auto-concetta-irace.m4a",
     "title": "聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Concetta Irace - CONNECTED PENS IN TYPE 2 DIABETES",

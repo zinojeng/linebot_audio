@@ -1,5 +1,67 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Tue, 02 Jun 2026 23:38:37 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Concetta Irace - CONNECTED PENS IN TYPE 2 DIABETES</title><description>ATTD 2026 演講重點：第二型糖尿病的連網胰島素筆應用與臨床指引
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Wed, 03 Jun 2026 00:13:12 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Neal Kaufman - USING DIGITAL HEALTH TECHNOLOGY TO PREVENT AND TREAT DIABETES</title><description>ATTD 2026 專業整理：Neal Kaufman 探討數位健康科技於糖尿病之預防與治療
+
+各位醫師與糖尿病照護團隊同仁好：
+
+本次彙整 ATTD 2026 議程中，由 Neal Kaufman 醫師主講的重點內容。此場演講主要探討人工智慧 (AI)、機器學習 (ML) 及數位健康介入，如何解決目前糖尿病照護中，從住院血糖管理、門診精準分型到複雜病患居家行為改變的臨床挑戰。講者團隊回顧了近期的核心文獻，並梳理出數位科技在實務應用上的潛力與需要保守解讀的限制。
+
+關鍵臨床實證與實務啟發：
+
+1. 住院血糖管理 AI 系統的成效與隱憂
+一篇針對 149 名住院病患的 JAMA 隨機對照試驗 (RCT) 指出，基於 AI 的血糖管理系統在維持目標血糖範圍 (Time in target range) 的表現上，已達到不劣於資深臨床醫師傳統介入的成效。
+實務啟發與保守解讀：儘管達到不劣性，但該研究並未報告低血糖的發生率與暴露風險。在實務導入新興 AI 工具時，臨床醫師應持保守態度，需進一步將其與已證實能幾乎消除住院低血糖的既有系統（例如使用 11 項變數多變量模型的 EndoTool 平台）進行比對研究，以確保住院病患的絕對安全。
+
+2. 運用機器學習進行第 2 型糖尿病代謝亞型預測
+2025 年發表的 Nature Biomedical Engineering 深度表型分析研究，利用口服葡萄糖耐受試驗 (OGTT) 的時間序列數據來訓練機器學習模型，並結合多基因風險評分與處置指數等參數，成功找出顯性與共顯性的代謝亞型。這些亞型與高達 34% 的肌肉或肝臟胰島素阻抗，以及 40% 的胰島貝他細胞功能障礙相關。
+實務啟發與保守解讀：此分析展示了未來精準醫學的方向，透過整合連續血糖監測 (CGM) 與多維度臨床數據，可協助內分泌科醫師提早識別病患的病理機轉特徵。但須注意此為僅收案 32 名個案的研究，雖然數據量龐大且具指標意義，其預測準確度仍尚待大規模臨床驗證。
+
+3. 強化學習演算法在數位行為介入的應用
+針對糖尿病合併憂鬱症這類較難推動行為改變的族群，發表於 J Med Internet Res 的 DIAMANTE 隨機對照試驗展示了強化學習 (Reinforcement learning) 的潛力。該研究讓演算法每日動態評估並發送個人化的激勵簡訊，評估最佳的訊息類別與發送時段。
+實務啟發：結果顯示，接受適應性訊息的病患其每日步數顯著增加了 19%，遠高於對照組的 3.9% 與隨機訊息組的 1.6%。這為臨床團隊提供了強而有力的 RCT 證據：數位工具結合強化學習的動態個人化回饋，能真正跨越語言與文化多樣性，有效驅動複雜病患的行為改變。
+
+未來展望：
+講者預測，整合病史、基因與血糖數據的大型語言模型 (LLMs) 與生成式 AI，將是未來五年糖尿病醫學文獻中成長最快速的領域，並有望發展為 24 小時的隨身決策支援系統。此外，科技如何支援家庭照護者的角色也逐漸受到重視。
+
+面對逐漸成熟的適應性演算法與即時預測模型，臨床團隊在將這類 24 小時自動化決策支援系統整合入現有照護流程時，應如何界定演算法建議與醫師最終臨床裁量權之間的醫療責任邊界？
+
+資料來源：
+ NotebookLM: using-digital-health-technology-to-prevent-and-treat-diabetes.md (ATTD 2026, Neal Kaufman)
+連結：https://tinyurl.com/2aqkgd6o
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://tinyurl.com/2aqkgd6o</description><content:encoded>ATTD 2026 專業整理：Neal Kaufman 探討數位健康科技於糖尿病之預防與治療&lt;br /&gt;
+&lt;br /&gt;
+各位醫師與糖尿病照護團隊同仁好：&lt;br /&gt;
+&lt;br /&gt;
+本次彙整 ATTD 2026 議程中，由 Neal Kaufman 醫師主講的重點內容。此場演講主要探討人工智慧 (AI)、機器學習 (ML) 及數位健康介入，如何解決目前糖尿病照護中，從住院血糖管理、門診精準分型到複雜病患居家行為改變的臨床挑戰。講者團隊回顧了近期的核心文獻，並梳理出數位科技在實務應用上的潛力與需要保守解讀的限制。&lt;br /&gt;
+&lt;br /&gt;
+關鍵臨床實證與實務啟發：&lt;br /&gt;
+&lt;br /&gt;
+1. 住院血糖管理 AI 系統的成效與隱憂&lt;br /&gt;
+一篇針對 149 名住院病患的 JAMA 隨機對照試驗 (RCT) 指出，基於 AI 的血糖管理系統在維持目標血糖範圍 (Time in target range) 的表現上，已達到不劣於資深臨床醫師傳統介入的成效。&lt;br /&gt;
+實務啟發與保守解讀：儘管達到不劣性，但該研究並未報告低血糖的發生率與暴露風險。在實務導入新興 AI 工具時，臨床醫師應持保守態度，需進一步將其與已證實能幾乎消除住院低血糖的既有系統（例如使用 11 項變數多變量模型的 EndoTool 平台）進行比對研究，以確保住院病患的絕對安全。&lt;br /&gt;
+&lt;br /&gt;
+2. 運用機器學習進行第 2 型糖尿病代謝亞型預測&lt;br /&gt;
+2025 年發表的 Nature Biomedical Engineering 深度表型分析研究，利用口服葡萄糖耐受試驗 (OGTT) 的時間序列數據來訓練機器學習模型，並結合多基因風險評分與處置指數等參數，成功找出顯性與共顯性的代謝亞型。這些亞型與高達 34% 的肌肉或肝臟胰島素阻抗，以及 40% 的胰島貝他細胞功能障礙相關。&lt;br /&gt;
+實務啟發與保守解讀：此分析展示了未來精準醫學的方向，透過整合連續血糖監測 (CGM) 與多維度臨床數據，可協助內分泌科醫師提早識別病患的病理機轉特徵。但須注意此為僅收案 32 名個案的研究，雖然數據量龐大且具指標意義，其預測準確度仍尚待大規模臨床驗證。&lt;br /&gt;
+&lt;br /&gt;
+3. 強化學習演算法在數位行為介入的應用&lt;br /&gt;
+針對糖尿病合併憂鬱症這類較難推動行為改變的族群，發表於 J Med Internet Res 的 DIAMANTE 隨機對照試驗展示了強化學習 (Reinforcement learning) 的潛力。該研究讓演算法每日動態評估並發送個人化的激勵簡訊，評估最佳的訊息類別與發送時段。&lt;br /&gt;
+實務啟發：結果顯示，接受適應性訊息的病患其每日步數顯著增加了 19%，遠高於對照組的 3.9% 與隨機訊息組的 1.6%。這為臨床團隊提供了強而有力的 RCT 證據：數位工具結合強化學習的動態個人化回饋，能真正跨越語言與文化多樣性，有效驅動複雜病患的行為改變。&lt;br /&gt;
+&lt;br /&gt;
+未來展望：&lt;br /&gt;
+講者預測，整合病史、基因與血糖數據的大型語言模型 (LLMs) 與生成式 AI，將是未來五年糖尿病醫學文獻中成長最快速的領域，並有望發展為 24 小時的隨身決策支援系統。此外，科技如何支援家庭照護者的角色也逐漸受到重視。&lt;br /&gt;
+&lt;br /&gt;
+面對逐漸成熟的適應性演算法與即時預測模型，臨床團隊在將這類 24 小時自動化決策支援系統整合入現有照護流程時，應如何界定演算法建議與醫師最終臨床裁量權之間的醫療責任邊界？&lt;br /&gt;
+&lt;br /&gt;
+資料來源：&lt;br /&gt;
+ NotebookLM: using-digital-health-technology-to-prevent-and-treat-diabetes.md (ATTD 2026, Neal Kaufman)&lt;br /&gt;
+連結：https://tinyurl.com/2aqkgd6o&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://tinyurl.com/2aqkgd6o</content:encoded><pubDate>Wed, 03 Jun 2026 08:11:58 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-03-20260603-0720-attd2026-plenary-neal-kaufman.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-03-20260603-0720-attd2026-plenary-neal-kaufman.m4a" length="9380164" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>12:50</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-03-20260603-0720-attd2026-plenary-neal-kaufman-podcast-cover.jpg" /><link>https://tinyurl.com/2aqkgd6o</link></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Concetta Irace - CONNECTED PENS IN TYPE 2 DIABETES</title><description>ATTD 2026 演講重點：第二型糖尿病的連網胰島素筆應用與臨床指引
 
 本次 ATTD 2026 會議中，Concetta Irace 教授於 PS09 場次深入探討了連網胰島素筆與智慧胰島素筆在第二型糖尿病患者照護上的應用潛力與實務挑戰。演講主要聚焦於解決臨床上高達五至六成第二型糖尿病患者存在的胰島素治療不遵從性（包含漏打、時間錯誤或劑量計算錯誤），這些問題在真實世界數據中被證實會顯著降低目標範圍內時間 (TIR) 並增加血糖管理指標 (GMI)。
 
