@@ -1,5 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Fri, 12 Jun 2026 10:07:23 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Neal Kaufman - USING DIGITAL HEALTH TECHNOLOGY TO PREVENT AND TREAT DIABETES</title><description>ATTD 2026 專業整理：Neal Kaufman 探討數位健康科技於糖尿病之預防與治療
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Fri, 12 Jun 2026 17:13:41 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：ADA Presidents' Select Abstract: Food Insecurity and Level 3 Hypoglycemia in Non-Insulin-Treated Secretagogue Users (iNPHORM, USA)</title><description>ADA 2026 專業整理：非胰島素治療之促胰島素分泌劑使用者中，食物不安全與 Level 3 低血糖的臨床實證 
+
+臨床問題：醫源性低血糖的討論常集中於胰島素，但促胰島素分泌劑（Secretagogues，包括磺醯脲類 SU 與格列奈類 Meglitinides）同樣具顯著低血糖風險，SU 與其他藥物相比會增加 3 倍以上的嚴重低血糖勝算 。儘管新型降糖藥（如 SGLT2i、GLP-1 RA、DPP-4i）的低血糖風險低 40% 至 57%，但因 SU 每月僅約 4 美元的低成本優勢，全美仍有約 17% 的糖尿病患者持續使用，且在 Metformin 二線起始治療中高達 43% 為 SU 。這種經濟局限常導致脆弱族群同時面臨「食物不安全」（因缺乏資金而減餐、跳餐），進而與藥物不依賴血糖濃度刺激胰島素分泌的機轉產生致命錯配（Insulin UP + No glucose on board），引發嚴重低血糖 。過去研究尚未專門針對此「未使用胰島素但使用促胰島素分泌劑」之特定族群進行食物不安全與嚴重低血糖風險的量化分析 。
+
+關鍵訊息：本分析採用美國代表性、前瞻性收集之 iNPHORM 研究數據，針對 339 名未使用胰島素但使用促胰島素分泌劑的第 2 型糖尿病成人進行多變項負二項迴歸分析 [8-10]。研究顯示，有 19% 的患者在過去一年經歷食物不安全 。未經調整的分析中，食物不安全者的 Level 3 低血糖發生率顯著較高（至少一次事件之比例為 34.4% 對比 18.9%；事件率為 12.3 對比 2.1 events/person-year） 。在調整年齡、教育、收入、居住狀況、種族、城鄉性、出生性別與婚姻狀態等干擾因子後，食物不安全暴露仍使 Level 3 低血糖事件率顯著增加約 2 倍（調整後 IRR 2.1，95% CI 1.4–3.1，p&lt;0.001） 。
+
+內分泌臨床實務的啟發：本研究顯示，臨床團隊僅需使用一個極為簡單的篩檢問題（「在過去 12 個月內，你是否曾因沒有足夠金錢購買食物而減少餐量或跳餐？」），即能有效辨識出 Level 3 低血糖的高風險族群 。臨床諮詢時，應將患者「食物取得的穩定性」與「藥物低血糖風險」置於同一個安全框架中評估 。特別是對於使用促胰島素分泌劑的脆弱患者，應主動討論其進食規律度，必要時應積極考量調整劑量、提供用藥教育、或轉介至不易引起低血糖的新型且可負擔之替代藥物方案，而非讓患者被動承受風險 。
+
+保守解讀的限制：首先，此分析對於食物不安全之評估來自基線時的單一問題，而低血糖事件為後續前瞻性追蹤，故在時序上無法將「食物匱乏的確切時間點」與「低血糖發生時間點」進行即時的因果對齊 。其次，數據來自線上自填問卷，存在自我報告偏差之限制 。再者，食物不安全者高達 12.3 events/person-year 的事件率呈明顯右偏分布，顯示可能是少數極端脆弱且反覆發生嚴重低血糖的個體貢獻了大部分事件，臨床解讀時不應將其視為所有暴露者的均等風險 。
+
+臨床思維延伸：在臨床門診時間有限且需兼顧患者尊嚴的前提下，糖尿病照護團隊應如何優雅且不具污名感地在診間評估患者的社會經濟狀況與飲食穩定度，以優化用藥安全？
+
+來源：
+ADA 2026 Scientific Sessions
+Session: Hypoglycemia across Contexts Risk Recognition and Real World Safety With ADA Presidents Select Abstract Presen
+Speaker: Alexandria Ratzki-Leewing - University of Maryland
+Title: ADA Presidents' Select Abstract: Food Insecurity and Level 3 Hypoglycemia in Non-Insulin-Treated Secretagogue Users (iNPHORM, USA)
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。</description><content:encoded>ADA 2026 專業整理：非胰島素治療之促胰島素分泌劑使用者中，食物不安全與 Level 3 低血糖的臨床實證 &lt;br /&gt;
+&lt;br /&gt;
+臨床問題：醫源性低血糖的討論常集中於胰島素，但促胰島素分泌劑（Secretagogues，包括磺醯脲類 SU 與格列奈類 Meglitinides）同樣具顯著低血糖風險，SU 與其他藥物相比會增加 3 倍以上的嚴重低血糖勝算 。儘管新型降糖藥（如 SGLT2i、GLP-1 RA、DPP-4i）的低血糖風險低 40% 至 57%，但因 SU 每月僅約 4 美元的低成本優勢，全美仍有約 17% 的糖尿病患者持續使用，且在 Metformin 二線起始治療中高達 43% 為 SU 。這種經濟局限常導致脆弱族群同時面臨「食物不安全」（因缺乏資金而減餐、跳餐），進而與藥物不依賴血糖濃度刺激胰島素分泌的機轉產生致命錯配（Insulin UP + No glucose on board），引發嚴重低血糖 。過去研究尚未專門針對此「未使用胰島素但使用促胰島素分泌劑」之特定族群進行食物不安全與嚴重低血糖風險的量化分析 。&lt;br /&gt;
+&lt;br /&gt;
+關鍵訊息：本分析採用美國代表性、前瞻性收集之 iNPHORM 研究數據，針對 339 名未使用胰島素但使用促胰島素分泌劑的第 2 型糖尿病成人進行多變項負二項迴歸分析 [8-10]。研究顯示，有 19% 的患者在過去一年經歷食物不安全 。未經調整的分析中，食物不安全者的 Level 3 低血糖發生率顯著較高（至少一次事件之比例為 34.4% 對比 18.9%；事件率為 12.3 對比 2.1 events/person-year） 。在調整年齡、教育、收入、居住狀況、種族、城鄉性、出生性別與婚姻狀態等干擾因子後，食物不安全暴露仍使 Level 3 低血糖事件率顯著增加約 2 倍（調整後 IRR 2.1，95% CI 1.4–3.1，p&lt;0.001） 。&lt;br /&gt;
+&lt;br /&gt;
+內分泌臨床實務的啟發：本研究顯示，臨床團隊僅需使用一個極為簡單的篩檢問題（「在過去 12 個月內，你是否曾因沒有足夠金錢購買食物而減少餐量或跳餐？」），即能有效辨識出 Level 3 低血糖的高風險族群 。臨床諮詢時，應將患者「食物取得的穩定性」與「藥物低血糖風險」置於同一個安全框架中評估 。特別是對於使用促胰島素分泌劑的脆弱患者，應主動討論其進食規律度，必要時應積極考量調整劑量、提供用藥教育、或轉介至不易引起低血糖的新型且可負擔之替代藥物方案，而非讓患者被動承受風險 。&lt;br /&gt;
+&lt;br /&gt;
+保守解讀的限制：首先，此分析對於食物不安全之評估來自基線時的單一問題，而低血糖事件為後續前瞻性追蹤，故在時序上無法將「食物匱乏的確切時間點」與「低血糖發生時間點」進行即時的因果對齊 。其次，數據來自線上自填問卷，存在自我報告偏差之限制 。再者，食物不安全者高達 12.3 events/person-year 的事件率呈明顯右偏分布，顯示可能是少數極端脆弱且反覆發生嚴重低血糖的個體貢獻了大部分事件，臨床解讀時不應將其視為所有暴露者的均等風險 。&lt;br /&gt;
+&lt;br /&gt;
+臨床思維延伸：在臨床門診時間有限且需兼顧患者尊嚴的前提下，糖尿病照護團隊應如何優雅且不具污名感地在診間評估患者的社會經濟狀況與飲食穩定度，以優化用藥安全？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: Hypoglycemia across Contexts Risk Recognition and Real World Safety With ADA Presidents Select Abstract Presen&lt;br /&gt;
+Speaker: Alexandria Ratzki-Leewing - University of Maryland&lt;br /&gt;
+Title: ADA Presidents' Select Abstract: Food Insecurity and Level 3 Hypoglycemia in Non-Insulin-Treated Secretagogue Users (iNPHORM, USA)&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。</content:encoded><pubDate>Fri, 12 Jun 2026 17:21:30 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-12-20260612-1705-ada2026-plenary-ada-presidents-select-abstract-food-insecurity-and-level-3.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-12-20260612-1705-ada2026-plenary-ada-presidents-select-abstract-food-insecurity-and-level-3.m4a" length="13579681" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>18:37</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-12-20260612-1705-ada2026-plenary-ada-presidents-select-abstract-food-insecurity-and-level-3.jpg" /></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Neal Kaufman - USING DIGITAL HEALTH TECHNOLOGY TO PREVENT AND TREAT DIABETES</title><description>ATTD 2026 專業整理：Neal Kaufman 探討數位健康科技於糖尿病之預防與治療
 
 各位醫師與糖尿病照護團隊同仁好：
 
