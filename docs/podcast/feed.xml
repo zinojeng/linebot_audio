@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Fri, 12 Jun 2026 17:13:41 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：ADA Presidents' Select Abstract: Food Insecurity and Level 3 Hypoglycemia in Non-Insulin-Treated Secretagogue Users (iNPHORM, USA)</title><description>ADA 2026 專業整理：非胰島素治療之促胰島素分泌劑使用者中，食物不安全與 Level 3 低血糖的臨床實證 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Fri, 12 Jun 2026 17:15:38 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：ADA Presidents' Select Abstract: Food Insecurity and Level 3 Hypoglycemia in Non-Insulin-Treated Secretagogue Users (iNPHORM, USA)</title><description>ADA 2026 專業整理：非胰島素治療之促胰島素分泌劑使用者中，食物不安全與 Level 3 低血糖的臨床實證 
 
 臨床問題：醫源性低血糖的討論常集中於胰島素，但促胰島素分泌劑（Secretagogues，包括磺醯脲類 SU 與格列奈類 Meglitinides）同樣具顯著低血糖風險，SU 與其他藥物相比會增加 3 倍以上的嚴重低血糖勝算 。儘管新型降糖藥（如 SGLT2i、GLP-1 RA、DPP-4i）的低血糖風險低 40% 至 57%，但因 SU 每月僅約 4 美元的低成本優勢，全美仍有約 17% 的糖尿病患者持續使用，且在 Metformin 二線起始治療中高達 43% 為 SU 。這種經濟局限常導致脆弱族群同時面臨「食物不安全」（因缺乏資金而減餐、跳餐），進而與藥物不依賴血糖濃度刺激胰島素分泌的機轉產生致命錯配（Insulin UP + No glucose on board），引發嚴重低血糖 。過去研究尚未專門針對此「未使用胰島素但使用促胰島素分泌劑」之特定族群進行食物不安全與嚴重低血糖風險的量化分析 。
 
@@ -35,7 +35,61 @@ Session: Hypoglycemia across Contexts Risk Recognition and Real World Safety Wit
 Speaker: Alexandria Ratzki-Leewing - University of Maryland&lt;br /&gt;
 Title: ADA Presidents' Select Abstract: Food Insecurity and Level 3 Hypoglycemia in Non-Insulin-Treated Secretagogue Users (iNPHORM, USA)&lt;br /&gt;
 &lt;br /&gt;
-本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。</content:encoded><pubDate>Fri, 12 Jun 2026 17:21:30 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-12-20260612-1705-ada2026-plenary-ada-presidents-select-abstract-food-insecurity-and-level-3.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-12-20260612-1705-ada2026-plenary-ada-presidents-select-abstract-food-insecurity-and-level-3.m4a" length="13579681" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>18:37</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-12-20260612-1705-ada2026-plenary-ada-presidents-select-abstract-food-insecurity-and-level-3.jpg" /></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Neal Kaufman - USING DIGITAL HEALTH TECHNOLOGY TO PREVENT AND TREAT DIABETES</title><description>ATTD 2026 專業整理：Neal Kaufman 探討數位健康科技於糖尿病之預防與治療
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。</content:encoded><pubDate>Fri, 12 Jun 2026 17:21:30 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-12-20260612-1705-ada2026-plenary-ada-presidents-select-abstract-food-insecurity-and-level-3.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-12-20260612-1705-ada2026-plenary-ada-presidents-select-abstract-food-insecurity-and-level-3.m4a" length="13579681" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>18:37</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-12-20260612-1705-ada2026-plenary-ada-presidents-select-abstract-food-insecurity-and-level-3.jpg" /></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Residual β-Cell Function Confers Glycemic Benefit beyond Automated Insulin Delivery in New-Onset Type 1 Diabetes</title><description>ADA 2026 專業整理：在自動胰島素輸注（AID）技術普及的時代，保留殘餘 β 細胞功能是否仍能為新發病第 1 型糖尿病（new-onset T1D）患者帶來額外的臨床效益 ？來自加拿大阿爾伯塔大學（University of Alberta）的 Anna Lam 醫師於本屆年會發表了最新整合分析，為內分泌醫療團隊解答了這個關鍵問題 。
+
+【臨床問題】
+隨著 hybrid closed-loop / AID 系統在隨機臨床試驗與真實世界中證實能顯著改善 T1D 血糖控制，目前臨床實務與疾病修飾治療（disease-modifying therapies，如 teplizumab）正快速演進 。這也引出一個實際的臨床疑問：若患者已使用先進的 AID 系統控糖，我們是否仍需要追求 β 細胞保存或疾病修飾治療？保留 C-peptide 還有實質、可量測的血糖效益嗎 ？
+
+【關鍵訊息】
+本研究整合了 CLOUD 與 CLVer 兩項針對新發病第 1 型糖尿病兒童與青少年的 RCT 研究（共計 206 位受試者，95 位接受標準治療，111 位使用 AID 系統），進行個人基礎的統合分析（individual patient-level pooled analysis） ：
+1. C-peptide 越高則血糖曲線越好：24 小時 CGM 數據顯示，不論是標準治療或 AID 組，隨著 C-peptide 增加，血糖曲線皆變得更平坦，且更接近非糖尿病健康對照組的正常軌跡 。
+2. GMI 比 HbA1c 更加敏感：在新發病階段，HbA1c 因具有滯後性而較不敏感；CGM 估算出的 GMI 則能更即時且敏感地捕捉到 AID 與殘餘 C-peptide 帶來的控糖效益 。
+3. AID 與殘餘 β 細胞功能具有互補效應：在低 C-peptide 的患者中，AID 展現出最大的血糖改善（增量效益）；而隨著 C-peptide 增加，AID 組與標準治療組的血糖曲線差距逐漸縮小，顯示內生性 β 細胞本身即具有強大的控糖穩定力 。
+4. 減少高血糖與變異度：殘餘 C-peptide 不僅能改善平均血糖，還與較少的重度高血糖（Level 2 TAR &gt;13.9 mmol/L）暴露以及較低的血糖絕對擺幅（SD）顯著相關 。
+
+【對內分泌臨床實務的啟發】
+1. 科技與免疫療法應相輔相成：先進科技（AID）無法取代 β 細胞保存的價值。即使在科技普及的現代，保存內生性 β 細胞功能仍然是值得追求的臨床目標，兩者應視為互補策略 。
+2. 臨床試驗指標的革新：未來評估 C-peptide 保存或 β 細胞保護療法時，不應僅依賴傳統的 HbA1c，而應將 CGM 相關指標（如 GMI、TIR、TAR）納入重要終點，這將更能捕捉到臨床上具實質意義的短期與動態效益 。
+
+【需要保守解讀的限制】
+1. 關聯性而非因果關係：此分析中 C-peptide 相關結果屬於關聯性分析。保留較多 C-peptide 的患者可能本身就具有疾病進程較慢或不同的照護行為，這些可能成為潛在混雜因素 。
+2. 試驗異質性：研究整合自兩項相似但不完全相同的試驗，雖然模型已針對研究效應進行調整，但兩者在使用的演算法技術、年齡範圍和納入時間點上仍有差異 。
+3. 低血糖分析需謹慎：雖然數據上低 C-peptide 且使用 AID 的患者在低血糖時間（TBR）似乎有所增加，但因事件稀少、估計不夠精確且誤差範圍較大，此結果僅適合視為「建立假說」的訊號，不應過度詮釋 。
+
+【醫師思考問題】
+在 hybrid closed-loop 系統控糖效果已相當優異的前提下，我們該如何評估免疫修飾療法（disease-modifying therapies）與先進科技的結合時機，才能為新發病第 1 型糖尿病患者創造最大且最具成本效益的長期預後？
+
+【來源資訊】
+ADA 2026 Scientific Sessions, Session: Preventing Type 1 Diabetes. Presentation Title: "Residual β-Cell Function Confers Glycemic Benefit beyond Automated Insulin Delivery in New-Onset Type 1 Diabetes" (Speaker: Anna Lam - University of Alberta) .
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。</description><content:encoded>ADA 2026 專業整理：在自動胰島素輸注（AID）技術普及的時代，保留殘餘 β 細胞功能是否仍能為新發病第 1 型糖尿病（new-onset T1D）患者帶來額外的臨床效益 ？來自加拿大阿爾伯塔大學（University of Alberta）的 Anna Lam 醫師於本屆年會發表了最新整合分析，為內分泌醫療團隊解答了這個關鍵問題 。&lt;br /&gt;
+&lt;br /&gt;
+【臨床問題】&lt;br /&gt;
+隨著 hybrid closed-loop / AID 系統在隨機臨床試驗與真實世界中證實能顯著改善 T1D 血糖控制，目前臨床實務與疾病修飾治療（disease-modifying therapies，如 teplizumab）正快速演進 。這也引出一個實際的臨床疑問：若患者已使用先進的 AID 系統控糖，我們是否仍需要追求 β 細胞保存或疾病修飾治療？保留 C-peptide 還有實質、可量測的血糖效益嗎 ？&lt;br /&gt;
+&lt;br /&gt;
+【關鍵訊息】&lt;br /&gt;
+本研究整合了 CLOUD 與 CLVer 兩項針對新發病第 1 型糖尿病兒童與青少年的 RCT 研究（共計 206 位受試者，95 位接受標準治療，111 位使用 AID 系統），進行個人基礎的統合分析（individual patient-level pooled analysis） ：&lt;br /&gt;
+1. C-peptide 越高則血糖曲線越好：24 小時 CGM 數據顯示，不論是標準治療或 AID 組，隨著 C-peptide 增加，血糖曲線皆變得更平坦，且更接近非糖尿病健康對照組的正常軌跡 。&lt;br /&gt;
+2. GMI 比 HbA1c 更加敏感：在新發病階段，HbA1c 因具有滯後性而較不敏感；CGM 估算出的 GMI 則能更即時且敏感地捕捉到 AID 與殘餘 C-peptide 帶來的控糖效益 。&lt;br /&gt;
+3. AID 與殘餘 β 細胞功能具有互補效應：在低 C-peptide 的患者中，AID 展現出最大的血糖改善（增量效益）；而隨著 C-peptide 增加，AID 組與標準治療組的血糖曲線差距逐漸縮小，顯示內生性 β 細胞本身即具有強大的控糖穩定力 。&lt;br /&gt;
+4. 減少高血糖與變異度：殘餘 C-peptide 不僅能改善平均血糖，還與較少的重度高血糖（Level 2 TAR &gt;13.9 mmol/L）暴露以及較低的血糖絕對擺幅（SD）顯著相關 。&lt;br /&gt;
+&lt;br /&gt;
+【對內分泌臨床實務的啟發】&lt;br /&gt;
+1. 科技與免疫療法應相輔相成：先進科技（AID）無法取代 β 細胞保存的價值。即使在科技普及的現代，保存內生性 β 細胞功能仍然是值得追求的臨床目標，兩者應視為互補策略 。&lt;br /&gt;
+2. 臨床試驗指標的革新：未來評估 C-peptide 保存或 β 細胞保護療法時，不應僅依賴傳統的 HbA1c，而應將 CGM 相關指標（如 GMI、TIR、TAR）納入重要終點，這將更能捕捉到臨床上具實質意義的短期與動態效益 。&lt;br /&gt;
+&lt;br /&gt;
+【需要保守解讀的限制】&lt;br /&gt;
+1. 關聯性而非因果關係：此分析中 C-peptide 相關結果屬於關聯性分析。保留較多 C-peptide 的患者可能本身就具有疾病進程較慢或不同的照護行為，這些可能成為潛在混雜因素 。&lt;br /&gt;
+2. 試驗異質性：研究整合自兩項相似但不完全相同的試驗，雖然模型已針對研究效應進行調整，但兩者在使用的演算法技術、年齡範圍和納入時間點上仍有差異 。&lt;br /&gt;
+3. 低血糖分析需謹慎：雖然數據上低 C-peptide 且使用 AID 的患者在低血糖時間（TBR）似乎有所增加，但因事件稀少、估計不夠精確且誤差範圍較大，此結果僅適合視為「建立假說」的訊號，不應過度詮釋 。&lt;br /&gt;
+&lt;br /&gt;
+【醫師思考問題】&lt;br /&gt;
+在 hybrid closed-loop 系統控糖效果已相當優異的前提下，我們該如何評估免疫修飾療法（disease-modifying therapies）與先進科技的結合時機，才能為新發病第 1 型糖尿病患者創造最大且最具成本效益的長期預後？&lt;br /&gt;
+&lt;br /&gt;
+【來源資訊】&lt;br /&gt;
+ADA 2026 Scientific Sessions, Session: Preventing Type 1 Diabetes. Presentation Title: "Residual β-Cell Function Confers Glycemic Benefit beyond Automated Insulin Delivery in New-Onset Type 1 Diabetes" (Speaker: Anna Lam - University of Alberta) .&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。</content:encoded><pubDate>Fri, 12 Jun 2026 02:56:43 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-12-20260612-0234-ada2026-symposium-residual-cell-function-confers-glycemic-benefit-beyond-aut.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-12-20260612-0234-ada2026-symposium-residual-cell-function-confers-glycemic-benefit-beyond-aut.m4a" length="14545564" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>19:57</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-12-20260612-0234-ada2026-symposium-residual-cell-function-confers-glycemic-benefit-beyond-aut.jpg" /></item><item><title>聽懂 糖尿病新知雙聲道｜ATTD 2026 專業摘要：Neal Kaufman - USING DIGITAL HEALTH TECHNOLOGY TO PREVENT AND TREAT DIABETES</title><description>ATTD 2026 專業整理：Neal Kaufman 探討數位健康科技於糖尿病之預防與治療
 
 各位醫師與糖尿病照護團隊同仁好：
 
