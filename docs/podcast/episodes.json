@@ -19,6 +19,25 @@
     "kind": "ada2026_professional_line_post"
   },
   {
+    "id": "2026-06-12-20260612-0807-ada2026-scientific_parallel-ada-presidents-select-abstract-automated-insulin-delivery",
+    "guid": "https://linebotaudio.zeabur.app/audio/2026-06-12-20260612-0807-ada2026-scientific_parallel-ada-presidents-select-abstract-automated-insulin-delivery.m4a",
+    "title": "聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：ADA Presidents' Select Abstract: Automated Insulin Delivery in Hospitalized Patients with Diabetes and Advanced Kidney Disease",
+    "description": "ADA 2026 專業整理：自動胰島素輸注系統於住院合併重度腎臟病糖尿病患之臨床應用\n\n本場演講由史丹佛大學的 Tugce Akcan 醫師發表，針對 AIDING 隨機對照試驗中，合併重度慢性腎臟病（advanced CKD）住院患者進行的預先設定次群體分析（subgroup analysis）[1-3]。\n\n臨床問題\n在住院成人患者中，糖尿病非常普遍，約占四分之一 。傳統上使用多次每日注射（MDI）進行住院血糖管理時，低血糖發生率達 12% 至 30%，且有超過 30% 的血糖值超過 180 mg/dL 。當糖尿病患者合併重度腎臟病（eGFR ≤ 30 mL/min/1.73 m²，KDIGO G4-G5）時，其住院血糖管理難度將急遽增加 。由於胰島素清除率降低、腎臟糖質新生受損、尿毒症干擾胰島素代謝，以及低血糖時的反調節反應鈍化，這些多重生理病理變化共同導致患者面臨更狹窄的治療窗口、劇烈的血糖波動與極高的低血糖風險 。\n\n關鍵訊息\n此預先設定的次群體分析共納入 27 位非 ICU 住院的重度腎臟病成人糖尿病患者，其中 AID 組 14 位（使用 Omnipod 5 搭配 Dexcom G7 進行自動胰島素輸注），控制組 13 位（接受 basal-bolus MDI 搭配 Dexcom G7 監測） [3, 7-9]。\n\n1. 主要療效指標：AID 組的目標血糖範圍時間（TIR 70-180 mg/dL）達 68.8%，而 MDI + CGM 控制組僅為 36.3% 。校正後的絕對差異為 +25.7 個百分點（p = 0.001），這意味著 AID 組患者每天平均多出約 6 小時處於目標血糖範圍內 。\n\n2. 時間與住院天數分析：AID 的療效優勢從住院第一天（hospital day 1）便開始顯現，並且在 24 小時內的所有時段以及整個住院期間均穩定維持 。\n\n3. 次要療效指標：AID 組的平均 CGM 血糖顯著低於控制組（164 mg/dL vs. 217 mg/dL，校正後差異為 -53.5 mg/dL） 。同時，嚴重高血糖暴露時間（> 250 mg/dL）也大幅減少約三分之二（8.9% vs. 30.4%） 。\n\n4. 安全性表現：低血糖暴露在兩組皆維持在極低水平（AID 組血糖 < 54 mg/dL 的時間比例僅 0.09%，控制組為 0%） 。兩組均未發生嚴重低血糖、糖尿病酮酸中毒（DKA）、高滲透壓高血糖狀態（HHS）或與裝置相關的不良事件 。\n\n對內分泌臨床實務的啟發\n這項研究證實，在極具醫療複雜性且高風險的住院 advanced CKD 族群中，自動胰島素輸注系統（AID）是一項具有高度臨床前景的住院血糖管理策略 。值得特別關注的是，本研究的控制組並非傳統的指尖血糖（POC）監測，而是同樣配戴 CGM 的主動對照組，這說明 AID 系統的療效優勢並非僅來自於更密集的血糖監測數據，更源自於演算法與自動胰島素輸注的主動動態調節 。此外，本研究受試者中有 56% 自我認同為黑人或非裔美國人，在過去的糖尿病技術試驗中，此族群常被嚴重低估，本研究的族群多元性提升了臨床應用上的代表性 。\n\n需要保守解讀的限制\n1. 尚未獲得法規住院核准：該 AID 系統目前尚未獲得 FDA 核准用於住院治療，臨床上仍無法直接常規導入住院照護 。\n\n2. 樣本數與統計檢定力限制：本研究為次群體分析，樣本數有限（n = 27），研究設計並非針對此特定次群體的結果具備完整的統計檢定力（power），未來仍需要更大規模、專門針對 advanced CKD 住院族群的研究來進一步驗證 。\n\n3. 臨床照護資源與可擴展性：本研究的成功運作依賴高度密集的監測與操作架構，包含藍牙設備通訊、病房護理人員及研究團隊協作、雲端遠端監測平台、頻繁的 CGM 驗證與警報排除流程 。在一般醫院的一般病房中，是否有足夠的護理人力、教育訓練與裝置管理流程（如面臨影像檢查需暫時拆除裝置時的重置流程）以支持此系統的運作，其可擴展性（scalability）仍待審慎評估 。\n\n給醫師後續思考的問題\n面對住院 advanced CKD 患者如此狹窄且高風險的治療窗口，我們應如何設計住院照護流程，才能在不顯著增加病房護理團隊工作負擔的前提下，安全且系統化地將自動胰島素輸注技術導入日常的臨床實務中？\n\n來源\nADA 2026 Scientific Sessions\nSession 1: What's New with Insulin Delivery Systems With ADA Presidents' Select Abstract Presentation\nTitle: ADA Presidents' Select Abstract: Automated Insulin Delivery in Hospitalized Patients with Diabetes and Advanced Kidney Disease\n\n本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。",
+    "pub_date": "2026-06-12T08:26:19+08:00",
+    "pub_date_rfc2822": "Fri, 12 Jun 2026 08:26:19 +0800",
+    "audio_url": "https://linebotaudio.zeabur.app/audio/2026-06-12-20260612-0807-ada2026-scientific_parallel-ada-presidents-select-abstract-automated-insulin-delivery.m4a",
+    "audio_length": 15649977,
+    "audio_type": "audio/mp4",
+    "image_url": "https://linebotaudio.zeabur.app/image/2026-06-12-20260612-0807-ada2026-scientific_parallel-ada-presidents-select-abstract-automated-insulin-delivery.jpg",
+    "podcast_image_url": "",
+    "duration": "21:28",
+    "source_url": "",
+    "explicit": "false",
+    "language": "zh-TW",
+    "manifest": "/Users/ander/Documents/hermes-agent/diabetes-news-social-post/output/notebooklm/2026-06-12-20260612-0807-ada2026-scientific_parallel-ada-presidents-select-abstract-automated-insulin-delivery.manifest.json",
+    "kind": "ada2026_professional_line_post"
+  },
+  {
     "id": "2026-06-12-20260612-0234-ada2026-symposium-residual-cell-function-confers-glycemic-benefit-beyond-aut",
     "guid": "https://linebotaudio.zeabur.app/audio/2026-06-12-20260612-0234-ada2026-symposium-residual-cell-function-confers-glycemic-benefit-beyond-aut.m4a",
     "title": "聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Residual β-Cell Function Confers Glycemic Benefit beyond Automated Insulin Delivery in New-Onset Type 1 Diabetes",
