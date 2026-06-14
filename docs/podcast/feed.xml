@@ -1,5 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Sun, 14 Jun 2026 09:41:57 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：ADA Presidents' Select Abstract: Food Insecurity and Level 3 Hypoglycemia in Non-Insulin-Treated Secretagogue Users (iNPHORM, USA)</title><description>ADA 2026 專業整理：非胰島素治療之促胰島素分泌劑使用者中，食物不安全與 Level 3 低血糖的臨床實證 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Sun, 14 Jun 2026 12:22:23 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Effects of CagriSema on Appetite and Functional Brain Activity in People with Overweight/Obesity</title><description>ADA 2026 專業整理：CagriSema 對過重或肥胖者食慾與功能性大腦活動的影響
+
+臨床問題：肥胖症患者的進食行為主要受到恆定系統（因飢餓與能量需求而進食）、享樂系統（為了愉悅與獎賞進食，包含想吃與食物帶來的喜好）以及執行功能系統（涉及較高層次的認知決策，評估長期後果）等三種大腦神經路徑調節 [1-3]。在肥胖症患者身上，這些系統可能失去平衡，享樂系統常過度主導 。許多病人在臨床上會將這種失衡描述為「食物雜音」（food noise），也就是持續、侵入性且難以停止的食物相關想法，這對病人造成極大的認知負擔與日常干擾，也是減重嘗試失敗的常見主因，而非單純缺乏意志力 。
+
+關鍵訊息：本研究為一項隨機、雙盲、安慰劑對照的作用機轉研究，旨在評估每週一次皮下注射的固定劑量複方 CagriSema（cagrilintide 2.4 mg 與 semaglutide 2.4 mg）對患者自評食慾、進食行為及食物線索大腦反應的影響 。研究隨機分派 130 位無第二型糖尿病的過重或肥胖成人（CagriSema 組 66 人，安慰劑組 64 人）進行 22 週的密集評估 。主要成果如下：
+
+一、食慾調節與行為顯著改善：在治療 22 週後，CagriSema 使患者自我報告的總食慾分數（VAS score）顯著下降 47%（安慰劑組僅下降 8%，組間百分比差異為 -39%，p&lt;0.0001），且在攝取標準化早餐後 180 分鐘內，患者皆能持續維持在顯著較低的食慾狀態 。此外，患者報告結果（PRO）顯示，患者對甜食與鹹食的渴望顯著降低、整體食物渴望控制力（craving control）改善，且正向情緒維持穩定 ；日常飢餓感、日常食慾與享樂飢餓感等指標均有改善 。
+
+二、進食能量攝取與體重減輕：CagriSema 治療後，受試者在三個餐次中的實際總能量攝取大幅下降達 51%（安慰劑組為 12%，組間百分比差異為 -39%，p&lt;0.0001） 。值得注意的是，受試者在高脂甜食（high-fat sweet food）的能量攝取上也顯著減少了 1,270 kJ（p&lt;0.0010） 。伴隨食慾與實際攝食的下降，CagriSema 組治療 22 週的體重下降幅度約達 16.39%（安慰劑組為 0.95%，組間差異為 -15.45%，p&lt;0.0001） 。
+
+三、大腦功能性磁振造影（fMRI）的重新調控：利用 BOLD fMRI 觀察患者觀看高熱量食物圖片並想像品嚐時的大腦反應，結果顯示 CagriSema 對高熱量食物線索在不同功能腦區中產生了方向不同的調節作用 。在與食物感覺訊息（如味覺、質地與口腔體感）相關的後中央回（postcentral gyrus），CagriSema 降低了其對高熱量食物線索的反應 。然而，在與食物獎賞、動機及飲食習慣形成相關的殼核（putamen），以及負責整合飢餓、獎賞與動機信號的丘腦核團（thalamic nuclei）中，CagriSema 則增加了對高熱量食物線索的神經活動反應，顯示其並非單純全面壓低腦部反應，而是重新調控神經反應網絡 。
+
+四、安全性與耐受性：整體安全性與耐受性特徵與 phase 3 REDEFINE 臨床試驗經驗一致，未觀察到非預期安全訊號 。常見不良事件以腸胃道事件為主（CagriSema 組發生率為 89.4%，安慰劑組為 39.1%），多數事件嚴重度為輕度 。此外，CagriSema 組有 16.7% 的患者因不良事件（最常見為噁心、嘔吐）導致退出試驗，高於安慰劑組的 1.6% 。
+
+對內分泌臨床實務的啟發：CagriSema 結合了澱粉素受體促效劑（cagrilintide）與 GLP-1 受體促效劑（semaglutide） 。人類大腦受體分布研究證實，澱粉素受體與 GLP-1 受體在下視丘與後腦等調節食慾的關鍵大腦區域中，既分布於不同的神經細胞群，也在部分細胞中存在共表現（co-expression），提供了雙重機制發揮直接與互補效果的生物學基礎 。臨床上面對肥胖症患者時，這項機轉研究提醒糖尿病及減重照護團隊：肥胖治療不應簡化為「計算卡路里赤字」或病患「意志力不足」的說法 。肥胖者的減重障礙往往來自強烈的飢餓感、渴望與食物雜音等深層生物性驅動力 。CagriSema 的大腦功能影像與食慾調控結果證實，透過同時作用於雙重生物學路徑，能從神經層面調節大腦對食物線索的反應，並改善高熱量食物渴望及食慾的自覺控制 。
+
+需要保守解讀的限制：在臨床應用此機轉發現時，應注意以下限制：首先，本場報告僅涵蓋前 22 週的短期數據，長期的食慾行為與大腦功能調節是否能持續穩定，仍需等待完整 54 週研究終點的結果公布 。其次，本試驗並未包含單獨使用 cagrilintide 或 semaglutide 的單藥治療對照組，故無法直接在同一個試驗中比較與單方成分的差異，或精確量化單方成分大腦作用的個別貢獻度 。最後，CagriSema 組高達 16.7% 的不良事件退出率（多與腸胃道耐受性有關），提示在實際臨床滴定與患者衛教管理中，如何取得最佳療效與耐受性平衡，仍是一項需要關注的課題 。
+
+臨床思考問題：在未來多靶點肥胖治療藥物進入臨床實務後，我們該如何有效評估並篩選出具有高「享樂進食驅動」或嚴重「食物雜音」的特定患者群，以實現更精準、個人化的體重管理介入方案？
+
+來源：
+ADA 2026 Scientific Sessions, Oral Presentation 1035-OR
+Session: Human Studies in Obesity Treatment Emerging Therapeutic Options and Strategies for Decision Making
+Title: Effects of CagriSema on Appetite and Functional Brain Activity in People with Overweight/Obesity (Janne Rasmus Hingst - Novo Nordisk A/S)
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/564a57d3-0e28-42a2-a22f-11bdf5f83af5</description><content:encoded>ADA 2026 專業整理：CagriSema 對過重或肥胖者食慾與功能性大腦活動的影響&lt;br /&gt;
+&lt;br /&gt;
+臨床問題：肥胖症患者的進食行為主要受到恆定系統（因飢餓與能量需求而進食）、享樂系統（為了愉悅與獎賞進食，包含想吃與食物帶來的喜好）以及執行功能系統（涉及較高層次的認知決策，評估長期後果）等三種大腦神經路徑調節 [1-3]。在肥胖症患者身上，這些系統可能失去平衡，享樂系統常過度主導 。許多病人在臨床上會將這種失衡描述為「食物雜音」（food noise），也就是持續、侵入性且難以停止的食物相關想法，這對病人造成極大的認知負擔與日常干擾，也是減重嘗試失敗的常見主因，而非單純缺乏意志力 。&lt;br /&gt;
+&lt;br /&gt;
+關鍵訊息：本研究為一項隨機、雙盲、安慰劑對照的作用機轉研究，旨在評估每週一次皮下注射的固定劑量複方 CagriSema（cagrilintide 2.4 mg 與 semaglutide 2.4 mg）對患者自評食慾、進食行為及食物線索大腦反應的影響 。研究隨機分派 130 位無第二型糖尿病的過重或肥胖成人（CagriSema 組 66 人，安慰劑組 64 人）進行 22 週的密集評估 。主要成果如下：&lt;br /&gt;
+&lt;br /&gt;
+一、食慾調節與行為顯著改善：在治療 22 週後，CagriSema 使患者自我報告的總食慾分數（VAS score）顯著下降 47%（安慰劑組僅下降 8%，組間百分比差異為 -39%，p&lt;0.0001），且在攝取標準化早餐後 180 分鐘內，患者皆能持續維持在顯著較低的食慾狀態 。此外，患者報告結果（PRO）顯示，患者對甜食與鹹食的渴望顯著降低、整體食物渴望控制力（craving control）改善，且正向情緒維持穩定 ；日常飢餓感、日常食慾與享樂飢餓感等指標均有改善 。&lt;br /&gt;
+&lt;br /&gt;
+二、進食能量攝取與體重減輕：CagriSema 治療後，受試者在三個餐次中的實際總能量攝取大幅下降達 51%（安慰劑組為 12%，組間百分比差異為 -39%，p&lt;0.0001） 。值得注意的是，受試者在高脂甜食（high-fat sweet food）的能量攝取上也顯著減少了 1,270 kJ（p&lt;0.0010） 。伴隨食慾與實際攝食的下降，CagriSema 組治療 22 週的體重下降幅度約達 16.39%（安慰劑組為 0.95%，組間差異為 -15.45%，p&lt;0.0001） 。&lt;br /&gt;
+&lt;br /&gt;
+三、大腦功能性磁振造影（fMRI）的重新調控：利用 BOLD fMRI 觀察患者觀看高熱量食物圖片並想像品嚐時的大腦反應，結果顯示 CagriSema 對高熱量食物線索在不同功能腦區中產生了方向不同的調節作用 。在與食物感覺訊息（如味覺、質地與口腔體感）相關的後中央回（postcentral gyrus），CagriSema 降低了其對高熱量食物線索的反應 。然而，在與食物獎賞、動機及飲食習慣形成相關的殼核（putamen），以及負責整合飢餓、獎賞與動機信號的丘腦核團（thalamic nuclei）中，CagriSema 則增加了對高熱量食物線索的神經活動反應，顯示其並非單純全面壓低腦部反應，而是重新調控神經反應網絡 。&lt;br /&gt;
+&lt;br /&gt;
+四、安全性與耐受性：整體安全性與耐受性特徵與 phase 3 REDEFINE 臨床試驗經驗一致，未觀察到非預期安全訊號 。常見不良事件以腸胃道事件為主（CagriSema 組發生率為 89.4%，安慰劑組為 39.1%），多數事件嚴重度為輕度 。此外，CagriSema 組有 16.7% 的患者因不良事件（最常見為噁心、嘔吐）導致退出試驗，高於安慰劑組的 1.6% 。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的啟發：CagriSema 結合了澱粉素受體促效劑（cagrilintide）與 GLP-1 受體促效劑（semaglutide） 。人類大腦受體分布研究證實，澱粉素受體與 GLP-1 受體在下視丘與後腦等調節食慾的關鍵大腦區域中，既分布於不同的神經細胞群，也在部分細胞中存在共表現（co-expression），提供了雙重機制發揮直接與互補效果的生物學基礎 。臨床上面對肥胖症患者時，這項機轉研究提醒糖尿病及減重照護團隊：肥胖治療不應簡化為「計算卡路里赤字」或病患「意志力不足」的說法 。肥胖者的減重障礙往往來自強烈的飢餓感、渴望與食物雜音等深層生物性驅動力 。CagriSema 的大腦功能影像與食慾調控結果證實，透過同時作用於雙重生物學路徑，能從神經層面調節大腦對食物線索的反應，並改善高熱量食物渴望及食慾的自覺控制 。&lt;br /&gt;
+&lt;br /&gt;
+需要保守解讀的限制：在臨床應用此機轉發現時，應注意以下限制：首先，本場報告僅涵蓋前 22 週的短期數據，長期的食慾行為與大腦功能調節是否能持續穩定，仍需等待完整 54 週研究終點的結果公布 。其次，本試驗並未包含單獨使用 cagrilintide 或 semaglutide 的單藥治療對照組，故無法直接在同一個試驗中比較與單方成分的差異，或精確量化單方成分大腦作用的個別貢獻度 。最後，CagriSema 組高達 16.7% 的不良事件退出率（多與腸胃道耐受性有關），提示在實際臨床滴定與患者衛教管理中，如何取得最佳療效與耐受性平衡，仍是一項需要關注的課題 。&lt;br /&gt;
+&lt;br /&gt;
+臨床思考問題：在未來多靶點肥胖治療藥物進入臨床實務後，我們該如何有效評估並篩選出具有高「享樂進食驅動」或嚴重「食物雜音」的特定患者群，以實現更精準、個人化的體重管理介入方案？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions, Oral Presentation 1035-OR&lt;br /&gt;
+Session: Human Studies in Obesity Treatment Emerging Therapeutic Options and Strategies for Decision Making&lt;br /&gt;
+Title: Effects of CagriSema on Appetite and Functional Brain Activity in People with Overweight/Obesity (Janne Rasmus Hingst - Novo Nordisk A/S)&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/564a57d3-0e28-42a2-a22f-11bdf5f83af5</content:encoded><pubDate>Sun, 14 Jun 2026 11:50:10 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-14-20260614-1134-ada2026-symposium-effects-of-cagrisema-on-appetite-and-functional-brain-acti.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-14-20260614-1134-ada2026-symposium-effects-of-cagrisema-on-appetite-and-functional-brain-acti.m4a" length="12897710" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>17:41</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-14-20260614-1134-ada2026-symposium-effects-of-cagrisema-on-appetite-and-functional-brain-acti.jpg" /><link>https://mednote.zeabur.app/lectures/564a57d3-0e28-42a2-a22f-11bdf5f83af5</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：ADA Presidents' Select Abstract: Food Insecurity and Level 3 Hypoglycemia in Non-Insulin-Treated Secretagogue Users (iNPHORM, USA)</title><description>ADA 2026 專業整理：非胰島素治療之促胰島素分泌劑使用者中，食物不安全與 Level 3 低血糖的臨床實證 
 
 臨床問題：醫源性低血糖的討論常集中於胰島素，但促胰島素分泌劑（Secretagogues，包括磺醯脲類 SU 與格列奈類 Meglitinides）同樣具顯著低血糖風險，SU 與其他藥物相比會增加 3 倍以上的嚴重低血糖勝算 。儘管新型降糖藥（如 SGLT2i、GLP-1 RA、DPP-4i）的低血糖風險低 40% 至 57%，但因 SU 每月僅約 4 美元的低成本優勢，全美仍有約 17% 的糖尿病患者持續使用，且在 Metformin 二線起始治療中高達 43% 為 SU 。這種經濟局限常導致脆弱族群同時面臨「食物不安全」（因缺乏資金而減餐、跳餐），進而與藥物不依賴血糖濃度刺激胰島素分泌的機轉產生致命錯配（Insulin UP + No glucose on board），引發嚴重低血糖 。過去研究尚未專門針對此「未使用胰島素但使用促胰島素分泌劑」之特定族群進行食物不安全與嚴重低血糖風險的量化分析 。
 
