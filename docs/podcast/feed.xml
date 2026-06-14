@@ -1,5 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Sun, 14 Jun 2026 12:22:37 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Negative Premeal NetIOB and Large Meals Are Associated with Higher Postprandial Excursions in AID Users with Type 1 Diabetes</title><description>ADA 2026 專業整理：Negative Premeal NetIOB and Large Meals Are Associated with Higher Postprandial Excursions in AID Users with Type 1 Diabetes
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Sun, 14 Jun 2026 12:22:42 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Menstrual Cycle–Related Insulin Requirement Changes Are Independent of Menstrual Symptoms and PMDD in Women with Type 1 Diabetes Using an AHCL System</title><description>ADA 2026 專業整理：第一型糖尿病女性月經週期胰島素需求與血糖波動之生理因素剖析
+
+臨床問題：
+第一型糖尿病（T1D）女性在黃體期常伴隨胰島素需求增加與血糖控制變差 。然而，這究竟是荷爾蒙波動（如孕酮 progesterone 上升）直接導致的生理性胰島素敏感度下降，還是因為經前症狀、情緒波動引發的行為改變（如碳水化合物攝取增加）所致，在臨床上一直缺乏精確的量化分析 。此外，在使用先進自動閉環（AHCL）系統的族群中，這類週期性的血糖波動與胰島素需求變化是否依然存在，且是否與患者主觀的月經症狀或經前不悅症（PMDD）狀態相關，亦是臨床照護團隊亟需釐清的核心問題 。
+
+關鍵訊息：
+1. 胰島素需求與血糖指標在黃體期顯著上升：
+研究分析了15位平均使用 MiniMed 780G 系統達30個月的停經前第一型糖尿病女性，共計80個週期 。結果顯示，黃體期（下一次月經前7天）相較於濾泡期（月經開始第1至7天），患者的每日胰島素總劑量（TDD）顯著增加 4.1 U、基礎率增加 1.0 U、自動校正劑量增加 1.1 U、餐前劑量增加 2.0 U 。在血糖指標方面，黃體期的目標範圍時間（TIR, 70-180 mg/dL）顯著下降（由 72.9% 降至 70.0%），且嚴重高血糖時間（TAR level 2, &gt;250 mg/dL）顯著上升（由 5.1% 升至 6.9%），而低血糖時間則無顯著變化 。
+
+2. 代謝波動主要由生理性胰島素敏感度下降驅動：
+當研究者進行多因素統計調整、排除碳水化合物攝取增加的影響後，黃體期的 TIR 下降、TAR level 2 增加，以及 TDD、基礎率、自動校正劑量的上升依然保持顯著的統計學差異 。唯一失去顯著性的是餐前劑量 。這證實了黃體期的胰島素需求上升與血糖惡化，並非單純由經前飲食攝取增加（行為因素）所致，而是存在內在的生理性胰島素敏感度下降 。
+
+3. 月經症狀與 PMDD 無法預測血糖及劑量變化：
+研究採用 mMDQ 問卷與 PMDD 評估量表，發現患者的主觀月經症狀嚴重度與任何代謝參數的變化幅度均無顯著相關性，且有無 PMDD 的女性在黃體期相對於濾泡期的代謝指標變化上也無顯著差異 。這說明主觀的症狀負擔較重，主要反映的是中樞神經系統對荷爾蒙波動的敏感性，而非直接代表周邊組織的胰島素阻抗程度 。
+
+對內分泌臨床實務的啟發：
+1. 即使患者使用目前積極的先進自動閉環系統（如 MiniMed 780G），系統演算法在面對月經週期急遽的荷爾蒙變化時仍存在一定的反饋延遲，無法完全抵消黃體期的高血糖波動 。
+2. 臨床照護團隊在評估女性患者的 CGM 數據時，應主動將月經週期納入評估考量，且不能僅依據患者有無明顯經前症狀或 PMDD，來判斷
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/f671529b-6f48-4200-ba95-5bf18bad4970</description><content:encoded>ADA 2026 專業整理：第一型糖尿病女性月經週期胰島素需求與血糖波動之生理因素剖析&lt;br /&gt;
+&lt;br /&gt;
+臨床問題：&lt;br /&gt;
+第一型糖尿病（T1D）女性在黃體期常伴隨胰島素需求增加與血糖控制變差 。然而，這究竟是荷爾蒙波動（如孕酮 progesterone 上升）直接導致的生理性胰島素敏感度下降，還是因為經前症狀、情緒波動引發的行為改變（如碳水化合物攝取增加）所致，在臨床上一直缺乏精確的量化分析 。此外，在使用先進自動閉環（AHCL）系統的族群中，這類週期性的血糖波動與胰島素需求變化是否依然存在，且是否與患者主觀的月經症狀或經前不悅症（PMDD）狀態相關，亦是臨床照護團隊亟需釐清的核心問題 。&lt;br /&gt;
+&lt;br /&gt;
+關鍵訊息：&lt;br /&gt;
+1. 胰島素需求與血糖指標在黃體期顯著上升：&lt;br /&gt;
+研究分析了15位平均使用 MiniMed 780G 系統達30個月的停經前第一型糖尿病女性，共計80個週期 。結果顯示，黃體期（下一次月經前7天）相較於濾泡期（月經開始第1至7天），患者的每日胰島素總劑量（TDD）顯著增加 4.1 U、基礎率增加 1.0 U、自動校正劑量增加 1.1 U、餐前劑量增加 2.0 U 。在血糖指標方面，黃體期的目標範圍時間（TIR, 70-180 mg/dL）顯著下降（由 72.9% 降至 70.0%），且嚴重高血糖時間（TAR level 2, &gt;250 mg/dL）顯著上升（由 5.1% 升至 6.9%），而低血糖時間則無顯著變化 。&lt;br /&gt;
+&lt;br /&gt;
+2. 代謝波動主要由生理性胰島素敏感度下降驅動：&lt;br /&gt;
+當研究者進行多因素統計調整、排除碳水化合物攝取增加的影響後，黃體期的 TIR 下降、TAR level 2 增加，以及 TDD、基礎率、自動校正劑量的上升依然保持顯著的統計學差異 。唯一失去顯著性的是餐前劑量 。這證實了黃體期的胰島素需求上升與血糖惡化，並非單純由經前飲食攝取增加（行為因素）所致，而是存在內在的生理性胰島素敏感度下降 。&lt;br /&gt;
+&lt;br /&gt;
+3. 月經症狀與 PMDD 無法預測血糖及劑量變化：&lt;br /&gt;
+研究採用 mMDQ 問卷與 PMDD 評估量表，發現患者的主觀月經症狀嚴重度與任何代謝參數的變化幅度均無顯著相關性，且有無 PMDD 的女性在黃體期相對於濾泡期的代謝指標變化上也無顯著差異 。這說明主觀的症狀負擔較重，主要反映的是中樞神經系統對荷爾蒙波動的敏感性，而非直接代表周邊組織的胰島素阻抗程度 。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的啟發：&lt;br /&gt;
+1. 即使患者使用目前積極的先進自動閉環系統（如 MiniMed 780G），系統演算法在面對月經週期急遽的荷爾蒙變化時仍存在一定的反饋延遲，無法完全抵消黃體期的高血糖波動 。&lt;br /&gt;
+2. 臨床照護團隊在評估女性患者的 CGM 數據時，應主動將月經週期納入評估考量，且不能僅依據患者有無明顯經前症狀或 PMDD，來判斷&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/f671529b-6f48-4200-ba95-5bf18bad4970</content:encoded><pubDate>Sun, 14 Jun 2026 15:59:57 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-14-20260614-1544-ada2026-scientific_parallel-menstrual-cycle-related-insulin-requirement-changes-are-in.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-14-20260614-1544-ada2026-scientific_parallel-menstrual-cycle-related-insulin-requirement-changes-are-in.m4a" length="12492949" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>17:07</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-14-20260614-1544-ada2026-scientific_parallel-menstrual-cycle-related-insulin-requirement-changes-are-in.jpg" /><link>https://mednote.zeabur.app/lectures/f671529b-6f48-4200-ba95-5bf18bad4970</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Negative Premeal NetIOB and Large Meals Are Associated with Higher Postprandial Excursions in AID Users with Type 1 Diabetes</title><description>ADA 2026 專業整理：Negative Premeal NetIOB and Large Meals Are Associated with Higher Postprandial Excursions in AID Users with Type 1 Diabetes
 
 臨床問題
 傳統的 IOB (Insulin on Board) 演算法與資料分析，多數僅涵蓋近期給予的餐前胰島素 (Bolus IOB)，而忽略了自動化胰島素給藥 (AID) 系統在背景持續對基礎率 (Basal rate) 進行的動態調整 。當患者因為運動設定、長時間取下幫浦或預防低血糖，使 AID 系統長時間暫停或調降基礎胰島素時，體內可能已經處於胰島素相對缺乏的狀態 [2-5]。此時若傳統 IOB 顯示為 0 U，會掩蓋系統中潛在的基礎胰島素赤字，讓臨床醫師與患者誤以為沒有風險，進而低估進食所需的胰島素劑量，最終導致餐後高血糖 。

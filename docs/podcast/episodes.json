@@ -1,5 +1,24 @@
 [
   {
+    "id": "2026-06-14-20260614-1544-ada2026-scientific_parallel-menstrual-cycle-related-insulin-requirement-changes-are-in",
+    "guid": "https://linebotaudio.zeabur.app/audio/2026-06-14-20260614-1544-ada2026-scientific_parallel-menstrual-cycle-related-insulin-requirement-changes-are-in.m4a",
+    "title": "聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Menstrual Cycle–Related Insulin Requirement Changes Are Independent of Menstrual Symptoms and PMDD in Women with Type 1 Diabetes Using an AHCL System",
+    "description": "ADA 2026 專業整理：第一型糖尿病女性月經週期胰島素需求與血糖波動之生理因素剖析\n\n臨床問題：\n第一型糖尿病（T1D）女性在黃體期常伴隨胰島素需求增加與血糖控制變差 。然而，這究竟是荷爾蒙波動（如孕酮 progesterone 上升）直接導致的生理性胰島素敏感度下降，還是因為經前症狀、情緒波動引發的行為改變（如碳水化合物攝取增加）所致，在臨床上一直缺乏精確的量化分析 。此外，在使用先進自動閉環（AHCL）系統的族群中，這類週期性的血糖波動與胰島素需求變化是否依然存在，且是否與患者主觀的月經症狀或經前不悅症（PMDD）狀態相關，亦是臨床照護團隊亟需釐清的核心問題 。\n\n關鍵訊息：\n1. 胰島素需求與血糖指標在黃體期顯著上升：\n研究分析了15位平均使用 MiniMed 780G 系統達30個月的停經前第一型糖尿病女性，共計80個週期 。結果顯示，黃體期（下一次月經前7天）相較於濾泡期（月經開始第1至7天），患者的每日胰島素總劑量（TDD）顯著增加 4.1 U、基礎率增加 1.0 U、自動校正劑量增加 1.1 U、餐前劑量增加 2.0 U 。在血糖指標方面，黃體期的目標範圍時間（TIR, 70-180 mg/dL）顯著下降（由 72.9% 降至 70.0%），且嚴重高血糖時間（TAR level 2, >250 mg/dL）顯著上升（由 5.1% 升至 6.9%），而低血糖時間則無顯著變化 。\n\n2. 代謝波動主要由生理性胰島素敏感度下降驅動：\n當研究者進行多因素統計調整、排除碳水化合物攝取增加的影響後，黃體期的 TIR 下降、TAR level 2 增加，以及 TDD、基礎率、自動校正劑量的上升依然保持顯著的統計學差異 。唯一失去顯著性的是餐前劑量 。這證實了黃體期的胰島素需求上升與血糖惡化，並非單純由經前飲食攝取增加（行為因素）所致，而是存在內在的生理性胰島素敏感度下降 。\n\n3. 月經症狀與 PMDD 無法預測血糖及劑量變化：\n研究採用 mMDQ 問卷與 PMDD 評估量表，發現患者的主觀月經症狀嚴重度與任何代謝參數的變化幅度均無顯著相關性，且有無 PMDD 的女性在黃體期相對於濾泡期的代謝指標變化上也無顯著差異 。這說明主觀的症狀負擔較重，主要反映的是中樞神經系統對荷爾蒙波動的敏感性，而非直接代表周邊組織的胰島素阻抗程度 。\n\n對內分泌臨床實務的啟發：\n1. 即使患者使用目前積極的先進自動閉環系統（如 MiniMed 780G），系統演算法在面對月經週期急遽的荷爾蒙變化時仍存在一定的反饋延遲，無法完全抵消黃體期的高血糖波動 。\n2. 臨床照護團隊在評估女性患者的 CGM 數據時，應主動將月經週期納入評估考量，且不能僅依據患者有無明顯經前症狀或 PMDD，來判斷\n\n本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。\n\n來源連結：https://mednote.zeabur.app/lectures/f671529b-6f48-4200-ba95-5bf18bad4970",
+    "pub_date": "2026-06-14T15:59:57+08:00",
+    "pub_date_rfc2822": "Sun, 14 Jun 2026 15:59:57 +0800",
+    "audio_url": "https://linebotaudio.zeabur.app/audio/2026-06-14-20260614-1544-ada2026-scientific_parallel-menstrual-cycle-related-insulin-requirement-changes-are-in.m4a",
+    "audio_length": 12492949,
+    "audio_type": "audio/mp4",
+    "image_url": "https://linebotaudio.zeabur.app/image/2026-06-14-20260614-1544-ada2026-scientific_parallel-menstrual-cycle-related-insulin-requirement-changes-are-in.jpg",
+    "podcast_image_url": "",
+    "duration": "17:07",
+    "source_url": "https://mednote.zeabur.app/lectures/f671529b-6f48-4200-ba95-5bf18bad4970",
+    "explicit": "false",
+    "language": "zh-TW",
+    "manifest": "/Users/ander/Documents/hermes-agent/diabetes-news-social-post/output/notebooklm/2026-06-14-20260614-1544-ada2026-scientific_parallel-menstrual-cycle-related-insulin-requirement-changes-are-in.manifest.json",
+    "kind": "ada2026_professional_line_post"
+  },
+  {
     "id": "2026-06-14-20260614-1427-ada2026-scientific_parallel-negative-premeal-netiob-and-large-meals-are-associated-wit",
     "guid": "https://linebotaudio.zeabur.app/audio/2026-06-14-20260614-1427-ada2026-scientific_parallel-negative-premeal-netiob-and-large-meals-are-associated-wit.m4a",
     "title": "聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Negative Premeal NetIOB and Large Meals Are Associated with Higher Postprandial Excursions in AID Users with Type 1 Diabetes",
