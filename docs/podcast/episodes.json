@@ -1,5 +1,24 @@
 [
   {
+    "id": "2026-06-14-20260614-1427-ada2026-scientific_parallel-negative-premeal-netiob-and-large-meals-are-associated-wit",
+    "guid": "https://linebotaudio.zeabur.app/audio/2026-06-14-20260614-1427-ada2026-scientific_parallel-negative-premeal-netiob-and-large-meals-are-associated-wit.m4a",
+    "title": "聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Negative Premeal NetIOB and Large Meals Are Associated with Higher Postprandial Excursions in AID Users with Type 1 Diabetes",
+    "description": "ADA 2026 專業整理：Negative Premeal NetIOB and Large Meals Are Associated with Higher Postprandial Excursions in AID Users with Type 1 Diabetes\n\n臨床問題\n傳統的 IOB (Insulin on Board) 演算法與資料分析，多數僅涵蓋近期給予的餐前胰島素 (Bolus IOB)，而忽略了自動化胰島素給藥 (AID) 系統在背景持續對基礎率 (Basal rate) 進行的動態調整 。當患者因為運動設定、長時間取下幫浦或預防低血糖，使 AID 系統長時間暫停或調降基礎胰島素時，體內可能已經處於胰島素相對缺乏的狀態 [2-5]。此時若傳統 IOB 顯示為 0 U，會掩蓋系統中潛在的基礎胰島素赤字，讓臨床醫師與患者誤以為沒有風險，進而低估進食所需的胰島素劑量，最終導致餐後高血糖 。\n\n關鍵訊息\n史丹佛大學 Dessi Zaharieva 團隊利用目前最大的第一型糖尿病運動資料庫 T1DEXI，分析了 141 位使用 AID 系統的成人患者、共 8,031 筆餐次資料，並探討 NetIOB (淨胰島素作用) 對餐後血糖的影響 。NetIOB 定義為所有胰島素作用的總和，亦即將 Bolus IOB 扣除相對於預設基礎率的偏差值 (Basal Deviation) 。若基礎率遭長時間調降且未有先前的餐前胰島素介入，NetIOB 即可能呈現「負值」(Negative NetIOB) 。\n\n研究結果發現，餐前若處於 Negative NetIOB，其餐後血糖尖峰與不良血糖事件的發生率顯著較高，且此影響與餐點的碳水化合物含量 (Meal size) 呈高度正相關 [11-14]：\n1. 小型餐次 (0-21克碳水化合物)：NetIOB 的狀態對餐後血糖沒有顯著影響 [15-17]。\n2. 中型餐次 (21-49克) 與大型餐次 (大於等於 50 克)：Negative NetIOB 組別的餐後血糖上升幅度顯著大於 Neutral 或 Positive NetIOB 組別，且在大型餐次中，所有統計比較皆達極顯著差異 (p小於0.001)，高血糖風險最高 。這證實了「餐前胰島素赤字」是大餐後血糖飆高的重要驅動因素之一 。\n\n對內分泌臨床實務的啟發\nNetIOB 的概念為臨床上常見的控糖瓶頸提供了重要的生理機制解釋，並帶來實務層面的啟發：\n1. 早餐後高血糖：夜間 AID 系統為避免低血糖而降低基礎率，加上清晨荷爾蒙的作用 (如黎明現象)，患者在早餐前常處於 Negative NetIOB 的狀態 。若看見傳統 IOB 為 0 而不適度增加劑量補償，極易出現早餐後飆高 。\n2. 運動後大餐的高血糖：患者在傍晚運動前設定較高的目標血糖，或孩童游泳時暫停幫浦，雖然運動會增加胰島素敏感度，但長時間未給予基礎胰島素所累積的負債，若在運動後直接攝取高碳水化合物大餐，將面臨極大的餐後血糖波動 。\n未來在指導患者時，可教育其察覺 AID 系統先前的基礎率變化。在面對大餐前，若預期存在基礎胰島素赤字，將其考量進餐前劑量決策中，有助於更符合生理需求並優化餐後血糖控制 。\n\n需要保守解讀的限制\n本研究目前仍為探索性分析。首先，將 NetIOB 分為正、中、負值的切點尚未經標準化 。其次，研究中所定義的「餐後不良血糖事件」(如餐後 3 小時內血糖上升逾 80 mg/dL、最高值逾 250 mg/dL，或 AUC大於100) 亦為團隊為本分析設立的觀察指標，並非標準化終點 。此外，目前的結果著重於餐後 3 小時的短期影響，未來研究仍需以每日總劑量 (TDD) 進行標準化校正，並評估不同 NetIOB 對於 24 小時 TIR (目標範圍內時間) 與 TAR 等長期臨床結果的確切影響 。\n\n在現有商用 AID 系統尚未全面在使用者介面端顯示 NetIOB 的情況下，臨床團隊可以如何引導患者透過檢視其過去數小時的幫浦基礎率調整軌跡，來更精準地優化早餐或運動後的餐前胰島素劑量決策？\n\n來源：\nADA 2026 Scientific Sessions\nSession: Session 1 What s New with Insulin Delivery Systems With ADA Presidents Select Abstract Presentation\nTitle: Negative Premeal NetIOB and Large Meals Are Associated with Higher Postprandial Excursions in AID Users with Type 1 Diabetes\n\n本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。\n\n來源連結：https://mednote.zeabur.app/lectures/889bb747-a507-4d99-98bf-83cdd1f7de42",
+    "pub_date": "2026-06-14T14:40:45+08:00",
+    "pub_date_rfc2822": "Sun, 14 Jun 2026 14:40:45 +0800",
+    "audio_url": "https://linebotaudio.zeabur.app/audio/2026-06-14-20260614-1427-ada2026-scientific_parallel-negative-premeal-netiob-and-large-meals-are-associated-wit.m4a",
+    "audio_length": 16810091,
+    "audio_type": "audio/mp4",
+    "image_url": "https://linebotaudio.zeabur.app/image/2026-06-14-20260614-1427-ada2026-scientific_parallel-negative-premeal-netiob-and-large-meals-are-associated-wit.jpg",
+    "podcast_image_url": "",
+    "duration": "23:04",
+    "source_url": "https://mednote.zeabur.app/lectures/889bb747-a507-4d99-98bf-83cdd1f7de42",
+    "explicit": "false",
+    "language": "zh-TW",
+    "manifest": "/Users/ander/Documents/hermes-agent/diabetes-news-social-post/output/notebooklm/2026-06-14-20260614-1427-ada2026-scientific_parallel-negative-premeal-netiob-and-large-meals-are-associated-wit.manifest.json",
+    "kind": "ada2026_professional_line_post"
+  },
+  {
     "id": "2026-06-14-20260614-1321-ada2026-plenary-neighborhood-affluence-and-disadvantage-are-associated-wit",
     "guid": "https://linebotaudio.zeabur.app/audio/2026-06-14-20260614-1321-ada2026-plenary-neighborhood-affluence-and-disadvantage-are-associated-wit.m4a",
     "title": "聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Neighborhood Affluence and Disadvantage Are Associated with Level 3 Hypoglycemia (Lv3 Hypo) in Adults with Type 1 Diabetes (T1D) Regardless of Diabetes Te",
