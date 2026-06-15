@@ -1,5 +1,93 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Sun, 14 Jun 2026 12:22:42 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Menstrual Cycle–Related Insulin Requirement Changes Are Independent of Menstrual Symptoms and PMDD in Women with Type 1 Diabetes Using an AHCL System</title><description>ADA 2026 專業整理：第一型糖尿病女性月經週期胰島素需求與血糖波動之生理因素剖析
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Mon, 15 Jun 2026 00:22:05 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Normalization of Asymptomatic Hypoglycemia Is Associated with Reduced Self-Care Behaviors in Adults with Type 1 Diabetes</title><description>ADA 2026 專業整理：第一型糖尿病患者將無症狀低血糖「正常化」對自我照護行為的負面影響 
+
+臨床問題：
+在第一型糖尿病（T1D）患者中，如何看待低血糖的態度與低血糖覺察受損（IAH）及反覆嚴重低血糖（RSH）密切相關 。然而，這些心理態度究竟如何轉化為日常的自我照護行為（self-care behaviors），其背後的中介行為機制在臨床實務中仍不明確 。本研究探討患者的低血糖相關信念，是否會削弱其監測與回應血糖變化的自我照護行為路徑 。
+
+研究設計與樣本特徵：
+本研究為橫斷式、網路問卷研究，於美國賓州大學進行（N=194，排除曾接受胰臟或胰島移植者） 。
+參與者的臨床與人口統計特徵顯示：
+• 平均年齡 39 歲（標準差 16），平均糖尿病病程為 22 年（標準差 14） 。
+• 女性佔 61%，非白人比例約三分之一 [10-12]。
+• 平均 HbA1c 為 7.41%（標準差 1.56），多數未達 ADA 建議的控制目標 。
+• 糖尿病科技使用率極高，其中 CGM 使用率為 90.7%（176人），胰島素幫浦使用率為 68.6%（133人） 。
+• 即使在高度科技輔助的群體中，低血糖風險依然顯著：26.8%（52人）篩檢出低血糖覺察受損（IAH），14.4%（28人）在過去一年內經歷反覆嚴重低血糖（RSH） 。
+
+理論架構與測量：
+本研究基於慢性病自我照護中層理論（Middle-Range Theory of Self-Care of Chronic Illness），將行為分為維持（maintenance）、監測（monitoring）與管理（management）三個領域 。測量工具採用 A2A 問卷評估低血糖態度（分數 0 至 12 分） ，並以 SCODI 量表評估糖尿病自我照護行為（各量表範圍 0 至 100 分，評分大於或等於 70 分代表照護行為充足） [14-16]。
+
+關鍵訊息與統計數據：
+在控制年齡、糖尿病病程及低血糖覺察狀態後的線性迴歸模型顯示：
+• 「無症狀低血糖正常化」（Normalization of Asymptomatic Hypoglycemia）是唯一顯著同時影響自我照護監測與管理的態度領域 。
+• 正常化態度分數每增加 1 分，自我照護監測顯著下降 1.19 分（p &lt; .05），自我照護管理則顯著下降 1.39 分（p &lt; .01） 。
+• 相較之下，另外兩個態度領域（淡化低血糖擔憂、優先避免高血糖）與自我照護行為並無顯著關聯 。
+• 中介分析（Mediation Analysis）進一步發現，自我照護監測部分中介了正常化態度與照護管理之間的關係，間接路徑（無症狀低血糖正常化 -&gt; 降低監測行為 -&gt; 惡化照護管理反應）解釋了約三分之一的總體關聯 。這證實將低血糖正常化會直接擾亂患者辨識、評估並處置低血糖的整條照護路徑 。
+
+對內分泌臨床實務的啟發：
+• 科技不等於風險自動消除：即使患者高度依賴先進科技（CGM 和胰島素幫浦），也無法自動修正患者對低血糖的潛在錯誤信念 。
+• 重視心理態度評估：臨床照護團隊在日常診療中，不應僅依賴儀器上的血糖數值，更應主動評估並篩檢患者是否對無症狀低血糖產生「正常化（視之為理所當然）」的盲點 。
+• 自我照護監測是關鍵干預路徑：當發現患者有低血糖正常化態度時，臨床上可將「自我照護監測（例如解讀 CGM 趨勢、主動注意初期症狀）」作為具體的行為改善指標，藉此優化或調整現有的低血糖覺察訓練（如 HARPdoc/ARP-Doc） 。
+
+需要保守解讀的限制：
+• 橫斷式設計：無法確立因果關係與時間順序，無法排除反向因果關係（例如因長期監測不佳才導致正常化信念）的可能性 。
+• 自我報告偏差：態度與照護行為皆由患者主觀填答，可能存在共同方法偏差 。
+• 非低血糖專屬量表：SCODI 量表屬於一般性糖尿病照護量表，混雜了對高血糖與低血糖的反應，可能稀釋了部分態度（例如優先避免高血糖）在特定低血糖情境下的行為效應 。
+• 推廣性限制：本研究樣本來自單一醫學中心，且參與者屬於高度使用糖尿病科技的群體（technology-engaged），未必能推廣至科技使用率低或照護資源匱乏的族群 。
+
+後續思考問題：
+在臨床高度依賴 CGM 與智慧型胰島素幫浦的時代，我們該如何有效且系統性地評估並引導第一型糖尿病患者，避免他們將無症狀低血糖視為常態，從而真正發揮糖尿病科技在改善自我照護行為上的預防效益？
+
+來源：
+ADA 2026 Scientific Sessions
+Session: Hypoglycemia across Contexts: Risk, Recognition, and Real-World Safety (With ADA Presidents' Select Abstract Presentation)
+Speaker: Austin Michael Matus - Penn Medicine Chester County Hospital
+Title: Normalization of Asymptomatic Hypoglycemia Is Associated with Reduced Self-Care Behaviors in Adults with Type 1 Diabetes
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。</description><content:encoded>ADA 2026 專業整理：第一型糖尿病患者將無症狀低血糖「正常化」對自我照護行為的負面影響 &lt;br /&gt;
+&lt;br /&gt;
+臨床問題：&lt;br /&gt;
+在第一型糖尿病（T1D）患者中，如何看待低血糖的態度與低血糖覺察受損（IAH）及反覆嚴重低血糖（RSH）密切相關 。然而，這些心理態度究竟如何轉化為日常的自我照護行為（self-care behaviors），其背後的中介行為機制在臨床實務中仍不明確 。本研究探討患者的低血糖相關信念，是否會削弱其監測與回應血糖變化的自我照護行為路徑 。&lt;br /&gt;
+&lt;br /&gt;
+研究設計與樣本特徵：&lt;br /&gt;
+本研究為橫斷式、網路問卷研究，於美國賓州大學進行（N=194，排除曾接受胰臟或胰島移植者） 。&lt;br /&gt;
+參與者的臨床與人口統計特徵顯示：&lt;br /&gt;
+• 平均年齡 39 歲（標準差 16），平均糖尿病病程為 22 年（標準差 14） 。&lt;br /&gt;
+• 女性佔 61%，非白人比例約三分之一 [10-12]。&lt;br /&gt;
+• 平均 HbA1c 為 7.41%（標準差 1.56），多數未達 ADA 建議的控制目標 。&lt;br /&gt;
+• 糖尿病科技使用率極高，其中 CGM 使用率為 90.7%（176人），胰島素幫浦使用率為 68.6%（133人） 。&lt;br /&gt;
+• 即使在高度科技輔助的群體中，低血糖風險依然顯著：26.8%（52人）篩檢出低血糖覺察受損（IAH），14.4%（28人）在過去一年內經歷反覆嚴重低血糖（RSH） 。&lt;br /&gt;
+&lt;br /&gt;
+理論架構與測量：&lt;br /&gt;
+本研究基於慢性病自我照護中層理論（Middle-Range Theory of Self-Care of Chronic Illness），將行為分為維持（maintenance）、監測（monitoring）與管理（management）三個領域 。測量工具採用 A2A 問卷評估低血糖態度（分數 0 至 12 分） ，並以 SCODI 量表評估糖尿病自我照護行為（各量表範圍 0 至 100 分，評分大於或等於 70 分代表照護行為充足） [14-16]。&lt;br /&gt;
+&lt;br /&gt;
+關鍵訊息與統計數據：&lt;br /&gt;
+在控制年齡、糖尿病病程及低血糖覺察狀態後的線性迴歸模型顯示：&lt;br /&gt;
+• 「無症狀低血糖正常化」（Normalization of Asymptomatic Hypoglycemia）是唯一顯著同時影響自我照護監測與管理的態度領域 。&lt;br /&gt;
+• 正常化態度分數每增加 1 分，自我照護監測顯著下降 1.19 分（p &lt; .05），自我照護管理則顯著下降 1.39 分（p &lt; .01） 。&lt;br /&gt;
+• 相較之下，另外兩個態度領域（淡化低血糖擔憂、優先避免高血糖）與自我照護行為並無顯著關聯 。&lt;br /&gt;
+• 中介分析（Mediation Analysis）進一步發現，自我照護監測部分中介了正常化態度與照護管理之間的關係，間接路徑（無症狀低血糖正常化 -&gt; 降低監測行為 -&gt; 惡化照護管理反應）解釋了約三分之一的總體關聯 。這證實將低血糖正常化會直接擾亂患者辨識、評估並處置低血糖的整條照護路徑 。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的啟發：&lt;br /&gt;
+• 科技不等於風險自動消除：即使患者高度依賴先進科技（CGM 和胰島素幫浦），也無法自動修正患者對低血糖的潛在錯誤信念 。&lt;br /&gt;
+• 重視心理態度評估：臨床照護團隊在日常診療中，不應僅依賴儀器上的血糖數值，更應主動評估並篩檢患者是否對無症狀低血糖產生「正常化（視之為理所當然）」的盲點 。&lt;br /&gt;
+• 自我照護監測是關鍵干預路徑：當發現患者有低血糖正常化態度時，臨床上可將「自我照護監測（例如解讀 CGM 趨勢、主動注意初期症狀）」作為具體的行為改善指標，藉此優化或調整現有的低血糖覺察訓練（如 HARPdoc/ARP-Doc） 。&lt;br /&gt;
+&lt;br /&gt;
+需要保守解讀的限制：&lt;br /&gt;
+• 橫斷式設計：無法確立因果關係與時間順序，無法排除反向因果關係（例如因長期監測不佳才導致正常化信念）的可能性 。&lt;br /&gt;
+• 自我報告偏差：態度與照護行為皆由患者主觀填答，可能存在共同方法偏差 。&lt;br /&gt;
+• 非低血糖專屬量表：SCODI 量表屬於一般性糖尿病照護量表，混雜了對高血糖與低血糖的反應，可能稀釋了部分態度（例如優先避免高血糖）在特定低血糖情境下的行為效應 。&lt;br /&gt;
+• 推廣性限制：本研究樣本來自單一醫學中心，且參與者屬於高度使用糖尿病科技的群體（technology-engaged），未必能推廣至科技使用率低或照護資源匱乏的族群 。&lt;br /&gt;
+&lt;br /&gt;
+後續思考問題：&lt;br /&gt;
+在臨床高度依賴 CGM 與智慧型胰島素幫浦的時代，我們該如何有效且系統性地評估並引導第一型糖尿病患者，避免他們將無症狀低血糖視為常態，從而真正發揮糖尿病科技在改善自我照護行為上的預防效益？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: Hypoglycemia across Contexts: Risk, Recognition, and Real-World Safety (With ADA Presidents' Select Abstract Presentation)&lt;br /&gt;
+Speaker: Austin Michael Matus - Penn Medicine Chester County Hospital&lt;br /&gt;
+Title: Normalization of Asymptomatic Hypoglycemia Is Associated with Reduced Self-Care Behaviors in Adults with Type 1 Diabetes&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。</content:encoded><pubDate>Mon, 15 Jun 2026 07:26:36 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-15-20260615-0710-ada2026-plenary-normalization-of-asymptomatic-hypoglycemia-is-associated-w.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-15-20260615-0710-ada2026-plenary-normalization-of-asymptomatic-hypoglycemia-is-associated-w.m4a" length="14261505" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>19:35</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-15-20260615-0710-ada2026-plenary-normalization-of-asymptomatic-hypoglycemia-is-associated-w.jpg" /></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Menstrual Cycle–Related Insulin Requirement Changes Are Independent of Menstrual Symptoms and PMDD in Women with Type 1 Diabetes Using an AHCL System</title><description>ADA 2026 專業整理：第一型糖尿病女性月經週期胰島素需求與血糖波動之生理因素剖析
 
 臨床問題：
 第一型糖尿病（T1D）女性在黃體期常伴隨胰島素需求增加與血糖控制變差 。然而，這究竟是荷爾蒙波動（如孕酮 progesterone 上升）直接導致的生理性胰島素敏感度下降，還是因為經前症狀、情緒波動引發的行為改變（如碳水化合物攝取增加）所致，在臨床上一直缺乏精確的量化分析 。此外，在使用先進自動閉環（AHCL）系統的族群中，這類週期性的血糖波動與胰島素需求變化是否依然存在，且是否與患者主觀的月經症狀或經前不悅症（PMDD）狀態相關，亦是臨床照護團隊亟需釐清的核心問題 。
