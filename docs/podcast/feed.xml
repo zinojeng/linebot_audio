@@ -1,5 +1,93 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Mon, 15 Jun 2026 00:22:05 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Normalization of Asymptomatic Hypoglycemia Is Associated with Reduced Self-Care Behaviors in Adults with Type 1 Diabetes</title><description>ADA 2026 專業整理：第一型糖尿病患者將無症狀低血糖「正常化」對自我照護行為的負面影響 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Mon, 15 Jun 2026 01:52:53 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Independent Impact of Physical Activity Characteristics and Initial Metabolic State on Glycemic Outcomes in the DBLG1 System: A Linear Mixed-Model Analysi</title><description>ADA 2026 專業整理：身體活動特徵與初始代謝狀態對 DBLG1 閉環系統血糖結局的獨立影響 
+
+【臨床問題】
+第一型糖尿病（T1D）患者在參與身體活動（PA）時，普遍面臨低血糖恐懼與整體血糖波動不確定性的障礙 。雖然 DBLG1 閉環系統配備專門的身體活動管理模組，但臨床上仍待解答：究竟是運動本身的特徵（型態、強度、時間），還是運動開始前的初始代謝狀態，更具獨立決定性地影響血糖結局與演算法調整 ？釐清兩者的獨立效應對於優化下一代閉環演算法至關重要 。
+
+【試驗設計與研究族群】
+本研究使用真實世界觀察性研究（ObS31）數據，分析 DBLG1 系統（2025 年 v1.17 版本）在自由生活條件下的表現 。共納入 2,322 名 T1D 使用者（女性 1,419 人，約 60.9%；男性 903 人，約 38.8%），中位年齡 42 歲，糖化血色素中位數為 7.4% 。研究共收集約 26,000 次身體活動事件，並為每次活動配對前 1 或 2 天的休息期（Rest Period）作為對照 。研究採用線性混合模型（LMM）進行分析，以使用者識別碼為隨機效應，有效排除個體重複量測的變異干擾 。
+
+【關鍵訊息與數據解析】
+1. 運動變異主要來自活動事件本身：
+類內相關係數（ICC）分析顯示，在預測運動期間結局的絕對模型中，僅有 8% 至 17% 的變異歸因於患者間個體差異，多數（83% 至 92%）變異皆由當次活動特徵與運動起點的代謝狀態驅動 。當與休息期相比時（相對變化模型），系統成功抵消了大部分患者間的基準差異，但救援碳水化合物（RC）的建議或使用仍具較強的患者依賴性 。
+
+2. 初始代謝狀態是 glycemic risk 的核心預測因子：
+• 初始血糖（Initial Glycemia）扮演低血糖緩衝角色：初始血糖每增加 10 mg/dL，活動期間平均血糖上升 7.25 mg/dL，且 Time Below Range（TBR）降低 0.41%百分點 [14-17]。
+• 初始活性胰島素（Initial IOB）是低血糖關鍵：初始 IOB 每增加 1 U，平均血糖降低 2.54 mg/dL，且 TBR 顯著增加 0.58%百分點 [15-18]。
+
+3. 運動時間與強度的錯配效應：
+• 短而強的運動（Short &amp; Intense PA）：最容易導致 TBR 顯著增加，TBR 增加達 4.3%百分點 。原因在於此類運動往往較少被提前宣告，導致系統缺乏足夠時間在活動前 2 小時逐步調整胰島素輸送 。
+• 長時間運動（Duration &gt; 60 分鐘）：容易導致 Time Above Range（TAR）顯著增加，TAR 增加達 5.07%百分點 。主因是系統為了預防低血糖而長時間降低或暫停胰島素輸送，導致運動後反彈性高血糖 。
+
+4. 運動型態特異性管理的驗證：
+系統對無氧運動（Anaerobic PA）設定較低血糖目標的管理設計獲得模型支持：相較於有氧運動基準，無氧運動的平均血糖降低 2.9 mg/dL，絕對 TAR 降低 3.60%百分點 。
+
+5. 動態個別化救援碳水：
+運動前的救援碳水量非固定劑量，而是由 DBLG1 演算法根據患者當下的初始血糖與設定的運動目標血糖進行動態、個別化的建議 。
+
+【對內分泌臨床實務的啟發】
+本研究證實演算法的介入成敗與「運動前準備期」密切相關 。臨床糖尿病照護團隊在指導患者使用 AID 系統時，應強力強調「提早宣告運動」的習慣（建議提前 2 小時宣告），讓系統能預先調降並排空體內過多的 IOB，進而安全度過短時間高強度運動 。此外，針對長時間運動，醫師應特別留意運動後半夜的反彈性高血糖，這提示系統除減少低血糖外，還需要更細緻的運動後胰島素恢復平衡策略 。
+
+【保守解讀限制】
+1. 觀察性研究設計：本研究基於真實世界觀察性數據（ObS31），非隨機對照試驗，無法完全排除其他未量測的行為行為混雜因素 。
+2. 患者主觀宣告：運動型態、強度與持續時間皆由使用者主觀宣告，可能與實際的生理代謝效應存在主觀認知落差 。
+3. 演算法版本：此數據基於 2025 年的系統版本（v1.17），雖然結果支持了其運動模組的設計，但對於未來即將更新（如下個月即將推出之優化胰島素暫停機制）版本的實際臨床效益，仍需持續追蹤與評估 。
+
+【思考問題】
+在未來更高度自動化的 AID 時代，除了依賴演算法在運動前 2 小時的預先調整外，我們臨床團隊該如何更有效率地重塑患者的「運動宣告習慣」，以克服突發性、未宣告運動所帶來的急劇低血糖風險？
+
+來源
+ADA 2026 Scientific Sessions, Session 1: What's New with Insulin Delivery Systems With ADA President's Select Abstract Presentation
+Speaker: Alice Adenis - Diabeloop
+Title: Independent Impact of Physical Activity Characteristics and Initial Metabolic State on Glycemic Outcomes in the DBLG1 System: A Linear Mixed-Model Analysis
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/e2ee0f6f-0335-42fe-96a7-4bf1ba8863e5</description><content:encoded>ADA 2026 專業整理：身體活動特徵與初始代謝狀態對 DBLG1 閉環系統血糖結局的獨立影響 &lt;br /&gt;
+&lt;br /&gt;
+【臨床問題】&lt;br /&gt;
+第一型糖尿病（T1D）患者在參與身體活動（PA）時，普遍面臨低血糖恐懼與整體血糖波動不確定性的障礙 。雖然 DBLG1 閉環系統配備專門的身體活動管理模組，但臨床上仍待解答：究竟是運動本身的特徵（型態、強度、時間），還是運動開始前的初始代謝狀態，更具獨立決定性地影響血糖結局與演算法調整 ？釐清兩者的獨立效應對於優化下一代閉環演算法至關重要 。&lt;br /&gt;
+&lt;br /&gt;
+【試驗設計與研究族群】&lt;br /&gt;
+本研究使用真實世界觀察性研究（ObS31）數據，分析 DBLG1 系統（2025 年 v1.17 版本）在自由生活條件下的表現 。共納入 2,322 名 T1D 使用者（女性 1,419 人，約 60.9%；男性 903 人，約 38.8%），中位年齡 42 歲，糖化血色素中位數為 7.4% 。研究共收集約 26,000 次身體活動事件，並為每次活動配對前 1 或 2 天的休息期（Rest Period）作為對照 。研究採用線性混合模型（LMM）進行分析，以使用者識別碼為隨機效應，有效排除個體重複量測的變異干擾 。&lt;br /&gt;
+&lt;br /&gt;
+【關鍵訊息與數據解析】&lt;br /&gt;
+1. 運動變異主要來自活動事件本身：&lt;br /&gt;
+類內相關係數（ICC）分析顯示，在預測運動期間結局的絕對模型中，僅有 8% 至 17% 的變異歸因於患者間個體差異，多數（83% 至 92%）變異皆由當次活動特徵與運動起點的代謝狀態驅動 。當與休息期相比時（相對變化模型），系統成功抵消了大部分患者間的基準差異，但救援碳水化合物（RC）的建議或使用仍具較強的患者依賴性 。&lt;br /&gt;
+&lt;br /&gt;
+2. 初始代謝狀態是 glycemic risk 的核心預測因子：&lt;br /&gt;
+• 初始血糖（Initial Glycemia）扮演低血糖緩衝角色：初始血糖每增加 10 mg/dL，活動期間平均血糖上升 7.25 mg/dL，且 Time Below Range（TBR）降低 0.41%百分點 [14-17]。&lt;br /&gt;
+• 初始活性胰島素（Initial IOB）是低血糖關鍵：初始 IOB 每增加 1 U，平均血糖降低 2.54 mg/dL，且 TBR 顯著增加 0.58%百分點 [15-18]。&lt;br /&gt;
+&lt;br /&gt;
+3. 運動時間與強度的錯配效應：&lt;br /&gt;
+• 短而強的運動（Short &amp; Intense PA）：最容易導致 TBR 顯著增加，TBR 增加達 4.3%百分點 。原因在於此類運動往往較少被提前宣告，導致系統缺乏足夠時間在活動前 2 小時逐步調整胰島素輸送 。&lt;br /&gt;
+• 長時間運動（Duration &gt; 60 分鐘）：容易導致 Time Above Range（TAR）顯著增加，TAR 增加達 5.07%百分點 。主因是系統為了預防低血糖而長時間降低或暫停胰島素輸送，導致運動後反彈性高血糖 。&lt;br /&gt;
+&lt;br /&gt;
+4. 運動型態特異性管理的驗證：&lt;br /&gt;
+系統對無氧運動（Anaerobic PA）設定較低血糖目標的管理設計獲得模型支持：相較於有氧運動基準，無氧運動的平均血糖降低 2.9 mg/dL，絕對 TAR 降低 3.60%百分點 。&lt;br /&gt;
+&lt;br /&gt;
+5. 動態個別化救援碳水：&lt;br /&gt;
+運動前的救援碳水量非固定劑量，而是由 DBLG1 演算法根據患者當下的初始血糖與設定的運動目標血糖進行動態、個別化的建議 。&lt;br /&gt;
+&lt;br /&gt;
+【對內分泌臨床實務的啟發】&lt;br /&gt;
+本研究證實演算法的介入成敗與「運動前準備期」密切相關 。臨床糖尿病照護團隊在指導患者使用 AID 系統時，應強力強調「提早宣告運動」的習慣（建議提前 2 小時宣告），讓系統能預先調降並排空體內過多的 IOB，進而安全度過短時間高強度運動 。此外，針對長時間運動，醫師應特別留意運動後半夜的反彈性高血糖，這提示系統除減少低血糖外，還需要更細緻的運動後胰島素恢復平衡策略 。&lt;br /&gt;
+&lt;br /&gt;
+【保守解讀限制】&lt;br /&gt;
+1. 觀察性研究設計：本研究基於真實世界觀察性數據（ObS31），非隨機對照試驗，無法完全排除其他未量測的行為行為混雜因素 。&lt;br /&gt;
+2. 患者主觀宣告：運動型態、強度與持續時間皆由使用者主觀宣告，可能與實際的生理代謝效應存在主觀認知落差 。&lt;br /&gt;
+3. 演算法版本：此數據基於 2025 年的系統版本（v1.17），雖然結果支持了其運動模組的設計，但對於未來即將更新（如下個月即將推出之優化胰島素暫停機制）版本的實際臨床效益，仍需持續追蹤與評估 。&lt;br /&gt;
+&lt;br /&gt;
+【思考問題】&lt;br /&gt;
+在未來更高度自動化的 AID 時代，除了依賴演算法在運動前 2 小時的預先調整外，我們臨床團隊該如何更有效率地重塑患者的「運動宣告習慣」，以克服突發性、未宣告運動所帶來的急劇低血糖風險？&lt;br /&gt;
+&lt;br /&gt;
+來源&lt;br /&gt;
+ADA 2026 Scientific Sessions, Session 1: What's New with Insulin Delivery Systems With ADA President's Select Abstract Presentation&lt;br /&gt;
+Speaker: Alice Adenis - Diabeloop&lt;br /&gt;
+Title: Independent Impact of Physical Activity Characteristics and Initial Metabolic State on Glycemic Outcomes in the DBLG1 System: A Linear Mixed-Model Analysis&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/e2ee0f6f-0335-42fe-96a7-4bf1ba8863e5</content:encoded><pubDate>Mon, 15 Jun 2026 08:54:50 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-15-20260615-0837-ada2026-scientific_parallel-independent-impact-of-physical-activity-characteristics-an.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-15-20260615-0837-ada2026-scientific_parallel-independent-impact-of-physical-activity-characteristics-an.m4a" length="11116844" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>15:15</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-15-20260615-0837-ada2026-scientific_parallel-independent-impact-of-physical-activity-characteristics-an.jpg" /><link>https://mednote.zeabur.app/lectures/e2ee0f6f-0335-42fe-96a7-4bf1ba8863e5</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Normalization of Asymptomatic Hypoglycemia Is Associated with Reduced Self-Care Behaviors in Adults with Type 1 Diabetes</title><description>ADA 2026 專業整理：第一型糖尿病患者將無症狀低血糖「正常化」對自我照護行為的負面影響 
 
 臨床問題：
 在第一型糖尿病（T1D）患者中，如何看待低血糖的態度與低血糖覺察受損（IAH）及反覆嚴重低血糖（RSH）密切相關 。然而，這些心理態度究竟如何轉化為日常的自我照護行為（self-care behaviors），其背後的中介行為機制在臨床實務中仍不明確 。本研究探討患者的低血糖相關信念，是否會削弱其監測與回應血糖變化的自我照護行為路徑 。
