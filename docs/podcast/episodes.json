@@ -1,5 +1,24 @@
 [
   {
+    "id": "2026-06-15-20260615-1006-ada2026-scientific_parallel-multicenter-randomized-trial-of-a-next-generation-algorith",
+    "guid": "https://linebotaudio.zeabur.app/audio/2026-06-15-20260615-1006-ada2026-scientific_parallel-multicenter-randomized-trial-of-a-next-generation-algorith.m4a",
+    "title": "聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Multicenter, Randomized Trial of a Next-Generation Algorithm for Omnipod in Individuals with Type 1 or Type 2 Diabetes: The STRIVE Trial",
+    "description": "📌 ADA 2026 專業整理：多中心隨機交叉試驗 STRIVE 證實，搭載下一代演算法的 Omnipod 6 (OP6) 系統在維持安全性的前提下，能顯著改善第 1 型與第 2 型糖尿病患者的 Time in Range (TIR) 並降低照護負擔 。\n\n🔹 臨床問題與技術演進\n現行的混合閉環系統 (Hybrid Closed-Loop) 雖能改善血糖，但患者仍面臨頻繁手動餐前給藥與高照護負擔 。OP6 演算法的開發目標是朝向完全閉環系統 (Fully Closed-Loop) 演進，其具備三大進階功能：一、將目標血糖值調降至 100 mg/dL (5.6 mmol/L)；二、減少自動基礎率或微追加劑量的限制，讓使用者更長時間維持在自動模式 (Automated Mode)；三、具適應性的自動基礎率給藥，在高血糖趨勢時自動多提供最高 50% 的胰島素 。\n\n🔹 試驗設計與受試者特徵\nSTRIVE 試驗為美國 11 個中心、共納入 132 位使用 Omnipod 5 至少 3 個月的受試者 。包含第 1 型糖尿病 (T1D) 共 98 位 (平均 19 歲) 與第 2 型糖尿病 (T2D) 共 34 位 (平均 56 歲) 。試驗採 1:1 隨機交叉設計，進行 4 週 OP6 (目標血糖 100 mg/dL) 與 4 週傳統 OP5 (目標血糖 110 mg/dL) 的對照 。隨後進入可調降餐前追加劑量頻率的自主給藥測試期 (Bolus Optional Phase) 。\n\n📊 關鍵安全性與效能數據\n1. 安全性達到非劣性：相較於 OP5，使用 OP6 的極低血糖時間 % Time <54 mg/dL 僅微幅增加 0.04% (每天小於 1 分鐘)，% Time <70 mg/dL 增加 0.37% (約 5 分鐘)，且未發生嚴重低血糖、酮酸中毒 (DKA) 或高滲透壓高血糖狀態 (HHS) 。\n2. 整體血糖改善：OP6 組的每日 TIR (70-180 mg/dL) 平均顯著增加 2.9% (相當於每天增加 45 分鐘)，平均感測血糖下降 7 mg/dL 。\n3. 分層效能：T1D 14 歲以上族群的 TIR 提升 4.1%、6 至 14 歲提升 3.6%、T2D 成人提升 2.5% 。此外，6 歲以上 T1D 及 T2D 的嚴格血糖範圍時間 (TITR, 70-140 mg/dL) 每天顯著增加 80 分鐘至 1.75 小時 。然而，在 2 至 6 歲的幼童族群中，TIR 的改變 (增加 1.3%) 未達統計顯著 。\n4. 自主給藥測試期表現：當受試者被要求每日手動追加劑量限制在 3 次或以下時，T1D 成人/青少年的每日追加劑量次數從 5.4 次降至 3.2 次，T2D 成人從 3.7 次降至 2.5 次 。儘管手動給藥次數顯著下降，兩組的 TIR 仍維持高水準，每日總胰島素劑量 (TDI) 也保持穩定 。這證實胰島素給予來源已成功由使用者主動施打轉移為系統自動調控 。\n\n💡 內分泌臨床實務啟發\n試驗中展示的典型個案 (42歲、病程35年T1D女性) 顯示，不論有無手動追加餐前胰島素，在攝取相似碳水化合物 (35g vs 38g) 的情況下，餐後血糖波動軌跡與血糖品質非常相似 。這給予臨床團隊重要啟示：下一代演算法能藉由更積極的自動化微幅劑量調整，來補償未注射或漏打的餐前追加劑量，極具潛力減輕患者對於每餐精算碳水化合物與頻繁手動給藥的心理負擔 。\n\n⚠️ 臨床應用限制與保守解讀\n1. 並非完全無餐前給藥：此系統定位為朝向完全閉環的演進過程，而非終點 。在自主給藥測試期中，T1D 14 歲以上患者的平均給藥次數仍為 3.2 次，並未達到完全零手動給藥 。\n2. 幼童效果有限：在 2 至 6 歲的極年幼 T1D 族群中，OP6 的 TIR 與 TITR 改善趨勢並未達到統計學上的顯著差異 。\n3. 對照組限制：本試驗的對照組是傳統 Omnipod 5 。臨床上需注意，剛發布的強化版 Omnipod 5 (Enhanced Omnipod 5) 已具備 100 mg/dL 的目標血糖與更好的自動模式維持功能 。OP6 相較於強化版 Omnipod 5 的額外優勢，僅在於其更積極的自動基礎率與微追加劑量 (最高增幅 50%) 的演算法能力 。\n\n❓ 給醫師後續思考的問題\n當胰島素自動輸注系統的演算法已能大幅補償漏打的餐前追加劑量時，臨床照護團隊在衛教患者時，該如何重新界定患者主動餐前追加劑量 (bolus) 的角色，以及如何依據個體 CGM 動態血糖數據，安全地引導患者減少不必要的手動介入？\n\n來源資訊\nADA 2026 Scientific Sessions\nSession: Session 1 What s New with Insulin Delivery Systems With ADA Presidents Select Abstract Presentation\nSpeaker: Lori Laffel - Joslin Diabetes Center\nTitle: Multicenter, Randomized Trial of a Next-Generation Algorithm for Omnipod in Individuals with Type 1 or Type 2 Diabetes: The STRIVE Trial\n\n本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。\n\n來源連結：https://mednote.zeabur.app/lectures/e4471ece-8677-40f2-be14-bc3cafecba96",
+    "pub_date": "2026-06-15T10:20:24+08:00",
+    "pub_date_rfc2822": "Mon, 15 Jun 2026 10:20:24 +0800",
+    "audio_url": "https://linebotaudio.zeabur.app/audio/2026-06-15-20260615-1006-ada2026-scientific_parallel-multicenter-randomized-trial-of-a-next-generation-algorith.m4a",
+    "audio_length": 10128210,
+    "audio_type": "audio/mp4",
+    "image_url": "https://linebotaudio.zeabur.app/image/2026-06-15-20260615-1006-ada2026-scientific_parallel-multicenter-randomized-trial-of-a-next-generation-algorith.jpg",
+    "podcast_image_url": "",
+    "duration": "13:53",
+    "source_url": "https://mednote.zeabur.app/lectures/e4471ece-8677-40f2-be14-bc3cafecba96",
+    "explicit": "false",
+    "language": "zh-TW",
+    "manifest": "/Users/ander/Documents/hermes-agent/diabetes-news-social-post/output/notebooklm/2026-06-15-20260615-1006-ada2026-scientific_parallel-multicenter-randomized-trial-of-a-next-generation-algorith.manifest.json",
+    "kind": "ada2026_professional_line_post"
+  },
+  {
     "id": "2026-06-15-20260615-0837-ada2026-scientific_parallel-independent-impact-of-physical-activity-characteristics-an",
     "guid": "https://linebotaudio.zeabur.app/audio/2026-06-15-20260615-0837-ada2026-scientific_parallel-independent-impact-of-physical-activity-characteristics-an.m4a",
     "title": "聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Independent Impact of Physical Activity Characteristics and Initial Metabolic State on Glycemic Outcomes in the DBLG1 System: A Linear Mixed-Model Analysi",
