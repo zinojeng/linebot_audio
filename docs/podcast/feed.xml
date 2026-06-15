@@ -1,5 +1,77 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Mon, 15 Jun 2026 04:22:53 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Driving and Diabetes: Differences in Driving Behaviours between U.S. and UK Drivers with Insulin-Treated Type 2 Diabetes</title><description>ADA 2026 專業整理：一項針對美國與英國接受胰島素治療之第二型糖尿病成人駕駛的最新研究指出，高達95%的患者曾於駕駛中發生低血糖，且真實世界中的安全防線與患者對指引的遵循度普遍存在重大缺口 [1-4]。
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Mon, 15 Jun 2026 05:52:50 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Poor Correlation between Hypoglycemic Symptoms and Heart Rate Response in Sensor-Detected Hypoglycemia in T2D: Hypo-METRICS Study</title><description>ADA 2026 專業整理：第二型糖尿病真實世界 CGM 低血糖中，心率反應與主觀症狀相關性不佳（Hypo-METRICS 臨床研究事後分析）
+
+臨床背景與研究問題
+在接受胰島素治療的糖尿病患者中，由於升糖素反應通常受損，腎上腺素（epinephrine）成為驅動低血糖反調節反應（CRR）的主要荷爾蒙 [1-3]。雖然反調節反應對恢復正常血糖至關重要，但低血糖誘發的腎上腺素上升會引發全身性促發炎與促凝血反應（可持續達一週），進而增加心血管事件風險 。
+傳統的控糖夾（clamp）研究顯示低血糖反應具有高度規律性，會依序出現血糖下降、腎上腺素上升、低血糖症狀及心率變化 。然而在真實世界中，有高達 50% 以上由 CGM 偵測到的低血糖事件是無症狀的（即使血糖低於 54 mg/dL） 。本研究旨在探討真實世界中，心率反應是否能作為腎上腺素上升的代理指標，並評估其與低血糖症狀及事件特徵之間的關聯 [10-12]。
+
+研究設計與方法
+本研究為歐盟 Hypo-RESOLVE 計畫下 Hypo-METRICS 臨床試驗的 post-hoc 分析 [13-15]。
+• 受試者族群：33 位接受胰島素治療、且具備正常低血糖覺察能力（Normal Awareness of Hypoglycemia, NAH）的第二型糖尿病患者 [16-19]。受試者中位年齡 62 歲，糖尿病病程中位數 19 年，HbA1c 中位數 7.2% 。
+• 檢測工具：配戴盲性 CGM（Libra 2）與 Fitbit Charge 4 穿戴裝置，以客觀區分睡眠/清醒狀態並記錄心率與活動量；低血糖症狀則透過專用 App 即時評估自主神經（AS）與神經缺糖（NS）症狀（評分 0-4 分） [11, 14, 21-23]。
+• 事件排除機制：為了排除日常活動對心跳的干擾，研究嚴格排除了低血糖起始前後 30 分鐘內步數超過 100 步的事件，且僅納入清醒期間的事件 。
+• 最終分析了 43 個符合條件的 Level 2 症狀性低血糖事件（CGM 血糖 &lt;54 mg/dL），並以血糖首次降至 54 mg/dL 前後 30 分鐘的平均心率差值（ΔHR）進行分析 [16-18, 24-26]。
+
+關鍵訊息與研究發現
+1. 心率無一致性的顯著改變：在低血糖發生時，平均心率變化（ΔHR）中位數為 -1.07 bpm，並未呈現臨床預期的一致性上升 。各事件間的心率反應變異極大，約 50% 的低血糖事件心率上升（低血糖前平均 75.2 bpm，低血糖期間平均 77 bpm），另 50% 事件心率下降 [18, 26-29]。
+2. 心率變化與症狀及血糖特徵相關性極差：相關矩陣分析顯示，ΔHR 與自主神經症狀分數（r = 0.079）以及神經缺糖症狀分數（r = 0.102）幾乎完全不相關 。此外，ΔHR 與低血糖最低值（nadir, r = 0.022）、血糖下降速度（r = 0.093）及每週低血糖頻率（r = -0.155）的相關係數絕對值均小於 0.16，顯示極差的相關性 。
+3. 血糖事件特徵關聯：低血糖最低值（nadir）與其持續時間呈中度負相關（r = -0.53），意即低血糖程度越深，事件持續時間越長 。
+
+內分泌臨床實務啟發
+這項研究提醒臨床醫師，真實世界中的低血糖感知是一個複雜的「生物心理過程」（biopsychological process），而非單純由荷爾蒙決定的線性反應 [32-34]。除了腎上腺素等反調節荷爾蒙外，患者對低血糖的感知還高度受到其「內感受能力」（interoception，對體內訊號的感知力）以及「注意力不足」（inattention，即使體內有訊號也未辨識為低血糖）等心理生理因素影響 [32-34]。
+因此，本分析結果不支持將臨床穿戴式裝置所記錄的心率變化，直接作為症狀性 CGM 低血糖事件或腎上腺素上升的可靠代理指標（surrogate marker） 。臨床評估仍須仰賴患者自覺症狀與 CGM 數據的結合，而不能單憑心率波動來推測低血糖是否產生症狀 。
+
+保守解讀限制
+解讀本研究結果時需注意其限制：本分析為事後分析（post-hoc analysis），樣本量較小（僅納入 33 位患者、43 個事件） ；且研究對象排除了低血糖覺察受損（IAH, Gold score &gt;= 4）的患者 ，並排除了夜間睡眠與中高活動量期間的事件 。因此，對於高風險低血糖覺察受損患者，或在夜間及運動狀態下的心率反應，無法直接套用此結論，仍待後續研究證實。
+
+給醫師後續思考的問題
+隨著連續血糖監測（CGM）與智慧穿戴裝置在糖尿病管理中的普及，我們在臨床實務上，該如何更有效地評估與訓練患者的「內感受能力（interoception）」，以降低那些「體內反調節反應（如心血管生理壓力）已啟動，患者卻毫無主觀症狀」的隱形低血糖風險？
+
+來源：
+ADA 2026 Scientific Sessions
+Session: Hypoglycemia across Contexts Risk Recognition and Real World Safety With ADA Presidents Select Abstract Presen
+Speaker: Vaios D Koutroukas - University of Leicester
+Title: Poor Correlation between Hypoglycemic Symptoms and Heart Rate Response in Sensor-Detected Hypoglycemia in T2D: Hypo-METRICS Study
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/86accbb0-4406-48d1-9ddb-42862f65c743</description><content:encoded>ADA 2026 專業整理：第二型糖尿病真實世界 CGM 低血糖中，心率反應與主觀症狀相關性不佳（Hypo-METRICS 臨床研究事後分析）&lt;br /&gt;
+&lt;br /&gt;
+臨床背景與研究問題&lt;br /&gt;
+在接受胰島素治療的糖尿病患者中，由於升糖素反應通常受損，腎上腺素（epinephrine）成為驅動低血糖反調節反應（CRR）的主要荷爾蒙 [1-3]。雖然反調節反應對恢復正常血糖至關重要，但低血糖誘發的腎上腺素上升會引發全身性促發炎與促凝血反應（可持續達一週），進而增加心血管事件風險 。&lt;br /&gt;
+傳統的控糖夾（clamp）研究顯示低血糖反應具有高度規律性，會依序出現血糖下降、腎上腺素上升、低血糖症狀及心率變化 。然而在真實世界中，有高達 50% 以上由 CGM 偵測到的低血糖事件是無症狀的（即使血糖低於 54 mg/dL） 。本研究旨在探討真實世界中，心率反應是否能作為腎上腺素上升的代理指標，並評估其與低血糖症狀及事件特徵之間的關聯 [10-12]。&lt;br /&gt;
+&lt;br /&gt;
+研究設計與方法&lt;br /&gt;
+本研究為歐盟 Hypo-RESOLVE 計畫下 Hypo-METRICS 臨床試驗的 post-hoc 分析 [13-15]。&lt;br /&gt;
+• 受試者族群：33 位接受胰島素治療、且具備正常低血糖覺察能力（Normal Awareness of Hypoglycemia, NAH）的第二型糖尿病患者 [16-19]。受試者中位年齡 62 歲，糖尿病病程中位數 19 年，HbA1c 中位數 7.2% 。&lt;br /&gt;
+• 檢測工具：配戴盲性 CGM（Libra 2）與 Fitbit Charge 4 穿戴裝置，以客觀區分睡眠/清醒狀態並記錄心率與活動量；低血糖症狀則透過專用 App 即時評估自主神經（AS）與神經缺糖（NS）症狀（評分 0-4 分） [11, 14, 21-23]。&lt;br /&gt;
+• 事件排除機制：為了排除日常活動對心跳的干擾，研究嚴格排除了低血糖起始前後 30 分鐘內步數超過 100 步的事件，且僅納入清醒期間的事件 。&lt;br /&gt;
+• 最終分析了 43 個符合條件的 Level 2 症狀性低血糖事件（CGM 血糖 &lt;54 mg/dL），並以血糖首次降至 54 mg/dL 前後 30 分鐘的平均心率差值（ΔHR）進行分析 [16-18, 24-26]。&lt;br /&gt;
+&lt;br /&gt;
+關鍵訊息與研究發現&lt;br /&gt;
+1. 心率無一致性的顯著改變：在低血糖發生時，平均心率變化（ΔHR）中位數為 -1.07 bpm，並未呈現臨床預期的一致性上升 。各事件間的心率反應變異極大，約 50% 的低血糖事件心率上升（低血糖前平均 75.2 bpm，低血糖期間平均 77 bpm），另 50% 事件心率下降 [18, 26-29]。&lt;br /&gt;
+2. 心率變化與症狀及血糖特徵相關性極差：相關矩陣分析顯示，ΔHR 與自主神經症狀分數（r = 0.079）以及神經缺糖症狀分數（r = 0.102）幾乎完全不相關 。此外，ΔHR 與低血糖最低值（nadir, r = 0.022）、血糖下降速度（r = 0.093）及每週低血糖頻率（r = -0.155）的相關係數絕對值均小於 0.16，顯示極差的相關性 。&lt;br /&gt;
+3. 血糖事件特徵關聯：低血糖最低值（nadir）與其持續時間呈中度負相關（r = -0.53），意即低血糖程度越深，事件持續時間越長 。&lt;br /&gt;
+&lt;br /&gt;
+內分泌臨床實務啟發&lt;br /&gt;
+這項研究提醒臨床醫師，真實世界中的低血糖感知是一個複雜的「生物心理過程」（biopsychological process），而非單純由荷爾蒙決定的線性反應 [32-34]。除了腎上腺素等反調節荷爾蒙外，患者對低血糖的感知還高度受到其「內感受能力」（interoception，對體內訊號的感知力）以及「注意力不足」（inattention，即使體內有訊號也未辨識為低血糖）等心理生理因素影響 [32-34]。&lt;br /&gt;
+因此，本分析結果不支持將臨床穿戴式裝置所記錄的心率變化，直接作為症狀性 CGM 低血糖事件或腎上腺素上升的可靠代理指標（surrogate marker） 。臨床評估仍須仰賴患者自覺症狀與 CGM 數據的結合，而不能單憑心率波動來推測低血糖是否產生症狀 。&lt;br /&gt;
+&lt;br /&gt;
+保守解讀限制&lt;br /&gt;
+解讀本研究結果時需注意其限制：本分析為事後分析（post-hoc analysis），樣本量較小（僅納入 33 位患者、43 個事件） ；且研究對象排除了低血糖覺察受損（IAH, Gold score &gt;= 4）的患者 ，並排除了夜間睡眠與中高活動量期間的事件 。因此，對於高風險低血糖覺察受損患者，或在夜間及運動狀態下的心率反應，無法直接套用此結論，仍待後續研究證實。&lt;br /&gt;
+&lt;br /&gt;
+給醫師後續思考的問題&lt;br /&gt;
+隨著連續血糖監測（CGM）與智慧穿戴裝置在糖尿病管理中的普及，我們在臨床實務上，該如何更有效地評估與訓練患者的「內感受能力（interoception）」，以降低那些「體內反調節反應（如心血管生理壓力）已啟動，患者卻毫無主觀症狀」的隱形低血糖風險？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: Hypoglycemia across Contexts Risk Recognition and Real World Safety With ADA Presidents Select Abstract Presen&lt;br /&gt;
+Speaker: Vaios D Koutroukas - University of Leicester&lt;br /&gt;
+Title: Poor Correlation between Hypoglycemic Symptoms and Heart Rate Response in Sensor-Detected Hypoglycemia in T2D: Hypo-METRICS Study&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/86accbb0-4406-48d1-9ddb-42862f65c743</content:encoded><pubDate>Mon, 15 Jun 2026 12:54:26 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-15-20260615-1238-ada2026-plenary-poor-correlation-between-hypoglycemic-symptoms-and-heart-r.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-15-20260615-1238-ada2026-plenary-poor-correlation-between-hypoglycemic-symptoms-and-heart-r.m4a" length="14627431" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>20:03</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-15-20260615-1238-ada2026-plenary-poor-correlation-between-hypoglycemic-symptoms-and-heart-r.jpg" /><link>https://mednote.zeabur.app/lectures/86accbb0-4406-48d1-9ddb-42862f65c743</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Driving and Diabetes: Differences in Driving Behaviours between U.S. and UK Drivers with Insulin-Treated Type 2 Diabetes</title><description>ADA 2026 專業整理：一項針對美國與英國接受胰島素治療之第二型糖尿病成人駕駛的最新研究指出，高達95%的患者曾於駕駛中發生低血糖，且真實世界中的安全防線與患者對指引的遵循度普遍存在重大缺口 [1-4]。
 
 臨床問題與背景
 駕駛是一項需要高度專注、協調與快速反應能力的複雜任務 [5-7]。低血糖已知會造成認知功能受損與精神動作遲緩，不僅影響判斷力與反應時間，更會降低患者判斷「應該停車」的決策能力 。糖尿病患者相較於一般族群，發生機動車事故的相對風險約高出1.2至2倍 。對此，美國與英國制定的駕駛指引存在顯著差異：美國ADA指引偏向原則性，建議開車前血糖應大於90 mg/dL，長途開車應定期測量，但未明確界定測量間隔 ；英國指引則極為具體，要求開車前與至少每2小時檢查血糖、維持血糖在90 mg/dL以上，若低於72 mg/dL必須在安全處停車治療，且治療後必須血糖恢復至90 mg/dL以上並維持45分鐘，才能重新駕駛 [6, 12-14]。本研究旨在探討兩國使用胰島素治療的第二型糖尿病駕駛者，其實際血糖監測與低血糖處置行為的差異 [15-17]。
