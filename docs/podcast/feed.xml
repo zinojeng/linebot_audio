@@ -1,5 +1,85 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Mon, 15 Jun 2026 05:52:50 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Poor Correlation between Hypoglycemic Symptoms and Heart Rate Response in Sensor-Detected Hypoglycemia in T2D: Hypo-METRICS Study</title><description>ADA 2026 專業整理：第二型糖尿病真實世界 CGM 低血糖中，心率反應與主觀症狀相關性不佳（Hypo-METRICS 臨床研究事後分析）
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Mon, 15 Jun 2026 08:23:06 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Divergent Exocrine Pancreatic Trajectories in Children Progressing to Stage 1 vs. Stage 3 Type 1 Diabetes</title><description>ADA 2026 演講重點：臨床研究發現，快速進展至第 3 階段（Stage 3）第一型糖尿病（T1D）的兒童，其胰臟外分泌功能在自體免疫抗體出現前，就已在嬰兒期呈現異常下降的軌跡 [1-3]。
+
+這項發表於 ADA 2026 的研究，由佛羅里達大學的 Brittany Sorensen Bruggeman 醫師報告，深入探討外分泌胰臟功能（Exocrine Pancreas）在兒童 T1D 疾病進展中的自然史與病理角色 。
+
+臨床問題與背景：
+長久以來，第一型糖尿病在臨床與研究上多被視為純粹的「胰島疾病」，認為外分泌胰臟的萎縮僅是糖尿病發生後的次發性後果 。然而，病理觀察與 nPOD 組織庫發現，在自體免疫抗體陽性且血糖正常的捐贈者中，其胰臟重量已比對照組減少約 20%，顯示外分泌異常可能在臨床發病前就已存在 。為此，本研究探討外分泌胰臟功能是否在胰島自體免疫出現前就已受損、是否能區分不同的臨床進展表型，以及糞便彈性蛋白酶（fecal elastase / FE-1）是否能作為預測疾病進展的生物標記 。
+
+試驗設計與資料數據：
+研究團隊在 TEDDY 世代中進行了巢式病例對照研究（nested case-control study），總計分析了 4,718 個縱向糞便檢體 。研究分為兩個世代：
+Cohort A：4 歲前即進展為第 3 階段（臨床發病）的快速進展兒童，共 122 名受試者（病例與對照各 61 名），平均每人有 19 個縱向檢體 。其出現第 1 階段（Stage 1）的中位年齡約 18.6 個月，進展至第 3 階段的中位年齡約 30.1 個月 。
+Cohort B：出現第 1 階段，但在 6 歲前未發展為第 3 階段的較慢進展兒童，共 104 名受試者（病例與對照各 52 名），平均每人有 23 個縱向檢體 。其出現第 1 階段的中位年齡約為 30 個月，多數在約 10 歲時才進展到第 3 階段 。
+外分泌功能指標採用臨床常見的 FE-1，自基線（約 3 個月大）開始追蹤至發病或第 1 階段後一年 。
+
+關鍵臨床訊息與數據：
+1. 早期快速進展者的外分泌功能在嬰兒期即已偏低：Cohort A 的病例與對照組相比，在基線（約 4 個月大）時就已出現 FE-1 的顯著差異，遠早於其中位自體抗體出現的 18 個月大 。
+2. 外分泌功能的持續下降軌跡：線性混合模型（LMM）分析顯示，Cohort A 在進入第 1 階段及第 3 階段之前，FE-1 皆呈現顯著下降趨勢（在以 Stage 1 和 Stage 3 為中心的分析中，軌跡斜率估計值皆為 B = -0.0006，p &lt; 0.001） 。相較之下，較慢進展的 Cohort B 在基線與第 1 階段時無明顯的橫斷面 FE-1 差異，縱向下降訊號也較弱 。
+3. 抗體表型的差異：在早期進展者中，無論首個出現的抗體為何，FE-1 均顯著下降，但以 GAD 抗體首發（GAD-first）的兒童 FE-1 下降幅度最為劇烈，顯示不同的自體抗體軌跡可能反映了不同的病理表型與生物學機制 。
+4. 預測疾病進展的生物標記價值：單獨使用 FE-1 預測第 1 階段後 1 到 2 年內是否進展至第 3 階段的能力有限（AUC 僅約 0.57 至 0.62） 。然而，當 FE-1 結合首發自體抗體時，預測能力（AUC）可從單獨抗體的 0.64 顯著提升至 0.71 。
+5. 臨床顯著的外分泌功能不全（FE-1 &lt; 200 ug/g）在兩世代中皆非常罕見（Cohort A 病例組僅 2.7%，對照組 1.1%），這代表研究觀察到的是細微的亞臨床（subclinical）功能異常與軌跡差異，而非大量臨床胰外分泌不足 。
+
+內分泌臨床實務的啟發：
+本研究顛覆了傳統「T1D 純屬內分泌/胰島疾病」的觀點，將外分泌功能障礙的時間線推進至自體免疫標記出現之前的嬰兒超早期階段 。在臨床評估上，外分泌胰臟生物標記（如 FE-1）雖無法單獨作為強效篩檢工具，但其能與現有的自體抗體等免疫指標互補，協助臨床團隊在較短的時間範圍內，更精準地評估高風險兒童從 Stage 1 進展至 Stage 3 的短期進程風險 。這為未來的 T1D 風險預測模型整合外分泌指標提供了重要依據 。
+
+臨床應用之保守解讀與限制：
+1. 本研究數據來自 TEDDY 世代，受試者多為極年幼的兒童，此一外分泌軌跡異常是否同樣適用於年齡較大的兒童、青少年或成年起病的 T1D 患者，目前尚無定論（另一項針對 8 至 45 歲族群的研究結果仍在進行中） 。
+2. 本次演講所報告內容屬於未發表數據（unpublished data），解讀時應保持審慎 。
+3. Stool FE-1 易受乳糜瀉（celiac disease）、早產、發育等可能造成外分泌功能障礙的因素影響。雖然本研究在設計世代時已排除乳糜瀉與早產受試者，但在臨床實際應用時仍須謹慎排除其他干擾因素 。
+4. 外分泌功能異常的具體機轉（究竟是子宮內胰臟發育異常導至胰臟體積較小，抑或在自體免疫前即存在的微環境慢性發炎）目前仍屬科學假說，尚未完全確定 。
+
+給臨床醫師後續思考的問題：
+在未來推動早期第一型糖尿病的精準醫療時，我們該如何有效率地在常規臨床實務中，整合外分泌功能指標（如糞便彈性蛋白酶或胰臟影像學）與傳統的免疫抗體篩檢，以更精準地找出那些可能快速進展至臨床發病的超早期高風險兒童？
+
+來源：
+Conference: ADA 2026 Scientific Sessions
+Session: Beyond A1C: New Ways to Measure Disease Progression in Early Stage Type 1 Diabetes With ADA Presidents Select A
+Title: Divergent Exocrine Pancreatic Trajectories in Children Progressing to Stage 1 vs. Stage 3 Type 1 Diabetes
+Speaker: Brittany Sorensen Bruggeman - University of Florida
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/0985661d-80c0-418f-a1e0-ca05855c793b</description><content:encoded>ADA 2026 演講重點：臨床研究發現，快速進展至第 3 階段（Stage 3）第一型糖尿病（T1D）的兒童，其胰臟外分泌功能在自體免疫抗體出現前，就已在嬰兒期呈現異常下降的軌跡 [1-3]。&lt;br /&gt;
+&lt;br /&gt;
+這項發表於 ADA 2026 的研究，由佛羅里達大學的 Brittany Sorensen Bruggeman 醫師報告，深入探討外分泌胰臟功能（Exocrine Pancreas）在兒童 T1D 疾病進展中的自然史與病理角色 。&lt;br /&gt;
+&lt;br /&gt;
+臨床問題與背景：&lt;br /&gt;
+長久以來，第一型糖尿病在臨床與研究上多被視為純粹的「胰島疾病」，認為外分泌胰臟的萎縮僅是糖尿病發生後的次發性後果 。然而，病理觀察與 nPOD 組織庫發現，在自體免疫抗體陽性且血糖正常的捐贈者中，其胰臟重量已比對照組減少約 20%，顯示外分泌異常可能在臨床發病前就已存在 。為此，本研究探討外分泌胰臟功能是否在胰島自體免疫出現前就已受損、是否能區分不同的臨床進展表型，以及糞便彈性蛋白酶（fecal elastase / FE-1）是否能作為預測疾病進展的生物標記 。&lt;br /&gt;
+&lt;br /&gt;
+試驗設計與資料數據：&lt;br /&gt;
+研究團隊在 TEDDY 世代中進行了巢式病例對照研究（nested case-control study），總計分析了 4,718 個縱向糞便檢體 。研究分為兩個世代：&lt;br /&gt;
+Cohort A：4 歲前即進展為第 3 階段（臨床發病）的快速進展兒童，共 122 名受試者（病例與對照各 61 名），平均每人有 19 個縱向檢體 。其出現第 1 階段（Stage 1）的中位年齡約 18.6 個月，進展至第 3 階段的中位年齡約 30.1 個月 。&lt;br /&gt;
+Cohort B：出現第 1 階段，但在 6 歲前未發展為第 3 階段的較慢進展兒童，共 104 名受試者（病例與對照各 52 名），平均每人有 23 個縱向檢體 。其出現第 1 階段的中位年齡約為 30 個月，多數在約 10 歲時才進展到第 3 階段 。&lt;br /&gt;
+外分泌功能指標採用臨床常見的 FE-1，自基線（約 3 個月大）開始追蹤至發病或第 1 階段後一年 。&lt;br /&gt;
+&lt;br /&gt;
+關鍵臨床訊息與數據：&lt;br /&gt;
+1. 早期快速進展者的外分泌功能在嬰兒期即已偏低：Cohort A 的病例與對照組相比，在基線（約 4 個月大）時就已出現 FE-1 的顯著差異，遠早於其中位自體抗體出現的 18 個月大 。&lt;br /&gt;
+2. 外分泌功能的持續下降軌跡：線性混合模型（LMM）分析顯示，Cohort A 在進入第 1 階段及第 3 階段之前，FE-1 皆呈現顯著下降趨勢（在以 Stage 1 和 Stage 3 為中心的分析中，軌跡斜率估計值皆為 B = -0.0006，p &lt; 0.001） 。相較之下，較慢進展的 Cohort B 在基線與第 1 階段時無明顯的橫斷面 FE-1 差異，縱向下降訊號也較弱 。&lt;br /&gt;
+3. 抗體表型的差異：在早期進展者中，無論首個出現的抗體為何，FE-1 均顯著下降，但以 GAD 抗體首發（GAD-first）的兒童 FE-1 下降幅度最為劇烈，顯示不同的自體抗體軌跡可能反映了不同的病理表型與生物學機制 。&lt;br /&gt;
+4. 預測疾病進展的生物標記價值：單獨使用 FE-1 預測第 1 階段後 1 到 2 年內是否進展至第 3 階段的能力有限（AUC 僅約 0.57 至 0.62） 。然而，當 FE-1 結合首發自體抗體時，預測能力（AUC）可從單獨抗體的 0.64 顯著提升至 0.71 。&lt;br /&gt;
+5. 臨床顯著的外分泌功能不全（FE-1 &lt; 200 ug/g）在兩世代中皆非常罕見（Cohort A 病例組僅 2.7%，對照組 1.1%），這代表研究觀察到的是細微的亞臨床（subclinical）功能異常與軌跡差異，而非大量臨床胰外分泌不足 。&lt;br /&gt;
+&lt;br /&gt;
+內分泌臨床實務的啟發：&lt;br /&gt;
+本研究顛覆了傳統「T1D 純屬內分泌/胰島疾病」的觀點，將外分泌功能障礙的時間線推進至自體免疫標記出現之前的嬰兒超早期階段 。在臨床評估上，外分泌胰臟生物標記（如 FE-1）雖無法單獨作為強效篩檢工具，但其能與現有的自體抗體等免疫指標互補，協助臨床團隊在較短的時間範圍內，更精準地評估高風險兒童從 Stage 1 進展至 Stage 3 的短期進程風險 。這為未來的 T1D 風險預測模型整合外分泌指標提供了重要依據 。&lt;br /&gt;
+&lt;br /&gt;
+臨床應用之保守解讀與限制：&lt;br /&gt;
+1. 本研究數據來自 TEDDY 世代，受試者多為極年幼的兒童，此一外分泌軌跡異常是否同樣適用於年齡較大的兒童、青少年或成年起病的 T1D 患者，目前尚無定論（另一項針對 8 至 45 歲族群的研究結果仍在進行中） 。&lt;br /&gt;
+2. 本次演講所報告內容屬於未發表數據（unpublished data），解讀時應保持審慎 。&lt;br /&gt;
+3. Stool FE-1 易受乳糜瀉（celiac disease）、早產、發育等可能造成外分泌功能障礙的因素影響。雖然本研究在設計世代時已排除乳糜瀉與早產受試者，但在臨床實際應用時仍須謹慎排除其他干擾因素 。&lt;br /&gt;
+4. 外分泌功能異常的具體機轉（究竟是子宮內胰臟發育異常導至胰臟體積較小，抑或在自體免疫前即存在的微環境慢性發炎）目前仍屬科學假說，尚未完全確定 。&lt;br /&gt;
+&lt;br /&gt;
+給臨床醫師後續思考的問題：&lt;br /&gt;
+在未來推動早期第一型糖尿病的精準醫療時，我們該如何有效率地在常規臨床實務中，整合外分泌功能指標（如糞便彈性蛋白酶或胰臟影像學）與傳統的免疫抗體篩檢，以更精準地找出那些可能快速進展至臨床發病的超早期高風險兒童？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+Conference: ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: Beyond A1C: New Ways to Measure Disease Progression in Early Stage Type 1 Diabetes With ADA Presidents Select A&lt;br /&gt;
+Title: Divergent Exocrine Pancreatic Trajectories in Children Progressing to Stage 1 vs. Stage 3 Type 1 Diabetes&lt;br /&gt;
+Speaker: Brittany Sorensen Bruggeman - University of Florida&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/0985661d-80c0-418f-a1e0-ca05855c793b</content:encoded><pubDate>Mon, 15 Jun 2026 14:51:28 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-15-20260615-1436-ada2026-plenary-divergent-exocrine-pancreatic-trajectories-in-children-pro.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-15-20260615-1436-ada2026-plenary-divergent-exocrine-pancreatic-trajectories-in-children-pro.m4a" length="15454336" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>21:13</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-15-20260615-1436-ada2026-plenary-divergent-exocrine-pancreatic-trajectories-in-children-pro.jpg" /><link>https://mednote.zeabur.app/lectures/0985661d-80c0-418f-a1e0-ca05855c793b</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Poor Correlation between Hypoglycemic Symptoms and Heart Rate Response in Sensor-Detected Hypoglycemia in T2D: Hypo-METRICS Study</title><description>ADA 2026 專業整理：第二型糖尿病真實世界 CGM 低血糖中，心率反應與主觀症狀相關性不佳（Hypo-METRICS 臨床研究事後分析）
 
 臨床背景與研究問題
 在接受胰島素治療的糖尿病患者中，由於升糖素反應通常受損，腎上腺素（epinephrine）成為驅動低血糖反調節反應（CRR）的主要荷爾蒙 [1-3]。雖然反調節反應對恢復正常血糖至關重要，但低血糖誘發的腎上腺素上升會引發全身性促發炎與促凝血反應（可持續達一週），進而增加心血管事件風險 。
