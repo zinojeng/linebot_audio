@@ -1,5 +1,51 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Tue, 16 Jun 2026 10:10:14 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：How Low to Go? And in Whom? New Blood Pressure Targets in Diabetes</title><description>ADA 2026 專業整理：糖尿病患者血壓控制目標「Early and Low」 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Tue, 16 Jun 2026 17:19:11 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Early Weight Loss Velocity Guides Precision Escalation in Obesity Treatment</title><description>ADA 2026 專業整理：以早期減重速度引導肥胖治療的精準升階決策 
+
+在肥胖照護的臨床實務中，醫療團隊常面臨病人治療軌跡分岔的難題 。本次大會中，米蘭大學 Andrea Foppiani 發表了最新研究，探討如何利用「早期減重速度」客觀篩檢高風險非反應者，並在適當時機進行精準升階治療 。
+
+臨床問題：
+肥胖治療通常始於飲食、活動與行為等標準第一線生活型態介入 。然而，真實世界中，大部分病人會在早期面臨體重停滯、進展不足，甚至直接中斷回診（流失）。現今臨床雖有極低熱量生酮飲食（VLCKD）、心理支持、腸泌素模擬物（incretin mimetics）與代謝手術等多種進階升階選項，但這些療法伴隨生理副作用、生活品質影響與經濟負擔 。因此，臨床上亟需一個客觀、簡單且能在早期應用的評估指標，以在病人流失前「精準救回」非反應者，同時避免過度治療已成功反應的病人 。
+
+關鍵訊息與試驗數據：
+本研究分為三個階段進行：
+第一階段分析了包含 7,512 名肥胖成人的 ICANS 大型資料庫（中位數 BMI 33.7、中位數年齡 50.4 歲），所有病人起始均接受地中海飲食之生活型態介入 。研究使用聯合潛在類別模型（joint latent class models）校正病人早期流失所帶來的「倖存者偏差」。結果發現有高達 69% 的病人屬於「早期流失表型」，其在 24 個月時幾乎沒有減重，且平均追蹤時間僅 3 個月，高達 98% 在 24 個月前便退出照護；相對地，單靠生活型態就能達到顯著減重（&gt;15%）的「高反應者」僅占 7.5% 。
+第二階段嘗試利用病人的多維度基線資料建立機器學習預測模型 。研究發現僅靠基線靜態資料進行預測的表現極不理想，AUC 僅有 0.575，如同丟硬幣 。然而，一旦加入治療後 2 至 3 個月（第一次回診）的動態數據，預測 AUC 隨即躍升至 0.908 。SHAP 分析顯示，此高度準確的模型幾乎只依賴單一指標：每月減重速度（monthly weight loss velocity，意即相較於初始體重的每月減重百分比）。研究團隊最終選擇「每月減重速度 1.5%」作為臨床決策切點，該切點更重視敏感度（sensitivity），可成功捕捉未來約 90% 的治療失敗者 。
+第三階段在包含 128 名肥胖成人的獨立外部追蹤佇列中進行回溯性試驗模擬（target trial emulation）。在第一次回診（1至3個月）時，依 1.5%/月的規則將病人分為高風險非反應者（60人）與低風險反應者（68人）。分析一年的減重結果顯示：高風險病人若被留在標準生活型態照護，一年的體重減輕極低（低於 2%）；但若在早期被升階至 VLCKD 或腸泌素治療，一年的體重減輕可達 11.1%，展現出顯著的臨床與統計學意義 。相反地，低風險反應者光靠生活型態照護即有極佳效果，早期升階僅能帶來邊際效益 。令人注意的是，若無此演算法引導，臨床醫師實際決策中，高風險者僅 9 人接受升階，而低風險者卻有 29 人被升階，顯示現行實務存在「對需要者升階太慢、對不需要者過度治療」的落差 。
+
+對內分泌臨床實務的啟發：
+1. 從「預測風險」轉向「動態反應評估」：在擬定肥胖治療計畫時，與其花費大量資源在治療前篩檢病人的靜態預測因子，不如在開始生活型態介入後的第一次回診（約 2 至 3 個月），以「每月減重速度是否達到 1.5%」作為客觀的分流與評估指標 。
+2. 優化醫療資源配置與精準醫療：對於每月減重速度低於 1.5% 的病人，應果斷早期升階至進階飲食、藥物或手術治療，在其流失動機前進行積極干預；對於已達 1.5% 的反應者，則維持標準照護，以減少不必要的副作用與病人的經濟負擔 。
+
+保守解讀的限制：
+1. 本研究在第三階段驗證時所採用的外部佇列樣本數較小（共 128 人），且屬於回溯性試驗模擬，未來仍需要更大規模的前瞻性臨床試驗或在不同的醫療體系與種族中進行外部驗證 。
+2. 目前的研究雖然確立了「
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/cbb6ec8e-08b3-4e37-89f4-af68e9ef0786</description><content:encoded>ADA 2026 專業整理：以早期減重速度引導肥胖治療的精準升階決策 &lt;br /&gt;
+&lt;br /&gt;
+在肥胖照護的臨床實務中，醫療團隊常面臨病人治療軌跡分岔的難題 。本次大會中，米蘭大學 Andrea Foppiani 發表了最新研究，探討如何利用「早期減重速度」客觀篩檢高風險非反應者，並在適當時機進行精準升階治療 。&lt;br /&gt;
+&lt;br /&gt;
+臨床問題：&lt;br /&gt;
+肥胖治療通常始於飲食、活動與行為等標準第一線生活型態介入 。然而，真實世界中，大部分病人會在早期面臨體重停滯、進展不足，甚至直接中斷回診（流失）。現今臨床雖有極低熱量生酮飲食（VLCKD）、心理支持、腸泌素模擬物（incretin mimetics）與代謝手術等多種進階升階選項，但這些療法伴隨生理副作用、生活品質影響與經濟負擔 。因此，臨床上亟需一個客觀、簡單且能在早期應用的評估指標，以在病人流失前「精準救回」非反應者，同時避免過度治療已成功反應的病人 。&lt;br /&gt;
+&lt;br /&gt;
+關鍵訊息與試驗數據：&lt;br /&gt;
+本研究分為三個階段進行：&lt;br /&gt;
+第一階段分析了包含 7,512 名肥胖成人的 ICANS 大型資料庫（中位數 BMI 33.7、中位數年齡 50.4 歲），所有病人起始均接受地中海飲食之生活型態介入 。研究使用聯合潛在類別模型（joint latent class models）校正病人早期流失所帶來的「倖存者偏差」。結果發現有高達 69% 的病人屬於「早期流失表型」，其在 24 個月時幾乎沒有減重，且平均追蹤時間僅 3 個月，高達 98% 在 24 個月前便退出照護；相對地，單靠生活型態就能達到顯著減重（&gt;15%）的「高反應者」僅占 7.5% 。&lt;br /&gt;
+第二階段嘗試利用病人的多維度基線資料建立機器學習預測模型 。研究發現僅靠基線靜態資料進行預測的表現極不理想，AUC 僅有 0.575，如同丟硬幣 。然而，一旦加入治療後 2 至 3 個月（第一次回診）的動態數據，預測 AUC 隨即躍升至 0.908 。SHAP 分析顯示，此高度準確的模型幾乎只依賴單一指標：每月減重速度（monthly weight loss velocity，意即相較於初始體重的每月減重百分比）。研究團隊最終選擇「每月減重速度 1.5%」作為臨床決策切點，該切點更重視敏感度（sensitivity），可成功捕捉未來約 90% 的治療失敗者 。&lt;br /&gt;
+第三階段在包含 128 名肥胖成人的獨立外部追蹤佇列中進行回溯性試驗模擬（target trial emulation）。在第一次回診（1至3個月）時，依 1.5%/月的規則將病人分為高風險非反應者（60人）與低風險反應者（68人）。分析一年的減重結果顯示：高風險病人若被留在標準生活型態照護，一年的體重減輕極低（低於 2%）；但若在早期被升階至 VLCKD 或腸泌素治療，一年的體重減輕可達 11.1%，展現出顯著的臨床與統計學意義 。相反地，低風險反應者光靠生活型態照護即有極佳效果，早期升階僅能帶來邊際效益 。令人注意的是，若無此演算法引導，臨床醫師實際決策中，高風險者僅 9 人接受升階，而低風險者卻有 29 人被升階，顯示現行實務存在「對需要者升階太慢、對不需要者過度治療」的落差 。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的啟發：&lt;br /&gt;
+1. 從「預測風險」轉向「動態反應評估」：在擬定肥胖治療計畫時，與其花費大量資源在治療前篩檢病人的靜態預測因子，不如在開始生活型態介入後的第一次回診（約 2 至 3 個月），以「每月減重速度是否達到 1.5%」作為客觀的分流與評估指標 。&lt;br /&gt;
+2. 優化醫療資源配置與精準醫療：對於每月減重速度低於 1.5% 的病人，應果斷早期升階至進階飲食、藥物或手術治療，在其流失動機前進行積極干預；對於已達 1.5% 的反應者，則維持標準照護，以減少不必要的副作用與病人的經濟負擔 。&lt;br /&gt;
+&lt;br /&gt;
+保守解讀的限制：&lt;br /&gt;
+1. 本研究在第三階段驗證時所採用的外部佇列樣本數較小（共 128 人），且屬於回溯性試驗模擬，未來仍需要更大規模的前瞻性臨床試驗或在不同的醫療體系與種族中進行外部驗證 。&lt;br /&gt;
+2. 目前的研究雖然確立了「&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/cbb6ec8e-08b3-4e37-89f4-af68e9ef0786</content:encoded><pubDate>Wed, 17 Jun 2026 01:19:03 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-16-20260616-2353-ada2026-symposium-early-weight-loss-velocity-guides-precision-escalation-in.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-16-20260616-2353-ada2026-symposium-early-weight-loss-velocity-guides-precision-escalation-in.m4a" length="13734387" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>18:50</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-16-20260616-2353-ada2026-symposium-early-weight-loss-velocity-guides-precision-escalation-in.jpg" /><link>https://mednote.zeabur.app/lectures/cbb6ec8e-08b3-4e37-89f4-af68e9ef0786</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：How Low to Go? And in Whom? New Blood Pressure Targets in Diabetes</title><description>ADA 2026 專業整理：糖尿病患者血壓控制目標「Early and Low」 
 
 臨床問題
 在糖尿病患者的高血壓管理中，任何高於生理正常值的血壓都會對心、腎、腦等目標器官累積病理傷害 [1-3]。臨床上面臨的兩大痛點是：何時應啟動降壓藥物治療？以及收縮壓究竟應該降到多低 ？過去傳統目標 140/90 mmHg 的保守做法，是否低估了累積血壓對患者器官的長期威脅 ？
@@ -39,7 +85,7 @@ Title: How Low to Go? And in Whom? New Blood Pressure Targets in Diabetes
 
 本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
 
-來源連結：https://mednote.zeabur.app/lectures/4206a573-7db7-4309-be2c-8de1b019cfcb</description><content:encoded>ADA 2026 專業整理：糖尿病患者血壓控制目標「Early and Low」 &lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/34ecda39-d4c1-4cad-a2f3-a84b2c64839b</description><content:encoded>ADA 2026 專業整理：糖尿病患者血壓控制目標「Early and Low」 &lt;br /&gt;
 &lt;br /&gt;
 臨床問題&lt;br /&gt;
 在糖尿病患者的高血壓管理中，任何高於生理正常值的血壓都會對心、腎、腦等目標器官累積病理傷害 [1-3]。臨床上面臨的兩大痛點是：何時應啟動降壓藥物治療？以及收縮壓究竟應該降到多低 ？過去傳統目標 140/90 mmHg 的保守做法，是否低估了累積血壓對患者器官的長期威脅 ？&lt;br /&gt;
@@ -79,7 +125,181 @@ Title: How Low to Go? And in Whom? New Blood Pressure Targets in Diabetes&lt;br 
 &lt;br /&gt;
 本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
 &lt;br /&gt;
-來源連結：https://mednote.zeabur.app/lectures/4206a573-7db7-4309-be2c-8de1b019cfcb</content:encoded><pubDate>Tue, 16 Jun 2026 09:24:31 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-16-20260616-0150-ada2026-plenary-how-low-to-go-and-in-whom-new-blood-pressure-targets-in-di.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-16-20260616-0150-ada2026-plenary-how-low-to-go-and-in-whom-new-blood-pressure-targets-in-di.m4a" length="11256326" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>15:25</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-16-20260616-0150-ada2026-plenary-how-low-to-go-and-in-whom-new-blood-pressure-targets-in-di.jpg" /><link>https://mednote.zeabur.app/lectures/4206a573-7db7-4309-be2c-8de1b019cfcb</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Preventing Heart Failure in Diabetes</title><description>ADA 2026 專業整理：糖尿病患者的心衰竭早期篩檢與預防策略
+來源連結：https://mednote.zeabur.app/lectures/34ecda39-d4c1-4cad-a2f3-a84b2c64839b</content:encoded><pubDate>Tue, 16 Jun 2026 09:24:31 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-16-20260616-0150-ada2026-plenary-how-low-to-go-and-in-whom-new-blood-pressure-targets-in-di.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-16-20260616-0150-ada2026-plenary-how-low-to-go-and-in-whom-new-blood-pressure-targets-in-di.m4a" length="11256326" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>15:25</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-16-20260616-0150-ada2026-plenary-how-low-to-go-and-in-whom-new-blood-pressure-targets-in-di.jpg" /><link>https://mednote.zeabur.app/lectures/34ecda39-d4c1-4cad-a2f3-a84b2c64839b</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Microbiome on the Menu: Yes, It Has a Role to Play in Cardiometabolic Health</title><description>ADA 2026 專業整理：Microbiome on the Menu: Yes, It Has a Role to Play in Cardiometabolic Health 
+
+在 ADA 2026 科技年會中，哥本哈根大學的 Henrik Munch Roager 教授深入探討了腸道微生物體（gut microbiome）與心血管代謝健康之間的複雜關係 。他指出，這個由多種微生物構成的「腸道交響樂團」並非只是人體的寄居者，而是主導宿主代謝、能量擷取與訊號傳遞的核心成員 [3-5]。
+
+◆ 臨床問題與背景
+在糖尿病與肥胖的臨床管理中，我們長期思索腸道微生物體如何具體參與代謝性疾病的病理生理學 。儘管基礎研究展現高度潛力，但在人體實務中，腸道菌如何調控個體的能量平衡？為何相同的飲食介入（例如高纖飲食）在不同患者身上的代謝反應差異如此巨大 ？我們又該如何跨越「高宣傳熱度（Hype）」的迷思，走向具有臨床可預測性的精準個人化介入 ？
+
+◆ 關鍵訊息
+
+一、 微生物體與能量擷取（Energy Harvest）的雙向角色
+1. 經典移植與表型證實：Turnbaugh 2006 研究顯示，將肥胖（ob/ob）與纖瘦（+/+）小鼠的腸道微生物移植至無菌小鼠，在相同餵食條件下，移植肥胖菌相的小鼠體脂仍顯著上升，且其糞便中剩餘能量較少，證實肥胖菌相具有更強的能量擷取能力 [9-12]。Roager 教授在丹麥兒童研究（Zhang 2016）中也驗證了此現象，受試小鼠的體重增加比例與糞便殘留能量呈負相關 。
+2. 人類能量貢獻量級：微生物發酵產物對宿主能量消耗的貢獻，在小鼠中約為 21% ，在人類中則約占每日能量的 1% 至 12% 。此能量貢獻在臨床上具有雙向性：在營養不良兒童情境中，需補充足夠膳食纖維以促進有益發酵 ；而在高纖飲食下，部分能量會被轉入增加的微生物生物量（糞便乾重中約有 50% 其實是細菌）並隨糞便排出 。
+3. 減重維持的最新臨床實證（Mount 2026, Nature Medicine）：針對超重/肥胖成人的 RCT 研究，受試者接受 8 週低熱量飲食（800-900 kcal/day）成功減重後，在維持期給予巴氏滅菌的 A. muciniphila (MucT, 每日膠囊含 3 x 10^10 heat-treated cells) [17-19]。結果顯示 A. muciniphila 組能顯著改善體重維持（多個時間點 P&lt;0.05） [17-19]。在該菌株組內，體重回升與糞便能量排出量呈顯著負相關（P=0.0115），進一步證實微生物可藉由調整能量留存與排出的比例來影響宿主體重變化 [17-20]。
+
+二、 微生物發酵代謝物扮演多系統訊號源
+1. 短鏈脂肪酸（SCFAs）與腸道荷爾蒙：膳食纖維經 Firmicutes 與 Bacteroidetes 發酵產生 SCFAs（乙酸、丙酸、丁酸） [21-23]。這些小分子能結合腸道內分泌細胞上的 GPCRs，刺激 GLP-1 與 PYY 的釋放，調控飽足感與全身代謝 。
+2. 人體因果效應：van der Beek 2016 研究證實，在遠端結腸（distal colon）灌注乙酸（100 mM 與 180 mM）可使人體 PYY 顯著上升（P=0.01），而近端灌注則無顯著效果 [24-26]。
+3. 多系統作用網絡：除了 SCFAs，其他代謝物如次級膽汁酸、BCAAs、LPS、Indole 衍生物、Imidazole propionate 及 TMA/TMAO 等，也會經由屏障、免疫、神經與內分泌路徑，與脂肪儲存、胰島素阻抗及動脈粥樣硬化產生複雜關聯 [24, 27-29]。
+
+三、 腸道生理環境決定代謝產物與菌相的變異
+Roager 教授強調，我們不能忽視個體間的腸道生理差異，尤其是「腸道通過時間」與「pH 值」決定了微生物與飲食互動的邊界條件 。
+1. 腸道分段通過時間與 pH 的巨大變異：利用 SmartPill 檢測 50 位丹麥健康成人（Procházková 2024），發現小腸通過時間為 2 至 10 小時，結腸通過時間變異更大，從 2 小時至超過 60 小時 [31-33]。此外，小腸中段 pH 介於 6.5 至 8.5 ，遠端結腸 pH 變異可達 5.5 至 8.5（氫離子濃度相差近百倍） 。
+2. 代謝模式轉換：通過時間過長或發酵基質耗盡，會使微生物代謝從「糖解/糖類發酵（產 SCFAs、降 pH）」轉向「蛋白質分解/蛋白發酵（產生 phenol、indole、H2S 等有害產物，並升 pH）」 。
+3. 色胺酸代謝方向的轉變（Sinha 2024; Brinck 2026）：在結腸 pH &lt; 6.5 且碳水化合物充沛（如高膳食纖維）時，色胺酸代謝會被導向生成有益的色胺酸代謝物（如 ILA、IPA） [37-39]。然而，當結腸 pH &gt; 6.5 且碳水化合物缺乏時，會激活 indole 途徑產生 indole，在肝臟被轉化為與心血管及慢性腎臟病風險密切相關的 indoxyl sulfate [37-40]。
+4. 解釋變異的關鍵：分析顯示，糞便含水量（5.5% 效應量）、禁食甲烷（5.0%）、糞便 pH 值（4.6%）及全腸道通過時間（4.4%）是解釋個體間微生物體變異的最主要因素 [40-42]。
+
+◆ 對內分泌臨床實務的啟發
+1. 臨床介入的個人化考量：在規劃糖尿病或肥胖患者飲食介入時，應體認到「同一種纖維或菌株，在不同腸道通過時間與 pH 的患者身上會產生截然不同的代謝產物與臨床效應」 。
+2. 減重維持新靶點：如何透過特定的膳食組成（如精準纖維）或特定菌株（如 A. muciniphila）來增加糞便中的能量排出（將能量導入微生物生物量排出），可能是協助減重患者長期維持成果的新路徑 。
+3. 靶向遞送的技術瓶頸：短鏈脂肪酸（如丁酸 butyrate）口服後極易在小腸即被完全吸收 。若目標是讓小分子在結腸發揮調控作用，未來臨床實務中需要更先進的結腸定位遞送技術 。
+
+◆ 限制與保守解讀
+1. FMT 代謝效應的短暫性：雖然接受健康供體糞便移植（FMT）可在 6 週時顯著改善代謝症候群患者的周邊胰島素敏感性（Kootte 2017, p=0.030），但此效果在 18 週後即消失，且效果強烈受到受試者基準期腸道菌相組成（baseline microbiota）的限制 。
+2. 人體因果證據仍屬少數：除了 SCFAs 具有較強的人體因果與干預證據，其餘多數腸道微生物衍生代謝分子與心血管代謝健康的關聯，目前仍高度仰賴動物實驗，人體實證依然有限 。
+3. 人類發酵能量貢獻的個體變異極大（1% 至 12%），其與宿主日常能量消耗的定量關係在臨床上仍難以精準預測 。
+
+◆ 給臨床醫師後續思考的問題
+既然腸道通過時間、pH 值與基質可得性對短鏈脂肪酸發酵及色胺酸代謝路徑具有如此關鍵的調控作用，我們在未來的糖尿病與減重精準照護中，是否應考慮將患者的排便頻率、糞便水分性狀或腸道通過時間，納入飲食調控或菌相介入療效評估的核心客觀指標？
+
+來源：
+ADA 2026 Scientific Sessions
+Session: Hope or Hype Microbiome as New Frontier for Type 2 Diabetes and Obesity
+Speaker: Henrik Munch Roager - University of Copenhagen
+Title: Microbiome on the Menu: Yes, It Has a Role to Play in Cardiometabolic Health
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/b6d254ce-081e-4dd9-bb3a-e19da46551a4</description><content:encoded>ADA 2026 專業整理：Microbiome on the Menu: Yes, It Has a Role to Play in Cardiometabolic Health &lt;br /&gt;
+&lt;br /&gt;
+在 ADA 2026 科技年會中，哥本哈根大學的 Henrik Munch Roager 教授深入探討了腸道微生物體（gut microbiome）與心血管代謝健康之間的複雜關係 。他指出，這個由多種微生物構成的「腸道交響樂團」並非只是人體的寄居者，而是主導宿主代謝、能量擷取與訊號傳遞的核心成員 [3-5]。&lt;br /&gt;
+&lt;br /&gt;
+◆ 臨床問題與背景&lt;br /&gt;
+在糖尿病與肥胖的臨床管理中，我們長期思索腸道微生物體如何具體參與代謝性疾病的病理生理學 。儘管基礎研究展現高度潛力，但在人體實務中，腸道菌如何調控個體的能量平衡？為何相同的飲食介入（例如高纖飲食）在不同患者身上的代謝反應差異如此巨大 ？我們又該如何跨越「高宣傳熱度（Hype）」的迷思，走向具有臨床可預測性的精準個人化介入 ？&lt;br /&gt;
+&lt;br /&gt;
+◆ 關鍵訊息&lt;br /&gt;
+&lt;br /&gt;
+一、 微生物體與能量擷取（Energy Harvest）的雙向角色&lt;br /&gt;
+1. 經典移植與表型證實：Turnbaugh 2006 研究顯示，將肥胖（ob/ob）與纖瘦（+/+）小鼠的腸道微生物移植至無菌小鼠，在相同餵食條件下，移植肥胖菌相的小鼠體脂仍顯著上升，且其糞便中剩餘能量較少，證實肥胖菌相具有更強的能量擷取能力 [9-12]。Roager 教授在丹麥兒童研究（Zhang 2016）中也驗證了此現象，受試小鼠的體重增加比例與糞便殘留能量呈負相關 。&lt;br /&gt;
+2. 人類能量貢獻量級：微生物發酵產物對宿主能量消耗的貢獻，在小鼠中約為 21% ，在人類中則約占每日能量的 1% 至 12% 。此能量貢獻在臨床上具有雙向性：在營養不良兒童情境中，需補充足夠膳食纖維以促進有益發酵 ；而在高纖飲食下，部分能量會被轉入增加的微生物生物量（糞便乾重中約有 50% 其實是細菌）並隨糞便排出 。&lt;br /&gt;
+3. 減重維持的最新臨床實證（Mount 2026, Nature Medicine）：針對超重/肥胖成人的 RCT 研究，受試者接受 8 週低熱量飲食（800-900 kcal/day）成功減重後，在維持期給予巴氏滅菌的 A. muciniphila (MucT, 每日膠囊含 3 x 10^10 heat-treated cells) [17-19]。結果顯示 A. muciniphila 組能顯著改善體重維持（多個時間點 P&lt;0.05） [17-19]。在該菌株組內，體重回升與糞便能量排出量呈顯著負相關（P=0.0115），進一步證實微生物可藉由調整能量留存與排出的比例來影響宿主體重變化 [17-20]。&lt;br /&gt;
+&lt;br /&gt;
+二、 微生物發酵代謝物扮演多系統訊號源&lt;br /&gt;
+1. 短鏈脂肪酸（SCFAs）與腸道荷爾蒙：膳食纖維經 Firmicutes 與 Bacteroidetes 發酵產生 SCFAs（乙酸、丙酸、丁酸） [21-23]。這些小分子能結合腸道內分泌細胞上的 GPCRs，刺激 GLP-1 與 PYY 的釋放，調控飽足感與全身代謝 。&lt;br /&gt;
+2. 人體因果效應：van der Beek 2016 研究證實，在遠端結腸（distal colon）灌注乙酸（100 mM 與 180 mM）可使人體 PYY 顯著上升（P=0.01），而近端灌注則無顯著效果 [24-26]。&lt;br /&gt;
+3. 多系統作用網絡：除了 SCFAs，其他代謝物如次級膽汁酸、BCAAs、LPS、Indole 衍生物、Imidazole propionate 及 TMA/TMAO 等，也會經由屏障、免疫、神經與內分泌路徑，與脂肪儲存、胰島素阻抗及動脈粥樣硬化產生複雜關聯 [24, 27-29]。&lt;br /&gt;
+&lt;br /&gt;
+三、 腸道生理環境決定代謝產物與菌相的變異&lt;br /&gt;
+Roager 教授強調，我們不能忽視個體間的腸道生理差異，尤其是「腸道通過時間」與「pH 值」決定了微生物與飲食互動的邊界條件 。&lt;br /&gt;
+1. 腸道分段通過時間與 pH 的巨大變異：利用 SmartPill 檢測 50 位丹麥健康成人（Procházková 2024），發現小腸通過時間為 2 至 10 小時，結腸通過時間變異更大，從 2 小時至超過 60 小時 [31-33]。此外，小腸中段 pH 介於 6.5 至 8.5 ，遠端結腸 pH 變異可達 5.5 至 8.5（氫離子濃度相差近百倍） 。&lt;br /&gt;
+2. 代謝模式轉換：通過時間過長或發酵基質耗盡，會使微生物代謝從「糖解/糖類發酵（產 SCFAs、降 pH）」轉向「蛋白質分解/蛋白發酵（產生 phenol、indole、H2S 等有害產物，並升 pH）」 。&lt;br /&gt;
+3. 色胺酸代謝方向的轉變（Sinha 2024; Brinck 2026）：在結腸 pH &lt; 6.5 且碳水化合物充沛（如高膳食纖維）時，色胺酸代謝會被導向生成有益的色胺酸代謝物（如 ILA、IPA） [37-39]。然而，當結腸 pH &gt; 6.5 且碳水化合物缺乏時，會激活 indole 途徑產生 indole，在肝臟被轉化為與心血管及慢性腎臟病風險密切相關的 indoxyl sulfate [37-40]。&lt;br /&gt;
+4. 解釋變異的關鍵：分析顯示，糞便含水量（5.5% 效應量）、禁食甲烷（5.0%）、糞便 pH 值（4.6%）及全腸道通過時間（4.4%）是解釋個體間微生物體變異的最主要因素 [40-42]。&lt;br /&gt;
+&lt;br /&gt;
+◆ 對內分泌臨床實務的啟發&lt;br /&gt;
+1. 臨床介入的個人化考量：在規劃糖尿病或肥胖患者飲食介入時，應體認到「同一種纖維或菌株，在不同腸道通過時間與 pH 的患者身上會產生截然不同的代謝產物與臨床效應」 。&lt;br /&gt;
+2. 減重維持新靶點：如何透過特定的膳食組成（如精準纖維）或特定菌株（如 A. muciniphila）來增加糞便中的能量排出（將能量導入微生物生物量排出），可能是協助減重患者長期維持成果的新路徑 。&lt;br /&gt;
+3. 靶向遞送的技術瓶頸：短鏈脂肪酸（如丁酸 butyrate）口服後極易在小腸即被完全吸收 。若目標是讓小分子在結腸發揮調控作用，未來臨床實務中需要更先進的結腸定位遞送技術 。&lt;br /&gt;
+&lt;br /&gt;
+◆ 限制與保守解讀&lt;br /&gt;
+1. FMT 代謝效應的短暫性：雖然接受健康供體糞便移植（FMT）可在 6 週時顯著改善代謝症候群患者的周邊胰島素敏感性（Kootte 2017, p=0.030），但此效果在 18 週後即消失，且效果強烈受到受試者基準期腸道菌相組成（baseline microbiota）的限制 。&lt;br /&gt;
+2. 人體因果證據仍屬少數：除了 SCFAs 具有較強的人體因果與干預證據，其餘多數腸道微生物衍生代謝分子與心血管代謝健康的關聯，目前仍高度仰賴動物實驗，人體實證依然有限 。&lt;br /&gt;
+3. 人類發酵能量貢獻的個體變異極大（1% 至 12%），其與宿主日常能量消耗的定量關係在臨床上仍難以精準預測 。&lt;br /&gt;
+&lt;br /&gt;
+◆ 給臨床醫師後續思考的問題&lt;br /&gt;
+既然腸道通過時間、pH 值與基質可得性對短鏈脂肪酸發酵及色胺酸代謝路徑具有如此關鍵的調控作用，我們在未來的糖尿病與減重精準照護中，是否應考慮將患者的排便頻率、糞便水分性狀或腸道通過時間，納入飲食調控或菌相介入療效評估的核心客觀指標？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: Hope or Hype Microbiome as New Frontier for Type 2 Diabetes and Obesity&lt;br /&gt;
+Speaker: Henrik Munch Roager - University of Copenhagen&lt;br /&gt;
+Title: Microbiome on the Menu: Yes, It Has a Role to Play in Cardiometabolic Health&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/b6d254ce-081e-4dd9-bb3a-e19da46551a4</content:encoded><pubDate>Tue, 16 Jun 2026 04:51:17 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-16-20260616-0440-ada2026-symposium-microbiome-on-the-menu-yes-it-has-a-role-to-play-in-cardio.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-16-20260616-0440-ada2026-symposium-microbiome-on-the-menu-yes-it-has-a-role-to-play-in-cardio.m4a" length="4537532" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>6:13</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-16-20260616-0440-ada2026-symposium-microbiome-on-the-menu-yes-it-has-a-role-to-play-in-cardio.jpg" /><link>https://mednote.zeabur.app/lectures/b6d254ce-081e-4dd9-bb3a-e19da46551a4</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Efficacy and Safety of Dual GLP-1/GIP Receptor Agonist HDM1005 in Obese Participants without Diabetes: A Randomized, Double-Blind, Placebo-Controlled, Pha</title><description>ADA 2026 專業整理：新型雙重 GLP-1/GIP 受體促效劑 HDM1005 在無糖尿病的肥胖族群中展現出優異的減重療效與多重心臟代謝指標改善成果 .
+
+【臨床面臨的挑戰】
+肥胖症是當前內分泌與代謝學界的核心課題 . 現有的雙重腸泌素（incretin）促效劑雖已取得顯著突破，但臨床上仍持續尋求兼具更高療效、更佳耐受性且能每週一次給藥的新一代分子，以進一步優化長期體重管理與心臟代謝共病的控制 [4-6].
+
+【HDM1005 分子特性與試驗設計】
+HDM1005 是一款由 40 個胺基酸組成的新型雙重促效劑 . 在體外活性評估中，其 GLP-1R 促效效價達到 tirzepatide 的 3 倍，而其 GIPR 促效效價則與 tirzepatide 相當 . 藥物動力學呈現線性特徵，半衰期支持每週一次皮下注射 .
+
+本項第 2 期臨床試驗（NCT06886126）為一項多中心、隨機、雙盲、安慰劑對照研究 . 試驗共招募 243 位無糖尿病的肥胖成人 . 受試者基線特徵平衡，平均年齡 33.7 歲、男性佔 47.7%、平均體重 90.00 kg、平均 BMI 32.04 kg/m2、平均 HbA1c 5.35% . 受試者以 1:1:1:1:1 比例隨機分配至 HDM1005 四個劑量組（0.5 mg、1.0 mg、2.0 mg、4.0 mg QW）或安慰劑組，進行 22 週治療 . 劑量採逐步遞增滴定方式，其中 4.0 mg 組歷經 16 週的滴定過程，最終在最高劑量維持治療 6 週 .
+
+【關鍵試驗訊息與療效終點】
+在 22 週治療結束時，HDM1005 呈現出顯著且呈劑量反應關係的減重療效與心臟代謝參數改善：
+
+1. 體重減輕幅度：0.5 mg、1.0 mg、2.0 mg 與 4.0 mg 組的體重自基線平均下降率分別為 7.38%、9.61%、13.21% 與 13.32%，而安慰劑組僅下降 2.45%（各治療組對比安慰劑組均達統計顯著差異，p &lt; 0.0001）.
+2. 減重達標比例：2.0 mg 與 4.0 mg 高劑量組中，分別有 70.8% 與 75.0% 的受試者達成 10% 以上的體重減輕（安慰劑組僅 6.1%）；在 4.0 mg 組中，更有高達 52.1% 的受試者達成 15% 以上的減重 .
+3. 體位與中心性肥胖改善：最大腰圍縮減達 10.28 cm（安慰劑組為 3.01 cm），最大 BMI 下降達 4.23 kg/m2 .
+4. 心臟代謝參數同步改善：
+• 血壓：2.0 mg 與 4.0 mg 組的收縮壓分別平均下降 12.43 mmHg 與 10.26 mmHg . 舒張壓在各劑量組亦優於安慰劑組 .
+• 血脂：2.0 mg 與 4.0 mg 組的三酸甘油脂中位數分別下降 25.00% 與 26.60% . LDL-C 中位數分別下降 12.98% 與 11.69% . non-HDL-C 中位數皆下降約 11.9% .
+• 血糖與尿酸：2.0 mg 與 4.0 mg 組的糖化血色素（HbA1c）平均下降 0.42% . 血清尿酸中位數在 2.0 mg 組亦顯著下降 7.33 μmol/L .
+
+【臨床安全性與耐受性表現】
+HDM1005 的整體安全性良好，不良事件主要侷限於腸泌素類藥物常見的腸胃道反應 . 整體治療相關不良事件（TRAE）發生率在合併治療組為 55.7%（安慰劑組為 34.7%），且主要為輕度至中度 [19-21]. 常見的 TRAE 包括腹瀉（19.1%）、食慾下降（17.5%）、噁心（8.2%）、腹脹（6.2%）、便秘（5.7%）與嘔吐（5.7%） . 試驗中未報告任何嚴重治療相關不良事件（Serious TRAE），且沒有受試者因不良事件而永久停用研究藥物 [19-21]. 整體完成率高達 99.2% .
+
+【內分泌臨床實務的啟發】
+HDM1005 藉由強化 GLP-1R 促效活性的優化分子設計，能在短短 22 週內引導出雙位數的體重減幅，並全方位同步調控收縮壓、三酸甘油脂、低密度膽固醇、糖化血色素與尿酸等多重代謝共病指標 . 這意味著每週一次皮下注射的精準劑量滴定，不僅在體重控制上成效亮眼，亦能發揮廣泛的心血管與代謝保護潛力，對臨床擬定肥胖合併高代謝風險患者的早期介入策略提供了強而有力的實證基礎 .
+
+【需要保守解讀的臨床限制】
+在評估本試驗數據時，應注意 22 週的治療期相對較短 . 由於劑量遞增滴定長達 16 週，4.0 mg 高劑量組實際在最高劑量暴露的時間僅有約 6 週 . 這充分解釋了為何 2.0 mg 組與 4.0 mg 組在第 22 週的減重成效極為接近，而 4.0 mg 劑量的最大療效潛力仍需要更長期的研究來驗證 . 目前正在進行為期 52 週的第 3 期臨床試驗，預計將提供更完整的長期療效與安全性數據 . 此外，後續也計劃進行 6.0 mg 更高劑量的探索，並直接與 tirzepatide 進行頭對頭比較，以確立其在雙重促效劑市場中的競爭定位 .
+
+【後續思考問題】
+在未來肥胖症的個體化治療中，針對這種具有高 GLP-1R 促效活性的雙重受體促效劑，您會如何評估其在肥胖合併重度脂肪肝或多重代謝共病患者中的臨床優先定位？
+
+【來源】
+Conference: ADA 2026 Scientific Sessions
+Session: Human Studies in Obesity Treatment Emerging Therapeutic Options and Strategies for Decision Making
+Title: Efficacy and Safety of Dual GLP-1/GIP Receptor Agonist HDM1005 in Obese Participants without Diabetes: A Randomized, Double-Blind, Placebo-Controlled, Phase 2 Trial
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/9c21e0d2-7243-4eba-8a84-fd119512d474</description><content:encoded>ADA 2026 專業整理：新型雙重 GLP-1/GIP 受體促效劑 HDM1005 在無糖尿病的肥胖族群中展現出優異的減重療效與多重心臟代謝指標改善成果 .&lt;br /&gt;
+&lt;br /&gt;
+【臨床面臨的挑戰】&lt;br /&gt;
+肥胖症是當前內分泌與代謝學界的核心課題 . 現有的雙重腸泌素（incretin）促效劑雖已取得顯著突破，但臨床上仍持續尋求兼具更高療效、更佳耐受性且能每週一次給藥的新一代分子，以進一步優化長期體重管理與心臟代謝共病的控制 [4-6].&lt;br /&gt;
+&lt;br /&gt;
+【HDM1005 分子特性與試驗設計】&lt;br /&gt;
+HDM1005 是一款由 40 個胺基酸組成的新型雙重促效劑 . 在體外活性評估中，其 GLP-1R 促效效價達到 tirzepatide 的 3 倍，而其 GIPR 促效效價則與 tirzepatide 相當 . 藥物動力學呈現線性特徵，半衰期支持每週一次皮下注射 .&lt;br /&gt;
+&lt;br /&gt;
+本項第 2 期臨床試驗（NCT06886126）為一項多中心、隨機、雙盲、安慰劑對照研究 . 試驗共招募 243 位無糖尿病的肥胖成人 . 受試者基線特徵平衡，平均年齡 33.7 歲、男性佔 47.7%、平均體重 90.00 kg、平均 BMI 32.04 kg/m2、平均 HbA1c 5.35% . 受試者以 1:1:1:1:1 比例隨機分配至 HDM1005 四個劑量組（0.5 mg、1.0 mg、2.0 mg、4.0 mg QW）或安慰劑組，進行 22 週治療 . 劑量採逐步遞增滴定方式，其中 4.0 mg 組歷經 16 週的滴定過程，最終在最高劑量維持治療 6 週 .&lt;br /&gt;
+&lt;br /&gt;
+【關鍵試驗訊息與療效終點】&lt;br /&gt;
+在 22 週治療結束時，HDM1005 呈現出顯著且呈劑量反應關係的減重療效與心臟代謝參數改善：&lt;br /&gt;
+&lt;br /&gt;
+1. 體重減輕幅度：0.5 mg、1.0 mg、2.0 mg 與 4.0 mg 組的體重自基線平均下降率分別為 7.38%、9.61%、13.21% 與 13.32%，而安慰劑組僅下降 2.45%（各治療組對比安慰劑組均達統計顯著差異，p &lt; 0.0001）.&lt;br /&gt;
+2. 減重達標比例：2.0 mg 與 4.0 mg 高劑量組中，分別有 70.8% 與 75.0% 的受試者達成 10% 以上的體重減輕（安慰劑組僅 6.1%）；在 4.0 mg 組中，更有高達 52.1% 的受試者達成 15% 以上的減重 .&lt;br /&gt;
+3. 體位與中心性肥胖改善：最大腰圍縮減達 10.28 cm（安慰劑組為 3.01 cm），最大 BMI 下降達 4.23 kg/m2 .&lt;br /&gt;
+4. 心臟代謝參數同步改善：&lt;br /&gt;
+• 血壓：2.0 mg 與 4.0 mg 組的收縮壓分別平均下降 12.43 mmHg 與 10.26 mmHg . 舒張壓在各劑量組亦優於安慰劑組 .&lt;br /&gt;
+• 血脂：2.0 mg 與 4.0 mg 組的三酸甘油脂中位數分別下降 25.00% 與 26.60% . LDL-C 中位數分別下降 12.98% 與 11.69% . non-HDL-C 中位數皆下降約 11.9% .&lt;br /&gt;
+• 血糖與尿酸：2.0 mg 與 4.0 mg 組的糖化血色素（HbA1c）平均下降 0.42% . 血清尿酸中位數在 2.0 mg 組亦顯著下降 7.33 μmol/L .&lt;br /&gt;
+&lt;br /&gt;
+【臨床安全性與耐受性表現】&lt;br /&gt;
+HDM1005 的整體安全性良好，不良事件主要侷限於腸泌素類藥物常見的腸胃道反應 . 整體治療相關不良事件（TRAE）發生率在合併治療組為 55.7%（安慰劑組為 34.7%），且主要為輕度至中度 [19-21]. 常見的 TRAE 包括腹瀉（19.1%）、食慾下降（17.5%）、噁心（8.2%）、腹脹（6.2%）、便秘（5.7%）與嘔吐（5.7%） . 試驗中未報告任何嚴重治療相關不良事件（Serious TRAE），且沒有受試者因不良事件而永久停用研究藥物 [19-21]. 整體完成率高達 99.2% .&lt;br /&gt;
+&lt;br /&gt;
+【內分泌臨床實務的啟發】&lt;br /&gt;
+HDM1005 藉由強化 GLP-1R 促效活性的優化分子設計，能在短短 22 週內引導出雙位數的體重減幅，並全方位同步調控收縮壓、三酸甘油脂、低密度膽固醇、糖化血色素與尿酸等多重代謝共病指標 . 這意味著每週一次皮下注射的精準劑量滴定，不僅在體重控制上成效亮眼，亦能發揮廣泛的心血管與代謝保護潛力，對臨床擬定肥胖合併高代謝風險患者的早期介入策略提供了強而有力的實證基礎 .&lt;br /&gt;
+&lt;br /&gt;
+【需要保守解讀的臨床限制】&lt;br /&gt;
+在評估本試驗數據時，應注意 22 週的治療期相對較短 . 由於劑量遞增滴定長達 16 週，4.0 mg 高劑量組實際在最高劑量暴露的時間僅有約 6 週 . 這充分解釋了為何 2.0 mg 組與 4.0 mg 組在第 22 週的減重成效極為接近，而 4.0 mg 劑量的最大療效潛力仍需要更長期的研究來驗證 . 目前正在進行為期 52 週的第 3 期臨床試驗，預計將提供更完整的長期療效與安全性數據 . 此外，後續也計劃進行 6.0 mg 更高劑量的探索，並直接與 tirzepatide 進行頭對頭比較，以確立其在雙重促效劑市場中的競爭定位 .&lt;br /&gt;
+&lt;br /&gt;
+【後續思考問題】&lt;br /&gt;
+在未來肥胖症的個體化治療中，針對這種具有高 GLP-1R 促效活性的雙重受體促效劑，您會如何評估其在肥胖合併重度脂肪肝或多重代謝共病患者中的臨床優先定位？&lt;br /&gt;
+&lt;br /&gt;
+【來源】&lt;br /&gt;
+Conference: ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: Human Studies in Obesity Treatment Emerging Therapeutic Options and Strategies for Decision Making&lt;br /&gt;
+Title: Efficacy and Safety of Dual GLP-1/GIP Receptor Agonist HDM1005 in Obese Participants without Diabetes: A Randomized, Double-Blind, Placebo-Controlled, Phase 2 Trial&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/9c21e0d2-7243-4eba-8a84-fd119512d474</content:encoded><pubDate>Tue, 16 Jun 2026 04:00:45 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-16-20260616-0350-ada2026-symposium-efficacy-and-safety-of-dual-glp-1-gip-receptor-agonist-hdm.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-16-20260616-0350-ada2026-symposium-efficacy-and-safety-of-dual-glp-1-gip-receptor-agonist-hdm.m4a" length="4077269" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>5:35</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-16-20260616-0350-ada2026-symposium-efficacy-and-safety-of-dual-glp-1-gip-receptor-agonist-hdm.jpg" /><link>https://mednote.zeabur.app/lectures/9c21e0d2-7243-4eba-8a84-fd119512d474</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Preventing Heart Failure in Diabetes</title><description>ADA 2026 專業整理：糖尿病患者的心衰竭早期篩檢與預防策略
 
 📌 臨床核心問題
 全球糖尿病盛行率預估在2045年將達到7億人 [1-3]。糖尿病是心衰竭的強烈危險因子 ，且瑞典國家糖尿病登記處的數據顯示，糖尿病患者的心衰竭發生率與對照組相比，近年風險下降的趨勢已陷入停滯 。這表明，僅在臨床症狀出現後才進行處置已無法進一步降低風險，我們必須採取更主動的早期篩檢與預防策略 。
@@ -117,7 +337,7 @@ ADA 2026 Scientific Sessions, Session: Goals in Common: Recent Updates to the Gu
 
 本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
 
-來源連結：https://mednote.zeabur.app/lectures/53e5b9cb-c582-4613-89c7-20429c8c11f3</description><content:encoded>ADA 2026 專業整理：糖尿病患者的心衰竭早期篩檢與預防策略&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/c372021b-dbb5-4b15-ae57-0e16d83e5d9a</description><content:encoded>ADA 2026 專業整理：糖尿病患者的心衰竭早期篩檢與預防策略&lt;br /&gt;
 &lt;br /&gt;
 📌 臨床核心問題&lt;br /&gt;
 全球糖尿病盛行率預估在2045年將達到7億人 [1-3]。糖尿病是心衰竭的強烈危險因子 ，且瑞典國家糖尿病登記處的數據顯示，糖尿病患者的心衰竭發生率與對照組相比，近年風險下降的趨勢已陷入停滯 。這表明，僅在臨床症狀出現後才進行處置已無法進一步降低風險，我們必須採取更主動的早期篩檢與預防策略 。&lt;br /&gt;
@@ -155,7 +375,179 @@ ADA 2026 Scientific Sessions, Session: Goals in Common: Recent Updates to the Gu
 &lt;br /&gt;
 本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
 &lt;br /&gt;
-來源連結：https://mednote.zeabur.app/lectures/53e5b9cb-c582-4613-89c7-20429c8c11f3</content:encoded><pubDate>Tue, 16 Jun 2026 03:29:08 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-16-20260616-0320-ada2026-plenary-preventing-heart-failure-in-diabetes.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-16-20260616-0320-ada2026-plenary-preventing-heart-failure-in-diabetes.m4a" length="4862581" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>6:40</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-16-20260616-0320-ada2026-plenary-preventing-heart-failure-in-diabetes.jpg" /><link>https://mednote.zeabur.app/lectures/53e5b9cb-c582-4613-89c7-20429c8c11f3</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Divergent Exocrine Pancreatic Trajectories in Children Progressing to Stage 1 vs. Stage 3 Type 1 Diabetes</title><description>ADA 2026 演講重點：臨床研究發現，快速進展至第 3 階段（Stage 3）第一型糖尿病（T1D）的兒童，其胰臟外分泌功能在自體免疫抗體出現前，就已在嬰兒期呈現異常下降的軌跡 [1-3]。
+來源連結：https://mednote.zeabur.app/lectures/c372021b-dbb5-4b15-ae57-0e16d83e5d9a</content:encoded><pubDate>Tue, 16 Jun 2026 03:29:08 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-16-20260616-0320-ada2026-plenary-preventing-heart-failure-in-diabetes.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-16-20260616-0320-ada2026-plenary-preventing-heart-failure-in-diabetes.m4a" length="4862581" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>6:40</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-16-20260616-0320-ada2026-plenary-preventing-heart-failure-in-diabetes.jpg" /><link>https://mednote.zeabur.app/lectures/c372021b-dbb5-4b15-ae57-0e16d83e5d9a</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Lipid Guidelines and Goals: Focus on Diabetes</title><description>ADA 2026 專業整理：糖尿病患者脂質管理新指引與目標值
+
+這場演講由指引寫作委員會副主席 Pamela Morris 醫師帶來 ，重點解析 2026 年 3 月最新發表的脂質管理指引（正式由血膽固醇指引更名為 dyslipidemia 指引） ，深入討論糖尿病患者的個人化降脂策略 。以下為臨床關鍵摘要，適合臨床醫療團隊快速掌握。
+
+一、臨床問題與挑戰
+• 殘餘風險被低估：傳統僅追蹤 LDL-C 的做法，容易低估糖尿病與高三酸甘油脂患者體內「致動脈粥樣硬化脂蛋白（ApoB）」的實際總量與殘餘心血管風險 [4-6]。
+• 介入時機過晚：動脈粥樣硬化斑塊負載量與一生累積的 LDL 暴露量成正比 。若等到動脈硬化已形成才介入，即使大幅降低 LDL-C 也僅能稍微彎曲風險曲線，無法最大化延緩事件 。
+• 風險評估工具過時：舊有的 Pooled Cohort Equations (PCE) 容易高估風險，且無法預測心衰竭，也未納入腎功能、HbA1c 與社會決定因素 [11-13]。
+
+二、關鍵訊息與核心數字
+• PREVENT-ASCVD 成為新標準：取代舊 PCE，透過超過 600 萬人的數據開發，可預測 10 年與 30 年的總心血管疾病（含心衰竭與 ASCVD）風險 。其評估的風險值通常比舊 PCE 低 40% 至 50% 。因此新指引將風險分類門檻下修為：低風險（小於 3%）、邊緣風險（3% 至小於 5%）、中風險（5% 至小於 10%）、高風險（大於等於 10%） 。
+• 脂質與 ApoB 目標值回歸：指引重申數值達標的重要性，並針對糖尿病及高三酸甘油脂患者引進 ApoB 目標值 ：
+  1. 邊緣與中風險（LDL-C 目標小於 100 mg/dL，Non-HDL-C 小於 130 mg/dL）：ApoB 目標小於 90 mg/dL 。
+  2. 高風險（糖尿病合併其他風險因子或 10 年風險大於等於 10%）（LDL-C 目標小於 70 mg/dL，Non-HDL-C 小於 100 mg/dL）：ApoB 目標小於 70 mg/dL 。
+  3. 極高風險（糖尿病合併 ASCVD，或 CAC 大於等於 1000 AU）（LDL-C 目標小於 55 mg/dL，Non-HDL-C 小於 85 mg/dL）：ApoB 目標小於 55 mg/dL 。
+• 20-39 歲年輕糖尿病患者的篩選路徑 ：
+  1. 若有糖尿病特異性風險增強因子（如：第二型糖尿病病程大於等於 10 年、第一型糖尿病病程大於等於 20 年、蛋白尿 UACR 大於等於 30、eGFR 小於 60、視網膜病變、神經病變、ABI 小於 0.9），建議直接啟動中等強度 statin 治療（Class 2b） 。
+  2. 若無上述因子，但年滿 30 歲且 PREVENT 評估 10 年風險大於等於 3% 或 30 年風險大於等於 10%，亦應考慮啟動中等強度 statin 治療（Class 2a） 。
+• 40-75 歲糖尿病患者：所有患者皆為 statin 候選人（Class 1） [23-25]。若無其他 ASCVD 風險因子，給予中等強度 statin，目標 LDL-C 小於 100 mg/dL ；若合併至少 1 個 ASCVD 風險因子，則應直接給予高強度 statin，目標為 LDL-C 小於 70 mg/dL 。
+• 鈣化分數（CAC）在糖尿病的角色：CAC 不建議用於決定糖尿病患者「要不要」啟動 statin 。但可用於目標值設定，當 CAC 大於 100 且在第 75 百分位以上，目標應下修至 LDL-C 小於 70 ；若大於等於 1000 則下修至小於 55 。
+• VESALIUS-CV 試驗啟示：針對 12,257 名無心肌梗塞或中風病史的高風險初級預防患者（包含高風險糖尿病患者：病程大於等於 10 年、每日使用胰島素或合併微血管病變），使用 evolocumab 治療 。其中糖尿病亞組（3,655人）分析顯示，evolocumab 顯著降低 5 年 3-P MACE 與 4-P MACE 達 31%（HR 皆為 0.69，p 分別為 0.009 與 0.001），模糊了初級與次級預防的界線 [31-33]。
+
+三、對內分泌臨床實務的啟發
+• 轉向整體致動脈脂蛋白管理：臨床應更重視 ApoB 的檢測，尤其在 LDL-C 已達標但三酸甘油脂仍偏高的糖尿病患者中，用以發掘殘餘風險並採取進一步治療 。
+• 早期介入、拉長保護：對於年輕（20-39歲）糖尿病患者應更主動進行風險評估與 statin 介入，以降低其一生的致動脈粥樣硬化脂蛋白累積暴露 。
+• 簡化臨床檢查流程：新指引列為無效益的 Class 3 建議包括不建議常規進行先進脂蛋白檢驗、膳食補充劑或 Q10，且不建議常規監測 CK 與肝轉氨酶，建議將臨床心力放在早期治療啟動與遵醫囑性 [34-36]。
+
+四、需要保守解讀的限制與臨床考量
+• PREVENT 計算公式偏低：由於 PREVENT 的風險估算較舊版公式低 40-50%，在臨床決策邊緣時，必須結合臨床判斷與風險增強因子評估，避免造成中低風險族群的過度不治療 。此外，此公式主要基於美國數據開發，其在亞洲糖尿病族群的適用性仍需謹慎評估 。
+• 降三酸甘油脂藥物的爭議：雖然指引提到對於 statin 已達標但 TG 仍介於 150-500 mg/dL 的患者可考慮加入 icosapent ethyl（Class 2b） ，但講者指出，由於 REDUCE-IT 與 STRENGTH 試驗結果不一致，且實務上藥物昂貴與給付困難，此療法在臨床應用上仍需保守看待，首要核心仍是 statin 治療、LDL-C 與 ApoB 的控制 。
+• 非 statin 藥物的證據分級：對於 inclisiran，目前指引在次級預防中僅建議用於「無法耐受、無法取得或無法遵循 PCSK9 單株抗體」的患者，主因是其相較於 PCSK9 單株抗體仍缺乏長期的心血管結局（cardiovascular outcomes）試驗數據 。
+
+五、給醫師後續思考的問題
+在臨床實務上面對 20-39 歲的年輕糖尿病患者，我們該如何平衡 lifetime risk 帶來的早期 statin 介入效益，與患者可能面臨數十年服藥的遵醫囑性及潛在長期副作用擔憂？
+
+來源：ADA 2026 Scientific Sessions, Session: Goals in Common: Recent Updates to the Guidelines-Blood Pressure, Lipids, and Heart Failure, Speaker: Pamela Morris, Title: Lipid Guidelines and Goals: Focus on Diabetes
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/ccf51b91-24b3-4e9c-bc88-b42b6ba855b7</description><content:encoded>ADA 2026 專業整理：糖尿病患者脂質管理新指引與目標值&lt;br /&gt;
+&lt;br /&gt;
+這場演講由指引寫作委員會副主席 Pamela Morris 醫師帶來 ，重點解析 2026 年 3 月最新發表的脂質管理指引（正式由血膽固醇指引更名為 dyslipidemia 指引） ，深入討論糖尿病患者的個人化降脂策略 。以下為臨床關鍵摘要，適合臨床醫療團隊快速掌握。&lt;br /&gt;
+&lt;br /&gt;
+一、臨床問題與挑戰&lt;br /&gt;
+• 殘餘風險被低估：傳統僅追蹤 LDL-C 的做法，容易低估糖尿病與高三酸甘油脂患者體內「致動脈粥樣硬化脂蛋白（ApoB）」的實際總量與殘餘心血管風險 [4-6]。&lt;br /&gt;
+• 介入時機過晚：動脈粥樣硬化斑塊負載量與一生累積的 LDL 暴露量成正比 。若等到動脈硬化已形成才介入，即使大幅降低 LDL-C 也僅能稍微彎曲風險曲線，無法最大化延緩事件 。&lt;br /&gt;
+• 風險評估工具過時：舊有的 Pooled Cohort Equations (PCE) 容易高估風險，且無法預測心衰竭，也未納入腎功能、HbA1c 與社會決定因素 [11-13]。&lt;br /&gt;
+&lt;br /&gt;
+二、關鍵訊息與核心數字&lt;br /&gt;
+• PREVENT-ASCVD 成為新標準：取代舊 PCE，透過超過 600 萬人的數據開發，可預測 10 年與 30 年的總心血管疾病（含心衰竭與 ASCVD）風險 。其評估的風險值通常比舊 PCE 低 40% 至 50% 。因此新指引將風險分類門檻下修為：低風險（小於 3%）、邊緣風險（3% 至小於 5%）、中風險（5% 至小於 10%）、高風險（大於等於 10%） 。&lt;br /&gt;
+• 脂質與 ApoB 目標值回歸：指引重申數值達標的重要性，並針對糖尿病及高三酸甘油脂患者引進 ApoB 目標值 ：&lt;br /&gt;
+  1. 邊緣與中風險（LDL-C 目標小於 100 mg/dL，Non-HDL-C 小於 130 mg/dL）：ApoB 目標小於 90 mg/dL 。&lt;br /&gt;
+  2. 高風險（糖尿病合併其他風險因子或 10 年風險大於等於 10%）（LDL-C 目標小於 70 mg/dL，Non-HDL-C 小於 100 mg/dL）：ApoB 目標小於 70 mg/dL 。&lt;br /&gt;
+  3. 極高風險（糖尿病合併 ASCVD，或 CAC 大於等於 1000 AU）（LDL-C 目標小於 55 mg/dL，Non-HDL-C 小於 85 mg/dL）：ApoB 目標小於 55 mg/dL 。&lt;br /&gt;
+• 20-39 歲年輕糖尿病患者的篩選路徑 ：&lt;br /&gt;
+  1. 若有糖尿病特異性風險增強因子（如：第二型糖尿病病程大於等於 10 年、第一型糖尿病病程大於等於 20 年、蛋白尿 UACR 大於等於 30、eGFR 小於 60、視網膜病變、神經病變、ABI 小於 0.9），建議直接啟動中等強度 statin 治療（Class 2b） 。&lt;br /&gt;
+  2. 若無上述因子，但年滿 30 歲且 PREVENT 評估 10 年風險大於等於 3% 或 30 年風險大於等於 10%，亦應考慮啟動中等強度 statin 治療（Class 2a） 。&lt;br /&gt;
+• 40-75 歲糖尿病患者：所有患者皆為 statin 候選人（Class 1） [23-25]。若無其他 ASCVD 風險因子，給予中等強度 statin，目標 LDL-C 小於 100 mg/dL ；若合併至少 1 個 ASCVD 風險因子，則應直接給予高強度 statin，目標為 LDL-C 小於 70 mg/dL 。&lt;br /&gt;
+• 鈣化分數（CAC）在糖尿病的角色：CAC 不建議用於決定糖尿病患者「要不要」啟動 statin 。但可用於目標值設定，當 CAC 大於 100 且在第 75 百分位以上，目標應下修至 LDL-C 小於 70 ；若大於等於 1000 則下修至小於 55 。&lt;br /&gt;
+• VESALIUS-CV 試驗啟示：針對 12,257 名無心肌梗塞或中風病史的高風險初級預防患者（包含高風險糖尿病患者：病程大於等於 10 年、每日使用胰島素或合併微血管病變），使用 evolocumab 治療 。其中糖尿病亞組（3,655人）分析顯示，evolocumab 顯著降低 5 年 3-P MACE 與 4-P MACE 達 31%（HR 皆為 0.69，p 分別為 0.009 與 0.001），模糊了初級與次級預防的界線 [31-33]。&lt;br /&gt;
+&lt;br /&gt;
+三、對內分泌臨床實務的啟發&lt;br /&gt;
+• 轉向整體致動脈脂蛋白管理：臨床應更重視 ApoB 的檢測，尤其在 LDL-C 已達標但三酸甘油脂仍偏高的糖尿病患者中，用以發掘殘餘風險並採取進一步治療 。&lt;br /&gt;
+• 早期介入、拉長保護：對於年輕（20-39歲）糖尿病患者應更主動進行風險評估與 statin 介入，以降低其一生的致動脈粥樣硬化脂蛋白累積暴露 。&lt;br /&gt;
+• 簡化臨床檢查流程：新指引列為無效益的 Class 3 建議包括不建議常規進行先進脂蛋白檢驗、膳食補充劑或 Q10，且不建議常規監測 CK 與肝轉氨酶，建議將臨床心力放在早期治療啟動與遵醫囑性 [34-36]。&lt;br /&gt;
+&lt;br /&gt;
+四、需要保守解讀的限制與臨床考量&lt;br /&gt;
+• PREVENT 計算公式偏低：由於 PREVENT 的風險估算較舊版公式低 40-50%，在臨床決策邊緣時，必須結合臨床判斷與風險增強因子評估，避免造成中低風險族群的過度不治療 。此外，此公式主要基於美國數據開發，其在亞洲糖尿病族群的適用性仍需謹慎評估 。&lt;br /&gt;
+• 降三酸甘油脂藥物的爭議：雖然指引提到對於 statin 已達標但 TG 仍介於 150-500 mg/dL 的患者可考慮加入 icosapent ethyl（Class 2b） ，但講者指出，由於 REDUCE-IT 與 STRENGTH 試驗結果不一致，且實務上藥物昂貴與給付困難，此療法在臨床應用上仍需保守看待，首要核心仍是 statin 治療、LDL-C 與 ApoB 的控制 。&lt;br /&gt;
+• 非 statin 藥物的證據分級：對於 inclisiran，目前指引在次級預防中僅建議用於「無法耐受、無法取得或無法遵循 PCSK9 單株抗體」的患者，主因是其相較於 PCSK9 單株抗體仍缺乏長期的心血管結局（cardiovascular outcomes）試驗數據 。&lt;br /&gt;
+&lt;br /&gt;
+五、給醫師後續思考的問題&lt;br /&gt;
+在臨床實務上面對 20-39 歲的年輕糖尿病患者，我們該如何平衡 lifetime risk 帶來的早期 statin 介入效益，與患者可能面臨數十年服藥的遵醫囑性及潛在長期副作用擔憂？&lt;br /&gt;
+&lt;br /&gt;
+來源：ADA 2026 Scientific Sessions, Session: Goals in Common: Recent Updates to the Guidelines-Blood Pressure, Lipids, and Heart Failure, Speaker: Pamela Morris, Title: Lipid Guidelines and Goals: Focus on Diabetes&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/ccf51b91-24b3-4e9c-bc88-b42b6ba855b7</content:encoded><pubDate>Tue, 16 Jun 2026 02:59:31 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-16-20260616-0246-ada2026-plenary-lipid-guidelines-and-goals-focus-on-diabetes.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-16-20260616-0246-ada2026-plenary-lipid-guidelines-and-goals-focus-on-diabetes.m4a" length="5554246" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>7:37</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-16-20260616-0246-ada2026-plenary-lipid-guidelines-and-goals-focus-on-diabetes.jpg" /><link>https://mednote.zeabur.app/lectures/ccf51b91-24b3-4e9c-bc88-b42b6ba855b7</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Extracellular Vesicle (EV) Proteomics Distinguishes Partial Clinical Remission (PCR) in New-Onset Type 1 Diabetes (T1D)</title><description>ADA 2026 專業整理：細胞外囊泡（EV）蛋白質體學預測新發病第 1 型糖尿病（T1D）患者蜜月期之臨床轉譯與進展 
+
+【臨床問題與背景】
+在第 1 型糖尿病（T1D）的病程中，胰島貝塔細胞（beta-cell）功能通常會呈現進行性的喪失 [3-5]。然而，約有 50% 的兒童與青少年患者在確診後，會經歷一段短暫的胰島細胞功能保留期，臨床上稱之為部分臨床緩解期（Partial Clinical Remission, PCR），即俗稱的「蜜月期」 [3-5]。
+蜜月期的標準定義通常為胰島素劑量調整後之糖化血色素（IDAA1c）小於或等於 9（該指標與刺激後 C-peptide 大於 300 pmol/L 具高度相關） [3-6]，在臨床實務上也常以每日胰島素總劑量（TDD）小於 0.3 units/kg/day 作為判斷標準 。這段期間是利用疾病修飾介入（disease-modifying interventions）來保存殘存貝塔細胞功能的重要關鍵治療窗口 [3-5]。若能在疾病初期即預測哪些患者較可能或較不可能進入蜜月期，將能更精準地引導臨床治療介入的時機 。
+
+【HONEY 縱向研究設計】
+為了解決上述臨床問題，AdventHealth 研究團隊（講者 Anika Bilal）發表了 HONEY 縱向研究 。該研究追蹤了 10 位年齡介於 12 至 18 歲、新確診 T1D 的青少年（確診時間在 3 個月內，且具備胰島相關自體抗體） ，並納入 10 位年齡與性別均衡的健康對照組進行基線對比 。
+研究團隊每 2 週評估一次患者的緩解狀態 ，並在 Visit 2 時（ Visit 1 後 3 個月，或依緩解狀態調整的時間點）區分出 4 位進入緩解期（remitters）與 6 位未緩解者（non-remitters） 。研究於各個時間點收集受試者的血液與尿液樣本進行分析 。
+
+【關鍵訊息：EV 蛋白質體學的核心發現】
+研究團隊利用超高速離心取得血漿中的細胞外囊泡（EVs） ，並透過奈米粒子追蹤分析（NTA，測得平均粒徑 179.2 nm）、電子顯微鏡（TEM）及 capillary Western 驗證其具備 CD9、CD81、TSG101 與 Flotillin-1 等典型 exosomal 標記 [16-18]。
+接著採用 SomaScan 11K 檢測技術進行高通量蛋白質體分析，在 EV 中識別出超過 6,000 個蛋白質，其中大於 50% 與 ExoCarta 數據庫重疊 [16-18]。重要發現包括：
+
+1. 反映疾病與緩解生物學：在 non-remitters 與健康對照組之間，有 206 個 EV 蛋白質呈現顯著差異表現 ；而在 non-remitters 與 remitters 之間（ Visit 2 ），亦有 184 個顯著差異表現的 EV 蛋白質 。這顯示 EV 蛋白質貨物（cargo）能靈敏反映疾病狀態及緩解期的生物學變化 。
+
+2. 胰臟外分泌指標的特異性：Trypsinogen（胰蛋白酶原）表現量僅能區分健康對照組與新發病 T1D，在 remitters 與 non-remitters 之間無差異 ；相反地，Lipase（脂肪酶）表現量在 Visit 2 時，在緩解組與非緩解組之間有顯著差異，暗示外分泌特徵可能也參與了蜜月期的維持或調節 。
+
+3. 免疫調控路徑的對立特徵：
+• 黏膜免疫活性增強（IgA）：IgA 表現量在 non-remitters 中顯著高於控制組，且在 non-remitters vs. remitters 中呈現增加趨勢，與黏膜免疫失調及更活躍的自體免疫活化相關 。
+• 保護性免疫狀態（FCGRA/CD16a）：主要表現在 NK 細胞、巨噬細胞與單核細胞上的 FCGRA 表現量，在 remitters 中顯著高於 non-remitters 。這可能反映了 remitters 具備較佳的自體抗體免疫複合物清除能力 。
+• KEGG 路徑富集分析：相較於健康控制組與 remitters，non-remitters 呈現顯著增強的細胞激素訊號傳遞（cytokine signaling）及發炎相關路徑，突顯非緩解組具備更強烈的發炎與免疫活化特徵 [17, 27-29]。
+
+4. 14 個基線 EV 蛋白質預測模型：
+利用基線（ Visit 1 ）前 500 個 EV 蛋白質建立隨機森林（random forest）機器學習模型，篩選出包含 PLXNB2、SOGA3、TUFT1、USP30、IGFL4、CCDC50、RPL32、SDHAF4、SLC7A2、SVIP、PRXL2B、SIAH2、BBC3、NOVA1 的 14-protein baseline panel，預測患者是否進入蜜月期的 ROC-AUC 高達 0.96 。
+
+【對內分泌臨床實務的啟發】
+1. 精準醫療與患者分層：若能在 T1D 診斷初期，透過檢測無創血漿 EV 蛋白質標記，精確預測患者是否會經歷 honeymoon phase ，臨床試驗與治療決策即可據此進行患者分層，挑選出最可能受益於貝塔細胞保存療法的患者 。
+2. 提升疾病修飾介入療法的成功率：此工具可做為篩選高風險 non-remitters 的依據，或引導疾病修飾療法在最適當的保存窗口期（即蜜月期前夕）精準介入 。
+
+【保守解讀之研究限制】
+雖然此預測訊號十分強烈，但臨床解讀上仍需保守看待，將其視為假說建立（hypothesis-generating）階段 ，原因包括：
+• 樣本數極小（僅納入 10 位 T1D 青少年） 。
+• 受試者年齡範圍較窄（ 12 至 18 歲）且為單一中心研究 。
+• SomaScan 為基於 aptamer（核酸適體）的親和力檢測，未來這些蛋白質體學發現仍需要通過其他正交方法（如質譜分析）進行獨立驗證 。
+
+給專科醫師後續思考的問題：
+若這項能實時、無創反映胰臟微環境的細胞外囊泡蛋白質體學（EV Proteomics）預測面板未來在更大規模的多中心試驗中得到證實，您認為這項預測蜜月期軌跡的技術，應如何與現有的自體抗體篩檢或 C-peptide 監測整合，以最有效地優化新診斷第 1 型糖尿病患者的精準免疫介入時機？ 
+
+來源：
+ADA 2026 Scientific Sessions
+Session: Beyond A1C: New Ways to Measure Disease Progression in Early Stage Type 1 Diabetes With ADA Presidents Select A
+Speaker: Anika Bilal - AdventHealth
+Title: Extracellular Vesicle (EV) Proteomics Distinguishes Partial Clinical Remission (PCR) in New-Onset Type 1 Diabetes (T1D)
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/cd0e0a46-f6e2-4de9-ad5c-d5dada6cf7c7</description><content:encoded>ADA 2026 專業整理：細胞外囊泡（EV）蛋白質體學預測新發病第 1 型糖尿病（T1D）患者蜜月期之臨床轉譯與進展 &lt;br /&gt;
+&lt;br /&gt;
+【臨床問題與背景】&lt;br /&gt;
+在第 1 型糖尿病（T1D）的病程中，胰島貝塔細胞（beta-cell）功能通常會呈現進行性的喪失 [3-5]。然而，約有 50% 的兒童與青少年患者在確診後，會經歷一段短暫的胰島細胞功能保留期，臨床上稱之為部分臨床緩解期（Partial Clinical Remission, PCR），即俗稱的「蜜月期」 [3-5]。&lt;br /&gt;
+蜜月期的標準定義通常為胰島素劑量調整後之糖化血色素（IDAA1c）小於或等於 9（該指標與刺激後 C-peptide 大於 300 pmol/L 具高度相關） [3-6]，在臨床實務上也常以每日胰島素總劑量（TDD）小於 0.3 units/kg/day 作為判斷標準 。這段期間是利用疾病修飾介入（disease-modifying interventions）來保存殘存貝塔細胞功能的重要關鍵治療窗口 [3-5]。若能在疾病初期即預測哪些患者較可能或較不可能進入蜜月期，將能更精準地引導臨床治療介入的時機 。&lt;br /&gt;
+&lt;br /&gt;
+【HONEY 縱向研究設計】&lt;br /&gt;
+為了解決上述臨床問題，AdventHealth 研究團隊（講者 Anika Bilal）發表了 HONEY 縱向研究 。該研究追蹤了 10 位年齡介於 12 至 18 歲、新確診 T1D 的青少年（確診時間在 3 個月內，且具備胰島相關自體抗體） ，並納入 10 位年齡與性別均衡的健康對照組進行基線對比 。&lt;br /&gt;
+研究團隊每 2 週評估一次患者的緩解狀態 ，並在 Visit 2 時（ Visit 1 後 3 個月，或依緩解狀態調整的時間點）區分出 4 位進入緩解期（remitters）與 6 位未緩解者（non-remitters） 。研究於各個時間點收集受試者的血液與尿液樣本進行分析 。&lt;br /&gt;
+&lt;br /&gt;
+【關鍵訊息：EV 蛋白質體學的核心發現】&lt;br /&gt;
+研究團隊利用超高速離心取得血漿中的細胞外囊泡（EVs） ，並透過奈米粒子追蹤分析（NTA，測得平均粒徑 179.2 nm）、電子顯微鏡（TEM）及 capillary Western 驗證其具備 CD9、CD81、TSG101 與 Flotillin-1 等典型 exosomal 標記 [16-18]。&lt;br /&gt;
+接著採用 SomaScan 11K 檢測技術進行高通量蛋白質體分析，在 EV 中識別出超過 6,000 個蛋白質，其中大於 50% 與 ExoCarta 數據庫重疊 [16-18]。重要發現包括：&lt;br /&gt;
+&lt;br /&gt;
+1. 反映疾病與緩解生物學：在 non-remitters 與健康對照組之間，有 206 個 EV 蛋白質呈現顯著差異表現 ；而在 non-remitters 與 remitters 之間（ Visit 2 ），亦有 184 個顯著差異表現的 EV 蛋白質 。這顯示 EV 蛋白質貨物（cargo）能靈敏反映疾病狀態及緩解期的生物學變化 。&lt;br /&gt;
+&lt;br /&gt;
+2. 胰臟外分泌指標的特異性：Trypsinogen（胰蛋白酶原）表現量僅能區分健康對照組與新發病 T1D，在 remitters 與 non-remitters 之間無差異 ；相反地，Lipase（脂肪酶）表現量在 Visit 2 時，在緩解組與非緩解組之間有顯著差異，暗示外分泌特徵可能也參與了蜜月期的維持或調節 。&lt;br /&gt;
+&lt;br /&gt;
+3. 免疫調控路徑的對立特徵：&lt;br /&gt;
+• 黏膜免疫活性增強（IgA）：IgA 表現量在 non-remitters 中顯著高於控制組，且在 non-remitters vs. remitters 中呈現增加趨勢，與黏膜免疫失調及更活躍的自體免疫活化相關 。&lt;br /&gt;
+• 保護性免疫狀態（FCGRA/CD16a）：主要表現在 NK 細胞、巨噬細胞與單核細胞上的 FCGRA 表現量，在 remitters 中顯著高於 non-remitters 。這可能反映了 remitters 具備較佳的自體抗體免疫複合物清除能力 。&lt;br /&gt;
+• KEGG 路徑富集分析：相較於健康控制組與 remitters，non-remitters 呈現顯著增強的細胞激素訊號傳遞（cytokine signaling）及發炎相關路徑，突顯非緩解組具備更強烈的發炎與免疫活化特徵 [17, 27-29]。&lt;br /&gt;
+&lt;br /&gt;
+4. 14 個基線 EV 蛋白質預測模型：&lt;br /&gt;
+利用基線（ Visit 1 ）前 500 個 EV 蛋白質建立隨機森林（random forest）機器學習模型，篩選出包含 PLXNB2、SOGA3、TUFT1、USP30、IGFL4、CCDC50、RPL32、SDHAF4、SLC7A2、SVIP、PRXL2B、SIAH2、BBC3、NOVA1 的 14-protein baseline panel，預測患者是否進入蜜月期的 ROC-AUC 高達 0.96 。&lt;br /&gt;
+&lt;br /&gt;
+【對內分泌臨床實務的啟發】&lt;br /&gt;
+1. 精準醫療與患者分層：若能在 T1D 診斷初期，透過檢測無創血漿 EV 蛋白質標記，精確預測患者是否會經歷 honeymoon phase ，臨床試驗與治療決策即可據此進行患者分層，挑選出最可能受益於貝塔細胞保存療法的患者 。&lt;br /&gt;
+2. 提升疾病修飾介入療法的成功率：此工具可做為篩選高風險 non-remitters 的依據，或引導疾病修飾療法在最適當的保存窗口期（即蜜月期前夕）精準介入 。&lt;br /&gt;
+&lt;br /&gt;
+【保守解讀之研究限制】&lt;br /&gt;
+雖然此預測訊號十分強烈，但臨床解讀上仍需保守看待，將其視為假說建立（hypothesis-generating）階段 ，原因包括：&lt;br /&gt;
+• 樣本數極小（僅納入 10 位 T1D 青少年） 。&lt;br /&gt;
+• 受試者年齡範圍較窄（ 12 至 18 歲）且為單一中心研究 。&lt;br /&gt;
+• SomaScan 為基於 aptamer（核酸適體）的親和力檢測，未來這些蛋白質體學發現仍需要通過其他正交方法（如質譜分析）進行獨立驗證 。&lt;br /&gt;
+&lt;br /&gt;
+給專科醫師後續思考的問題：&lt;br /&gt;
+若這項能實時、無創反映胰臟微環境的細胞外囊泡蛋白質體學（EV Proteomics）預測面板未來在更大規模的多中心試驗中得到證實，您認為這項預測蜜月期軌跡的技術，應如何與現有的自體抗體篩檢或 C-peptide 監測整合，以最有效地優化新診斷第 1 型糖尿病患者的精準免疫介入時機？ &lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: Beyond A1C: New Ways to Measure Disease Progression in Early Stage Type 1 Diabetes With ADA Presidents Select A&lt;br /&gt;
+Speaker: Anika Bilal - AdventHealth&lt;br /&gt;
+Title: Extracellular Vesicle (EV) Proteomics Distinguishes Partial Clinical Remission (PCR) in New-Onset Type 1 Diabetes (T1D)&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/cd0e0a46-f6e2-4de9-ad5c-d5dada6cf7c7</content:encoded><pubDate>Tue, 16 Jun 2026 00:21:55 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-16-20260616-0006-ada2026-plenary-extracellular-vesicle-ev-proteomics-distinguishes-partial.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-16-20260616-0006-ada2026-plenary-extracellular-vesicle-ev-proteomics-distinguishes-partial.m4a" length="14454020" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>19:49</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-16-20260616-0006-ada2026-plenary-extracellular-vesicle-ev-proteomics-distinguishes-partial.jpg" /><link>https://mednote.zeabur.app/lectures/cd0e0a46-f6e2-4de9-ad5c-d5dada6cf7c7</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Divergent Exocrine Pancreatic Trajectories in Children Progressing to Stage 1 vs. Stage 3 Type 1 Diabetes</title><description>ADA 2026 演講重點：臨床研究發現，快速進展至第 3 階段（Stage 3）第一型糖尿病（T1D）的兒童，其胰臟外分泌功能在自體免疫抗體出現前，就已在嬰兒期呈現異常下降的軌跡 [1-3]。
 
 這項發表於 ADA 2026 的研究，由佛羅里達大學的 Brittany Sorensen Bruggeman 醫師報告，深入探討外分泌胰臟功能（Exocrine Pancreas）在兒童 T1D 疾病進展中的自然史與病理角色 。
 
