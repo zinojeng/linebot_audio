@@ -1,5 +1,161 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Mon, 15 Jun 2026 08:23:06 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Divergent Exocrine Pancreatic Trajectories in Children Progressing to Stage 1 vs. Stage 3 Type 1 Diabetes</title><description>ADA 2026 演講重點：臨床研究發現，快速進展至第 3 階段（Stage 3）第一型糖尿病（T1D）的兒童，其胰臟外分泌功能在自體免疫抗體出現前，就已在嬰兒期呈現異常下降的軌跡 [1-3]。
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Tue, 16 Jun 2026 10:10:14 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：How Low to Go? And in Whom? New Blood Pressure Targets in Diabetes</title><description>ADA 2026 專業整理：糖尿病患者血壓控制目標「Early and Low」 
+
+臨床問題
+在糖尿病患者的高血壓管理中，任何高於生理正常值的血壓都會對心、腎、腦等目標器官累積病理傷害 [1-3]。臨床上面臨的兩大痛點是：何時應啟動降壓藥物治療？以及收縮壓究竟應該降到多低 ？過去傳統目標 140/90 mmHg 的保守做法，是否低估了累積血壓對患者器官的長期威脅 ？
+
+關鍵訊息與臨床指引建議
+根據 2025 年 AHA/ACC 血壓管理指引委員會主席 Daniel Jones 教授於 ADA 2026 的演講，核心臨床訊息為「早且低」（Early and Low） ：
+
+1. 降壓藥物啟動門檻與目標：糖尿病合併高血壓患者平均收縮壓（SBP）大於或等於 130 mmHg 時，即應啟動降壓藥物治療（Class 1-A），治療目標至少控制在小於 130 mmHg，並鼓勵積極降至小於 120 mmHg [5-7]。
+2. 舒張壓管理：當舒張壓（DBP）大於或等於 80 mmHg 時應啟動藥物治療，目標控制於小於 80 mmHg（Class 1-C-LD） [5-7]。
+3. 觀念重大改變：
+• 累積血壓負荷（Cumulative BP Load）：血壓對器官的傷害如同吸菸的「包-年」（pack-years）概念 。決定預後的關鍵不只是單次的診間血壓，而是高血壓持續了多久、累積暴露了多少幅度，及早干預能顯著減少器官終生累積傷害 。
+• 大腦功能保護：積極控制血壓與失智症（dementia）發生風險降低 15% 有關，將高血壓治療的臨床意義從心腎保護進一步延伸至長期大腦健康 。
+4. 藥物選擇與生活型態：第一線藥物包含 Thiazide 類利尿劑、長效鈣離子通道阻斷劑（CCB）、ACEI 及 ARB 。若合併慢性腎臟病（如 eGFR 小於 60 mL/min/1.73m² 或尿蛋白 albuminuria 大於等於 30 mg/g）應優先選擇 ACEI 或 ARB 以延緩腎病進展 。非特定共病患者，Beta-blockers 不建議作為高血壓 primary prevention 的第一線用藥 。此外，生活型態調整是所有治療的基石，指引首次建議最理想的酒精管理為「戒酒」（abstinence） 。
+
+臨床研究與數據支持
+演講彙整了近年 8 項比較較低與較高收縮壓目標的隨機對照試驗（RCT）（包含 SPRINT, ACCORD, RESPECT, ESPRIT, BPROAD, STEP, SPS3 與 CRHCP），其中多數包含大量糖尿病患者 ：
+• 統合分析顯示，將收縮壓控制於小於 130 mmHg（對比大於等於 130 mmHg），可降低主要心血管事件（CVD）風險達 22% 。
+• 積極控制在小於 120 mmHg（對比小於 140 mmHg），可進一步降低心血管事件風險達 18%，且並未增加總死亡率 。
+• 臨床證據指出，老年患者與血管硬化患者對更低收縮壓的耐受度普遍良好，其臨床獲益往往大於非嚴重的副作用風險 。
+
+對內分泌臨床實務的啟發
+這項演講啟發糖尿病照護團隊應將血壓控制視為「預防器官病變的主動干預」，而非「被動數據調整」 。只要患者平均 SBP 超過 130 mmHg，即不應再採取消極觀察，應配合生活型態管理積極啟動藥物治療 。以長遠觀點來看，越早為糖尿病患者建立良好的血壓環境，就越能減少微血管及大血管的慢性累積傷害 。
+
+需要保守解讀的限制
+1. 族群侷限性：最新支持極致降壓（如收縮壓控制於小於 120 mmHg）的多項重要大型臨床試驗（如 ESPRIT, BPROAD, STEP, CRHCP）主要是在中國特定單一族群中進行，且其研究中報告的 adverse events 報告率常低於美國試驗 。
+2. 研究對象年齡層：目前的隨機對照試驗多數以高風險或高齡患者為主 。從年輕時開始、在整個人生週期中維持低血壓目標的長期效益與不良事件，仍需更長期的 RCT 支持 。
+3. 尚未直接測試：收縮壓 120 mmHg 與 130 mmHg 作為啟動門檻與目標值的差別，至今尚無直接的 RCT 隨機對照試驗比較 。
+
+後續思考問題
+面對自主神經功能可能受損或合併多種慢性病的高齡糖尿病患者，我們該如何在臨床門診中安全地落實收縮壓小於 120 mmHg 的大腦、心臟與腎臟保護，同時有效評估與防範姿態性低血壓及器官灌流不足等非嚴重副作用？ 
+
+來源
+ADA 2026 Scientific Sessions
+Session: Goals in Common: Recent Updates to the Guidelines-Blood Pressure, Lipids, and Heart Failure
+Speaker: Daniel Jones
+Title: How Low to Go? And in Whom? New Blood Pressure Targets in Diabetes
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/4206a573-7db7-4309-be2c-8de1b019cfcb</description><content:encoded>ADA 2026 專業整理：糖尿病患者血壓控制目標「Early and Low」 &lt;br /&gt;
+&lt;br /&gt;
+臨床問題&lt;br /&gt;
+在糖尿病患者的高血壓管理中，任何高於生理正常值的血壓都會對心、腎、腦等目標器官累積病理傷害 [1-3]。臨床上面臨的兩大痛點是：何時應啟動降壓藥物治療？以及收縮壓究竟應該降到多低 ？過去傳統目標 140/90 mmHg 的保守做法，是否低估了累積血壓對患者器官的長期威脅 ？&lt;br /&gt;
+&lt;br /&gt;
+關鍵訊息與臨床指引建議&lt;br /&gt;
+根據 2025 年 AHA/ACC 血壓管理指引委員會主席 Daniel Jones 教授於 ADA 2026 的演講，核心臨床訊息為「早且低」（Early and Low） ：&lt;br /&gt;
+&lt;br /&gt;
+1. 降壓藥物啟動門檻與目標：糖尿病合併高血壓患者平均收縮壓（SBP）大於或等於 130 mmHg 時，即應啟動降壓藥物治療（Class 1-A），治療目標至少控制在小於 130 mmHg，並鼓勵積極降至小於 120 mmHg [5-7]。&lt;br /&gt;
+2. 舒張壓管理：當舒張壓（DBP）大於或等於 80 mmHg 時應啟動藥物治療，目標控制於小於 80 mmHg（Class 1-C-LD） [5-7]。&lt;br /&gt;
+3. 觀念重大改變：&lt;br /&gt;
+• 累積血壓負荷（Cumulative BP Load）：血壓對器官的傷害如同吸菸的「包-年」（pack-years）概念 。決定預後的關鍵不只是單次的診間血壓，而是高血壓持續了多久、累積暴露了多少幅度，及早干預能顯著減少器官終生累積傷害 。&lt;br /&gt;
+• 大腦功能保護：積極控制血壓與失智症（dementia）發生風險降低 15% 有關，將高血壓治療的臨床意義從心腎保護進一步延伸至長期大腦健康 。&lt;br /&gt;
+4. 藥物選擇與生活型態：第一線藥物包含 Thiazide 類利尿劑、長效鈣離子通道阻斷劑（CCB）、ACEI 及 ARB 。若合併慢性腎臟病（如 eGFR 小於 60 mL/min/1.73m² 或尿蛋白 albuminuria 大於等於 30 mg/g）應優先選擇 ACEI 或 ARB 以延緩腎病進展 。非特定共病患者，Beta-blockers 不建議作為高血壓 primary prevention 的第一線用藥 。此外，生活型態調整是所有治療的基石，指引首次建議最理想的酒精管理為「戒酒」（abstinence） 。&lt;br /&gt;
+&lt;br /&gt;
+臨床研究與數據支持&lt;br /&gt;
+演講彙整了近年 8 項比較較低與較高收縮壓目標的隨機對照試驗（RCT）（包含 SPRINT, ACCORD, RESPECT, ESPRIT, BPROAD, STEP, SPS3 與 CRHCP），其中多數包含大量糖尿病患者 ：&lt;br /&gt;
+• 統合分析顯示，將收縮壓控制於小於 130 mmHg（對比大於等於 130 mmHg），可降低主要心血管事件（CVD）風險達 22% 。&lt;br /&gt;
+• 積極控制在小於 120 mmHg（對比小於 140 mmHg），可進一步降低心血管事件風險達 18%，且並未增加總死亡率 。&lt;br /&gt;
+• 臨床證據指出，老年患者與血管硬化患者對更低收縮壓的耐受度普遍良好，其臨床獲益往往大於非嚴重的副作用風險 。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的啟發&lt;br /&gt;
+這項演講啟發糖尿病照護團隊應將血壓控制視為「預防器官病變的主動干預」，而非「被動數據調整」 。只要患者平均 SBP 超過 130 mmHg，即不應再採取消極觀察，應配合生活型態管理積極啟動藥物治療 。以長遠觀點來看，越早為糖尿病患者建立良好的血壓環境，就越能減少微血管及大血管的慢性累積傷害 。&lt;br /&gt;
+&lt;br /&gt;
+需要保守解讀的限制&lt;br /&gt;
+1. 族群侷限性：最新支持極致降壓（如收縮壓控制於小於 120 mmHg）的多項重要大型臨床試驗（如 ESPRIT, BPROAD, STEP, CRHCP）主要是在中國特定單一族群中進行，且其研究中報告的 adverse events 報告率常低於美國試驗 。&lt;br /&gt;
+2. 研究對象年齡層：目前的隨機對照試驗多數以高風險或高齡患者為主 。從年輕時開始、在整個人生週期中維持低血壓目標的長期效益與不良事件，仍需更長期的 RCT 支持 。&lt;br /&gt;
+3. 尚未直接測試：收縮壓 120 mmHg 與 130 mmHg 作為啟動門檻與目標值的差別，至今尚無直接的 RCT 隨機對照試驗比較 。&lt;br /&gt;
+&lt;br /&gt;
+後續思考問題&lt;br /&gt;
+面對自主神經功能可能受損或合併多種慢性病的高齡糖尿病患者，我們該如何在臨床門診中安全地落實收縮壓小於 120 mmHg 的大腦、心臟與腎臟保護，同時有效評估與防範姿態性低血壓及器官灌流不足等非嚴重副作用？ &lt;br /&gt;
+&lt;br /&gt;
+來源&lt;br /&gt;
+ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: Goals in Common: Recent Updates to the Guidelines-Blood Pressure, Lipids, and Heart Failure&lt;br /&gt;
+Speaker: Daniel Jones&lt;br /&gt;
+Title: How Low to Go? And in Whom? New Blood Pressure Targets in Diabetes&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/4206a573-7db7-4309-be2c-8de1b019cfcb</content:encoded><pubDate>Tue, 16 Jun 2026 09:24:31 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-16-20260616-0150-ada2026-plenary-how-low-to-go-and-in-whom-new-blood-pressure-targets-in-di.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-16-20260616-0150-ada2026-plenary-how-low-to-go-and-in-whom-new-blood-pressure-targets-in-di.m4a" length="11256326" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>15:25</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-16-20260616-0150-ada2026-plenary-how-low-to-go-and-in-whom-new-blood-pressure-targets-in-di.jpg" /><link>https://mednote.zeabur.app/lectures/4206a573-7db7-4309-be2c-8de1b019cfcb</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Preventing Heart Failure in Diabetes</title><description>ADA 2026 專業整理：糖尿病患者的心衰竭早期篩檢與預防策略
+
+📌 臨床核心問題
+全球糖尿病盛行率預估在2045年將達到7億人 [1-3]。糖尿病是心衰竭的強烈危險因子 ，且瑞典國家糖尿病登記處的數據顯示，糖尿病患者的心衰竭發生率與對照組相比，近年風險下降的趨勢已陷入停滯 。這表明，僅在臨床症狀出現後才進行處置已無法進一步降低風險，我們必須採取更主動的早期篩檢與預防策略 。
+
+📌 臨床前期的核心：早期識別 Stage B 階段
+糖尿病進展為心衰竭並非一蹴而就，而是會經歷 Stage B 的臨床前期階段 。此時患者已出現左心室肥大、左心房擴大、舒張功能障礙或心肌重構等次臨床結構與生理異常，但尚未表現出臨床心衰竭症狀 。及早識別並在 Stage B 階段介入，是改寫患者預後的關鍵時機 。
+
+📌 篩檢兩大路徑：風險量表與生物標記
+1. 臨床風險量表：WATCH-DM 機器學習量表可有效預測2型糖尿病患者的5年心衰竭風險，將高風險與低風險組的5年發生率顯著拉開（高風險組達17.4% vs 低風險組1.1%） [8-10]。
+2. 生物標記重分類：傳統僅靠超音波影像常會漏診 Stage B 患者 。研究顯示，僅有 NT-proBNP 升高（大於125 pg/mL）或 hs-cTn 異常的患者（佔原 Stage A 族群的21.1%），其後續心衰竭風險與超音波異常的 Stage B 患者相當 。
+
+📌 最佳篩檢策略：雙階段（Sequential）篩檢
+單一使用風險量表或單一使用 NT-proBNP 篩檢，會漏掉30%至50%的後續心衰竭事件 [13-15]。建議採取雙階段篩檢策略：先以 WATCH-DM 臨床量表初篩，針對中低風險者再加做 NT-proBNP 檢測 [13-15]。此策略能將高達85%的後續心衰竭事件成功鎖定在高風險管理群中 [13-15]。
+
+📌 關鍵臨床試驗與防護藥物效益
+1. 早期篩檢試驗：STOP-HF 試驗證實以 BNP 篩檢搭配共同照護能顯著降低主要心血管事件，主因是及早導入 RAAS 抑制劑 [16-19]。針對糖尿病病患的 PONTIAC 試驗也顯示，針對 NT-proBNP 升高者進行 RAAS 抑制劑與乙型阻斷劑的密集劑量滴定，能顯著降低心臟住院或死亡率 。
+2. 現代防護藥物：目前有多項藥物證實具心衰竭預防效益。SGLT2 抑制劑可降低新發心衰竭風險達37% ，且在 WATCH-DM 評估的高風險或高 NT-proBNP 族群中，其絕對風險降幅最大，NNT最低 。此外，Finerenone 可降低糖尿病合併 CKD 患者的心衰竭發生率達22% ；GLP-1 受體促效劑亦可使新發心衰竭風險下降33% 。多重藥物合併使用，預估可降低高達55%的新發心衰竭風險 。
+
+📌 醫療系統實作經驗：克服實行差距
+單純透過電子病歷發送風險警示（EHR alert）給基層醫師，實際 SGLT2 抑制劑處方率僅增加1.2% [29-31]。而 STRONG-DM 試驗採取系統性介入：臨床風險量表篩檢結合 NT-proBNP 檢測，並搭配基層醫師教育與虛擬心腎代謝諮詢（virtual CKM consult），成功使 SGLT2 抑制劑處方率近乎翻倍，Finerenone 處方率更增加約四倍 。
+
+📌 對內分泌臨床實務的啟發
+傳統照護聚焦於 A1C、LDL-C 與血壓，本場演講指明我們必須將心衰竭預防納入常規照護架構中 。臨床上不需要為每位患者安排心臟超音波，而應善用臨床評估量表與生物標記，在次臨床階段（Stage B）主動介入，提升高價值藥物（如 SGLT2 抑制劑及 Finerenone）的臨床使用效益 。
+
+📌 保守解讀的限制與挑戰
+1. 糖尿病心肌病變（diabetic cardiomyopathy）目前在國際上尚無一致共識的唯一定義 。
+2. 生物標記（如 NT-proBNP）檢測的普及性、可近性與成本效益在不同地區及醫療體系仍有極大差異，無法輕易推廣至所有糖尿病患 。
+3. STRONG-DM 等實作研究多為單一醫學中心之試點計畫（pilot study），其虛擬諮詢與照護路徑在不同醫院的複製性與成本效益仍有待驗證 。
+
+💬 思考問題：
+在您的內分泌或糖尿病照護團隊中，若要將雙階段風險篩檢與跨學科共同照護路徑整合進常規門診，您預期會面臨的最大實務障礙是什麼？
+
+資料來源：
+ADA 2026 Scientific Sessions, Session: Goals in Common: Recent Updates to the Guidelines-Blood Pressure, Lipids, and Heart Failure, Title: Preventing Heart Failure in Diabetes, Speaker: Ambarish Pandey .
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/53e5b9cb-c582-4613-89c7-20429c8c11f3</description><content:encoded>ADA 2026 專業整理：糖尿病患者的心衰竭早期篩檢與預防策略&lt;br /&gt;
+&lt;br /&gt;
+📌 臨床核心問題&lt;br /&gt;
+全球糖尿病盛行率預估在2045年將達到7億人 [1-3]。糖尿病是心衰竭的強烈危險因子 ，且瑞典國家糖尿病登記處的數據顯示，糖尿病患者的心衰竭發生率與對照組相比，近年風險下降的趨勢已陷入停滯 。這表明，僅在臨床症狀出現後才進行處置已無法進一步降低風險，我們必須採取更主動的早期篩檢與預防策略 。&lt;br /&gt;
+&lt;br /&gt;
+📌 臨床前期的核心：早期識別 Stage B 階段&lt;br /&gt;
+糖尿病進展為心衰竭並非一蹴而就，而是會經歷 Stage B 的臨床前期階段 。此時患者已出現左心室肥大、左心房擴大、舒張功能障礙或心肌重構等次臨床結構與生理異常，但尚未表現出臨床心衰竭症狀 。及早識別並在 Stage B 階段介入，是改寫患者預後的關鍵時機 。&lt;br /&gt;
+&lt;br /&gt;
+📌 篩檢兩大路徑：風險量表與生物標記&lt;br /&gt;
+1. 臨床風險量表：WATCH-DM 機器學習量表可有效預測2型糖尿病患者的5年心衰竭風險，將高風險與低風險組的5年發生率顯著拉開（高風險組達17.4% vs 低風險組1.1%） [8-10]。&lt;br /&gt;
+2. 生物標記重分類：傳統僅靠超音波影像常會漏診 Stage B 患者 。研究顯示，僅有 NT-proBNP 升高（大於125 pg/mL）或 hs-cTn 異常的患者（佔原 Stage A 族群的21.1%），其後續心衰竭風險與超音波異常的 Stage B 患者相當 。&lt;br /&gt;
+&lt;br /&gt;
+📌 最佳篩檢策略：雙階段（Sequential）篩檢&lt;br /&gt;
+單一使用風險量表或單一使用 NT-proBNP 篩檢，會漏掉30%至50%的後續心衰竭事件 [13-15]。建議採取雙階段篩檢策略：先以 WATCH-DM 臨床量表初篩，針對中低風險者再加做 NT-proBNP 檢測 [13-15]。此策略能將高達85%的後續心衰竭事件成功鎖定在高風險管理群中 [13-15]。&lt;br /&gt;
+&lt;br /&gt;
+📌 關鍵臨床試驗與防護藥物效益&lt;br /&gt;
+1. 早期篩檢試驗：STOP-HF 試驗證實以 BNP 篩檢搭配共同照護能顯著降低主要心血管事件，主因是及早導入 RAAS 抑制劑 [16-19]。針對糖尿病病患的 PONTIAC 試驗也顯示，針對 NT-proBNP 升高者進行 RAAS 抑制劑與乙型阻斷劑的密集劑量滴定，能顯著降低心臟住院或死亡率 。&lt;br /&gt;
+2. 現代防護藥物：目前有多項藥物證實具心衰竭預防效益。SGLT2 抑制劑可降低新發心衰竭風險達37% ，且在 WATCH-DM 評估的高風險或高 NT-proBNP 族群中，其絕對風險降幅最大，NNT最低 。此外，Finerenone 可降低糖尿病合併 CKD 患者的心衰竭發生率達22% ；GLP-1 受體促效劑亦可使新發心衰竭風險下降33% 。多重藥物合併使用，預估可降低高達55%的新發心衰竭風險 。&lt;br /&gt;
+&lt;br /&gt;
+📌 醫療系統實作經驗：克服實行差距&lt;br /&gt;
+單純透過電子病歷發送風險警示（EHR alert）給基層醫師，實際 SGLT2 抑制劑處方率僅增加1.2% [29-31]。而 STRONG-DM 試驗採取系統性介入：臨床風險量表篩檢結合 NT-proBNP 檢測，並搭配基層醫師教育與虛擬心腎代謝諮詢（virtual CKM consult），成功使 SGLT2 抑制劑處方率近乎翻倍，Finerenone 處方率更增加約四倍 。&lt;br /&gt;
+&lt;br /&gt;
+📌 對內分泌臨床實務的啟發&lt;br /&gt;
+傳統照護聚焦於 A1C、LDL-C 與血壓，本場演講指明我們必須將心衰竭預防納入常規照護架構中 。臨床上不需要為每位患者安排心臟超音波，而應善用臨床評估量表與生物標記，在次臨床階段（Stage B）主動介入，提升高價值藥物（如 SGLT2 抑制劑及 Finerenone）的臨床使用效益 。&lt;br /&gt;
+&lt;br /&gt;
+📌 保守解讀的限制與挑戰&lt;br /&gt;
+1. 糖尿病心肌病變（diabetic cardiomyopathy）目前在國際上尚無一致共識的唯一定義 。&lt;br /&gt;
+2. 生物標記（如 NT-proBNP）檢測的普及性、可近性與成本效益在不同地區及醫療體系仍有極大差異，無法輕易推廣至所有糖尿病患 。&lt;br /&gt;
+3. STRONG-DM 等實作研究多為單一醫學中心之試點計畫（pilot study），其虛擬諮詢與照護路徑在不同醫院的複製性與成本效益仍有待驗證 。&lt;br /&gt;
+&lt;br /&gt;
+💬 思考問題：&lt;br /&gt;
+在您的內分泌或糖尿病照護團隊中，若要將雙階段風險篩檢與跨學科共同照護路徑整合進常規門診，您預期會面臨的最大實務障礙是什麼？&lt;br /&gt;
+&lt;br /&gt;
+資料來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions, Session: Goals in Common: Recent Updates to the Guidelines-Blood Pressure, Lipids, and Heart Failure, Title: Preventing Heart Failure in Diabetes, Speaker: Ambarish Pandey .&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/53e5b9cb-c582-4613-89c7-20429c8c11f3</content:encoded><pubDate>Tue, 16 Jun 2026 03:29:08 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-16-20260616-0320-ada2026-plenary-preventing-heart-failure-in-diabetes.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-16-20260616-0320-ada2026-plenary-preventing-heart-failure-in-diabetes.m4a" length="4862581" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>6:40</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-16-20260616-0320-ada2026-plenary-preventing-heart-failure-in-diabetes.jpg" /><link>https://mednote.zeabur.app/lectures/53e5b9cb-c582-4613-89c7-20429c8c11f3</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Divergent Exocrine Pancreatic Trajectories in Children Progressing to Stage 1 vs. Stage 3 Type 1 Diabetes</title><description>ADA 2026 演講重點：臨床研究發現，快速進展至第 3 階段（Stage 3）第一型糖尿病（T1D）的兒童，其胰臟外分泌功能在自體免疫抗體出現前，就已在嬰兒期呈現異常下降的軌跡 [1-3]。
 
 這項發表於 ADA 2026 的研究，由佛羅里達大學的 Brittany Sorensen Bruggeman 醫師報告，深入探討外分泌胰臟功能（Exocrine Pancreas）在兒童 T1D 疾病進展中的自然史與病理角色 。
 
