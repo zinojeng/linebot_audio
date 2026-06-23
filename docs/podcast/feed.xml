@@ -1,5 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Mon, 22 Jun 2026 19:01:15 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Panel Discussion</title><description>ADA 2026 演講重點：Building a Multidisciplinary Model for Behavior Change in Cardiometabolic Health
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Tue, 23 Jun 2026 08:28:07 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Overview and Methodology of the Standards of Care in Overweight and Obesity</title><description>ADA 2026 演講重點：首部肥胖照護標準的制定方法學與臨床定位，打破「知道肥胖重要，但不知道如何做」的醫療實務僵局 。
+
+臨床問題與照護落差：
+世界衛生組織（WHO）與美國醫學會（AMA）已分別於 1999 年和 2013 年將肥胖定義為一種具有多重病理生理機制的複雜慢性疾病 。然而，臨床照護實務仍存在巨大落差 。醫師問卷調查指出，雖然超過 80% 的專科、內分泌與心臟科醫師認同肥胖是疾病，但高達 65% 擔心討論肥胖會冒犯病人，54% 至 68% 缺乏討論肥胖的專業訓練，超過 75% 缺乏轉介資源，且高達 76% 至 89% 的醫師認為成功協助病人維持健康體重的機率極低 [3-5]。NHANES 資料庫也顯示，雖然超過 90% 的肥胖成人有減重意願，但真正尋求專業協助者僅 10%，向醫師尋求治療者更低於 4% [5-7]。此外，美國健康系統資料指出，在 2017 與 2019 年，接受任何形式體重管理治療的肥胖病人僅占 5.3% 與 7.1%，且臨床上只有不到 10% 的基層醫療照護提供者會使用醫學指引來做肥胖治療決策 [5, 8-10]。
+
+關鍵訊息與 Standards of Care 的定位：
+傳統臨床實務指引（Clinical Practice Guidelines）製作耗時，通常每五年更新一次，且在快速演進的肥胖醫學領域中，往往在發表時證據便已過時 。為此，美國糖尿病學會（ADA）旗下的肥胖學會（Obesity Association）承擔重任，借鑒自 1989 年起每年更新糖尿病照護標準並成功提升臨床 Statin 使用率的歷史經驗，首度推出「肥胖與過重照護標準」（Standards of Care for Overweight and Obesity）[1, 11, 13-17]。此照護標準定位為兼顧證據與臨床可操作性，特色在於其章節每年至少更新一次，甚至可進行即時的動態更新（living updates）[11-13]。其制定由獨立的跨專業委員會進行，成員涵蓋肥胖醫學、內分泌、流行病學、心理學與藥理學等領域，並與多個專業肥胖學術組織合作 [18-20]。證據分級系統分為 A、B、C 及代表專家共識的 E 級，所有建議皆透明標示證據強度 。
+
+內分泌臨床實務的啟發：
+此照護標準確立了以「併發症為中心、風險降低、減輕疾病負擔」（complication-centric, risk reduction, disease burden reduction）的治療哲學 。這意味著臨床照護的目標不應僅僅侷限於追求單一或固定的體重下降數字，而是需要更全面地預防與管理肥胖相關疾病與併發症 [19, 23-25]。這種思維能協助內分泌醫師與糖尿病照護團隊，根據病人的併發症、風險分層、治療可近性與心理社會脈絡，制定更個人化的治療建議，並精準辨識出哪些病人能從特定的藥物或介入治療中獲得最大益處 。
+
+需要保守解讀的限制：
+這套肥胖照護標準是從零開始建立，目前仍是進行中的工作（work in progress）。目前已發布的章節僅包含：導言與方法學、體重偏見與污名、成人肥胖的篩檢診斷評估與分期，以及成人肥胖藥物治療 。而內分泌實務上同樣關鍵的「成人生活型態治療」與「成人代謝手術與減重手術」等章節，仍規劃於 2026 年稍晚才會發布 。此外，臨床醫師在應用部分標註為 C 級證據（來自控制較差或有偏差風險之觀察性研究）或 E 級證據（專家共識或臨床經驗）的臨床建議時，應抱持較為審慎和保守的態度，並理解其背後仍有待更多高品質的研究來補強科學證據 [19, 21-23]。
+
+隨著肥胖治療進入高療效藥物時代，我們在臨床上該如何平衡新一代藥物的體重降幅數字，與新指引所倡導的「以併發症與疾病負擔減少為中心」的個別化治療策略？
+
+來源：ADA 2026 Scientific Sessions, Session: Standards of Care in Overweight and Obesity 2026 Updates, Speaker: Kimberly Gudzune, Title: Overview and Methodology of the Standards of Care in Overweight and Obesity
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。</description><content:encoded>ADA 2026 演講重點：首部肥胖照護標準的制定方法學與臨床定位，打破「知道肥胖重要，但不知道如何做」的醫療實務僵局 。&lt;br /&gt;
+&lt;br /&gt;
+臨床問題與照護落差：&lt;br /&gt;
+世界衛生組織（WHO）與美國醫學會（AMA）已分別於 1999 年和 2013 年將肥胖定義為一種具有多重病理生理機制的複雜慢性疾病 。然而，臨床照護實務仍存在巨大落差 。醫師問卷調查指出，雖然超過 80% 的專科、內分泌與心臟科醫師認同肥胖是疾病，但高達 65% 擔心討論肥胖會冒犯病人，54% 至 68% 缺乏討論肥胖的專業訓練，超過 75% 缺乏轉介資源，且高達 76% 至 89% 的醫師認為成功協助病人維持健康體重的機率極低 [3-5]。NHANES 資料庫也顯示，雖然超過 90% 的肥胖成人有減重意願，但真正尋求專業協助者僅 10%，向醫師尋求治療者更低於 4% [5-7]。此外，美國健康系統資料指出，在 2017 與 2019 年，接受任何形式體重管理治療的肥胖病人僅占 5.3% 與 7.1%，且臨床上只有不到 10% 的基層醫療照護提供者會使用醫學指引來做肥胖治療決策 [5, 8-10]。&lt;br /&gt;
+&lt;br /&gt;
+關鍵訊息與 Standards of Care 的定位：&lt;br /&gt;
+傳統臨床實務指引（Clinical Practice Guidelines）製作耗時，通常每五年更新一次，且在快速演進的肥胖醫學領域中，往往在發表時證據便已過時 。為此，美國糖尿病學會（ADA）旗下的肥胖學會（Obesity Association）承擔重任，借鑒自 1989 年起每年更新糖尿病照護標準並成功提升臨床 Statin 使用率的歷史經驗，首度推出「肥胖與過重照護標準」（Standards of Care for Overweight and Obesity）[1, 11, 13-17]。此照護標準定位為兼顧證據與臨床可操作性，特色在於其章節每年至少更新一次，甚至可進行即時的動態更新（living updates）[11-13]。其制定由獨立的跨專業委員會進行，成員涵蓋肥胖醫學、內分泌、流行病學、心理學與藥理學等領域，並與多個專業肥胖學術組織合作 [18-20]。證據分級系統分為 A、B、C 及代表專家共識的 E 級，所有建議皆透明標示證據強度 。&lt;br /&gt;
+&lt;br /&gt;
+內分泌臨床實務的啟發：&lt;br /&gt;
+此照護標準確立了以「併發症為中心、風險降低、減輕疾病負擔」（complication-centric, risk reduction, disease burden reduction）的治療哲學 。這意味著臨床照護的目標不應僅僅侷限於追求單一或固定的體重下降數字，而是需要更全面地預防與管理肥胖相關疾病與併發症 [19, 23-25]。這種思維能協助內分泌醫師與糖尿病照護團隊，根據病人的併發症、風險分層、治療可近性與心理社會脈絡，制定更個人化的治療建議，並精準辨識出哪些病人能從特定的藥物或介入治療中獲得最大益處 。&lt;br /&gt;
+&lt;br /&gt;
+需要保守解讀的限制：&lt;br /&gt;
+這套肥胖照護標準是從零開始建立，目前仍是進行中的工作（work in progress）。目前已發布的章節僅包含：導言與方法學、體重偏見與污名、成人肥胖的篩檢診斷評估與分期，以及成人肥胖藥物治療 。而內分泌實務上同樣關鍵的「成人生活型態治療」與「成人代謝手術與減重手術」等章節，仍規劃於 2026 年稍晚才會發布 。此外，臨床醫師在應用部分標註為 C 級證據（來自控制較差或有偏差風險之觀察性研究）或 E 級證據（專家共識或臨床經驗）的臨床建議時，應抱持較為審慎和保守的態度，並理解其背後仍有待更多高品質的研究來補強科學證據 [19, 21-23]。&lt;br /&gt;
+&lt;br /&gt;
+隨著肥胖治療進入高療效藥物時代，我們在臨床上該如何平衡新一代藥物的體重降幅數字，與新指引所倡導的「以併發症與疾病負擔減少為中心」的個別化治療策略？&lt;br /&gt;
+&lt;br /&gt;
+來源：ADA 2026 Scientific Sessions, Session: Standards of Care in Overweight and Obesity 2026 Updates, Speaker: Kimberly Gudzune, Title: Overview and Methodology of the Standards of Care in Overweight and Obesity&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。</content:encoded><pubDate>Tue, 23 Jun 2026 13:21:38 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-23-20260623-1305-ada2026-symposium-overview-and-methodology-of-the-standards-of-care-in-overw.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-23-20260623-1305-ada2026-symposium-overview-and-methodology-of-the-standards-of-care-in-overw.m4a" length="10272353" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>14:07</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-23-20260623-1305-ada2026-symposium-overview-and-methodology-of-the-standards-of-care-in-overw.jpg" /></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Panel Discussion</title><description>ADA 2026 演講重點：Building a Multidisciplinary Model for Behavior Change in Cardiometabolic Health
 
 臨床問題
 心臟代謝疾病（包含第二型糖尿病、肥胖症等）的真實世界治療結果，往往難以達到理論或臨床試驗中的標準 。過去數十年來，臨床界常將治療未達標歸咎於病患缺乏意志力或醫囑遵從性不佳，進而持續給予缺乏個別化且未有持續支持的「泛用型生活型態處方」 [1-3]。目前的醫療系統主要為急性問題與疾病管理而設計，將生活型態治療塞入匆忙的20分鐘門診中，已被證明反覆失效 [4-6]。
