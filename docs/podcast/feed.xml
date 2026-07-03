@@ -1,5 +1,1381 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Tue, 23 Jun 2026 08:28:07 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Overview and Methodology of the Standards of Care in Overweight and Obesity</title><description>ADA 2026 演講重點：首部肥胖照護標準的制定方法學與臨床定位，打破「知道肥胖重要，但不知道如何做」的醫療實務僵局 。
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Fri, 03 Jul 2026 08:09:04 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Sequential Addition</title><description>ADA 2026 專業整理：糖尿病腎病變治療的逐步加成策略（Sequential Addition）
+
+臨床問題與背景
+糖尿病合併慢性腎臟病（CKD）患者面臨極高的腎臟與心血管事件風險 。根據 KDIGO 熱圖研究（Grams ME et al., JAMA 2023），分析數據規模極其龐大，其中心血管死亡率分析涵蓋 76 個世代、超過 2600 萬名參與者；腎衰竭分析涵蓋 57 個世代、超過 2500 萬名參與者 。數據顯示，尿白蛋白/肌酸酐比值（UACR）越高、估算腎絲球過濾率（eGFR）越低，腎衰竭與心血管死亡風險呈指數級上升 。例如，eGFR 在 30-44 mL/min 且 UACR 在 30-299 mg/g 的高風險患者，其接受替代治療的腎衰竭相對風險是正常人的 115 倍 [4-7]。
+
+逐步加成（Sequential Addition）治療的五大關鍵訊息
+Ian de Boer 醫師針對如何合併使用現有的多項保護性藥物（如 RAS 抑制劑、SGLT2 抑制劑、GLP-1 受體促效劑、非類固醇 MRA 等），提出了逐步加成的五大理由 ：
+
+第一，並非所有病人都需要所有藥物：不同於心衰竭（HFrEF）的四大支柱治療，糖尿病腎病變（DKD）的治療更需因人而異，不能以單一策略套用在所有人身上 。美國 NHANES 人口調查數據顯示，在 T2D 合併 CKD 族群中，雖然約 85% 有超過一類藥物的適應症，但僅約 20% 同時符合上述四類藥物的適應症 。
+
+第二，個體治療反應存在高度變異：ROTATE 交叉試驗顯示，雖然藥物（如 telmisartan）在群體平均能降低約 30% 的 UACR，但個別患者反應落差極大，部分人顯著下降，部分人 albuminuria 卻不降反升 。逐步加藥可先觀察單一藥物的實際指標反應，再精準決定下一步 。
+
+第三，降低急性不良反應的風險：多類腎臟保護藥物在初始使用時皆會引起急性腎血流動力學變化，導致 eGFR 下降（eGFR dip）[12-14]。CONFIDENCE 試驗在 2 週時的數據顯示，單用非類固醇 MRA（finerenone）平均 eGFR 下降 2 mL/min，單用 SGLT2 抑制劑（empagliflozin）下降 5 mL/min，而合併使用組平均下降達 7 mL/min，且 UACR 較高或使用利尿劑的患者 dip 幅度更大 。同時啟動多種藥物可能因 eGFR 下降過大而引發醫療團隊與患者不必要的焦慮甚至停藥 [12-14]。
+
+第四，最佳化長期服藥順從性（Adherence）：一項追蹤平均 1.5 年的退伍軍人體系（VA）研究（納入超過 9.6 萬名 SGLT2i 使用者與 6 萬名 GLP-1 RA 使用者，時間為 2005-2022 年）顯示，高達 37% 的 SGLT2 抑制劑使用者與 47% 的 GLP-1 RA 使用者在期間曾停藥 [15-17]。研究證實，停用 SGLT2 抑制劑（超過 180 天）與死亡風險上升 67%（aHR 1.67）、心衰竭住院風險上升 26%（aHR 1.26）相關；停用 GLP-1 RA 亦與死亡（aHR 1.97）、缺血性中風（aHR 1.24）、心肌梗塞（aHR 1.23）及心衰竭住院風險（aHR 1.48）顯著上升相關 。一次給予多種藥物會增加患者理解與服藥的負擔，逐步加藥有助於治療長期持續 。
+
+第五，患者病況是動態變化的：生活型態、共病與腎功能隨時間演變，治療需要反覆追蹤並動態最佳化 。2026 KDIGO 糖尿病腎臟照護指引也因此將先前的金字塔（pyramid）架構轉變為風車（windmill）模型，強調照護是持續、反覆且動態調整的過程 [21-23]。
+
+對內分泌與糖尿病照護團隊的臨床啟發
+在實務上，面對符合多種用藥指引的 DKD 患者，臨床醫師應採取「快速但有節奏」的步驟 ：先啟動預期絕對益處最大且具基礎性的藥物（如 SGLT2 抑制劑），並在一個月左右快速回診監測 eGFR 變化與 UACR 反應 。隨後，在建立醫病信任、持續衛教與排除服藥障礙的基礎下，透過共同決策逐步加入 GLP-1 受體促效劑或非類固醇 MRA，並善用多科別照護團隊（如藥師）進行重複對話，以確保藥物能長期被患者持續使用 。
+
+需要保守解讀的限制與注意事項
+1. NHANES 調查與 VA 停藥研究皆為觀察性、回顧性數據，其呈現的停藥與不良預後關聯為相關性而非因果關係，且 VA 體系有其特定的人口組成與藥物可近性特點 [7, 10, 12, 15-18]。
+2. ROTATE 試驗的藥物觀察期僅有 4 週，無法推論長期療效 。
+3. CONFIDENCE 試驗提及的 eGFR 下降數據為 2 週時的急性血流動力學變化，並非長期腎臟結局指標 。
+
+醫師臨床思考問題
+在面對多種具備強大實證的腎心保護藥物時，我們該如何平衡「快速降低殘餘風險」與「減輕患者多重藥物負擔以提升長期順從性」之間的衝突？
+
+來源：
+ADA 2026 Scientific Sessions
+Session: How to Best Combine Therapies for Patients with Diabetic Kidney Disease
+Speaker: Ian de Boer - University of Washington
+Title: Sequential Addition
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/93862b91-7885-400f-8f56-69a03f7b8a02</description><content:encoded>ADA 2026 專業整理：糖尿病腎病變治療的逐步加成策略（Sequential Addition）&lt;br /&gt;
+&lt;br /&gt;
+臨床問題與背景&lt;br /&gt;
+糖尿病合併慢性腎臟病（CKD）患者面臨極高的腎臟與心血管事件風險 。根據 KDIGO 熱圖研究（Grams ME et al., JAMA 2023），分析數據規模極其龐大，其中心血管死亡率分析涵蓋 76 個世代、超過 2600 萬名參與者；腎衰竭分析涵蓋 57 個世代、超過 2500 萬名參與者 。數據顯示，尿白蛋白/肌酸酐比值（UACR）越高、估算腎絲球過濾率（eGFR）越低，腎衰竭與心血管死亡風險呈指數級上升 。例如，eGFR 在 30-44 mL/min 且 UACR 在 30-299 mg/g 的高風險患者，其接受替代治療的腎衰竭相對風險是正常人的 115 倍 [4-7]。&lt;br /&gt;
+&lt;br /&gt;
+逐步加成（Sequential Addition）治療的五大關鍵訊息&lt;br /&gt;
+Ian de Boer 醫師針對如何合併使用現有的多項保護性藥物（如 RAS 抑制劑、SGLT2 抑制劑、GLP-1 受體促效劑、非類固醇 MRA 等），提出了逐步加成的五大理由 ：&lt;br /&gt;
+&lt;br /&gt;
+第一，並非所有病人都需要所有藥物：不同於心衰竭（HFrEF）的四大支柱治療，糖尿病腎病變（DKD）的治療更需因人而異，不能以單一策略套用在所有人身上 。美國 NHANES 人口調查數據顯示，在 T2D 合併 CKD 族群中，雖然約 85% 有超過一類藥物的適應症，但僅約 20% 同時符合上述四類藥物的適應症 。&lt;br /&gt;
+&lt;br /&gt;
+第二，個體治療反應存在高度變異：ROTATE 交叉試驗顯示，雖然藥物（如 telmisartan）在群體平均能降低約 30% 的 UACR，但個別患者反應落差極大，部分人顯著下降，部分人 albuminuria 卻不降反升 。逐步加藥可先觀察單一藥物的實際指標反應，再精準決定下一步 。&lt;br /&gt;
+&lt;br /&gt;
+第三，降低急性不良反應的風險：多類腎臟保護藥物在初始使用時皆會引起急性腎血流動力學變化，導致 eGFR 下降（eGFR dip）[12-14]。CONFIDENCE 試驗在 2 週時的數據顯示，單用非類固醇 MRA（finerenone）平均 eGFR 下降 2 mL/min，單用 SGLT2 抑制劑（empagliflozin）下降 5 mL/min，而合併使用組平均下降達 7 mL/min，且 UACR 較高或使用利尿劑的患者 dip 幅度更大 。同時啟動多種藥物可能因 eGFR 下降過大而引發醫療團隊與患者不必要的焦慮甚至停藥 [12-14]。&lt;br /&gt;
+&lt;br /&gt;
+第四，最佳化長期服藥順從性（Adherence）：一項追蹤平均 1.5 年的退伍軍人體系（VA）研究（納入超過 9.6 萬名 SGLT2i 使用者與 6 萬名 GLP-1 RA 使用者，時間為 2005-2022 年）顯示，高達 37% 的 SGLT2 抑制劑使用者與 47% 的 GLP-1 RA 使用者在期間曾停藥 [15-17]。研究證實，停用 SGLT2 抑制劑（超過 180 天）與死亡風險上升 67%（aHR 1.67）、心衰竭住院風險上升 26%（aHR 1.26）相關；停用 GLP-1 RA 亦與死亡（aHR 1.97）、缺血性中風（aHR 1.24）、心肌梗塞（aHR 1.23）及心衰竭住院風險（aHR 1.48）顯著上升相關 。一次給予多種藥物會增加患者理解與服藥的負擔，逐步加藥有助於治療長期持續 。&lt;br /&gt;
+&lt;br /&gt;
+第五，患者病況是動態變化的：生活型態、共病與腎功能隨時間演變，治療需要反覆追蹤並動態最佳化 。2026 KDIGO 糖尿病腎臟照護指引也因此將先前的金字塔（pyramid）架構轉變為風車（windmill）模型，強調照護是持續、反覆且動態調整的過程 [21-23]。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌與糖尿病照護團隊的臨床啟發&lt;br /&gt;
+在實務上，面對符合多種用藥指引的 DKD 患者，臨床醫師應採取「快速但有節奏」的步驟 ：先啟動預期絕對益處最大且具基礎性的藥物（如 SGLT2 抑制劑），並在一個月左右快速回診監測 eGFR 變化與 UACR 反應 。隨後，在建立醫病信任、持續衛教與排除服藥障礙的基礎下，透過共同決策逐步加入 GLP-1 受體促效劑或非類固醇 MRA，並善用多科別照護團隊（如藥師）進行重複對話，以確保藥物能長期被患者持續使用 。&lt;br /&gt;
+&lt;br /&gt;
+需要保守解讀的限制與注意事項&lt;br /&gt;
+1. NHANES 調查與 VA 停藥研究皆為觀察性、回顧性數據，其呈現的停藥與不良預後關聯為相關性而非因果關係，且 VA 體系有其特定的人口組成與藥物可近性特點 [7, 10, 12, 15-18]。&lt;br /&gt;
+2. ROTATE 試驗的藥物觀察期僅有 4 週，無法推論長期療效 。&lt;br /&gt;
+3. CONFIDENCE 試驗提及的 eGFR 下降數據為 2 週時的急性血流動力學變化，並非長期腎臟結局指標 。&lt;br /&gt;
+&lt;br /&gt;
+醫師臨床思考問題&lt;br /&gt;
+在面對多種具備強大實證的腎心保護藥物時，我們該如何平衡「快速降低殘餘風險」與「減輕患者多重藥物負擔以提升長期順從性」之間的衝突？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: How to Best Combine Therapies for Patients with Diabetic Kidney Disease&lt;br /&gt;
+Speaker: Ian de Boer - University of Washington&lt;br /&gt;
+Title: Sequential Addition&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/93862b91-7885-400f-8f56-69a03f7b8a02</content:encoded><pubDate>Fri, 03 Jul 2026 08:21:09 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-07-03-20260703-0806-ada2026-scientific_parallel-sequential-addition.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-07-03-20260703-0806-ada2026-scientific_parallel-sequential-addition.m4a" length="13116540" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>18:00</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-07-03-20260703-0806-ada2026-scientific_parallel-sequential-addition.jpg" /><link>https://mednote.zeabur.app/lectures/93862b91-7885-400f-8f56-69a03f7b8a02</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：The CEBPβ-XOR Axis and Genetic Risk for Metabolic Dysfunction–Associated Kidney Disease</title><description>ADA 2026 專業整理：科學家證實 C/EBPβ-XOR 軸線的活化是決定糖尿病腎病變與代謝功能障礙相關腎臟疾病（MDAKD）易感性的關鍵遺傳與分子機制 。
+
+📌 臨床問題與背景
+在臨床上，糖尿病患者對腎臟併發症的易感性存在極大個體差異 。早期糖尿病腎病變（DKD）的超微結構改變包含腎小球基底膜（GBM）增厚、系膜基質擴張以及足細胞流失 。最新研究發現，在早期病理過程中，腎小球內皮細胞（GEC）的形態學病變（如內皮窗孔流失、細胞扁平化）會先於足細胞出現，而內皮窗孔的流失與活性氧（ROS）的增加密切相關 [7-10]。
+
+🔬 核心科研發現與試驗設計數據
+一、 遺傳基因定位
+研究團隊比對糖尿病腎病變抗病小鼠（C57BL/6）與易感小鼠（DBA2/J），利用 BXD 重組近交系小鼠進行全基因組關聯分析，在第 17 號染色體上定位出一個位於黃嘌呤脫氫酶（XDH/XOR）基因上游的表達數量性狀基因座（eQTL）峰值 。其包含兩個高度保守的啟動子 SNP 變異：rs50771495 (A&gt;C) 與 rs50017899 (T&gt;A)，此區域正好是轉錄因子 C/EBPβ 的結合位點 [3, 12-14]。
+
+二、 基因突變小鼠的病理驗證
+利用 CRISPR/Cas9 技術將上述兩個變異引入抗病 B6 小鼠，成功建立 B6-Xor 突變小鼠（啟動子序列由 ggttATCACAAtcc 變更為 ggttTGCACAAtcc） [12, 15-18]。在鏈脲佐菌素（STZ）誘導糖尿病 12 週後，突變小鼠呈現：
+• 血清 XOR 活性倍增（自基準約 300 uU/ml 升至約 700 uU/ml, p&lt;0.0001） 。
+• 尿白蛋白/肌酐比值（ACR）顯著升高至約 300 ug/mg 。
+• 嚴重的足細胞流失（WT1 陽性細胞數顯著減少）與腎小球系膜基質增生 。
+
+三、 XOR 選擇性抑制劑的治療療效
+在糖尿病突變小鼠中給予非布司他（Febuxostat）治療，取得了顯著的腎臟保護效果：
+• 成功將血清 XOR 活性降回正常水平（約 300 uU/ml） 。
+• ACR 顯著維持在約 90 ug/mg 的正常範圍 。
+• 挽救足細胞流失，並顯著減輕代表蛋白質氧化損傷的 3-硝基酪氨酸（3-NT）以及代表 DNA 氧化損傷的 8-羥基去氧鳥苷（8-oxo-dG）染色 [15, 19-21]。
+
+四、 果糖誘導的代謝功能障礙相關腎臟疾病（MDAKD）
+將突變小鼠餵食高果糖飲食 6 個月，透過電子順磁共振（EPR）實時偵測，證實突變小鼠腎臟的活性氧與自由基訊號顯著高於野生型 [22-25]。脂質組學顯示，高果糖飲食引發突變小鼠腎臟內多種三酸甘油酯（TAG）爆發性累積，且代謝組學顯示其嘌呤與嘧啶代謝顯著異常（GMP、AMP 增加） [22-24, 26-28]。給予非布司他能顯著逆轉上述所有脂質累積與核苷酸代謝異常 [22, 23, 25-27]。
+
+五、 細胞特異性病變反應
+• 高血糖環境下：病變主要集中於腎小球內皮細胞，導致內皮窗孔流失與功能障礙 。
+• 高果糖環境下：病變主要集中於線粒體豐富的近端腎小管細胞，引發異常脂肪生成與脂質蓄積（Lipotoxicity） 。
+
+💡 對內分泌臨床實務的啟發
+• 精準醫學與風險分層：人類基因體數據（百萬退伍軍人計劃 MVP 與 All of Us）顯示，攜帶人類 XOR 啟動子變異的人群，其糖尿病併發症、慢性腎臟病（CKD）、腎病症候群及代謝症候群的風險顯著增加 。未來臨床上或可針對此高風險基因型患者進行篩檢 。
+• 靶向治療的可能性：現有臨床藥物 Febuxostat 在動物模型中展現了抗氧化、抗脂質蓄積、保護足細胞及內皮的多重作用 ，有望成為基因特異性患者的潛在精準治療策略 。
+• 飲食精確衛教：高果糖飲食會直接活化 C/EBPβ-XOR 軸線並造成腎小管脂質毒性 ，臨床照護團隊在對糖尿病與代謝症候群患者進行衛教時，應更嚴格限制果糖攝取。
+
+⚠️ 需要保守解讀的臨床限制
+• 物種間嘌呤代謝差異：人類缺乏尿酸酶，嘌呤代謝終產物為尿酸；而小鼠擁有尿酸酶，會進一步將尿酸降解為尿囊素 。雖然 XOR 介介導人類內皮功能障礙與血管病變已有研究支持 ，但此代謝差異在轉譯醫學中仍需謹慎評估。
+• 臨床證據尚在預備階段：Febuxostat 逆轉代謝腎損傷與脂質累積的卓越療效目前僅在小鼠與細胞模型中獲得證實 [1, 15, 19-21, 36]。針對攜帶該啟動子變異的人類糖尿病患者，是否具有同等療效與長期安全性，仍待前瞻性臨床試驗進一步證實，臨床上不應過度宣稱現有療效。
+
+❓ 臨床思考問題
+對於已經合併代謝症候群、肥胖且日常飲食難以避免果糖攝取的早期糖尿病腎病變高風險患者，我們是否應更早考慮將基因篩檢與靶向 XOR 活性監測納入個體化照護路徑，以達到精準預防的效果？
+
+來源：
+ADA 2026 Scientific Sessions
+Session: Top Research Abstracts Mechanisms of Diabetic Kidney Disease
+Speaker: Ilse S Daehn - Icahn School of Medicine at Mount Sinai 
+Title: The CEBPβ-XOR Axis and Genetic Risk for Metabolic Dysfunction–Associated Kidney Disease
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/082bc8a4-31c9-49ea-a4d2-850337d9ac37</description><content:encoded>ADA 2026 專業整理：科學家證實 C/EBPβ-XOR 軸線的活化是決定糖尿病腎病變與代謝功能障礙相關腎臟疾病（MDAKD）易感性的關鍵遺傳與分子機制 。&lt;br /&gt;
+&lt;br /&gt;
+📌 臨床問題與背景&lt;br /&gt;
+在臨床上，糖尿病患者對腎臟併發症的易感性存在極大個體差異 。早期糖尿病腎病變（DKD）的超微結構改變包含腎小球基底膜（GBM）增厚、系膜基質擴張以及足細胞流失 。最新研究發現，在早期病理過程中，腎小球內皮細胞（GEC）的形態學病變（如內皮窗孔流失、細胞扁平化）會先於足細胞出現，而內皮窗孔的流失與活性氧（ROS）的增加密切相關 [7-10]。&lt;br /&gt;
+&lt;br /&gt;
+🔬 核心科研發現與試驗設計數據&lt;br /&gt;
+一、 遺傳基因定位&lt;br /&gt;
+研究團隊比對糖尿病腎病變抗病小鼠（C57BL/6）與易感小鼠（DBA2/J），利用 BXD 重組近交系小鼠進行全基因組關聯分析，在第 17 號染色體上定位出一個位於黃嘌呤脫氫酶（XDH/XOR）基因上游的表達數量性狀基因座（eQTL）峰值 。其包含兩個高度保守的啟動子 SNP 變異：rs50771495 (A&gt;C) 與 rs50017899 (T&gt;A)，此區域正好是轉錄因子 C/EBPβ 的結合位點 [3, 12-14]。&lt;br /&gt;
+&lt;br /&gt;
+二、 基因突變小鼠的病理驗證&lt;br /&gt;
+利用 CRISPR/Cas9 技術將上述兩個變異引入抗病 B6 小鼠，成功建立 B6-Xor 突變小鼠（啟動子序列由 ggttATCACAAtcc 變更為 ggttTGCACAAtcc） [12, 15-18]。在鏈脲佐菌素（STZ）誘導糖尿病 12 週後，突變小鼠呈現：&lt;br /&gt;
+• 血清 XOR 活性倍增（自基準約 300 uU/ml 升至約 700 uU/ml, p&lt;0.0001） 。&lt;br /&gt;
+• 尿白蛋白/肌酐比值（ACR）顯著升高至約 300 ug/mg 。&lt;br /&gt;
+• 嚴重的足細胞流失（WT1 陽性細胞數顯著減少）與腎小球系膜基質增生 。&lt;br /&gt;
+&lt;br /&gt;
+三、 XOR 選擇性抑制劑的治療療效&lt;br /&gt;
+在糖尿病突變小鼠中給予非布司他（Febuxostat）治療，取得了顯著的腎臟保護效果：&lt;br /&gt;
+• 成功將血清 XOR 活性降回正常水平（約 300 uU/ml） 。&lt;br /&gt;
+• ACR 顯著維持在約 90 ug/mg 的正常範圍 。&lt;br /&gt;
+• 挽救足細胞流失，並顯著減輕代表蛋白質氧化損傷的 3-硝基酪氨酸（3-NT）以及代表 DNA 氧化損傷的 8-羥基去氧鳥苷（8-oxo-dG）染色 [15, 19-21]。&lt;br /&gt;
+&lt;br /&gt;
+四、 果糖誘導的代謝功能障礙相關腎臟疾病（MDAKD）&lt;br /&gt;
+將突變小鼠餵食高果糖飲食 6 個月，透過電子順磁共振（EPR）實時偵測，證實突變小鼠腎臟的活性氧與自由基訊號顯著高於野生型 [22-25]。脂質組學顯示，高果糖飲食引發突變小鼠腎臟內多種三酸甘油酯（TAG）爆發性累積，且代謝組學顯示其嘌呤與嘧啶代謝顯著異常（GMP、AMP 增加） [22-24, 26-28]。給予非布司他能顯著逆轉上述所有脂質累積與核苷酸代謝異常 [22, 23, 25-27]。&lt;br /&gt;
+&lt;br /&gt;
+五、 細胞特異性病變反應&lt;br /&gt;
+• 高血糖環境下：病變主要集中於腎小球內皮細胞，導致內皮窗孔流失與功能障礙 。&lt;br /&gt;
+• 高果糖環境下：病變主要集中於線粒體豐富的近端腎小管細胞，引發異常脂肪生成與脂質蓄積（Lipotoxicity） 。&lt;br /&gt;
+&lt;br /&gt;
+💡 對內分泌臨床實務的啟發&lt;br /&gt;
+• 精準醫學與風險分層：人類基因體數據（百萬退伍軍人計劃 MVP 與 All of Us）顯示，攜帶人類 XOR 啟動子變異的人群，其糖尿病併發症、慢性腎臟病（CKD）、腎病症候群及代謝症候群的風險顯著增加 。未來臨床上或可針對此高風險基因型患者進行篩檢 。&lt;br /&gt;
+• 靶向治療的可能性：現有臨床藥物 Febuxostat 在動物模型中展現了抗氧化、抗脂質蓄積、保護足細胞及內皮的多重作用 ，有望成為基因特異性患者的潛在精準治療策略 。&lt;br /&gt;
+• 飲食精確衛教：高果糖飲食會直接活化 C/EBPβ-XOR 軸線並造成腎小管脂質毒性 ，臨床照護團隊在對糖尿病與代謝症候群患者進行衛教時，應更嚴格限制果糖攝取。&lt;br /&gt;
+&lt;br /&gt;
+⚠️ 需要保守解讀的臨床限制&lt;br /&gt;
+• 物種間嘌呤代謝差異：人類缺乏尿酸酶，嘌呤代謝終產物為尿酸；而小鼠擁有尿酸酶，會進一步將尿酸降解為尿囊素 。雖然 XOR 介介導人類內皮功能障礙與血管病變已有研究支持 ，但此代謝差異在轉譯醫學中仍需謹慎評估。&lt;br /&gt;
+• 臨床證據尚在預備階段：Febuxostat 逆轉代謝腎損傷與脂質累積的卓越療效目前僅在小鼠與細胞模型中獲得證實 [1, 15, 19-21, 36]。針對攜帶該啟動子變異的人類糖尿病患者，是否具有同等療效與長期安全性，仍待前瞻性臨床試驗進一步證實，臨床上不應過度宣稱現有療效。&lt;br /&gt;
+&lt;br /&gt;
+❓ 臨床思考問題&lt;br /&gt;
+對於已經合併代謝症候群、肥胖且日常飲食難以避免果糖攝取的早期糖尿病腎病變高風險患者，我們是否應更早考慮將基因篩檢與靶向 XOR 活性監測納入個體化照護路徑，以達到精準預防的效果？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: Top Research Abstracts Mechanisms of Diabetic Kidney Disease&lt;br /&gt;
+Speaker: Ilse S Daehn - Icahn School of Medicine at Mount Sinai &lt;br /&gt;
+Title: The CEBPβ-XOR Axis and Genetic Risk for Metabolic Dysfunction–Associated Kidney Disease&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/082bc8a4-31c9-49ea-a4d2-850337d9ac37</content:encoded><pubDate>Tue, 30 Jun 2026 10:19:45 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-30-20260630-1006-ada2026-scientific_parallel-the-cebp-xor-axis-and-genetic-risk-for-metabolic-dysfuncti.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-30-20260630-1006-ada2026-scientific_parallel-the-cebp-xor-axis-and-genetic-risk-for-metabolic-dysfuncti.m4a" length="10649627" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>14:36</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-30-20260630-1006-ada2026-scientific_parallel-the-cebp-xor-axis-and-genetic-risk-for-metabolic-dysfuncti.jpg" /><link>https://mednote.zeabur.app/lectures/082bc8a4-31c9-49ea-a4d2-850337d9ac37</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Senotype Blueprint of the Human Endocrine Pancreas</title><description>ADA 2026 專業整理：人類內分泌胰臟的衰老表型藍圖（Senotype Blueprint of the Human Endocrine Pancreas）
+
+[臨床問題]
+細胞衰老（cellular senescence）是一種因應壓力的反應，細胞會進入穩定且持久的細胞週期停滯狀態，停止分裂但並不立即死亡，並分泌多種發炎因子，稱為衰老相關分泌表型（SASP），進而影響周邊細胞的微環境 。在胰島生物學中，β細胞衰老已被證實是推動第二型糖尿病發展的關鍵病理生理現象之一 。然而，衰老細胞在體內同時具有腫瘤抑制和傷口癒合等保護性生理功能 。因此，在考慮開發針對代謝性疾病的臨床轉譯療法時，如何釐清哪些衰老細胞需要被靶向清除、哪些又必須被保留，成為內分泌臨床研究的重大挑戰 。
+
+[關鍵訊息]
+本研究屬於美國國家衛生研究院 Cellular Senescence Network (SenNet) 計畫下的 KAPP-Sen 組織繪圖項目，旨在描繪人類生命歷程中胰臟等器官的衰老細胞地圖 。
+
+一、 研究設計與對象 ：
+研究團隊分析了兩組無胰臟疾病且排除肥胖（BMI &gt; 30）的人類供體樣本：
+1. 全胰臟組織（Whole pancreas，n=26）：供體平均年齡 50.7±18.4 歲，BMI 23.7±4.0，性別比 50% 女性與 50% 男性 。利用單細胞空間蛋白體（CODEX）與空間轉錄體（Visium、Xenium）技術進行原位微環境分析 。
+2. 分散胰臟/胰島細胞（Dispersed islets，n=14）：供體平均年齡 55.1±8.6 歲，BMI 27.5±3.1，性別比 29% 女性與 71% 男性 。用於單細胞定序（scRNA-seq）、SA-β-galactosidase 活性檢測與臨床功能評估 。
+
+二、 老化相關之胰臟變化 ：
+全胰臟分析顯示，隨著年齡上升，呈現以下顯著關聯性變化：
+• β細胞所占比例顯著下降（r = -0.76, p = 0.001）。
+• 胰島素（insulin）與 C-peptide 的蛋白質表現量下降（r = -0.66 與 -0.62）。
+• CDKN1A (p21) 與 CDKN2A (p16) 基因表現量上升（r = 0.72 與 0.71）。
+• 胰島形態偏心率（eccentricity）上升（r = 0.59, p = 0.021），顯示胰島隨老化變得較不圓且形態更不規則 。
+
+三、 衰老表型（Senotypes）的定義與功能分群 ：
+研究團隊以 CDKN1A (p21) 與 CDKN2A (p16) 兩個重要衰老標記的共表現狀態，定義出三種不同的衰老表型 ：
+1. p21 單陽性細胞（CDKN1A+/CDKN2A-）：
+• 特徵：出現顯著的 β 細胞轉錄身分喪失，其 INS 基因與 MAFA 轉錄因子表現顯著下調 。在空間蛋白體與轉錄體分析中，高 nuclear p21 的 β 細胞亦呈現極低的胰島素蛋白與 mRNA 。
+• 功能：臨床功能測試（GSIS 與 perifusion）顯示，高 CDKN1A 表現的胰島會喪失對葡萄糖刺激的胰島素分泌反應 。
+• 微環境：其 SASP 特徵高度偏向促發炎路徑，且空間定位與免疫細胞（白血球）浸潤呈現顯著正相關 。
+• 角色：代表病理性、失適應性的衰老（maladaptive/pathological senescence）。
+
+2. p16 單陽性細胞（CDKN1A-/CDKN2A+）：
+• 特徵：β 細胞關鍵基因身分得以保留 。
+• 功能：臨床功能測試顯示，高 CDKN2A 表現的胰島仍能保留良好的葡萄糖反應性，甚至在 perifusion 中展現更好的反應趨勢 。
+• 微環境：其 SASP 發炎特徵低，且微環境中的免疫細胞浸潤顯著較少 。
+• 角色：代表生理性、適應性的衰老（adaptive/physiological senescence）。
+
+3. 雙陽性細胞（CDKN1A+/CDKN2A+）：
+• 屬於數量較少的群體 。在細胞身分特徵上與 p16 類似（保留較佳），但在 SASP 發炎分泌特徵上則與 p21 類似（偏向促發炎）。
+
+[對內分泌臨床實務的啟發]
+這項研究建立的衰老表型藍圖，對未來第二型糖尿病等代謝性疾病的治療策略具有關鍵啟示。未來的衰老細胞清除療法（senotherapeutic strategies）不可採取盲目無差別的清除方式 。臨床轉譯的重點在於：如何精準辨識並特異性地靶向清除具病理性、損害功能並促進慢性發炎的 p21+ 衰老β細胞，同時避免破壞具有生理保護性或適應性功能、用以維持β細胞身分的 p16+ 衰老細胞群 。
+
+[需要保守解讀的限制]
+1. 衰老細胞比例與檢測平台高度相關 ：若使用分散胰島的 scRNA-seq 技術，年輕供體的衰老細胞群比例可高達 20% ；然而在不破壞組織空間架構的空間原位分析中，衰老 β 細胞的比例則降至約 5% 。其中，p21 表型約占所有衰老 β 細胞的 40% 左右 。
+2. 本研究的供體樣本排除肥胖、臨床糖尿病、胰臟炎或胰臟癌 ，因此這張藍圖反映的是人類在「健康老化」下的胰臟生理基準線，而非已進入臨床糖尿病病程後的病理改變 。
+
+給醫師後續思考的問題：
+隨著這項健康老化胰臟衰老藍圖的確立，我們是否有可能在未來臨床實務上，透過特定的循環 SASP 生物標記或分子影像，在患者尚未進展至顯性糖尿病前，提前評估其胰臟內 pathological p21+ 衰老表型的累積程度，以達到超前部署的精準預防？
+
+來源：
+ADA 2026 Scientific Sessions
+Session: Human Islet Cell Identity and Organization
+Title: Senotype Blueprint of the Human Endocrine Pancreas
+Speaker: Cristina Aguayo-Mazzucato - Joslin Diabetes Center
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/546e47e5-4322-4261-94e7-70b1346f9f95</description><content:encoded>ADA 2026 專業整理：人類內分泌胰臟的衰老表型藍圖（Senotype Blueprint of the Human Endocrine Pancreas）&lt;br /&gt;
+&lt;br /&gt;
+[臨床問題]&lt;br /&gt;
+細胞衰老（cellular senescence）是一種因應壓力的反應，細胞會進入穩定且持久的細胞週期停滯狀態，停止分裂但並不立即死亡，並分泌多種發炎因子，稱為衰老相關分泌表型（SASP），進而影響周邊細胞的微環境 。在胰島生物學中，β細胞衰老已被證實是推動第二型糖尿病發展的關鍵病理生理現象之一 。然而，衰老細胞在體內同時具有腫瘤抑制和傷口癒合等保護性生理功能 。因此，在考慮開發針對代謝性疾病的臨床轉譯療法時，如何釐清哪些衰老細胞需要被靶向清除、哪些又必須被保留，成為內分泌臨床研究的重大挑戰 。&lt;br /&gt;
+&lt;br /&gt;
+[關鍵訊息]&lt;br /&gt;
+本研究屬於美國國家衛生研究院 Cellular Senescence Network (SenNet) 計畫下的 KAPP-Sen 組織繪圖項目，旨在描繪人類生命歷程中胰臟等器官的衰老細胞地圖 。&lt;br /&gt;
+&lt;br /&gt;
+一、 研究設計與對象 ：&lt;br /&gt;
+研究團隊分析了兩組無胰臟疾病且排除肥胖（BMI &gt; 30）的人類供體樣本：&lt;br /&gt;
+1. 全胰臟組織（Whole pancreas，n=26）：供體平均年齡 50.7±18.4 歲，BMI 23.7±4.0，性別比 50% 女性與 50% 男性 。利用單細胞空間蛋白體（CODEX）與空間轉錄體（Visium、Xenium）技術進行原位微環境分析 。&lt;br /&gt;
+2. 分散胰臟/胰島細胞（Dispersed islets，n=14）：供體平均年齡 55.1±8.6 歲，BMI 27.5±3.1，性別比 29% 女性與 71% 男性 。用於單細胞定序（scRNA-seq）、SA-β-galactosidase 活性檢測與臨床功能評估 。&lt;br /&gt;
+&lt;br /&gt;
+二、 老化相關之胰臟變化 ：&lt;br /&gt;
+全胰臟分析顯示，隨著年齡上升，呈現以下顯著關聯性變化：&lt;br /&gt;
+• β細胞所占比例顯著下降（r = -0.76, p = 0.001）。&lt;br /&gt;
+• 胰島素（insulin）與 C-peptide 的蛋白質表現量下降（r = -0.66 與 -0.62）。&lt;br /&gt;
+• CDKN1A (p21) 與 CDKN2A (p16) 基因表現量上升（r = 0.72 與 0.71）。&lt;br /&gt;
+• 胰島形態偏心率（eccentricity）上升（r = 0.59, p = 0.021），顯示胰島隨老化變得較不圓且形態更不規則 。&lt;br /&gt;
+&lt;br /&gt;
+三、 衰老表型（Senotypes）的定義與功能分群 ：&lt;br /&gt;
+研究團隊以 CDKN1A (p21) 與 CDKN2A (p16) 兩個重要衰老標記的共表現狀態，定義出三種不同的衰老表型 ：&lt;br /&gt;
+1. p21 單陽性細胞（CDKN1A+/CDKN2A-）：&lt;br /&gt;
+• 特徵：出現顯著的 β 細胞轉錄身分喪失，其 INS 基因與 MAFA 轉錄因子表現顯著下調 。在空間蛋白體與轉錄體分析中，高 nuclear p21 的 β 細胞亦呈現極低的胰島素蛋白與 mRNA 。&lt;br /&gt;
+• 功能：臨床功能測試（GSIS 與 perifusion）顯示，高 CDKN1A 表現的胰島會喪失對葡萄糖刺激的胰島素分泌反應 。&lt;br /&gt;
+• 微環境：其 SASP 特徵高度偏向促發炎路徑，且空間定位與免疫細胞（白血球）浸潤呈現顯著正相關 。&lt;br /&gt;
+• 角色：代表病理性、失適應性的衰老（maladaptive/pathological senescence）。&lt;br /&gt;
+&lt;br /&gt;
+2. p16 單陽性細胞（CDKN1A-/CDKN2A+）：&lt;br /&gt;
+• 特徵：β 細胞關鍵基因身分得以保留 。&lt;br /&gt;
+• 功能：臨床功能測試顯示，高 CDKN2A 表現的胰島仍能保留良好的葡萄糖反應性，甚至在 perifusion 中展現更好的反應趨勢 。&lt;br /&gt;
+• 微環境：其 SASP 發炎特徵低，且微環境中的免疫細胞浸潤顯著較少 。&lt;br /&gt;
+• 角色：代表生理性、適應性的衰老（adaptive/physiological senescence）。&lt;br /&gt;
+&lt;br /&gt;
+3. 雙陽性細胞（CDKN1A+/CDKN2A+）：&lt;br /&gt;
+• 屬於數量較少的群體 。在細胞身分特徵上與 p16 類似（保留較佳），但在 SASP 發炎分泌特徵上則與 p21 類似（偏向促發炎）。&lt;br /&gt;
+&lt;br /&gt;
+[對內分泌臨床實務的啟發]&lt;br /&gt;
+這項研究建立的衰老表型藍圖，對未來第二型糖尿病等代謝性疾病的治療策略具有關鍵啟示。未來的衰老細胞清除療法（senotherapeutic strategies）不可採取盲目無差別的清除方式 。臨床轉譯的重點在於：如何精準辨識並特異性地靶向清除具病理性、損害功能並促進慢性發炎的 p21+ 衰老β細胞，同時避免破壞具有生理保護性或適應性功能、用以維持β細胞身分的 p16+ 衰老細胞群 。&lt;br /&gt;
+&lt;br /&gt;
+[需要保守解讀的限制]&lt;br /&gt;
+1. 衰老細胞比例與檢測平台高度相關 ：若使用分散胰島的 scRNA-seq 技術，年輕供體的衰老細胞群比例可高達 20% ；然而在不破壞組織空間架構的空間原位分析中，衰老 β 細胞的比例則降至約 5% 。其中，p21 表型約占所有衰老 β 細胞的 40% 左右 。&lt;br /&gt;
+2. 本研究的供體樣本排除肥胖、臨床糖尿病、胰臟炎或胰臟癌 ，因此這張藍圖反映的是人類在「健康老化」下的胰臟生理基準線，而非已進入臨床糖尿病病程後的病理改變 。&lt;br /&gt;
+&lt;br /&gt;
+給醫師後續思考的問題：&lt;br /&gt;
+隨著這項健康老化胰臟衰老藍圖的確立，我們是否有可能在未來臨床實務上，透過特定的循環 SASP 生物標記或分子影像，在患者尚未進展至顯性糖尿病前，提前評估其胰臟內 pathological p21+ 衰老表型的累積程度，以達到超前部署的精準預防？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: Human Islet Cell Identity and Organization&lt;br /&gt;
+Title: Senotype Blueprint of the Human Endocrine Pancreas&lt;br /&gt;
+Speaker: Cristina Aguayo-Mazzucato - Joslin Diabetes Center&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/546e47e5-4322-4261-94e7-70b1346f9f95</content:encoded><pubDate>Tue, 30 Jun 2026 10:08:02 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-30-20260630-0006-ada2026-plenary-senotype-blueprint-of-the-human-endocrine-pancreas.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-30-20260630-0006-ada2026-plenary-senotype-blueprint-of-the-human-endocrine-pancreas.m4a" length="14319142" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>19:37</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-30-20260630-0006-ada2026-plenary-senotype-blueprint-of-the-human-endocrine-pancreas.jpg" /><link>https://mednote.zeabur.app/lectures/546e47e5-4322-4261-94e7-70b1346f9f95</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Targeted Deletion of Sphingosine 1-Phosphate Receptor 1 (S1PR1) in T Cells Confers Renoprotection in Diabetic Mice</title><description>ADA 2026 演講重點：在T細胞中特異性缺失1-磷酸鞘氨醇受體1（S1PR1），能阻斷糖尿病小鼠體內免疫細胞向腎臟的運輸，進而顯著降低微量白蛋白尿並預防腎絲球繫膜損傷 [1-3]。
+
+臨床問題與研究背景：
+糖尿病腎病變（DKD）是糖尿病最嚴重且臨床意義重大的微血管併發症之一，約有40%的第一型糖尿病患者最終會發展為DKD 。DKD並非由單一機制驅動，而是涉及代謝、血流動力學和發炎途徑的多因素疾病 。在高血糖環境下，系統性代謝紊亂會促進慢性低度發炎，導致免疫細胞招募並活化至腎臟中，進而造成結構損傷、腎絲球繫膜擴張與腎功能下降 。在五種1-磷酸鞘氨醇受體（S1PR1-5）中，S1PR1是調控T細胞運輸的主要受體，與S1P結合後會經由Gαi蛋白偶聯受體訊號傳遞，調控細胞遷移、增殖、存活、黏附、緊密連接與抗凋亡 。研究團隊因此提出假說：S1P-S1PR1通路藉由調節T細胞的發炎訊號，參與並促進了糖尿病腎病變的進展 。
+
+試驗設計與小鼠模型驗證：
+為測試此假說，研究團隊將 S1pr1 fl/fl 小鼠與 Cd4-Cre 轉基因小鼠雜交，成功建立在CD4+ T細胞中特異性缺失S1PR1的條件性基因敲除小鼠模型（S1PR1-/-）。PCR檢測證實，敲除組骨髓T細胞的S1PR1 mRNA表現量減少約70%，脾臟T細胞減少約90%，且未觀察到S1PR2或S1PR3的代償性上調 。實驗使用10至12週齡的雙性小鼠，分為對照組與糖尿病組，連續5天腹腔注射50 mg/kg的鏈脲佐菌素（STZ）以誘導糖尿病，並進行15週的縱向追蹤 。
+
+關鍵訊息與數據指標：
+第一，基本生理指標與微量白蛋白尿：注射STZ後，兩組糖尿病小鼠血糖皆顯著升高，體重在15週內僅輕微變化，且收縮壓皆維持在正常範圍內，排除了血壓差異對腎臟病變的干擾 。在第15週時，野生型糖尿病小鼠的尿白蛋白排泄量（AER）顯著增加至約 140 ug/day，而T細胞特異性缺失S1PR1的糖尿病小鼠AER則顯著降低至約 56 ug/day，且未見性別差異，顯示S1PR1缺失能保護小鼠免於糖尿病誘導的微量白蛋白尿 。
+第二，腎臟結構病理分析：組織病理學分析（PAS染色）顯示，野生型糖尿病小鼠腎絲球出現明顯的繫膜基質擴張，繫膜面積（MA）相較於對照組增加了約70% 。相反地，基因敲除糖尿病小鼠並無明顯繫膜擴張，其繫膜面積與腎絲球總面積（GTA）的比例相較於野生型糖尿病小鼠減少了約50%，結構維持良好 。
+第三，免疫細胞浸潤分析：流式細胞儀分析顯示，糖尿病野生型小鼠腎臟中的總巨噬細胞、浸潤性巨噬細胞，以及CD3+、CD4+和CD8+ T細胞的浸潤均顯著增加 [13-15]。而在T細胞特異性敲除 S1PR1 的糖尿病小鼠中，這些免疫細胞的累積量均顯著減少，證實S1PR1對於T細胞向糖尿病腎臟運輸至關重要，且阻斷此通路能同步減少次級巨噬細胞的活化與累積 [14-16]。
+第四，分子與基因表現分析：qPCR檢測顯示，維持足細胞過濾屏障的 Nephrin 蛋白在野生型糖尿病小鼠中顯著下降1.4倍，而在敲除組中則得到顯著保留；腎損傷分子 Kim-1（劇增11倍）、促發炎細胞激素 TNF-a（上升4倍）與 IL-6（上升6倍）在敲除組中均顯著降低並接近基準線 。此外，纖維化指標如 TGF-b（上升2.4倍）、Galectin-3（上升2.1倍）和 Collagen type 1（上升2.5倍）的表達在敲除組中也受到顯著抑制，顯示細胞外基質的沉積路徑被成功阻斷 。
+
+對內分泌臨床實務的啟發：
+這項研究證實T細胞特異性S1PR1是DKD中免疫介導性損傷與纖維化的關鍵調節因子 。臨床實務上，這提示了免疫調控在延緩腎臟病變惡化中的重要潛力，未來此通路可能作為新型治療靶點 。更重要的是，學術討論中指出，S1PR1介導的免疫通路與現有的SGLT2抑制劑等療法在調控高血糖引起的發炎反應中，可能存在相互關聯的交叉通路（Cross-pathway），這為未來內分泌與腎臟領域的聯合治療方案開發提供了全新的理論支持 。
+
+保守解讀的限制：
+儘管研究結果具有高度啟發性，但臨床轉化上仍需保守看待其局限性。首先，此研究完全基於小鼠糖尿病模型，人體多因素造成的DKD微環境可能更為複雜 。其次，基因敲除是否可能帶來系統性的免疫抑制風險、其對人體長期安全的影響，以及T細胞內部的詳細調控細節（如基因體圖譜），仍有待更深入的研究釐清 。此外，本研究目前尚未評估腎臟中的異位脂質累積等脂質相關標記物，這在涉及神經醯胺生物合成補救途徑的S1P受體研究中，仍是未來需要探索的空白 。
+
+後續思考問題：
+在現有以代謝與血流動力學為主的DKD治療（如SGLT2抑制劑或GLP-1受體促效劑）已趨於成熟的背景下，未來若能在臨床上安全地結合針對T細胞運輸的免疫調節療法，您認為這將如何重塑早期糖尿病腎病變防線的治療格局？
+
+來源：
+ADA 2026 Scientific Sessions
+Session: Top Research Abstracts Mechanisms of Diabetic Kidney Disease
+Speaker: Maha Itani - American University of Beirut
+Title: Targeted Deletion of Sphingosine 1-Phosphate Receptor 1 (S1PR1) in T Cells Confers Renoprotection in Diabetic Mice
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/8871940d-97f5-488c-af6c-0b2f6eeb2719</description><content:encoded>ADA 2026 演講重點：在T細胞中特異性缺失1-磷酸鞘氨醇受體1（S1PR1），能阻斷糖尿病小鼠體內免疫細胞向腎臟的運輸，進而顯著降低微量白蛋白尿並預防腎絲球繫膜損傷 [1-3]。&lt;br /&gt;
+&lt;br /&gt;
+臨床問題與研究背景：&lt;br /&gt;
+糖尿病腎病變（DKD）是糖尿病最嚴重且臨床意義重大的微血管併發症之一，約有40%的第一型糖尿病患者最終會發展為DKD 。DKD並非由單一機制驅動，而是涉及代謝、血流動力學和發炎途徑的多因素疾病 。在高血糖環境下，系統性代謝紊亂會促進慢性低度發炎，導致免疫細胞招募並活化至腎臟中，進而造成結構損傷、腎絲球繫膜擴張與腎功能下降 。在五種1-磷酸鞘氨醇受體（S1PR1-5）中，S1PR1是調控T細胞運輸的主要受體，與S1P結合後會經由Gαi蛋白偶聯受體訊號傳遞，調控細胞遷移、增殖、存活、黏附、緊密連接與抗凋亡 。研究團隊因此提出假說：S1P-S1PR1通路藉由調節T細胞的發炎訊號，參與並促進了糖尿病腎病變的進展 。&lt;br /&gt;
+&lt;br /&gt;
+試驗設計與小鼠模型驗證：&lt;br /&gt;
+為測試此假說，研究團隊將 S1pr1 fl/fl 小鼠與 Cd4-Cre 轉基因小鼠雜交，成功建立在CD4+ T細胞中特異性缺失S1PR1的條件性基因敲除小鼠模型（S1PR1-/-）。PCR檢測證實，敲除組骨髓T細胞的S1PR1 mRNA表現量減少約70%，脾臟T細胞減少約90%，且未觀察到S1PR2或S1PR3的代償性上調 。實驗使用10至12週齡的雙性小鼠，分為對照組與糖尿病組，連續5天腹腔注射50 mg/kg的鏈脲佐菌素（STZ）以誘導糖尿病，並進行15週的縱向追蹤 。&lt;br /&gt;
+&lt;br /&gt;
+關鍵訊息與數據指標：&lt;br /&gt;
+第一，基本生理指標與微量白蛋白尿：注射STZ後，兩組糖尿病小鼠血糖皆顯著升高，體重在15週內僅輕微變化，且收縮壓皆維持在正常範圍內，排除了血壓差異對腎臟病變的干擾 。在第15週時，野生型糖尿病小鼠的尿白蛋白排泄量（AER）顯著增加至約 140 ug/day，而T細胞特異性缺失S1PR1的糖尿病小鼠AER則顯著降低至約 56 ug/day，且未見性別差異，顯示S1PR1缺失能保護小鼠免於糖尿病誘導的微量白蛋白尿 。&lt;br /&gt;
+第二，腎臟結構病理分析：組織病理學分析（PAS染色）顯示，野生型糖尿病小鼠腎絲球出現明顯的繫膜基質擴張，繫膜面積（MA）相較於對照組增加了約70% 。相反地，基因敲除糖尿病小鼠並無明顯繫膜擴張，其繫膜面積與腎絲球總面積（GTA）的比例相較於野生型糖尿病小鼠減少了約50%，結構維持良好 。&lt;br /&gt;
+第三，免疫細胞浸潤分析：流式細胞儀分析顯示，糖尿病野生型小鼠腎臟中的總巨噬細胞、浸潤性巨噬細胞，以及CD3+、CD4+和CD8+ T細胞的浸潤均顯著增加 [13-15]。而在T細胞特異性敲除 S1PR1 的糖尿病小鼠中，這些免疫細胞的累積量均顯著減少，證實S1PR1對於T細胞向糖尿病腎臟運輸至關重要，且阻斷此通路能同步減少次級巨噬細胞的活化與累積 [14-16]。&lt;br /&gt;
+第四，分子與基因表現分析：qPCR檢測顯示，維持足細胞過濾屏障的 Nephrin 蛋白在野生型糖尿病小鼠中顯著下降1.4倍，而在敲除組中則得到顯著保留；腎損傷分子 Kim-1（劇增11倍）、促發炎細胞激素 TNF-a（上升4倍）與 IL-6（上升6倍）在敲除組中均顯著降低並接近基準線 。此外，纖維化指標如 TGF-b（上升2.4倍）、Galectin-3（上升2.1倍）和 Collagen type 1（上升2.5倍）的表達在敲除組中也受到顯著抑制，顯示細胞外基質的沉積路徑被成功阻斷 。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的啟發：&lt;br /&gt;
+這項研究證實T細胞特異性S1PR1是DKD中免疫介導性損傷與纖維化的關鍵調節因子 。臨床實務上，這提示了免疫調控在延緩腎臟病變惡化中的重要潛力，未來此通路可能作為新型治療靶點 。更重要的是，學術討論中指出，S1PR1介導的免疫通路與現有的SGLT2抑制劑等療法在調控高血糖引起的發炎反應中，可能存在相互關聯的交叉通路（Cross-pathway），這為未來內分泌與腎臟領域的聯合治療方案開發提供了全新的理論支持 。&lt;br /&gt;
+&lt;br /&gt;
+保守解讀的限制：&lt;br /&gt;
+儘管研究結果具有高度啟發性，但臨床轉化上仍需保守看待其局限性。首先，此研究完全基於小鼠糖尿病模型，人體多因素造成的DKD微環境可能更為複雜 。其次，基因敲除是否可能帶來系統性的免疫抑制風險、其對人體長期安全的影響，以及T細胞內部的詳細調控細節（如基因體圖譜），仍有待更深入的研究釐清 。此外，本研究目前尚未評估腎臟中的異位脂質累積等脂質相關標記物，這在涉及神經醯胺生物合成補救途徑的S1P受體研究中，仍是未來需要探索的空白 。&lt;br /&gt;
+&lt;br /&gt;
+後續思考問題：&lt;br /&gt;
+在現有以代謝與血流動力學為主的DKD治療（如SGLT2抑制劑或GLP-1受體促效劑）已趨於成熟的背景下，未來若能在臨床上安全地結合針對T細胞運輸的免疫調節療法，您認為這將如何重塑早期糖尿病腎病變防線的治療格局？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: Top Research Abstracts Mechanisms of Diabetic Kidney Disease&lt;br /&gt;
+Speaker: Maha Itani - American University of Beirut&lt;br /&gt;
+Title: Targeted Deletion of Sphingosine 1-Phosphate Receptor 1 (S1PR1) in T Cells Confers Renoprotection in Diabetic Mice&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/8871940d-97f5-488c-af6c-0b2f6eeb2719</content:encoded><pubDate>Tue, 30 Jun 2026 10:08:02 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-30-20260630-0137-ada2026-scientific_parallel-targeted-deletion-of-sphingosine-1-phosphate-receptor-1-s1.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-30-20260630-0137-ada2026-scientific_parallel-targeted-deletion-of-sphingosine-1-phosphate-receptor-1-s1.m4a" length="14580900" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>19:59</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-30-20260630-0137-ada2026-scientific_parallel-targeted-deletion-of-sphingosine-1-phosphate-receptor-1-s1.jpg" /><link>https://mednote.zeabur.app/lectures/8871940d-97f5-488c-af6c-0b2f6eeb2719</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Expanding the Target Space for DKD: A Multiplexed Characterization of AAV Cellular Tropism Targeting Tubular Epithelial Cells for High Throughput In Vivo </title><description>ADA 2026 專業整理：在體學技術高速進步的時代，雖然基因體關聯研究已發現上千個與慢性腎臟病潛在相關的靶點，但如何在體內高通量驗證其因果關係仍是藥物研發的瓶頸 [1-3]。Gordian Biotechnology 團隊在 ADA 2026 發表了利用腺相關病毒（AAV）血清型篩選與體內混合馬賽克篩選（In Vivo Perturb-seq）技術，精確靶向腎小管上皮細胞，成功突破了傳統一次只能驗證單一靶點的研發限制 。
+
+以下為本場演講的核心要點整理，供臨床同仁參考：
+
+一、 臨床上面臨的研發瓶頸
+1. 靶點篩選規模的落差：根據 Susztak 實驗室高達 228 萬人（N = 2,287,877）參與的 eGFRcrea GWAS 元分析，目前已發現多達 99,595 個顯著變異位點與 1,026 個獨立基因座（其中 97 個為新發現）。
+2. 傳統驗證方法的侷限：要在複雜的慢性腎臟病（CKD）與糖尿病腎病變（DKD）動物模型中逐一驗證這些基因，傳統上一次只能進行單一基因的體內功能驗證 。這種方法效率低下，特別是在需要與現有藥物（如 SGLT2 抑制劑）評估聯合治療的協同效應時，已成為延緩新藥開發的主要臨床瓶頸 。
+
+二、 核心技術與關鍵數據
+為了解決可擴展性的挑戰，Gordian 開發了「體內混合馬賽克篩選」平台，藉由體內功能基因體學在單一動物體內同時測試數百種藥物靶點假設 ：
+1. 體內注射與馬賽克表達：構建包含數百個基因靶點（進行過度表達、敲低或敲除）的 AAV 載體庫，並以低劑量注射到疾病模型中，使多數細胞不接受任何干預，而受感染的細胞通常僅接受單一基因擾動 [7-9]。
+2. 單細胞定序讀取：利用單單核 RNA 定序（snRNA-seq / scRNA-seq），直接在疾病環境中評估基因擾動對病理通路的影響 。
+
+平台在多項動物模型中的驗證成效如下：
+1. 解決細胞特異性遞送（AAV 趨向性優化）：
+在 10 週齡發展出顯著 DKD 特徵的自由選擇飲食倉鼠模型中（表現為空腹血糖顯著升高 p = 0.0131、腎絲球過濾率 GFR 顯著下降 p = 0.0025、血清胱甘肽酶 C 顯著上升 p = 0.0070）[10-13]，在第 29-30 週注射含有 13 種帶條碼 AAV 血清型的混合庫，並於第 32 週進行單細胞分析 [10-13]。實驗成功鑑定出 AAV-KP1、AAV-DJ9 以及 AAV-DJ 對近端小管上皮細胞以及纖維母細胞與周細胞具有極高的特異性與轉導效率 [11, 13-15]。
+
+2. 腺嘌呤飲食小鼠體內概念驗證（PoC）：
+研究團隊在 0.2% 腺嘌呤飲食誘導的 CKD 小鼠模型（C57BL/6J 雄鼠，10 週齡）中，評估了一線 SGLT2 抑制劑（恩格列淨 Empagliflozin 30 mg/kg/day）治療下的表現 。恩格列淨治療顯著延緩了體重減輕並部分維持了 GFR（相較於未治療組顯著回升，p = 0.0002），但小鼠最終仍會進展至終末期腎衰竭，這與臨床上患者在接受標準治療後仍有疾病進展風險的現狀一致 [15-17]。
+在此基礎上，研究團隊利用 H11-SpCas9 轉基因小鼠進行體內 CRISPR 敲除篩選，涵蓋了臨床試驗陽性、代謝、鐵死亡/氧化還原、發炎、臨床試驗陰性及 GWAS 相關等多種類別的靶點 。結果顯示：
+• 目標基因的表達量成功出現 -1 至 -3 log2 倍數變化（mRNA 表達量減少了 50% 至 85%），證實了體內剪切的高效性 。
+• 敲除 Keap1（Nrf2 轉錄因子的抑制劑）後，細胞如預期激活了 Nrf2 信號、活性氧（ROS）解毒防禦及氧化磷酸化通路 。
+• 敲除 Jak1 後，顯著抑制了 JAK-STAT 促炎信號通路 。
+• 敲除 Ctnnb1（beta-catenin）後，雖然成功降低了 Wnt 信號，但同時也觀察到纖維化反應的加劇 。這顯示體內擾動定序能提供全面且真實的生物學回饋，避免單一指標評估的偏誤 。
+
+三、 對內分泌與糖尿病臨床實務的啟發
+1. 在現有標準治療背景下尋找協同靶點：該平台能在臨床現行一線藥物（如 SGLT2 抑制劑、RAAS 抑制劑）的治療背景下運作 。目前研究團隊正將此篩選平台轉譯至更具臨床相關性的複雜代謝性 DKD 模型——ZSF1 肥胖大鼠（於 10 週接受單側腎切除以加速腎病進展，並在恩格列淨與賴諾普利 Lisinopril 聯合治療背景下，於第 24 週注射 AAV 庫）[23-25]。這能協助臨床開發出能與現有一線藥物產生協同效應、克服標準治療殘餘風險的新一代治療藥物 。
+2. 心腎代謝（CRM）領域的多器官高通量篩選：此技術已成功擴展至心臟與脂肪組織 [5, 26-28]。在肥胖症篩選中，發現的新型靶點（如 Augury1）與司美格魯肽（Semaglutide）聯用時，展現出強大的協同減重效果（體重減輕達 20.3%，而單用司美格魯肽組僅減輕 12.6%） ；在 HFpEF 篩選中，驗證的新型靶點顯著改善了心臟舒張功能（縮短心室舒張時間常數 Tau 並降低左心室舒張末期壓力 LVEDP） 。
+
+四、 需要保守解讀的限制與臨床考量
+1. 鄰近細胞交互作用的干擾：在同一個組織（如腎小管）中引入多種不同的基因敲除，鄰近細胞間的異常相互作用是否會干擾疾病表型或創造出人工表型？雖然講者說明透過極低注射劑量（確保多數細胞未受干擾，避免相鄰細胞同時被干擾）以及分析數百個細胞來平均化雜訊，但此生物學交互作用仍需在後續研究中持續謹慎評估 。
+2. 臨床轉譯的不確定性：目前所有研究數據均來自 pre-clinical 動物模型（小鼠、大鼠與倉鼠） 。雖然模型能模擬部分人類共病，但其對於人類極其複雜的糖尿病腎病變病理生理學的轉譯效力，仍待臨床試驗進一步驗證 。
+3. 關鍵研究仍在進行中：ZSF1 肥胖大鼠在 SGLT2i + RAASi 背景下的體內篩選項目目前仍在進行中（第 24 週注射，計畫於 28 週分析），尚未發表最終的靶點驗證數據 [23-25]。
+
+給醫師同仁的後續思考問題：
+在未來，當這種體內高通量篩選技術能精確找出與現行標準治療（如 SGLT2i 及 GLP-1 RA）具強烈協同作用的新興基因靶點時，您認為這對我們目前所採用的多學科聯手「心腎代謝（CRM）綜合管理」策略將會帶來怎樣的實質轉變？
+
+來源：
+ADA 2026 Scientific Sessions
+Session: Top Research Abstracts Mechanisms of Diabetic Kidney Disease
+Speaker: Gavin Pharaoh - Gordian Biotechnology
+Title: Expanding the Target Space for DKD: A Multiplexed Characterization of AAV Cellular Tropism Targeting Tubular Epithelial Cells for High Throughput In Vivo Perturb-seq
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/c258d7a1-ea55-43e5-9c3b-4c8d515e4755</description><content:encoded>ADA 2026 專業整理：在體學技術高速進步的時代，雖然基因體關聯研究已發現上千個與慢性腎臟病潛在相關的靶點，但如何在體內高通量驗證其因果關係仍是藥物研發的瓶頸 [1-3]。Gordian Biotechnology 團隊在 ADA 2026 發表了利用腺相關病毒（AAV）血清型篩選與體內混合馬賽克篩選（In Vivo Perturb-seq）技術，精確靶向腎小管上皮細胞，成功突破了傳統一次只能驗證單一靶點的研發限制 。&lt;br /&gt;
+&lt;br /&gt;
+以下為本場演講的核心要點整理，供臨床同仁參考：&lt;br /&gt;
+&lt;br /&gt;
+一、 臨床上面臨的研發瓶頸&lt;br /&gt;
+1. 靶點篩選規模的落差：根據 Susztak 實驗室高達 228 萬人（N = 2,287,877）參與的 eGFRcrea GWAS 元分析，目前已發現多達 99,595 個顯著變異位點與 1,026 個獨立基因座（其中 97 個為新發現）。&lt;br /&gt;
+2. 傳統驗證方法的侷限：要在複雜的慢性腎臟病（CKD）與糖尿病腎病變（DKD）動物模型中逐一驗證這些基因，傳統上一次只能進行單一基因的體內功能驗證 。這種方法效率低下，特別是在需要與現有藥物（如 SGLT2 抑制劑）評估聯合治療的協同效應時，已成為延緩新藥開發的主要臨床瓶頸 。&lt;br /&gt;
+&lt;br /&gt;
+二、 核心技術與關鍵數據&lt;br /&gt;
+為了解決可擴展性的挑戰，Gordian 開發了「體內混合馬賽克篩選」平台，藉由體內功能基因體學在單一動物體內同時測試數百種藥物靶點假設 ：&lt;br /&gt;
+1. 體內注射與馬賽克表達：構建包含數百個基因靶點（進行過度表達、敲低或敲除）的 AAV 載體庫，並以低劑量注射到疾病模型中，使多數細胞不接受任何干預，而受感染的細胞通常僅接受單一基因擾動 [7-9]。&lt;br /&gt;
+2. 單細胞定序讀取：利用單單核 RNA 定序（snRNA-seq / scRNA-seq），直接在疾病環境中評估基因擾動對病理通路的影響 。&lt;br /&gt;
+&lt;br /&gt;
+平台在多項動物模型中的驗證成效如下：&lt;br /&gt;
+1. 解決細胞特異性遞送（AAV 趨向性優化）：&lt;br /&gt;
+在 10 週齡發展出顯著 DKD 特徵的自由選擇飲食倉鼠模型中（表現為空腹血糖顯著升高 p = 0.0131、腎絲球過濾率 GFR 顯著下降 p = 0.0025、血清胱甘肽酶 C 顯著上升 p = 0.0070）[10-13]，在第 29-30 週注射含有 13 種帶條碼 AAV 血清型的混合庫，並於第 32 週進行單細胞分析 [10-13]。實驗成功鑑定出 AAV-KP1、AAV-DJ9 以及 AAV-DJ 對近端小管上皮細胞以及纖維母細胞與周細胞具有極高的特異性與轉導效率 [11, 13-15]。&lt;br /&gt;
+&lt;br /&gt;
+2. 腺嘌呤飲食小鼠體內概念驗證（PoC）：&lt;br /&gt;
+研究團隊在 0.2% 腺嘌呤飲食誘導的 CKD 小鼠模型（C57BL/6J 雄鼠，10 週齡）中，評估了一線 SGLT2 抑制劑（恩格列淨 Empagliflozin 30 mg/kg/day）治療下的表現 。恩格列淨治療顯著延緩了體重減輕並部分維持了 GFR（相較於未治療組顯著回升，p = 0.0002），但小鼠最終仍會進展至終末期腎衰竭，這與臨床上患者在接受標準治療後仍有疾病進展風險的現狀一致 [15-17]。&lt;br /&gt;
+在此基礎上，研究團隊利用 H11-SpCas9 轉基因小鼠進行體內 CRISPR 敲除篩選，涵蓋了臨床試驗陽性、代謝、鐵死亡/氧化還原、發炎、臨床試驗陰性及 GWAS 相關等多種類別的靶點 。結果顯示：&lt;br /&gt;
+• 目標基因的表達量成功出現 -1 至 -3 log2 倍數變化（mRNA 表達量減少了 50% 至 85%），證實了體內剪切的高效性 。&lt;br /&gt;
+• 敲除 Keap1（Nrf2 轉錄因子的抑制劑）後，細胞如預期激活了 Nrf2 信號、活性氧（ROS）解毒防禦及氧化磷酸化通路 。&lt;br /&gt;
+• 敲除 Jak1 後，顯著抑制了 JAK-STAT 促炎信號通路 。&lt;br /&gt;
+• 敲除 Ctnnb1（beta-catenin）後，雖然成功降低了 Wnt 信號，但同時也觀察到纖維化反應的加劇 。這顯示體內擾動定序能提供全面且真實的生物學回饋，避免單一指標評估的偏誤 。&lt;br /&gt;
+&lt;br /&gt;
+三、 對內分泌與糖尿病臨床實務的啟發&lt;br /&gt;
+1. 在現有標準治療背景下尋找協同靶點：該平台能在臨床現行一線藥物（如 SGLT2 抑制劑、RAAS 抑制劑）的治療背景下運作 。目前研究團隊正將此篩選平台轉譯至更具臨床相關性的複雜代謝性 DKD 模型——ZSF1 肥胖大鼠（於 10 週接受單側腎切除以加速腎病進展，並在恩格列淨與賴諾普利 Lisinopril 聯合治療背景下，於第 24 週注射 AAV 庫）[23-25]。這能協助臨床開發出能與現有一線藥物產生協同效應、克服標準治療殘餘風險的新一代治療藥物 。&lt;br /&gt;
+2. 心腎代謝（CRM）領域的多器官高通量篩選：此技術已成功擴展至心臟與脂肪組織 [5, 26-28]。在肥胖症篩選中，發現的新型靶點（如 Augury1）與司美格魯肽（Semaglutide）聯用時，展現出強大的協同減重效果（體重減輕達 20.3%，而單用司美格魯肽組僅減輕 12.6%） ；在 HFpEF 篩選中，驗證的新型靶點顯著改善了心臟舒張功能（縮短心室舒張時間常數 Tau 並降低左心室舒張末期壓力 LVEDP） 。&lt;br /&gt;
+&lt;br /&gt;
+四、 需要保守解讀的限制與臨床考量&lt;br /&gt;
+1. 鄰近細胞交互作用的干擾：在同一個組織（如腎小管）中引入多種不同的基因敲除，鄰近細胞間的異常相互作用是否會干擾疾病表型或創造出人工表型？雖然講者說明透過極低注射劑量（確保多數細胞未受干擾，避免相鄰細胞同時被干擾）以及分析數百個細胞來平均化雜訊，但此生物學交互作用仍需在後續研究中持續謹慎評估 。&lt;br /&gt;
+2. 臨床轉譯的不確定性：目前所有研究數據均來自 pre-clinical 動物模型（小鼠、大鼠與倉鼠） 。雖然模型能模擬部分人類共病，但其對於人類極其複雜的糖尿病腎病變病理生理學的轉譯效力，仍待臨床試驗進一步驗證 。&lt;br /&gt;
+3. 關鍵研究仍在進行中：ZSF1 肥胖大鼠在 SGLT2i + RAASi 背景下的體內篩選項目目前仍在進行中（第 24 週注射，計畫於 28 週分析），尚未發表最終的靶點驗證數據 [23-25]。&lt;br /&gt;
+&lt;br /&gt;
+給醫師同仁的後續思考問題：&lt;br /&gt;
+在未來，當這種體內高通量篩選技術能精確找出與現行標準治療（如 SGLT2i 及 GLP-1 RA）具強烈協同作用的新興基因靶點時，您認為這對我們目前所採用的多學科聯手「心腎代謝（CRM）綜合管理」策略將會帶來怎樣的實質轉變？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: Top Research Abstracts Mechanisms of Diabetic Kidney Disease&lt;br /&gt;
+Speaker: Gavin Pharaoh - Gordian Biotechnology&lt;br /&gt;
+Title: Expanding the Target Space for DKD: A Multiplexed Characterization of AAV Cellular Tropism Targeting Tubular Epithelial Cells for High Throughput In Vivo Perturb-seq&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/c258d7a1-ea55-43e5-9c3b-4c8d515e4755</content:encoded><pubDate>Tue, 30 Jun 2026 10:08:02 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-30-20260630-0807-ada2026-scientific_parallel-expanding-the-target-space-for-dkd-a-multiplexed-character.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-30-20260630-0807-ada2026-scientific_parallel-expanding-the-target-space-for-dkd-a-multiplexed-character.m4a" length="20192986" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>27:43</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-30-20260630-0807-ada2026-scientific_parallel-expanding-the-target-space-for-dkd-a-multiplexed-character.jpg" /><link>https://mednote.zeabur.app/lectures/c258d7a1-ea55-43e5-9c3b-4c8d515e4755</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Modeling Immune Responses to Autologous and Allogeneic Human Stem Cell–Derived Islet Grafts In Vivo</title><description>ADA 2026 演講重點：利用人源化小鼠模型體內研究自體與異體人類幹細胞衍生胰島（iPSC-derived islets）的免疫反應，為解決第一型糖尿病替代療法的免疫挑戰提供了全新突破 。
+
+臨床問題
+第一型糖尿病（T1D）的核心病理是自體免疫破壞胰臟貝他細胞，導致胰島素缺乏 。雖然胰島移植能改善血糖控制，但面臨供體稀少與必須終身使用免疫抑制治療的兩大臨床限制 。利用人類誘導多功能幹細胞衍生胰島（iPSC-derived islets）進行自體（Autologous）或異體（Allogeneic）移植是極具吸引力的替代策略 。然而，人類免疫系統在體內如何反應於自體與異體移植物？以及T1D患者體內鑑定出的胰島抗原反應性T細胞是否會攻擊自體衍生胰島？這是轉譯醫學亟待釐清的關鍵 。
+
+試驗設計與關鍵數據
+研究團隊建立了一套同時包含人類免疫系統與幹細胞衍生胰島移植物的人源化小鼠模型 ：
+1. 免疫系統重建：使用去胸腺NSG小鼠，移植同一人類胎兒供體的CD34+造血幹細胞與胸腺組織（HLA型別為HLA-A2、DR4、DQ8陽性），重建包含人類T細胞、B細胞與單核細胞的免疫系統 。
+2. 自體與異體對照設計：
+• 自體組：將上述同一胎兒供體的CD34陰性細胞 reprogramming 為iPSC，再分化為胰島，構成與小鼠免疫系統同源的自體移植 。
+• 異體組：使用完全無關之成年供體的纖維母細胞製備iPSC與胰島，其 HLA Class I 與 Class II 均為完全不相合（mismatched） 。
+3. 胰島分化與體內功能：分化結束時，至少50%細胞表現 C-peptide，其中約40%同時表現貝他細胞關鍵轉錄因子 NKX6.1 。移植約6週後可測得人類 C-peptide 。出乎預期的是，所有組別（含異體組）血中 C-peptide 皆隨時間上升，體內 C-peptide 濃度與移植前分化效率高度相關，非單純由排斥狀態決定 。
+4. 高解析組織影像分析：移植末期以質譜流式成像（IMC）分析顯示，異體組的免疫浸潤顯著高於自體組，且 CD45+ 免疫細胞呈現高度的局部群聚（100微米半徑內局部聚集數量顯著增加） 。
+5. 浸潤免疫細胞組成：異體組中特別富集了 CD8+ T 細胞（異體排斥主要效應細胞）以及 CD68+CD163+ 巨傷細胞（與抗發炎反應及異體纖維化重塑相關） 。
+6. 細胞增殖指標（Ki-67）：異體組中除了 CD45+Ki-67+ 免疫細胞顯著富集外，阿爾法細胞（Glucagon+）與貝他細胞（C-peptide+）的增殖活性也顯著高於自體組 。這提示免疫破壞可能激發了內分泌細胞體內的代償性再生，從而解釋了為何異體組在遭受持續免疫攻擊下仍能維持血中 C-peptide 。
+7. 自體免疫模型建立：自小鼠脾臟分離T細胞，使用 CRISPR-Cas9 移除內源性 TCR 以最大化轉基因表達，並導入由 T1D 患者體內鑑定出的胰島抗原反應性 TCR 。回輸 T 細胞（每隻0.1至0.5 million細胞）至已植入自體胰島的小鼠體內，3週後分析發現，移植物內 CD3+ T 細胞或 CD45+ 免疫浸潤並無顯著增加，雖然這些自體反應性T細胞可在脾臟中存活，但並未主動浸潤自體移植物 。
+
+對內分泌臨床實務的啟發
+1. 證實自體 iPSC 衍生胰島具高度免疫相容性，在無免疫抑制狀態下體內浸潤極低，支持自體移植作為免除終身免疫抑制劑的潛在路徑 。
+2. 移植物的體內分泌功能深受移植前細胞分化與成熟品質影響，臨床轉譯時必須對幹細胞分化製程（如 C-peptide 與 NKX6.1 雙陽性率）進行極嚴格的品質控管 。
+3. 異體組內分泌細胞在免疫攻擊下展現出增殖現象，顯示移植物具備體內修復與代償潛力，為開發促進胰島再生與存活的協同療法提供了新方向 。
+4. 單純存在循環自體反應性T細胞不足以觸發對自體胰島的免疫攻擊，提示臨床上 T1D 的免疫復發可能還需要額外的微環境信號，例如局部發炎、抗原呈現加強或特定的固有免疫激活 。
+
+需要保守解讀的限制
+1. 此為人源化小鼠體內模型，目前仍無法確定移植物內的新生血管是否含有完整的人類內皮細胞；若否，可能因黏附受體不相容而低估人類T細胞穿透內皮的能力 。
+2. 體外擴增後的轉基因T細胞多呈現效應記憶表型（effector memory），可能存在某種程度的功能耗竭，從而限制了其向自體移植物定向浸潤的能力 。
+3. 異體組在研究期間雖能維持高水平 C-peptide，但此為短期觀察，長期持續的人類異體排斥與纖維化重塑預期仍會逐漸摧毀移植物功能 。
+
+思考題
+在未來的幹細胞衍生胰島替代療法中，我們應如何設計聯合免疫調控策略，以在不使用全身性免疫抑制劑的前提下，同時克服異體排斥，並避免因局部發炎等額外信號觸發自體移植物的自體免疫復發？
+
+來源：
+ADA 2026 Scientific Sessions
+Session: Immune Heterogeneity and Endotypes in Type 1 Diabetes Insights from Human Studies and Humanized Models
+Speaker: Giorgia Zanetti - Columbia Center for Translational Immunology
+Title: Modeling Immune Responses to Autologous and Allogeneic Human Stem Cell-Derived Islet Grafts In Vivo
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/e781e7f5-054c-48eb-93b3-e3eae4ca12f9</description><content:encoded>ADA 2026 演講重點：利用人源化小鼠模型體內研究自體與異體人類幹細胞衍生胰島（iPSC-derived islets）的免疫反應，為解決第一型糖尿病替代療法的免疫挑戰提供了全新突破 。&lt;br /&gt;
+&lt;br /&gt;
+臨床問題&lt;br /&gt;
+第一型糖尿病（T1D）的核心病理是自體免疫破壞胰臟貝他細胞，導致胰島素缺乏 。雖然胰島移植能改善血糖控制，但面臨供體稀少與必須終身使用免疫抑制治療的兩大臨床限制 。利用人類誘導多功能幹細胞衍生胰島（iPSC-derived islets）進行自體（Autologous）或異體（Allogeneic）移植是極具吸引力的替代策略 。然而，人類免疫系統在體內如何反應於自體與異體移植物？以及T1D患者體內鑑定出的胰島抗原反應性T細胞是否會攻擊自體衍生胰島？這是轉譯醫學亟待釐清的關鍵 。&lt;br /&gt;
+&lt;br /&gt;
+試驗設計與關鍵數據&lt;br /&gt;
+研究團隊建立了一套同時包含人類免疫系統與幹細胞衍生胰島移植物的人源化小鼠模型 ：&lt;br /&gt;
+1. 免疫系統重建：使用去胸腺NSG小鼠，移植同一人類胎兒供體的CD34+造血幹細胞與胸腺組織（HLA型別為HLA-A2、DR4、DQ8陽性），重建包含人類T細胞、B細胞與單核細胞的免疫系統 。&lt;br /&gt;
+2. 自體與異體對照設計：&lt;br /&gt;
+• 自體組：將上述同一胎兒供體的CD34陰性細胞 reprogramming 為iPSC，再分化為胰島，構成與小鼠免疫系統同源的自體移植 。&lt;br /&gt;
+• 異體組：使用完全無關之成年供體的纖維母細胞製備iPSC與胰島，其 HLA Class I 與 Class II 均為完全不相合（mismatched） 。&lt;br /&gt;
+3. 胰島分化與體內功能：分化結束時，至少50%細胞表現 C-peptide，其中約40%同時表現貝他細胞關鍵轉錄因子 NKX6.1 。移植約6週後可測得人類 C-peptide 。出乎預期的是，所有組別（含異體組）血中 C-peptide 皆隨時間上升，體內 C-peptide 濃度與移植前分化效率高度相關，非單純由排斥狀態決定 。&lt;br /&gt;
+4. 高解析組織影像分析：移植末期以質譜流式成像（IMC）分析顯示，異體組的免疫浸潤顯著高於自體組，且 CD45+ 免疫細胞呈現高度的局部群聚（100微米半徑內局部聚集數量顯著增加） 。&lt;br /&gt;
+5. 浸潤免疫細胞組成：異體組中特別富集了 CD8+ T 細胞（異體排斥主要效應細胞）以及 CD68+CD163+ 巨傷細胞（與抗發炎反應及異體纖維化重塑相關） 。&lt;br /&gt;
+6. 細胞增殖指標（Ki-67）：異體組中除了 CD45+Ki-67+ 免疫細胞顯著富集外，阿爾法細胞（Glucagon+）與貝他細胞（C-peptide+）的增殖活性也顯著高於自體組 。這提示免疫破壞可能激發了內分泌細胞體內的代償性再生，從而解釋了為何異體組在遭受持續免疫攻擊下仍能維持血中 C-peptide 。&lt;br /&gt;
+7. 自體免疫模型建立：自小鼠脾臟分離T細胞，使用 CRISPR-Cas9 移除內源性 TCR 以最大化轉基因表達，並導入由 T1D 患者體內鑑定出的胰島抗原反應性 TCR 。回輸 T 細胞（每隻0.1至0.5 million細胞）至已植入自體胰島的小鼠體內，3週後分析發現，移植物內 CD3+ T 細胞或 CD45+ 免疫浸潤並無顯著增加，雖然這些自體反應性T細胞可在脾臟中存活，但並未主動浸潤自體移植物 。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的啟發&lt;br /&gt;
+1. 證實自體 iPSC 衍生胰島具高度免疫相容性，在無免疫抑制狀態下體內浸潤極低，支持自體移植作為免除終身免疫抑制劑的潛在路徑 。&lt;br /&gt;
+2. 移植物的體內分泌功能深受移植前細胞分化與成熟品質影響，臨床轉譯時必須對幹細胞分化製程（如 C-peptide 與 NKX6.1 雙陽性率）進行極嚴格的品質控管 。&lt;br /&gt;
+3. 異體組內分泌細胞在免疫攻擊下展現出增殖現象，顯示移植物具備體內修復與代償潛力，為開發促進胰島再生與存活的協同療法提供了新方向 。&lt;br /&gt;
+4. 單純存在循環自體反應性T細胞不足以觸發對自體胰島的免疫攻擊，提示臨床上 T1D 的免疫復發可能還需要額外的微環境信號，例如局部發炎、抗原呈現加強或特定的固有免疫激活 。&lt;br /&gt;
+&lt;br /&gt;
+需要保守解讀的限制&lt;br /&gt;
+1. 此為人源化小鼠體內模型，目前仍無法確定移植物內的新生血管是否含有完整的人類內皮細胞；若否，可能因黏附受體不相容而低估人類T細胞穿透內皮的能力 。&lt;br /&gt;
+2. 體外擴增後的轉基因T細胞多呈現效應記憶表型（effector memory），可能存在某種程度的功能耗竭，從而限制了其向自體移植物定向浸潤的能力 。&lt;br /&gt;
+3. 異體組在研究期間雖能維持高水平 C-peptide，但此為短期觀察，長期持續的人類異體排斥與纖維化重塑預期仍會逐漸摧毀移植物功能 。&lt;br /&gt;
+&lt;br /&gt;
+思考題&lt;br /&gt;
+在未來的幹細胞衍生胰島替代療法中，我們應如何設計聯合免疫調控策略，以在不使用全身性免疫抑制劑的前提下，同時克服異體排斥，並避免因局部發炎等額外信號觸發自體移植物的自體免疫復發？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: Immune Heterogeneity and Endotypes in Type 1 Diabetes Insights from Human Studies and Humanized Models&lt;br /&gt;
+Speaker: Giorgia Zanetti - Columbia Center for Translational Immunology&lt;br /&gt;
+Title: Modeling Immune Responses to Autologous and Allogeneic Human Stem Cell-Derived Islet Grafts In Vivo&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/e781e7f5-054c-48eb-93b3-e3eae4ca12f9</content:encoded><pubDate>Mon, 29 Jun 2026 11:50:06 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-1136-ada2026-plenary-modeling-immune-responses-to-autologous-and-allogeneic-hum.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-1136-ada2026-plenary-modeling-immune-responses-to-autologous-and-allogeneic-hum.m4a" length="9240783" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>12:40</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-29-20260629-1136-ada2026-plenary-modeling-immune-responses-to-autologous-and-allogeneic-hum.jpg" /><link>https://mednote.zeabur.app/lectures/e781e7f5-054c-48eb-93b3-e3eae4ca12f9</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Spatial Organization of Human Islet Endocrine Cells Modulates Stimulated Hormone Secretion</title><description>ADA 2026 專業整理：人類胰島內分泌細胞的空間排列如何調控荷爾蒙分泌功能
+
+臨床上面臨的研究問題
+胰臟胰島僅佔胰臟總質量的 1% 至 2%，且無法在健康人體內進行安全切片，因此人類胰島的研究高度依賴器官捐贈者的 ex vivo 分析 。過去科學界已知小鼠胰島具有核心為 β 細胞、外圍為 α 與 δ 細胞的清晰結構；相較之下，人類胰島的內分泌細胞呈現高度交錯（intermingled）排列，過往文獻常認為其屬於隨機分佈 。這項研究的核心問題在於：人類胰島內分泌細胞的空間分佈真的是隨機的嗎？如果是，這些空間排列方式是否會進一步影響其受刺激後的荷爾蒙分泌功能？ 
+
+關鍵研究訊息與實驗設計
+研究團隊建立了一套標準的操作流程，分析來自器官分發計畫（IIDP）與人類胰臟分析計畫（HPAP）共 600 位無糖尿病捐贈者的胰島組織影像，其中 566 位具備完整的動態灌流（dynamic perifusion）胰島素與升糖素分泌數據 。研究透過機器學習演算法標註了約 48,000 個胰島、750 萬個細胞，並建立細胞鄰近關係圖（cell-cell proximity graph）來描述細胞間的空間排列規律 。
+
+主要研究發現包括：
+1. 局部空間排列並非隨機：高達 88% 的胰島中，β-β 細胞空間相鄰的富集度顯著高於隨機預期，α-α（68% 的胰島）與 δ-δ（63% 的胰島）也呈現相似的同類聚集趨勢 。這證實人類胰島內分泌細胞並非完全隨機分佈 。
+2. 具備特定的邊界與核心分佈（Boundary-to-core）：相較於隨機排列，人類胰島中 β 細胞顯著富集於胰島邊界（p 小於 10的負300次方），而 α 與 δ 細胞則顯著富集於胰島核心（α 細胞富集 p 小於 10的負300次方；δ 細胞富集 p = 1.4x10的負6次方） 。
+3. 空間排列可獨立預測胰島素分泌：透過圖神經網路（GNN）分析顯示，真實的細胞空間結構對胰島素分泌特徵（包括基礎分泌、第一相/第二相高糖刺激分泌、高糖合併 IBMX 刺激等 AUC 與分泌指數）的預測能力，顯著優於將細胞類型標籤隨機打亂的控制組 。然而，空間排列資訊並未顯著提升升糖素分泌特徵的預測表現 。
+4. 核心 δ 細胞富集與胰島素分泌功能減弱相關：在校正了捐贈者年齡、性別、BMI、HbA1c、胰島分離中心、培養與運輸時間，以及捐贈者層級的整體 α/β/δ 細胞組成比例後，若胰島核心的 δ 細胞比例較高，該捐贈者胰島對多種刺激的胰島素分泌反應傾向較弱 。
+
+對內分泌臨床實務的啟發
+這項研究打破了過往「人類胰島僅是隨機混雜細胞群」的傳統觀點，證實微環境中的空間排列具有關鍵的功能意義 。這啟發臨床研究者與醫療團隊，在探討胰島功能障礙（如第二型糖尿病）與發展新興治療時，不應只關注胰島細胞的「組成比例」或「細胞數量」的增減；細胞在微環境中的「空間排列位置」及其帶來的局部旁分泌（paracrine）調控（例如 δ 細胞釋放 somatostatin 的局部作用範圍），可能是決定胰島素分泌能力的關鍵因素 。
+
+需要保守解讀的限制
+1. 本研究主要採用二維（2D）組織學切片影像進行分析，無法完整捕捉與捕捉真實胰島的三維（3D）立體架構 。
+2. 分析尚未納入細胞型態學特徵（如細胞大小、形狀或核特徵） 。
+3. 目前模型主要聚焦於內分泌細胞，尚未完整納入微血管、周皮細胞、神經纖維與免疫細胞等其他微環境要素，這些要素已知同樣會調控胰島功能 。
+4. 目前結果僅呈現關聯性（correlation），無法直接證實空間排列（例如 δ 細胞富集於核心）與分泌功能減弱之間具備因果關係（causation），其背後的確切機制仍有待未來結合 3D 影像、CODEX 與空間轉錄組學進一步釐清 。
+
+後續思考問題
+在未來開發促進胰島再生、體外培養或細胞移植的治療策略時，我們該如何不僅重建 β 細胞的數量，更精準地引導並維持不同內分泌細胞的特定空間排列架構，以達到最生理化且穩定的荷爾蒙分泌功能？
+
+來源：ADA 2026 Scientific Sessions, Session: Human Islet Cell Identity and Organization, Title: Spatial Organization of Human Islet Endocrine Cells Modulates Stimulated Hormone Secretion (Fan Feng - Vanderbilt University Medical Center)
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/fb8f9d51-5d1c-4ba3-a4b8-81d984237da0</description><content:encoded>ADA 2026 專業整理：人類胰島內分泌細胞的空間排列如何調控荷爾蒙分泌功能&lt;br /&gt;
+&lt;br /&gt;
+臨床上面臨的研究問題&lt;br /&gt;
+胰臟胰島僅佔胰臟總質量的 1% 至 2%，且無法在健康人體內進行安全切片，因此人類胰島的研究高度依賴器官捐贈者的 ex vivo 分析 。過去科學界已知小鼠胰島具有核心為 β 細胞、外圍為 α 與 δ 細胞的清晰結構；相較之下，人類胰島的內分泌細胞呈現高度交錯（intermingled）排列，過往文獻常認為其屬於隨機分佈 。這項研究的核心問題在於：人類胰島內分泌細胞的空間分佈真的是隨機的嗎？如果是，這些空間排列方式是否會進一步影響其受刺激後的荷爾蒙分泌功能？ &lt;br /&gt;
+&lt;br /&gt;
+關鍵研究訊息與實驗設計&lt;br /&gt;
+研究團隊建立了一套標準的操作流程，分析來自器官分發計畫（IIDP）與人類胰臟分析計畫（HPAP）共 600 位無糖尿病捐贈者的胰島組織影像，其中 566 位具備完整的動態灌流（dynamic perifusion）胰島素與升糖素分泌數據 。研究透過機器學習演算法標註了約 48,000 個胰島、750 萬個細胞，並建立細胞鄰近關係圖（cell-cell proximity graph）來描述細胞間的空間排列規律 。&lt;br /&gt;
+&lt;br /&gt;
+主要研究發現包括：&lt;br /&gt;
+1. 局部空間排列並非隨機：高達 88% 的胰島中，β-β 細胞空間相鄰的富集度顯著高於隨機預期，α-α（68% 的胰島）與 δ-δ（63% 的胰島）也呈現相似的同類聚集趨勢 。這證實人類胰島內分泌細胞並非完全隨機分佈 。&lt;br /&gt;
+2. 具備特定的邊界與核心分佈（Boundary-to-core）：相較於隨機排列，人類胰島中 β 細胞顯著富集於胰島邊界（p 小於 10的負300次方），而 α 與 δ 細胞則顯著富集於胰島核心（α 細胞富集 p 小於 10的負300次方；δ 細胞富集 p = 1.4x10的負6次方） 。&lt;br /&gt;
+3. 空間排列可獨立預測胰島素分泌：透過圖神經網路（GNN）分析顯示，真實的細胞空間結構對胰島素分泌特徵（包括基礎分泌、第一相/第二相高糖刺激分泌、高糖合併 IBMX 刺激等 AUC 與分泌指數）的預測能力，顯著優於將細胞類型標籤隨機打亂的控制組 。然而，空間排列資訊並未顯著提升升糖素分泌特徵的預測表現 。&lt;br /&gt;
+4. 核心 δ 細胞富集與胰島素分泌功能減弱相關：在校正了捐贈者年齡、性別、BMI、HbA1c、胰島分離中心、培養與運輸時間，以及捐贈者層級的整體 α/β/δ 細胞組成比例後，若胰島核心的 δ 細胞比例較高，該捐贈者胰島對多種刺激的胰島素分泌反應傾向較弱 。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的啟發&lt;br /&gt;
+這項研究打破了過往「人類胰島僅是隨機混雜細胞群」的傳統觀點，證實微環境中的空間排列具有關鍵的功能意義 。這啟發臨床研究者與醫療團隊，在探討胰島功能障礙（如第二型糖尿病）與發展新興治療時，不應只關注胰島細胞的「組成比例」或「細胞數量」的增減；細胞在微環境中的「空間排列位置」及其帶來的局部旁分泌（paracrine）調控（例如 δ 細胞釋放 somatostatin 的局部作用範圍），可能是決定胰島素分泌能力的關鍵因素 。&lt;br /&gt;
+&lt;br /&gt;
+需要保守解讀的限制&lt;br /&gt;
+1. 本研究主要採用二維（2D）組織學切片影像進行分析，無法完整捕捉與捕捉真實胰島的三維（3D）立體架構 。&lt;br /&gt;
+2. 分析尚未納入細胞型態學特徵（如細胞大小、形狀或核特徵） 。&lt;br /&gt;
+3. 目前模型主要聚焦於內分泌細胞，尚未完整納入微血管、周皮細胞、神經纖維與免疫細胞等其他微環境要素，這些要素已知同樣會調控胰島功能 。&lt;br /&gt;
+4. 目前結果僅呈現關聯性（correlation），無法直接證實空間排列（例如 δ 細胞富集於核心）與分泌功能減弱之間具備因果關係（causation），其背後的確切機制仍有待未來結合 3D 影像、CODEX 與空間轉錄組學進一步釐清 。&lt;br /&gt;
+&lt;br /&gt;
+後續思考問題&lt;br /&gt;
+在未來開發促進胰島再生、體外培養或細胞移植的治療策略時，我們該如何不僅重建 β 細胞的數量，更精準地引導並維持不同內分泌細胞的特定空間排列架構，以達到最生理化且穩定的荷爾蒙分泌功能？&lt;br /&gt;
+&lt;br /&gt;
+來源：ADA 2026 Scientific Sessions, Session: Human Islet Cell Identity and Organization, Title: Spatial Organization of Human Islet Endocrine Cells Modulates Stimulated Hormone Secretion (Fan Feng - Vanderbilt University Medical Center)&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/fb8f9d51-5d1c-4ba3-a4b8-81d984237da0</content:encoded><pubDate>Mon, 29 Jun 2026 06:10:33 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-0554-ada2026-plenary-spatial-organization-of-human-islet-endocrine-cells-modula.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-0554-ada2026-plenary-spatial-organization-of-human-islet-endocrine-cells-modula.m4a" length="13848727" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>19:01</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-29-20260629-0554-ada2026-plenary-spatial-organization-of-human-islet-endocrine-cells-modula.jpg" /><link>https://mednote.zeabur.app/lectures/fb8f9d51-5d1c-4ba3-a4b8-81d984237da0</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Modeling In Utero Glucose Exposure Using Indigenous American HiPSC-Derived Pancreatic Islets</title><description>ADA 2026 專業整理：母體妊娠高血糖如何「編程」子代胰島功能缺陷？
+
+【臨床問題與研究背景】
+過去流行病學研究已證實，母體在懷孕前若已罹患第 2 型糖尿病（Maternal diabetes during pregnancy），會顯著增加子代在各年齡層發展第 2 型糖尿病的風險 [1-3]。令人警惕的是，這些子代在自己尚未發病之前，就已被偵測到急性胰島素分泌反應（acute insulin secretory response）降低的現象 。然而，子宮內的高糖暴露究竟如何影響發育中的胰島細胞組成、功能、轉錄體與表觀遺傳狀態，且這些缺陷在移除高糖後是否會持久存在，其中關鍵的分子編程機制仍有待釐清 。
+
+【試驗設計與細胞模型系統】
+講者 Anup Nair 醫師（NIDDK/NIH）團隊在遵循原住民族合作研究倫理（CONSIDER statement）原則下，取得美洲原住民族受試者的誘導性多潛能幹細胞（iPSC）進行胰島分化模擬 。
+發育流程分為：Day 10 形成多潛能胰臟前驅細胞（PPs） ──＞ Day 20 形成未成熟胰島（SC-islets，轉錄體類似胎兒胰島） ──＞ Day 34 取得葡萄糖刺激胰島素分泌（GSIS）能力之成熟胰島（轉錄體類似成人胰島） 。
+為了拆解不同時期的影響，研究創新設計了四種葡萄糖暴露條件組合（結合 5.5 mM 生理濃度與 25 mM 高糖）：
+• A1 全程生理糖組：發育期 5.5 mM / 成熟期 5.5 mM（對照組） 
+• A3 僅成熟期高糖組：發育期 5.5 mM / 成熟期 25 mM 
+• C1 僅發育期高糖組：發育期 25 mM / 成熟期 5.5 mM 
+• C3 全程持續高糖組：發育期 25 mM / 成熟期 25 mM 
+
+【關鍵數據與機制發現】
+1. 胰島組成與激素加工：
+流式細胞儀分析顯示，四組條件皆能分化出相當比例的功能性 beta 細胞（INS 與 NKX6.1 雙陽性，約 35% 至 55%），且組間數量差異小於 5%（A1 vs C1 僅相差約 4.8%） [11-13]。各組的總胰島素含量（insulin content）與胰島素前體加工比例（proinsulin/insulin ratio 均小於 0.1）亦無顯著組間差異 。這證實了後續的分泌功能障礙並非源自細胞數量不足或加工缺陷 。
+
+2. 暴露時間窗決定分泌缺陷型態：
+• 成熟期高糖（A3）：顯著降低第一相（1st phase）胰島素分泌的曲線下面積（AUC），且在刺激結束後，分泌反應回歸基線的速度顯著延遲 [16-20]。
+• 發育期高糖（C1）：顯著降低第二相（2nd phase）胰島素分泌的 AUC，且此第二相分泌缺陷在成熟期移回 5.5 mM 生理糖環境後仍無法逆轉 [17-20]。
+• 全程高糖（C3）：第一相與第二相胰島素分泌皆顯著受損 [18-20]。
+
+3. 轉錄體與表觀遺傳重塑：
+• 成熟期高糖（A3、C3）主要誘發急性葡萄糖反應基因（TXNIP、RGS16、RBPMS2 等）與影響第一相分泌的候選轉錄本（DMBT1、NOTUM、ATOH8） [21-24]。
+• 發育期高糖（C1、C3）則廣泛影響鉀離子、鈉離子通道蛋白基因（KCNIP1、KCNQ2、SLC18A2、SLC24A3 等），這與 beta 細胞去極化（depolarization）和持續性分泌缺陷的功能直接對應 [22-24]。
+• 以重要 glucose sensor 基因 SLC2A2（編碼 GLUT2）為例，在發育期遭遇高糖刺激會導致其表現量顯著下調，且 ATAC-seq 顯示其 SLC2A2 基因區域的染色質可近性（chromatin accessibility）降低 [23, 25-27]。即使後續改回生理低糖成熟，此下調狀態仍穩定持續至 Day 34 甚至 Day 41，證明發育期的高糖暴露會在細胞內留下表觀遺傳「記憶」 。
+
+【對內分泌臨床實務的啟發】
+此項研究提供強健的體外人類細胞證據，證實了「子宮內環境編程（intrauterine programming）」的具體存在 。這提示臨床醫師與糖尿病照護團隊，妊娠期糖尿病的血糖控制其意義絕不僅限於當下的巨嬰或圍產期母嬰風險，更重要的，它是在子代胰腺發育的關鍵窗口期，避免其 beta 細胞功能在分子與表觀遺傳層面被「提早編程」為糖尿病高易感性。孕期的血糖管理，實為最具跨世代效益的預防醫學手段。
+
+【保守解讀之限制】
+1. 轉運體物種差異：研究中將 SLC2A2 (GLUT2) 視為人類 beta 細胞主要轉運體與 glucose sensor，然而目前臨床一般認為人類 beta 細胞主要轉運體為 GLUT1，GLUT2 則以囓齒類為主，機制的轉化與外推仍存在學術討論空間 。
+2. 旁分泌交互作用：雖然 beta 細胞比例變動極小，但此幹細胞衍生模型中其他內分泌細胞（如 delta 細胞和 alpha 細胞）所介導的胰島內旁分泌交互調控是否會放大或修飾分泌型態，仍待後續更深入的探討 。
+3. 體外模型與體內環境差異：體外 3D 培養雖然高度模擬發育，但無法完全還原體內複雜的母胎介面、激素波動、發炎因子及全身性代謝環境。
+
+【後續思考問題】
+既然發育期高糖暴露引發的 beta 細胞功能受損與 SLC2A2 下調具有表觀遺傳上的持續性，我們未來是否有機會在子代的生命早期，透過特定的營養調控或介入，逆轉這些已經被「編程」的表觀遺傳標記，進而阻斷跨世代的糖尿病傳遞？
+
+來源：ADA 2026 Scientific Sessions, Session: Human Islet Cell Identity and Organization, Title: Modeling In Utero Glucose Exposure Using Indigenous American HiPSC-Derived Pancreatic Islets (Speaker: Anup Nair - NIDDK/NIH).
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/bedc2651-42d1-40e6-8562-198144b7ea7f</description><content:encoded>ADA 2026 專業整理：母體妊娠高血糖如何「編程」子代胰島功能缺陷？&lt;br /&gt;
+&lt;br /&gt;
+【臨床問題與研究背景】&lt;br /&gt;
+過去流行病學研究已證實，母體在懷孕前若已罹患第 2 型糖尿病（Maternal diabetes during pregnancy），會顯著增加子代在各年齡層發展第 2 型糖尿病的風險 [1-3]。令人警惕的是，這些子代在自己尚未發病之前，就已被偵測到急性胰島素分泌反應（acute insulin secretory response）降低的現象 。然而，子宮內的高糖暴露究竟如何影響發育中的胰島細胞組成、功能、轉錄體與表觀遺傳狀態，且這些缺陷在移除高糖後是否會持久存在，其中關鍵的分子編程機制仍有待釐清 。&lt;br /&gt;
+&lt;br /&gt;
+【試驗設計與細胞模型系統】&lt;br /&gt;
+講者 Anup Nair 醫師（NIDDK/NIH）團隊在遵循原住民族合作研究倫理（CONSIDER statement）原則下，取得美洲原住民族受試者的誘導性多潛能幹細胞（iPSC）進行胰島分化模擬 。&lt;br /&gt;
+發育流程分為：Day 10 形成多潛能胰臟前驅細胞（PPs） ──＞ Day 20 形成未成熟胰島（SC-islets，轉錄體類似胎兒胰島） ──＞ Day 34 取得葡萄糖刺激胰島素分泌（GSIS）能力之成熟胰島（轉錄體類似成人胰島） 。&lt;br /&gt;
+為了拆解不同時期的影響，研究創新設計了四種葡萄糖暴露條件組合（結合 5.5 mM 生理濃度與 25 mM 高糖）：&lt;br /&gt;
+• A1 全程生理糖組：發育期 5.5 mM / 成熟期 5.5 mM（對照組） &lt;br /&gt;
+• A3 僅成熟期高糖組：發育期 5.5 mM / 成熟期 25 mM &lt;br /&gt;
+• C1 僅發育期高糖組：發育期 25 mM / 成熟期 5.5 mM &lt;br /&gt;
+• C3 全程持續高糖組：發育期 25 mM / 成熟期 25 mM &lt;br /&gt;
+&lt;br /&gt;
+【關鍵數據與機制發現】&lt;br /&gt;
+1. 胰島組成與激素加工：&lt;br /&gt;
+流式細胞儀分析顯示，四組條件皆能分化出相當比例的功能性 beta 細胞（INS 與 NKX6.1 雙陽性，約 35% 至 55%），且組間數量差異小於 5%（A1 vs C1 僅相差約 4.8%） [11-13]。各組的總胰島素含量（insulin content）與胰島素前體加工比例（proinsulin/insulin ratio 均小於 0.1）亦無顯著組間差異 。這證實了後續的分泌功能障礙並非源自細胞數量不足或加工缺陷 。&lt;br /&gt;
+&lt;br /&gt;
+2. 暴露時間窗決定分泌缺陷型態：&lt;br /&gt;
+• 成熟期高糖（A3）：顯著降低第一相（1st phase）胰島素分泌的曲線下面積（AUC），且在刺激結束後，分泌反應回歸基線的速度顯著延遲 [16-20]。&lt;br /&gt;
+• 發育期高糖（C1）：顯著降低第二相（2nd phase）胰島素分泌的 AUC，且此第二相分泌缺陷在成熟期移回 5.5 mM 生理糖環境後仍無法逆轉 [17-20]。&lt;br /&gt;
+• 全程高糖（C3）：第一相與第二相胰島素分泌皆顯著受損 [18-20]。&lt;br /&gt;
+&lt;br /&gt;
+3. 轉錄體與表觀遺傳重塑：&lt;br /&gt;
+• 成熟期高糖（A3、C3）主要誘發急性葡萄糖反應基因（TXNIP、RGS16、RBPMS2 等）與影響第一相分泌的候選轉錄本（DMBT1、NOTUM、ATOH8） [21-24]。&lt;br /&gt;
+• 發育期高糖（C1、C3）則廣泛影響鉀離子、鈉離子通道蛋白基因（KCNIP1、KCNQ2、SLC18A2、SLC24A3 等），這與 beta 細胞去極化（depolarization）和持續性分泌缺陷的功能直接對應 [22-24]。&lt;br /&gt;
+• 以重要 glucose sensor 基因 SLC2A2（編碼 GLUT2）為例，在發育期遭遇高糖刺激會導致其表現量顯著下調，且 ATAC-seq 顯示其 SLC2A2 基因區域的染色質可近性（chromatin accessibility）降低 [23, 25-27]。即使後續改回生理低糖成熟，此下調狀態仍穩定持續至 Day 34 甚至 Day 41，證明發育期的高糖暴露會在細胞內留下表觀遺傳「記憶」 。&lt;br /&gt;
+&lt;br /&gt;
+【對內分泌臨床實務的啟發】&lt;br /&gt;
+此項研究提供強健的體外人類細胞證據，證實了「子宮內環境編程（intrauterine programming）」的具體存在 。這提示臨床醫師與糖尿病照護團隊，妊娠期糖尿病的血糖控制其意義絕不僅限於當下的巨嬰或圍產期母嬰風險，更重要的，它是在子代胰腺發育的關鍵窗口期，避免其 beta 細胞功能在分子與表觀遺傳層面被「提早編程」為糖尿病高易感性。孕期的血糖管理，實為最具跨世代效益的預防醫學手段。&lt;br /&gt;
+&lt;br /&gt;
+【保守解讀之限制】&lt;br /&gt;
+1. 轉運體物種差異：研究中將 SLC2A2 (GLUT2) 視為人類 beta 細胞主要轉運體與 glucose sensor，然而目前臨床一般認為人類 beta 細胞主要轉運體為 GLUT1，GLUT2 則以囓齒類為主，機制的轉化與外推仍存在學術討論空間 。&lt;br /&gt;
+2. 旁分泌交互作用：雖然 beta 細胞比例變動極小，但此幹細胞衍生模型中其他內分泌細胞（如 delta 細胞和 alpha 細胞）所介導的胰島內旁分泌交互調控是否會放大或修飾分泌型態，仍待後續更深入的探討 。&lt;br /&gt;
+3. 體外模型與體內環境差異：體外 3D 培養雖然高度模擬發育，但無法完全還原體內複雜的母胎介面、激素波動、發炎因子及全身性代謝環境。&lt;br /&gt;
+&lt;br /&gt;
+【後續思考問題】&lt;br /&gt;
+既然發育期高糖暴露引發的 beta 細胞功能受損與 SLC2A2 下調具有表觀遺傳上的持續性，我們未來是否有機會在子代的生命早期，透過特定的營養調控或介入，逆轉這些已經被「編程」的表觀遺傳標記，進而阻斷跨世代的糖尿病傳遞？&lt;br /&gt;
+&lt;br /&gt;
+來源：ADA 2026 Scientific Sessions, Session: Human Islet Cell Identity and Organization, Title: Modeling In Utero Glucose Exposure Using Indigenous American HiPSC-Derived Pancreatic Islets (Speaker: Anup Nair - NIDDK/NIH).&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/bedc2651-42d1-40e6-8562-198144b7ea7f</content:encoded><pubDate>Mon, 29 Jun 2026 05:28:09 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-0513-ada2026-plenary-modeling-in-utero-glucose-exposure-using-indigenous-americ.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-0513-ada2026-plenary-modeling-in-utero-glucose-exposure-using-indigenous-americ.m4a" length="8600692" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>11:47</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-29-20260629-0513-ada2026-plenary-modeling-in-utero-glucose-exposure-using-indigenous-americ.jpg" /><link>https://mednote.zeabur.app/lectures/bedc2651-42d1-40e6-8562-198144b7ea7f</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Identifying Diabetes-Relevant Gene Programs across Metabolic Tissues in the Common Metabolic Diseases Knowledge Portal</title><description>ADA 2026 專業整理：在常見代謝疾病知識入口網站（CMDKP，cmdkp.org）中，一項最新的整合分析功能已成功將常見代謝疾病的群體遺傳學訊號與九大代謝器官的單細胞解析度基因調控程式進行無縫鏈結，為臨床研究者提供了探索疾病機轉的新途徑 [1-3]。
+
+臨床問題與研究背景
+在糖尿病與代謝疾病的遺傳學研究中，全基因體關聯分析（GWAS）已找出大量與常見代謝疾病（如1型糖尿病、2型糖尿病、肥胖、腎臟疾病、肝臟疾病及心臟疾病）相關的風險基因與變異株 。然而，臨床與科研團隊面臨的核心問題在於：如何將這些複雜的群體遺傳訊號與高解析度的細胞狀態（cell states）及基因程式（gene programs）連結 ？如何得知特定候選基因在特定組織細胞中參與哪些調控機制，進而導向病理發展 ？
+
+關鍵訊息與平台設計
+針對此一挑戰，Broad研究所的Julie Jurgens博士代表Knowledge Portal Network團隊發表了Cell State &amp; Program Explorer工具 。
+
+1. 平台規模與單細胞圖譜
+CMDKP目前彙整了超過1000種表型、900多個遺傳資料集、以及在疾病相關組織中的7000多個基因體註釋 。其Single Cell Browser功能整合了9個關鍵代謝人類組織的單細胞圖譜，有些資料集規模達百萬細胞以上 。各組織資料規模包含：胰臟（4個來源、327位捐贈者、1,549,550個細胞）、肝臟（10個來源、178位捐贈者、1,058,446個細胞）、心臟（1,384,590個細胞）、骨骼肌（364,926個細胞）、下視丘、腎臟、動脈、以及皮下與內臟脂肪組織等 。整體涵蓋105個細胞類型群組、598個經人工整理的細胞狀態，以及1398個推論出的基因因子 。
+
+2. 雙重分析視角：資料驅動與已知生物學的互補
+平台將以下兩種方法並列進行系統性比較 ：
+• 基因程式（Gene Programs）：利用非負矩陣拆解（NMF）技術中的LIGER方法，對單細胞基因表現矩陣（cells x genes）進行降維，以純粹資料驅動的方式推論出協同表現的基因模式，代表潛在的生物過程、細胞狀態或調控機制 。
+• 細胞狀態（Cell States）：從已發表文獻中人工整理（curated）出由特定標記基因定義的轉錄體細胞群，用以捕捉已知的生物學功能（例如由內質網應激/ER stress標記基因定義的功能狀態） [14-16]。
+
+3. 遺傳學證據鏈結（PIGEON方法）
+平台導入由Jason Flannick團隊開發的PIGEON統計遺傳學方法，輸入特定基因程式或細胞狀態的基因集，評估其是否與人類表型（如脂質表型或糖尿病風險）具有遺傳學支持 。講者以肝臟肝細胞（hepatocyte）中的PNPLA3基因表現為例，該基因在肝細胞中具高度特異性表現（絕對值ABS為-0.17，特異性SPEC為5.12），其關聯的基因程式與脂質表型高度相關，與既有文獻完全吻合 [7, 17-19]。在肝細胞中整理出的膽汁酸轉運代謝狀態，亦詳列了包含ABCB11、ABCC2、BAAT、CYP7A1等在內的標記基因，並可連結至異物脂質代謝等相關基因程式 [20-22]。
+
+內分泌臨床實務的啟發
+對於內分泌臨床醫師與糖尿病照護團隊而言，此平台帶來的最大啟發在於降低了轉錄體學與遺傳學的技術門檻 。研究人員不再需要自行編寫複雜的生物資訊演算法或跑完巨量單細胞定序流程，即可在單一網頁介面中，系統性地查詢自己關注的代謝基因 。這有助於快速評估特定基因在胰臟、肝臟、脂肪或腎臟等關鍵代謝器官中扮演的角色，並將基礎的細胞調控機制與臨床觀測到的代謝表型（如血糖控制、脂質異常）建立具機轉性的假說，為未來的精準醫療或新藥標靶發現提供重要的轉譯醫學基礎 。
+
+保守解讀之限制
+在利用此資源進行學術探索時，臨床團隊應注意以下限制並保守解讀：
+1. 功能性細胞狀態多呈漸進式梯度（gradients），而非互斥的離散亞型 。當某基因在特定細胞狀態中富集時，應解讀為與較高的功能活動相關，而非代表該基因屬於某個絕對互斥的離散細胞亞型 。
+2. 此分析目前仍具高度探索性（exploratory） [23-25]。在大規模多組織資料中系統性比較人工整理狀態與推論基因程式的分析，在學界仍屬首創，各項相關性heatmap分析（如Spearman correlation）仍需社群實際使用與驗證 。
+3. 胰臟及胰島生物學的系統性分析目前仍在進行中 。雖然平台已納入胰臟組織圖譜，但團隊對相關基因的系統性分析仍未完成，各界在使用胰島細胞數據時應保持審慎，並可積極向開發團隊回饋已知的生物學驗證結果 。
+
+結尾思考問題：
+在單細胞解析度與群體遺傳學證據高度整合的趨勢下，我們該如何利用這類開放平台，將臨床上觀察到的非典型糖尿病表型與特定的胰島細胞狀態或基因程式進行機轉性鏈結？
+
+來源：
+ADA 2026 Scientific Sessions
+Session: Human Islet Cell Identity and Organization
+Title: Identifying Diabetes-Relevant Gene Programs across Metabolic Tissues in the Common Metabolic Diseases Knowledge Portal
+Speaker: Julie Jurgens - Broad Institute of MIT and Harvard
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/21279fd2-97fc-4844-9ed0-7c89a8818b07</description><content:encoded>ADA 2026 專業整理：在常見代謝疾病知識入口網站（CMDKP，cmdkp.org）中，一項最新的整合分析功能已成功將常見代謝疾病的群體遺傳學訊號與九大代謝器官的單細胞解析度基因調控程式進行無縫鏈結，為臨床研究者提供了探索疾病機轉的新途徑 [1-3]。&lt;br /&gt;
+&lt;br /&gt;
+臨床問題與研究背景&lt;br /&gt;
+在糖尿病與代謝疾病的遺傳學研究中，全基因體關聯分析（GWAS）已找出大量與常見代謝疾病（如1型糖尿病、2型糖尿病、肥胖、腎臟疾病、肝臟疾病及心臟疾病）相關的風險基因與變異株 。然而，臨床與科研團隊面臨的核心問題在於：如何將這些複雜的群體遺傳訊號與高解析度的細胞狀態（cell states）及基因程式（gene programs）連結 ？如何得知特定候選基因在特定組織細胞中參與哪些調控機制，進而導向病理發展 ？&lt;br /&gt;
+&lt;br /&gt;
+關鍵訊息與平台設計&lt;br /&gt;
+針對此一挑戰，Broad研究所的Julie Jurgens博士代表Knowledge Portal Network團隊發表了Cell State &amp; Program Explorer工具 。&lt;br /&gt;
+&lt;br /&gt;
+1. 平台規模與單細胞圖譜&lt;br /&gt;
+CMDKP目前彙整了超過1000種表型、900多個遺傳資料集、以及在疾病相關組織中的7000多個基因體註釋 。其Single Cell Browser功能整合了9個關鍵代謝人類組織的單細胞圖譜，有些資料集規模達百萬細胞以上 。各組織資料規模包含：胰臟（4個來源、327位捐贈者、1,549,550個細胞）、肝臟（10個來源、178位捐贈者、1,058,446個細胞）、心臟（1,384,590個細胞）、骨骼肌（364,926個細胞）、下視丘、腎臟、動脈、以及皮下與內臟脂肪組織等 。整體涵蓋105個細胞類型群組、598個經人工整理的細胞狀態，以及1398個推論出的基因因子 。&lt;br /&gt;
+&lt;br /&gt;
+2. 雙重分析視角：資料驅動與已知生物學的互補&lt;br /&gt;
+平台將以下兩種方法並列進行系統性比較 ：&lt;br /&gt;
+• 基因程式（Gene Programs）：利用非負矩陣拆解（NMF）技術中的LIGER方法，對單細胞基因表現矩陣（cells x genes）進行降維，以純粹資料驅動的方式推論出協同表現的基因模式，代表潛在的生物過程、細胞狀態或調控機制 。&lt;br /&gt;
+• 細胞狀態（Cell States）：從已發表文獻中人工整理（curated）出由特定標記基因定義的轉錄體細胞群，用以捕捉已知的生物學功能（例如由內質網應激/ER stress標記基因定義的功能狀態） [14-16]。&lt;br /&gt;
+&lt;br /&gt;
+3. 遺傳學證據鏈結（PIGEON方法）&lt;br /&gt;
+平台導入由Jason Flannick團隊開發的PIGEON統計遺傳學方法，輸入特定基因程式或細胞狀態的基因集，評估其是否與人類表型（如脂質表型或糖尿病風險）具有遺傳學支持 。講者以肝臟肝細胞（hepatocyte）中的PNPLA3基因表現為例，該基因在肝細胞中具高度特異性表現（絕對值ABS為-0.17，特異性SPEC為5.12），其關聯的基因程式與脂質表型高度相關，與既有文獻完全吻合 [7, 17-19]。在肝細胞中整理出的膽汁酸轉運代謝狀態，亦詳列了包含ABCB11、ABCC2、BAAT、CYP7A1等在內的標記基因，並可連結至異物脂質代謝等相關基因程式 [20-22]。&lt;br /&gt;
+&lt;br /&gt;
+內分泌臨床實務的啟發&lt;br /&gt;
+對於內分泌臨床醫師與糖尿病照護團隊而言，此平台帶來的最大啟發在於降低了轉錄體學與遺傳學的技術門檻 。研究人員不再需要自行編寫複雜的生物資訊演算法或跑完巨量單細胞定序流程，即可在單一網頁介面中，系統性地查詢自己關注的代謝基因 。這有助於快速評估特定基因在胰臟、肝臟、脂肪或腎臟等關鍵代謝器官中扮演的角色，並將基礎的細胞調控機制與臨床觀測到的代謝表型（如血糖控制、脂質異常）建立具機轉性的假說，為未來的精準醫療或新藥標靶發現提供重要的轉譯醫學基礎 。&lt;br /&gt;
+&lt;br /&gt;
+保守解讀之限制&lt;br /&gt;
+在利用此資源進行學術探索時，臨床團隊應注意以下限制並保守解讀：&lt;br /&gt;
+1. 功能性細胞狀態多呈漸進式梯度（gradients），而非互斥的離散亞型 。當某基因在特定細胞狀態中富集時，應解讀為與較高的功能活動相關，而非代表該基因屬於某個絕對互斥的離散細胞亞型 。&lt;br /&gt;
+2. 此分析目前仍具高度探索性（exploratory） [23-25]。在大規模多組織資料中系統性比較人工整理狀態與推論基因程式的分析，在學界仍屬首創，各項相關性heatmap分析（如Spearman correlation）仍需社群實際使用與驗證 。&lt;br /&gt;
+3. 胰臟及胰島生物學的系統性分析目前仍在進行中 。雖然平台已納入胰臟組織圖譜，但團隊對相關基因的系統性分析仍未完成，各界在使用胰島細胞數據時應保持審慎，並可積極向開發團隊回饋已知的生物學驗證結果 。&lt;br /&gt;
+&lt;br /&gt;
+結尾思考問題：&lt;br /&gt;
+在單細胞解析度與群體遺傳學證據高度整合的趨勢下，我們該如何利用這類開放平台，將臨床上觀察到的非典型糖尿病表型與特定的胰島細胞狀態或基因程式進行機轉性鏈結？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: Human Islet Cell Identity and Organization&lt;br /&gt;
+Title: Identifying Diabetes-Relevant Gene Programs across Metabolic Tissues in the Common Metabolic Diseases Knowledge Portal&lt;br /&gt;
+Speaker: Julie Jurgens - Broad Institute of MIT and Harvard&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/21279fd2-97fc-4844-9ed0-7c89a8818b07</content:encoded><pubDate>Mon, 29 Jun 2026 04:27:44 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-0413-ada2026-plenary-identifying-diabetes-relevant-gene-programs-across-metabol.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-0413-ada2026-plenary-identifying-diabetes-relevant-gene-programs-across-metabol.m4a" length="13488750" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>18:30</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-29-20260629-0413-ada2026-plenary-identifying-diabetes-relevant-gene-programs-across-metabol.jpg" /><link>https://mednote.zeabur.app/lectures/21279fd2-97fc-4844-9ed0-7c89a8818b07</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Immune Repertoire Profiling for Accurate Classification of Latent Autoimmune Diabetes in Adults</title><description>ADA 2026 專業整理：利用TCR免疫受器庫定序精準分類成人潛伏性自體免疫糖尿病（LADA）
+
+臨床問題
+成人潛伏性自體免疫糖尿病（LADA）具有高度異質性。在免疫學上，它與第1型糖尿病（T1D）相似，具有自身反應性T細胞與B細胞反應，診斷依賴胰島自體抗體；然而在臨床表現上，它與第2型糖尿病（T2D）相似，通常為成人發病、具不同程度胰島素阻抗，且早期不需立即使用胰島素治療 [1-3]。文獻指出約有8.9%初診為T2D的患者實為LADA 。目前臨床上傳統的臨床指標與自體抗體仍不足以完全精準分類LADA與T1D 。過去研究多聚焦於免疫細胞比例或細胞激素，僅能提供片段的免疫圖像 。如何找到更深層的免疫特徵來精準區分LADA、T1D與T2D，是臨床上的關鍵問題 。
+
+關鍵訊息
+本研究納入健康對照組（HD, 20例）、LADA（20例）、T1D（20例）與T2D（15例）進行外周血單核細胞（PBMCs）的TCR定序分析 。主要發現如下：
+1. 獨特的TCR多樣性與克隆分佈：LADA患者的TCRα與TCRβ鏈均呈現顯著的受器庫改變，其克隆數（Clone number）、Shannon多樣性指數及DE50最高，而Gini指數最低，代表LADA的TCR多樣性增加，且不被少數高度擴張的克隆主導 。
+2. 中等頻率克隆擴張：LADA的特徵是中等頻率克隆（Medium-frequency clones）增加，而非大型或超大型克隆擴張 。這反映出LADA屬於一種慢性、溫和且持續存在的自體免疫病理過程 。
+3. 偏向性基因重組與高度相似性：LADA患者展現出偏向性的V-J基因重組（Biased V-J recombination pattern），且患者間TCR受器庫的相似度較高，暗示其背後可能存在共同的抗原刺激與免疫選擇壓力，具有共享且相對穩定的免疫受器庫特徵 [13-17]。
+4. 免疫活化與抑制並存：細胞激素分析顯示，LADA除了與Th1及CD8+ T細胞活化相關的發炎性細胞激素上升（如IL-2、IL-1β、TNF-α、IFN-γ），同時也伴隨具免疫調節作用的IL-10增加與發炎性IL-6降低 。在校正年齡後，TCR指標與自體抗體及細胞激素仍具實際關聯 。
+5. 機器學習分類模型：僅使用自體抗體分類LADA與T1D的測試集AUC為0.667（準確度0.583），加入臨床指標略升至0.680（準確度0.750）；當納入TCR指標後，隨機森林模型分類表現明顯提升，顯示TCR特徵可作為鑑別LADA與T1D的潛在工具 。
+
+對內分泌臨床實務的啟發
+此研究展示了「精準免疫分型（Precision immunophenotyping）」在糖尿病分類上的應用潛力 [24-26]。若能將TCR免疫受器庫分析引入實務，將有助於臨床醫師在早期精準識別出LADA患者，避免將其誤診為T2D而延誤合適治療，或與T1D混淆，從而優化個別患者的長期照護與追蹤策略 。
+
+保守解讀的研究限制
+1. 樣本規模較小：本研究僅分析了少數個案（HD 20例、LADA 20例、T1D 20例、T2D 15例，驗證集兩組各15例），其分類模型的泛化性仍需更大規模的世代研究驗證 。
+2. 對照組異質性：健康對照組中包含1位ZnT8A抗體陽性的個體，會後討論中主席指出應將此個體排除，以避免影響對照組的定義與比較結果 。
+3. 定序深度與採樣不足：由於人體TCR受器庫極其龐大，研究面臨抽樣不足（Undersampling）的技術挑戰，且目前尚未深入分析與抗原特異性密切相關的CDR3區域長度變化 。
+4. 病程與年齡的混淆影響：在V-J基因重組熱圖中，本研究的T1D組別看起來與T2D較相似，而與LADA差異較大。這可能與受試T1D患者病程較長（平均年齡34歲、診斷年齡22.1歲）有關，隨著病程進展，抗體可能轉陰且TCR特徵可能改變，因此該結果未必純粹反映疾病本質，而受病程與年齡等混雜因素影響 。
+
+臨床思考問題：
+在未來多體學與精準醫學時代，我們該如何平衡高成本的TCR定序技術與其在早期精準診斷LADA上所帶來的臨床效益？
+
+來源：
+ADA 2026 Scientific Sessions
+Session: Immune Heterogeneity and Endotypes in Type 1 Diabetes Insights from Human Studies and Humanized Models
+Speaker: Xiaorui Lyu (Shanghai Sixth People’s Hospital Affiliated to Shanghai Jiao Tong University School of Medicine)
+Title: Immune Repertoire Profiling for Accurate Classification of Latent Autoimmune Diabetes in Adults
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/a75c41e6-3202-4132-852f-98e4da95eb06</description><content:encoded>ADA 2026 專業整理：利用TCR免疫受器庫定序精準分類成人潛伏性自體免疫糖尿病（LADA）&lt;br /&gt;
+&lt;br /&gt;
+臨床問題&lt;br /&gt;
+成人潛伏性自體免疫糖尿病（LADA）具有高度異質性。在免疫學上，它與第1型糖尿病（T1D）相似，具有自身反應性T細胞與B細胞反應，診斷依賴胰島自體抗體；然而在臨床表現上，它與第2型糖尿病（T2D）相似，通常為成人發病、具不同程度胰島素阻抗，且早期不需立即使用胰島素治療 [1-3]。文獻指出約有8.9%初診為T2D的患者實為LADA 。目前臨床上傳統的臨床指標與自體抗體仍不足以完全精準分類LADA與T1D 。過去研究多聚焦於免疫細胞比例或細胞激素，僅能提供片段的免疫圖像 。如何找到更深層的免疫特徵來精準區分LADA、T1D與T2D，是臨床上的關鍵問題 。&lt;br /&gt;
+&lt;br /&gt;
+關鍵訊息&lt;br /&gt;
+本研究納入健康對照組（HD, 20例）、LADA（20例）、T1D（20例）與T2D（15例）進行外周血單核細胞（PBMCs）的TCR定序分析 。主要發現如下：&lt;br /&gt;
+1. 獨特的TCR多樣性與克隆分佈：LADA患者的TCRα與TCRβ鏈均呈現顯著的受器庫改變，其克隆數（Clone number）、Shannon多樣性指數及DE50最高，而Gini指數最低，代表LADA的TCR多樣性增加，且不被少數高度擴張的克隆主導 。&lt;br /&gt;
+2. 中等頻率克隆擴張：LADA的特徵是中等頻率克隆（Medium-frequency clones）增加，而非大型或超大型克隆擴張 。這反映出LADA屬於一種慢性、溫和且持續存在的自體免疫病理過程 。&lt;br /&gt;
+3. 偏向性基因重組與高度相似性：LADA患者展現出偏向性的V-J基因重組（Biased V-J recombination pattern），且患者間TCR受器庫的相似度較高，暗示其背後可能存在共同的抗原刺激與免疫選擇壓力，具有共享且相對穩定的免疫受器庫特徵 [13-17]。&lt;br /&gt;
+4. 免疫活化與抑制並存：細胞激素分析顯示，LADA除了與Th1及CD8+ T細胞活化相關的發炎性細胞激素上升（如IL-2、IL-1β、TNF-α、IFN-γ），同時也伴隨具免疫調節作用的IL-10增加與發炎性IL-6降低 。在校正年齡後，TCR指標與自體抗體及細胞激素仍具實際關聯 。&lt;br /&gt;
+5. 機器學習分類模型：僅使用自體抗體分類LADA與T1D的測試集AUC為0.667（準確度0.583），加入臨床指標略升至0.680（準確度0.750）；當納入TCR指標後，隨機森林模型分類表現明顯提升，顯示TCR特徵可作為鑑別LADA與T1D的潛在工具 。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的啟發&lt;br /&gt;
+此研究展示了「精準免疫分型（Precision immunophenotyping）」在糖尿病分類上的應用潛力 [24-26]。若能將TCR免疫受器庫分析引入實務，將有助於臨床醫師在早期精準識別出LADA患者，避免將其誤診為T2D而延誤合適治療，或與T1D混淆，從而優化個別患者的長期照護與追蹤策略 。&lt;br /&gt;
+&lt;br /&gt;
+保守解讀的研究限制&lt;br /&gt;
+1. 樣本規模較小：本研究僅分析了少數個案（HD 20例、LADA 20例、T1D 20例、T2D 15例，驗證集兩組各15例），其分類模型的泛化性仍需更大規模的世代研究驗證 。&lt;br /&gt;
+2. 對照組異質性：健康對照組中包含1位ZnT8A抗體陽性的個體，會後討論中主席指出應將此個體排除，以避免影響對照組的定義與比較結果 。&lt;br /&gt;
+3. 定序深度與採樣不足：由於人體TCR受器庫極其龐大，研究面臨抽樣不足（Undersampling）的技術挑戰，且目前尚未深入分析與抗原特異性密切相關的CDR3區域長度變化 。&lt;br /&gt;
+4. 病程與年齡的混淆影響：在V-J基因重組熱圖中，本研究的T1D組別看起來與T2D較相似，而與LADA差異較大。這可能與受試T1D患者病程較長（平均年齡34歲、診斷年齡22.1歲）有關，隨著病程進展，抗體可能轉陰且TCR特徵可能改變，因此該結果未必純粹反映疾病本質，而受病程與年齡等混雜因素影響 。&lt;br /&gt;
+&lt;br /&gt;
+臨床思考問題：&lt;br /&gt;
+在未來多體學與精準醫學時代，我們該如何平衡高成本的TCR定序技術與其在早期精準診斷LADA上所帶來的臨床效益？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: Immune Heterogeneity and Endotypes in Type 1 Diabetes Insights from Human Studies and Humanized Models&lt;br /&gt;
+Speaker: Xiaorui Lyu (Shanghai Sixth People’s Hospital Affiliated to Shanghai Jiao Tong University School of Medicine)&lt;br /&gt;
+Title: Immune Repertoire Profiling for Accurate Classification of Latent Autoimmune Diabetes in Adults&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/a75c41e6-3202-4132-852f-98e4da95eb06</content:encoded><pubDate>Mon, 29 Jun 2026 01:22:36 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-0107-ada2026-plenary-immune-repertoire-profiling-for-accurate-classification-of.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-0107-ada2026-plenary-immune-repertoire-profiling-for-accurate-classification-of.m4a" length="12676260" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>17:24</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-29-20260629-0107-ada2026-plenary-immune-repertoire-profiling-for-accurate-classification-of.jpg" /><link>https://mednote.zeabur.app/lectures/a75c41e6-3202-4132-852f-98e4da95eb06</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：VeggieRx: A Produce Prescription Program to Improve Glycemic, Blood Pressure, and Weight Outcomes in Adults with Diabetes and Prediabetes in South Carolin</title><description>ADA 2026 專業整理：在南卡羅來納州進行的 VeggieRx 蔬果處方計畫實證顯示，僅透過每兩週提供一次新鮮蔬果箱，即可在 6 個月內顯著改善糖尿病與前糖尿病患者的糖化血色素（HbA1c）、血壓與體重指標 [1-4]。
+
+臨床問題與公共衛生脈絡：
+南卡羅來納州面臨嚴重的代謝疾病負擔，超過半數成人有血糖異常，包含 13% 已診斷糖尿病、35% 為前糖尿病 。此外，約有三分之一成人患有高血壓 ，且黑人族群的糖尿病負擔尤為沉重（盛行率為六分之一，而白人為八分之一） 。臨床上，新鮮蔬果攝取不足常是患者血糖、血壓與體重控制不佳的關鍵障礙 。
+
+試驗設計與受試者特徵：
+這項名為 VeggieRx 的計畫由 8 位臨床醫師開立蔬果處方給年滿 18 歲且罹患糖尿病或具高風險的患者 。患者每兩週可免費領取一箱由 FoodShare SC 提供的 20 磅新鮮蔬果箱，6 個月共領取 13 箱 [1, 5-7]。介入極為單一，不含額外的高強度營養諮詢，僅隨箱附帶衛教單張與食譜 。
+本研究共納入 676 名完成基線與 6 個月檢測，且至少領取 10 箱以上蔬果的參與者 。受試者結構包含 53% 黑人、23% 白人、15% 西班牙裔、9% 其他或未知；68% 為女性；年齡主要集中於 40 至 64 歲之間 。
+受試者在基線時呈現高度代謝風險：僅 3% 血糖正常，65% 達糖尿病標準（其中 34% 的 HbA1c 大於 9.0%） ；血壓方面僅 18% 正常，37% 為第二期高血壓，3% 處於高血壓危機 ；BMI 方面僅 9% 體重正常，重度肥胖（obesity class 3，BMI 大於等於 40）者佔 21% 。
+
+關鍵臨床指標改善（6 個月）：
+1. 糖化血色素（HbA1c）顯著下降：
+全體患者平均 HbA1c 自基線 8.4% 降至 7.7%（平均下降 0.7%，p = 0.0001） 。各族群均呈現統計學上顯著改善：黑人族群平均下降 0.8%（8.8% 至 8.0%, p = 0.0001）；白人族群平均下降 0.6%（8.3% 至 7.7%, p = 0.0001）；西班牙裔平均下降 0.5%（7.5% 至 7.0%, p = 0.0044） 。血糖正常比例由 3% 升至 10%；而 HbA1c 大於 9.0% 的極高危群體比例則由 34% 降至 24% 。
+
+2. 血壓改善：
+收縮壓在黑人、白人與西班牙裔成人中均顯著下降；舒張壓則在黑人與白人群體中顯著改善 。血壓正常比例自 18% 微升至 19%，而處於高血壓危機的比例由 3% 顯著降至 1%，協助高危患者成功降至較低心血管風險範疇 。
+
+3. 體重與 BMI 減輕：
+所有種族別的患者體重均見顯著下降 。體重正常比例從 9% 增至 10%，重度肥胖（obesity class 3）比例自 21% 下降至 20% 。
+
+對內分泌臨床實務的啟發：
+本研究顯示，直接處理社會決定因素（SDoH）中的健康食物可近性（Food as Medicine），將健康食物「處方化」，即使在沒有投入大量醫療或高強度行為諮詢資源的情況下，也能對糖尿病患者的血糖、血壓與體重帶來一致且具臨床意義的改善 [1-4, 14]。這種整合社區資源與臨床開立處方的模式，有助於縮小少數族群間的代謝疾病健康差距，具備高度的實務操作性與規模化潛力 。
+
+保守解讀與臨床限制：
+1. 試驗設計局限：本研究為單組前後對照之真實世界、社區執行型研究，並無設置平行對照組 。
+2. 選擇性偏差：受試者由 8 位參與醫師自行挑選，可能偏向依從性較好或具備特定特徵的患者 。
+3. 行為追蹤不全：未詳細記錄患者實際攝取量、料理方式，亦未系統性確認患者家中的烹飪與冷藏儲存條件 。
+4. 長期成效與延續性：免費方案僅維持 6 個月，後續患者雖可自費或透過政府補助購買，但停止免費配送後長期代謝改善之維持成效仍有待研究 。
+
+臨床思考問題：
+在現行常規藥物調整外，照護團隊應如何更系統性地將患者的社會決定因素（例如食物不安全與社經壓力）納入日常代謝評估中，並與社區社福資源進行有效轉介對接？
+
+來源：
+ADA 2026 Scientific Sessions
+Session: From Plate to Pancreas Mechanisms Linking Diet to Diabetes
+Speaker: Misti J Leyva - BlueCross BlueShield SC
+Title: VeggieRx: A Produce Prescription Program to Improve Glycemic, Blood Pressure, and Weight Outcomes in Adults with Diabetes and Prediabetes in South Carolina
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/66bffcc1-d55a-47a7-8de4-94b71887fa65</description><content:encoded>ADA 2026 專業整理：在南卡羅來納州進行的 VeggieRx 蔬果處方計畫實證顯示，僅透過每兩週提供一次新鮮蔬果箱，即可在 6 個月內顯著改善糖尿病與前糖尿病患者的糖化血色素（HbA1c）、血壓與體重指標 [1-4]。&lt;br /&gt;
+&lt;br /&gt;
+臨床問題與公共衛生脈絡：&lt;br /&gt;
+南卡羅來納州面臨嚴重的代謝疾病負擔，超過半數成人有血糖異常，包含 13% 已診斷糖尿病、35% 為前糖尿病 。此外，約有三分之一成人患有高血壓 ，且黑人族群的糖尿病負擔尤為沉重（盛行率為六分之一，而白人為八分之一） 。臨床上，新鮮蔬果攝取不足常是患者血糖、血壓與體重控制不佳的關鍵障礙 。&lt;br /&gt;
+&lt;br /&gt;
+試驗設計與受試者特徵：&lt;br /&gt;
+這項名為 VeggieRx 的計畫由 8 位臨床醫師開立蔬果處方給年滿 18 歲且罹患糖尿病或具高風險的患者 。患者每兩週可免費領取一箱由 FoodShare SC 提供的 20 磅新鮮蔬果箱，6 個月共領取 13 箱 [1, 5-7]。介入極為單一，不含額外的高強度營養諮詢，僅隨箱附帶衛教單張與食譜 。&lt;br /&gt;
+本研究共納入 676 名完成基線與 6 個月檢測，且至少領取 10 箱以上蔬果的參與者 。受試者結構包含 53% 黑人、23% 白人、15% 西班牙裔、9% 其他或未知；68% 為女性；年齡主要集中於 40 至 64 歲之間 。&lt;br /&gt;
+受試者在基線時呈現高度代謝風險：僅 3% 血糖正常，65% 達糖尿病標準（其中 34% 的 HbA1c 大於 9.0%） ；血壓方面僅 18% 正常，37% 為第二期高血壓，3% 處於高血壓危機 ；BMI 方面僅 9% 體重正常，重度肥胖（obesity class 3，BMI 大於等於 40）者佔 21% 。&lt;br /&gt;
+&lt;br /&gt;
+關鍵臨床指標改善（6 個月）：&lt;br /&gt;
+1. 糖化血色素（HbA1c）顯著下降：&lt;br /&gt;
+全體患者平均 HbA1c 自基線 8.4% 降至 7.7%（平均下降 0.7%，p = 0.0001） 。各族群均呈現統計學上顯著改善：黑人族群平均下降 0.8%（8.8% 至 8.0%, p = 0.0001）；白人族群平均下降 0.6%（8.3% 至 7.7%, p = 0.0001）；西班牙裔平均下降 0.5%（7.5% 至 7.0%, p = 0.0044） 。血糖正常比例由 3% 升至 10%；而 HbA1c 大於 9.0% 的極高危群體比例則由 34% 降至 24% 。&lt;br /&gt;
+&lt;br /&gt;
+2. 血壓改善：&lt;br /&gt;
+收縮壓在黑人、白人與西班牙裔成人中均顯著下降；舒張壓則在黑人與白人群體中顯著改善 。血壓正常比例自 18% 微升至 19%，而處於高血壓危機的比例由 3% 顯著降至 1%，協助高危患者成功降至較低心血管風險範疇 。&lt;br /&gt;
+&lt;br /&gt;
+3. 體重與 BMI 減輕：&lt;br /&gt;
+所有種族別的患者體重均見顯著下降 。體重正常比例從 9% 增至 10%，重度肥胖（obesity class 3）比例自 21% 下降至 20% 。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的啟發：&lt;br /&gt;
+本研究顯示，直接處理社會決定因素（SDoH）中的健康食物可近性（Food as Medicine），將健康食物「處方化」，即使在沒有投入大量醫療或高強度行為諮詢資源的情況下，也能對糖尿病患者的血糖、血壓與體重帶來一致且具臨床意義的改善 [1-4, 14]。這種整合社區資源與臨床開立處方的模式，有助於縮小少數族群間的代謝疾病健康差距，具備高度的實務操作性與規模化潛力 。&lt;br /&gt;
+&lt;br /&gt;
+保守解讀與臨床限制：&lt;br /&gt;
+1. 試驗設計局限：本研究為單組前後對照之真實世界、社區執行型研究，並無設置平行對照組 。&lt;br /&gt;
+2. 選擇性偏差：受試者由 8 位參與醫師自行挑選，可能偏向依從性較好或具備特定特徵的患者 。&lt;br /&gt;
+3. 行為追蹤不全：未詳細記錄患者實際攝取量、料理方式，亦未系統性確認患者家中的烹飪與冷藏儲存條件 。&lt;br /&gt;
+4. 長期成效與延續性：免費方案僅維持 6 個月，後續患者雖可自費或透過政府補助購買，但停止免費配送後長期代謝改善之維持成效仍有待研究 。&lt;br /&gt;
+&lt;br /&gt;
+臨床思考問題：&lt;br /&gt;
+在現行常規藥物調整外，照護團隊應如何更系統性地將患者的社會決定因素（例如食物不安全與社經壓力）納入日常代謝評估中，並與社區社福資源進行有效轉介對接？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: From Plate to Pancreas Mechanisms Linking Diet to Diabetes&lt;br /&gt;
+Speaker: Misti J Leyva - BlueCross BlueShield SC&lt;br /&gt;
+Title: VeggieRx: A Produce Prescription Program to Improve Glycemic, Blood Pressure, and Weight Outcomes in Adults with Diabetes and Prediabetes in South Carolina&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/66bffcc1-d55a-47a7-8de4-94b71887fa65</content:encoded><pubDate>Mon, 29 Jun 2026 00:20:02 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-0006-ada2026-plenary-veggierx-a-produce-prescription-program-to-improve-glycemi.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-0006-ada2026-plenary-veggierx-a-produce-prescription-program-to-improve-glycemi.m4a" length="12775900" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>17:31</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-29-20260629-0006-ada2026-plenary-veggierx-a-produce-prescription-program-to-improve-glycemi.jpg" /><link>https://mednote.zeabur.app/lectures/66bffcc1-d55a-47a7-8de4-94b71887fa65</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Gestational Diabetes Mellitus (GDM), Cord Blood Metabolomics, and Random Plasma Insulin Levels in Childhood</title><description>ADA 2026 專業整理：妊娠糖尿病對胎兒臍帶血代謝譜的形塑，以及與子代早期胰島素濃度的臨床關聯 
+
+■ 臨床問題與研究背景
+妊娠糖尿病（GDM）在美國影響多達 9% 的孕婦 。臨床上，GDM 已被證實不僅影響新生兒的分娩結局，也與子代長期的代謝功能障礙（如肥胖、第 2 型糖尿病、高血壓）密切相關 。然而，母體 GDM 的子宮內異常代謝環境如何長期形塑胎兒生物學，其潛在的跨世代風險傳遞機制尚未完全釐清 。臍帶血代謝物反映了胎兒在出生當下對子宮內環境的代謝反應，是探索此機制的重要分子視窗 。
+
+■ 試驗設計與世代特徵
+本研究利用持續進行中的「波士頓出生世代（Boston Birth Cohort）」，該世代位於新英格蘭地區最大的安全網醫院波士頓醫學中心（Boston Medical Center），高達 73% 的患者屬於低收入與弱勢群體 。
+1. 納入對象：排除孕前糖尿病後，共納入 943 對母子進行初級分析（GDM 與臍帶血代謝物關聯）。次級分析則納入有兒童期隨機胰島素數據的 401 名兒童子集 。
+2. 受試者特徵：母親平均分娩年齡為 28.3 歲，58% 為非裔非拉丁裔，24% 為拉丁裔，50% 伴有孕前超重或肥胖，GDM 盛行率為 9% 。兒童中 16% 為早產兒，17% 為低出生體重兒，測量胰島素時的中位年齡為 1.34 歲 。
+3. 檢測方法：採用非標靶液相層析串聯質譜儀技術（LC-MS/MS），定量分析臍帶血中 378 種代謝物 。
+4. 統計模型：主要分析使用多變量線性回歸分析 GDM 與代謝物的關聯，並進行 FDR（錯誤發現率）多重比較校正 。模型調整了母親年齡、種族、教育、吸菸、孕前 BMI、初產、嬰兒性別、孕齡及分娩方式等共變量 。次級分析探討代謝物與兒童隨機胰島素的關聯，並額外調整測量胰島素時的年齡 。
+
+■ 關鍵科學發現
+經過 FDR 校正後（FDR &lt; 0.05），共有 32 種臍帶血代謝物與母體 GDM 呈顯著相關，且最強烈的關聯信號集中於脂質代謝譜 [11-14]：
+
+1. 胎兒脂質重塑與細胞膜重構（主要生物學特徵） [11-13, 15-17]：
+• 雙甘油酯（DAGs）與三甘油酯（TAGs）濃度顯著上升：反映了胎兒中性脂肪異常堆積與脂質處理改變，這可能與 PKC 活化及後續的胰島素信號傳遞受損相關 。
+• 細胞膜相關脂質降低：包括磷脂醯膽鹼（PC）、磷脂醯乙醇胺（PE）與縮醛磷脂（Plasmalogens）等，這提示可能存在細胞膜重構、醚脂氧化壓力或過氧化物酶體功能異常 。
+• 膽固醇酯（CE）異常：反映了多元不飽和脂肪酸（PUFA）運送與酯化過程的改變 。
+• 共軛膽汁酸（Conjugated Bile Acids）降低：反映了膽汁酸處理及下游信號傳導異常 。
+
+2. 代謝通路富集分析（IPA） ：
+對 nominal p-value &lt; 0.05 的代謝物進行 IPA 通路富集，顯著富集的通路包括：
+• 精胺酸降解 VI（精胺酸酶 2 通路，重疊率 3/10）
+• 麩胺酸與麩胺醯胺代謝（重疊率 4/24）
+• 脯胺酸生物合成 II（源自精胺酸，重疊率 3/13）
+• 4-羥基苯丙酮酸生物合成（重疊率 2/4）
+• 脯胺酸降解（重疊率 2/5）
+
+3. 臍帶血代謝物與兒童早期隨機血漿胰島素之關聯 ：
+在 401 名兒童的次級分析中，GDM 相關代謝物中，依然是甘油酯類（Glycerolipids）呈現最強烈的訊號。多種 DAGs 與 TAGs 的高濃度與子代在幼兒期（中位年齡 1.34 歲）較高的隨機血漿胰島素水平呈顯著正相關 。這提示出生當下的脂質異常可能與幼兒早期的胰島素阻抗或高胰島素狀態有關 。
+
+■ 對內分泌與新陳代謝臨床實務的啟發
+此研究將母胎代謝暴露從傳統的生化指標延伸到了精細的「臍帶血多體學（Multi-omics）」層面 。如果這些發現能在未來的前瞻性大型世代研究中得到重複驗證，它將為我們帶來生命早期精準預防（Precision Prevention）的臨床想像空間 [22-24]：
+• 早期風險分層：在孩子出生時，透過臍帶血的脂質與代謝特徵，識別出未來罹患肥胖、糖尿病及高血壓等代謝症候群風險較高的子代 。
+• 早期干預靶點：未來研究若證實這些早期脂質重塑與後續代謝軌跡有明確因果，或能指引兒科與內分泌團隊制定更具針對性的早期營養、追蹤與干預策略，阻斷糖尿病的跨世代傳遞 [22-24]。
+
+■ 需要保守解讀的臨床限制與 Cautions
+在將此結果轉化為臨床思維時，照護團隊需要保持客觀與保守：
+• 觀察性設計：本研究為觀察性研究，目前結果僅能視為「假說產生（Hypothesis-generating）」，無法直接推導出因果關係，且尚未進行正式的中介效應分析（Formal Mediation Analysis） 。
+• 關鍵臨床變數缺失：缺乏母體 GDM 的嚴重程度、孕期血糖控制（如 HbA1c 數據）或具體治療方案（飲食、口服藥或胰島素）的詳細資訊 。
+• 隨機胰島素的侷限性：隨機血漿胰島素易受兒童抽血前的進食狀況（飲食干擾）和血液採集時間等隨機因素影響，且本研究缺乏嬰幼兒期的詳細飲食習慣數據 。
+• 富集通路 Overlap 偏小：雖然 IPA 富集分析指出了精胺酸及麩胺酸等通路，但實際重疊的代謝物數量極少（每條通路僅 2 至 4 個），不能過度解讀為已證實的致病分子機制 。
+
+■ 臨床後續思考問題
+面對妊娠糖尿病孕婦所留下的胎兒早期代謝印記，如果未來臍帶血代謝特徵發展成熟並被證實能有效預測子代長期的代謝軌跡，我們內分泌照護團隊應該在何時、以何種介入方式，與兒科或營養專家跨科合作，以便在臨床疾病顯現之前，真正落實跨越生命週期的精準預防？
+
+來源：
+ADA 2026 Scientific Sessions
+Session: Neonatal and Childhood Outcomes of Dysglycemia in Pregnancy With Norbert Freinkel Award Lecture
+講者：Mingyu Zhang - Beth Israel Deaconess Medical Center, Harvard Medical School
+題名：Gestational Diabetes Mellitus (GDM), Cord Blood Metabolomics, and Random Plasma Insulin Levels in Childhood
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/339a5163-0c83-4060-ba6e-3e78255ae1ff</description><content:encoded>ADA 2026 專業整理：妊娠糖尿病對胎兒臍帶血代謝譜的形塑，以及與子代早期胰島素濃度的臨床關聯 &lt;br /&gt;
+&lt;br /&gt;
+■ 臨床問題與研究背景&lt;br /&gt;
+妊娠糖尿病（GDM）在美國影響多達 9% 的孕婦 。臨床上，GDM 已被證實不僅影響新生兒的分娩結局，也與子代長期的代謝功能障礙（如肥胖、第 2 型糖尿病、高血壓）密切相關 。然而，母體 GDM 的子宮內異常代謝環境如何長期形塑胎兒生物學，其潛在的跨世代風險傳遞機制尚未完全釐清 。臍帶血代謝物反映了胎兒在出生當下對子宮內環境的代謝反應，是探索此機制的重要分子視窗 。&lt;br /&gt;
+&lt;br /&gt;
+■ 試驗設計與世代特徵&lt;br /&gt;
+本研究利用持續進行中的「波士頓出生世代（Boston Birth Cohort）」，該世代位於新英格蘭地區最大的安全網醫院波士頓醫學中心（Boston Medical Center），高達 73% 的患者屬於低收入與弱勢群體 。&lt;br /&gt;
+1. 納入對象：排除孕前糖尿病後，共納入 943 對母子進行初級分析（GDM 與臍帶血代謝物關聯）。次級分析則納入有兒童期隨機胰島素數據的 401 名兒童子集 。&lt;br /&gt;
+2. 受試者特徵：母親平均分娩年齡為 28.3 歲，58% 為非裔非拉丁裔，24% 為拉丁裔，50% 伴有孕前超重或肥胖，GDM 盛行率為 9% 。兒童中 16% 為早產兒，17% 為低出生體重兒，測量胰島素時的中位年齡為 1.34 歲 。&lt;br /&gt;
+3. 檢測方法：採用非標靶液相層析串聯質譜儀技術（LC-MS/MS），定量分析臍帶血中 378 種代謝物 。&lt;br /&gt;
+4. 統計模型：主要分析使用多變量線性回歸分析 GDM 與代謝物的關聯，並進行 FDR（錯誤發現率）多重比較校正 。模型調整了母親年齡、種族、教育、吸菸、孕前 BMI、初產、嬰兒性別、孕齡及分娩方式等共變量 。次級分析探討代謝物與兒童隨機胰島素的關聯，並額外調整測量胰島素時的年齡 。&lt;br /&gt;
+&lt;br /&gt;
+■ 關鍵科學發現&lt;br /&gt;
+經過 FDR 校正後（FDR &lt; 0.05），共有 32 種臍帶血代謝物與母體 GDM 呈顯著相關，且最強烈的關聯信號集中於脂質代謝譜 [11-14]：&lt;br /&gt;
+&lt;br /&gt;
+1. 胎兒脂質重塑與細胞膜重構（主要生物學特徵） [11-13, 15-17]：&lt;br /&gt;
+• 雙甘油酯（DAGs）與三甘油酯（TAGs）濃度顯著上升：反映了胎兒中性脂肪異常堆積與脂質處理改變，這可能與 PKC 活化及後續的胰島素信號傳遞受損相關 。&lt;br /&gt;
+• 細胞膜相關脂質降低：包括磷脂醯膽鹼（PC）、磷脂醯乙醇胺（PE）與縮醛磷脂（Plasmalogens）等，這提示可能存在細胞膜重構、醚脂氧化壓力或過氧化物酶體功能異常 。&lt;br /&gt;
+• 膽固醇酯（CE）異常：反映了多元不飽和脂肪酸（PUFA）運送與酯化過程的改變 。&lt;br /&gt;
+• 共軛膽汁酸（Conjugated Bile Acids）降低：反映了膽汁酸處理及下游信號傳導異常 。&lt;br /&gt;
+&lt;br /&gt;
+2. 代謝通路富集分析（IPA） ：&lt;br /&gt;
+對 nominal p-value &lt; 0.05 的代謝物進行 IPA 通路富集，顯著富集的通路包括：&lt;br /&gt;
+• 精胺酸降解 VI（精胺酸酶 2 通路，重疊率 3/10）&lt;br /&gt;
+• 麩胺酸與麩胺醯胺代謝（重疊率 4/24）&lt;br /&gt;
+• 脯胺酸生物合成 II（源自精胺酸，重疊率 3/13）&lt;br /&gt;
+• 4-羥基苯丙酮酸生物合成（重疊率 2/4）&lt;br /&gt;
+• 脯胺酸降解（重疊率 2/5）&lt;br /&gt;
+&lt;br /&gt;
+3. 臍帶血代謝物與兒童早期隨機血漿胰島素之關聯 ：&lt;br /&gt;
+在 401 名兒童的次級分析中，GDM 相關代謝物中，依然是甘油酯類（Glycerolipids）呈現最強烈的訊號。多種 DAGs 與 TAGs 的高濃度與子代在幼兒期（中位年齡 1.34 歲）較高的隨機血漿胰島素水平呈顯著正相關 。這提示出生當下的脂質異常可能與幼兒早期的胰島素阻抗或高胰島素狀態有關 。&lt;br /&gt;
+&lt;br /&gt;
+■ 對內分泌與新陳代謝臨床實務的啟發&lt;br /&gt;
+此研究將母胎代謝暴露從傳統的生化指標延伸到了精細的「臍帶血多體學（Multi-omics）」層面 。如果這些發現能在未來的前瞻性大型世代研究中得到重複驗證，它將為我們帶來生命早期精準預防（Precision Prevention）的臨床想像空間 [22-24]：&lt;br /&gt;
+• 早期風險分層：在孩子出生時，透過臍帶血的脂質與代謝特徵，識別出未來罹患肥胖、糖尿病及高血壓等代謝症候群風險較高的子代 。&lt;br /&gt;
+• 早期干預靶點：未來研究若證實這些早期脂質重塑與後續代謝軌跡有明確因果，或能指引兒科與內分泌團隊制定更具針對性的早期營養、追蹤與干預策略，阻斷糖尿病的跨世代傳遞 [22-24]。&lt;br /&gt;
+&lt;br /&gt;
+■ 需要保守解讀的臨床限制與 Cautions&lt;br /&gt;
+在將此結果轉化為臨床思維時，照護團隊需要保持客觀與保守：&lt;br /&gt;
+• 觀察性設計：本研究為觀察性研究，目前結果僅能視為「假說產生（Hypothesis-generating）」，無法直接推導出因果關係，且尚未進行正式的中介效應分析（Formal Mediation Analysis） 。&lt;br /&gt;
+• 關鍵臨床變數缺失：缺乏母體 GDM 的嚴重程度、孕期血糖控制（如 HbA1c 數據）或具體治療方案（飲食、口服藥或胰島素）的詳細資訊 。&lt;br /&gt;
+• 隨機胰島素的侷限性：隨機血漿胰島素易受兒童抽血前的進食狀況（飲食干擾）和血液採集時間等隨機因素影響，且本研究缺乏嬰幼兒期的詳細飲食習慣數據 。&lt;br /&gt;
+• 富集通路 Overlap 偏小：雖然 IPA 富集分析指出了精胺酸及麩胺酸等通路，但實際重疊的代謝物數量極少（每條通路僅 2 至 4 個），不能過度解讀為已證實的致病分子機制 。&lt;br /&gt;
+&lt;br /&gt;
+■ 臨床後續思考問題&lt;br /&gt;
+面對妊娠糖尿病孕婦所留下的胎兒早期代謝印記，如果未來臍帶血代謝特徵發展成熟並被證實能有效預測子代長期的代謝軌跡，我們內分泌照護團隊應該在何時、以何種介入方式，與兒科或營養專家跨科合作，以便在臨床疾病顯現之前，真正落實跨越生命週期的精準預防？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: Neonatal and Childhood Outcomes of Dysglycemia in Pregnancy With Norbert Freinkel Award Lecture&lt;br /&gt;
+講者：Mingyu Zhang - Beth Israel Deaconess Medical Center, Harvard Medical School&lt;br /&gt;
+題名：Gestational Diabetes Mellitus (GDM), Cord Blood Metabolomics, and Random Plasma Insulin Levels in Childhood&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/339a5163-0c83-4060-ba6e-3e78255ae1ff</content:encoded><pubDate>Sun, 28 Jun 2026 23:21:11 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-28-20260628-2306-ada2026-plenary-gestational-diabetes-mellitus-gdm-cord-blood-metabolomics.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-28-20260628-2306-ada2026-plenary-gestational-diabetes-mellitus-gdm-cord-blood-metabolomics.m4a" length="14263486" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>19:34</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-28-20260628-2306-ada2026-plenary-gestational-diabetes-mellitus-gdm-cord-blood-metabolomics.jpg" /><link>https://mednote.zeabur.app/lectures/339a5163-0c83-4060-ba6e-3e78255ae1ff</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Associations of Early Pregnancy Maternal Glycemic and Metabolic Measures with Newborn Adiposity</title><description>ADA 2026 專業整理：第一孕期母體血糖與代謝指標對新生兒體組成的影響
+
+臨床問題
+新生兒出生時的體組成（如體脂肪量與體脂百分比）相較於單純的出生體重，更能反映胎兒發育的生理學意義，且較高的出生體脂率與兒童期肥胖風險增加密切相關 。雖然已知懷孕晚期的母體高 BMI、低胰島素敏感度與高血糖是新生兒體組成的預測因子，但本研究要探討的是：在第一孕期（懷孕早期），母體各項血糖與非血糖的代謝指標，是否就已經能夠預測新生兒出生時的體組成 ？
+
+試驗設計與研究對象
+本研究為美國 prospective 世代研究 GO MOMs（Glycemic Observation and Metabolic Outcomes in Mothers and Offspring Study）之預設次級分析 。該研究在美國 9 個臨床中心進行 ，最終納入 1,544 名在妊娠 10 到 14 週進入研究並符合分析條件的單胞胎孕婦（平均年齡 32.2 歲、平均 BMI 27.7、46% 為初產婦） [2, 4-6]。排除對象包括孕前糖尿病、使用影響血糖藥物、已進行血糖監測、有減重手術史、常規夜班工作等 。
+母體在第一孕期進行 75克 2小時 OGTT（測量空腹、1小時、2小時血糖、Matsuda 胰島素敏感度指數、PIP 胰島素生理指數）、HbA1c、連續血糖監測（CGM）、空腹三酸甘油酯與游離脂肪酸（FFA）。新生兒在出生後 72 小時內，由受訓認證人員以經 PEA POD 驗證的體組成公式，估計脂肪量、瘦體重、體脂百分比及腰圍身高比 。
+
+關鍵數據與研究發現
+1. 母體 BMI 的關聯最強：第一孕期母體 BMI 每增加 1 個標準差（SD），新生兒脂肪量顯著增加 27.7 克、體脂百分比增加 0.58%，且與腰圍身高比正相關 [5, 11-13]。此外，BMI 與新生兒性別有交互作用，BMI 每增加 1 個標準差，女嬰的瘦體重增加 75 克，男嬰則增加 26 克 。
+2. 空腹血糖的獨立預測價值：在調整母體 BMI 之後，第一孕期空腹血糖仍與新生兒體組成呈獨立正相關 。空腹血糖每增加 1 個標準差，新生兒脂肪量增加 19.3 克、體脂百分比增加 0.38%、瘦體重增加 34 克、腰圍身高比增加 0.36% [5, 8, 11-13]。
+3. 糖化血色素的性別差異：第一孕期 HbA1c 具有性別特異性的交互作用，僅在女嬰中，HbA1c 每增加 1 個標準差，脂肪量增加 16.5 克、瘦體重增加 21 克 [8, 11-13]。然而，HbA1c 與新生兒體脂百分比（0.19%）及腰圍身高比的關聯，在經過多重比較（FDR）校正後即失去顯著性 [8, 11-13]。
+4. 多項動態與代謝指標呈現陰性關聯：第一孕期的多項指標均未與新生兒體組成呈現顯著關聯 。這包括連續血糖監測（CGM）指標（如 24 小時/日間/夜間平均血糖、變異係數、TIR、TAR、TBR）、OGTT 1小時與 2小時血糖、胰島素敏感度指數（Matsuda）、胰島素生理指數（PIP）、游離脂肪酸（FFA）及三酸甘油酯 。
+
+對內分泌臨床實務的啟發
+1. 篩檢指標回歸簡便：相較於各種複雜且昂貴的 CGM 指標或動態代謝指數，在第一孕期，最易取得的母體 BMI 與空腹血糖值，反而對預測新生兒體組成異常最具備臨床解釋力與實用價值 。
+2. 生理機轉的時間窗特性：為何早期的空腹血糖有顯著預測力，但 CGM 等動態血糖指標卻無關聯？這與早孕期獨特的代謝生理學有關 。在懷孕早期（相較於孕前），母體會同時出現胰島素反應增加與胰島素敏感度上升，這種非線性的 disposition index 變化主要是為了因應母體儲存營養的生理需求，也讓第一孕期空腹血糖與常規 HbA1c 呈現與孕前或晚孕期不同的臨床意義 。
+
+需要保守解讀的限制
+1. 本分析為預設之次級分析，其臨床意義並非指第一孕期空腹血糖可直接作為單一臨床診斷或介入篩檢工具 。
+2. 第一孕期 HbA1c 的訊號主要偏向女嬰，且與部分新生兒體組成指標的關聯在經過多重比較（FDR）校正後不再穩定，臨床解讀上應更為審慎 [8, 11-13]。
+3. 飲食攝取（dietary intake）可能是影響新生兒體組成的關鍵因素。雖然 GO MOMs 收集了 6 個時間點的飲食資料，但本分析尚未整合飲食影響，仍有待後續相關分析完成後方能更完整評估 。
+
+給醫師後續思考的問題
+在第一孕期此一「胰島素分泌與胰島素敏感度雙重上升」的獨特母體營養儲存階段，我們若提早對高 BMI 或高空腹血糖的孕婦進行生活型態與飲食介入，是否能有效改善新生兒體組成，抑或其調控機制更受孕前與胎盤生理等非血糖因素主導？
+
+來源：ADA 2026 Scientific Sessions, Session: Neonatal and Childhood Outcomes of Dysglycemia in Pregnancy With Norbert Freinkel Award Lecture. Speaker: Patrick Catalano - Massachusetts General Hospital. Title: Associations of Early Pregnancy Maternal Glycemic and Metabolic Measures with Newborn Adiposity.
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/580337bd-4de9-4acd-924f-317574b4e025</description><content:encoded>ADA 2026 專業整理：第一孕期母體血糖與代謝指標對新生兒體組成的影響&lt;br /&gt;
+&lt;br /&gt;
+臨床問題&lt;br /&gt;
+新生兒出生時的體組成（如體脂肪量與體脂百分比）相較於單純的出生體重，更能反映胎兒發育的生理學意義，且較高的出生體脂率與兒童期肥胖風險增加密切相關 。雖然已知懷孕晚期的母體高 BMI、低胰島素敏感度與高血糖是新生兒體組成的預測因子，但本研究要探討的是：在第一孕期（懷孕早期），母體各項血糖與非血糖的代謝指標，是否就已經能夠預測新生兒出生時的體組成 ？&lt;br /&gt;
+&lt;br /&gt;
+試驗設計與研究對象&lt;br /&gt;
+本研究為美國 prospective 世代研究 GO MOMs（Glycemic Observation and Metabolic Outcomes in Mothers and Offspring Study）之預設次級分析 。該研究在美國 9 個臨床中心進行 ，最終納入 1,544 名在妊娠 10 到 14 週進入研究並符合分析條件的單胞胎孕婦（平均年齡 32.2 歲、平均 BMI 27.7、46% 為初產婦） [2, 4-6]。排除對象包括孕前糖尿病、使用影響血糖藥物、已進行血糖監測、有減重手術史、常規夜班工作等 。&lt;br /&gt;
+母體在第一孕期進行 75克 2小時 OGTT（測量空腹、1小時、2小時血糖、Matsuda 胰島素敏感度指數、PIP 胰島素生理指數）、HbA1c、連續血糖監測（CGM）、空腹三酸甘油酯與游離脂肪酸（FFA）。新生兒在出生後 72 小時內，由受訓認證人員以經 PEA POD 驗證的體組成公式，估計脂肪量、瘦體重、體脂百分比及腰圍身高比 。&lt;br /&gt;
+&lt;br /&gt;
+關鍵數據與研究發現&lt;br /&gt;
+1. 母體 BMI 的關聯最強：第一孕期母體 BMI 每增加 1 個標準差（SD），新生兒脂肪量顯著增加 27.7 克、體脂百分比增加 0.58%，且與腰圍身高比正相關 [5, 11-13]。此外，BMI 與新生兒性別有交互作用，BMI 每增加 1 個標準差，女嬰的瘦體重增加 75 克，男嬰則增加 26 克 。&lt;br /&gt;
+2. 空腹血糖的獨立預測價值：在調整母體 BMI 之後，第一孕期空腹血糖仍與新生兒體組成呈獨立正相關 。空腹血糖每增加 1 個標準差，新生兒脂肪量增加 19.3 克、體脂百分比增加 0.38%、瘦體重增加 34 克、腰圍身高比增加 0.36% [5, 8, 11-13]。&lt;br /&gt;
+3. 糖化血色素的性別差異：第一孕期 HbA1c 具有性別特異性的交互作用，僅在女嬰中，HbA1c 每增加 1 個標準差，脂肪量增加 16.5 克、瘦體重增加 21 克 [8, 11-13]。然而，HbA1c 與新生兒體脂百分比（0.19%）及腰圍身高比的關聯，在經過多重比較（FDR）校正後即失去顯著性 [8, 11-13]。&lt;br /&gt;
+4. 多項動態與代謝指標呈現陰性關聯：第一孕期的多項指標均未與新生兒體組成呈現顯著關聯 。這包括連續血糖監測（CGM）指標（如 24 小時/日間/夜間平均血糖、變異係數、TIR、TAR、TBR）、OGTT 1小時與 2小時血糖、胰島素敏感度指數（Matsuda）、胰島素生理指數（PIP）、游離脂肪酸（FFA）及三酸甘油酯 。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的啟發&lt;br /&gt;
+1. 篩檢指標回歸簡便：相較於各種複雜且昂貴的 CGM 指標或動態代謝指數，在第一孕期，最易取得的母體 BMI 與空腹血糖值，反而對預測新生兒體組成異常最具備臨床解釋力與實用價值 。&lt;br /&gt;
+2. 生理機轉的時間窗特性：為何早期的空腹血糖有顯著預測力，但 CGM 等動態血糖指標卻無關聯？這與早孕期獨特的代謝生理學有關 。在懷孕早期（相較於孕前），母體會同時出現胰島素反應增加與胰島素敏感度上升，這種非線性的 disposition index 變化主要是為了因應母體儲存營養的生理需求，也讓第一孕期空腹血糖與常規 HbA1c 呈現與孕前或晚孕期不同的臨床意義 。&lt;br /&gt;
+&lt;br /&gt;
+需要保守解讀的限制&lt;br /&gt;
+1. 本分析為預設之次級分析，其臨床意義並非指第一孕期空腹血糖可直接作為單一臨床診斷或介入篩檢工具 。&lt;br /&gt;
+2. 第一孕期 HbA1c 的訊號主要偏向女嬰，且與部分新生兒體組成指標的關聯在經過多重比較（FDR）校正後不再穩定，臨床解讀上應更為審慎 [8, 11-13]。&lt;br /&gt;
+3. 飲食攝取（dietary intake）可能是影響新生兒體組成的關鍵因素。雖然 GO MOMs 收集了 6 個時間點的飲食資料，但本分析尚未整合飲食影響，仍有待後續相關分析完成後方能更完整評估 。&lt;br /&gt;
+&lt;br /&gt;
+給醫師後續思考的問題&lt;br /&gt;
+在第一孕期此一「胰島素分泌與胰島素敏感度雙重上升」的獨特母體營養儲存階段，我們若提早對高 BMI 或高空腹血糖的孕婦進行生活型態與飲食介入，是否能有效改善新生兒體組成，抑或其調控機制更受孕前與胎盤生理等非血糖因素主導？&lt;br /&gt;
+&lt;br /&gt;
+來源：ADA 2026 Scientific Sessions, Session: Neonatal and Childhood Outcomes of Dysglycemia in Pregnancy With Norbert Freinkel Award Lecture. Speaker: Patrick Catalano - Massachusetts General Hospital. Title: Associations of Early Pregnancy Maternal Glycemic and Metabolic Measures with Newborn Adiposity.&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/580337bd-4de9-4acd-924f-317574b4e025</content:encoded><pubDate>Sat, 27 Jun 2026 15:19:57 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-27-20260627-1505-ada2026-plenary-associations-of-early-pregnancy-maternal-glycemic-and-meta.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-27-20260627-1505-ada2026-plenary-associations-of-early-pregnancy-maternal-glycemic-and-meta.m4a" length="13258243" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>18:11</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-27-20260627-1505-ada2026-plenary-associations-of-early-pregnancy-maternal-glycemic-and-meta.jpg" /><link>https://mednote.zeabur.app/lectures/580337bd-4de9-4acd-924f-317574b4e025</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Ceramides and the Lipotoxic Basis of Insulin Resistance</title><description>ADA 2026 專業整理：神經醯胺（Ceramides）與胰島素阻抗的脂毒性機制
+
+本場演講由美國猶他大學（University of Utah）的 Scott Summers 教授主講，深入探討脂毒性（Lipotoxicity）如何主動驅動胰島素阻抗與多器官失能，並分享最新的基礎機制與藥物轉譯進展 。
+
+一、內分泌與代謝領域的臨床問題
+當飲食或代謝異常導致進入組織的脂質總量，超過該組織的能量需求或儲存能力時，會引發嚴重的脂毒性壓力 。這不僅驅動胰島素阻抗，更是心臟、肝臟與腎臟等關鍵器官功能障礙與糖尿病併發症的主因 。在眾多累積的脂質中，神經醯胺（Ceramides）已被證實是最具毒性與破壞性的形式之一 。
+
+二、演講核心關鍵訊息與科學證據
+1. 為什麼 Ceramides 毒性如此強？
+從生物物理特性來看，Ceramides 是皮膚角質層的重要防禦脂質（約占50%），極具黏性與緊密堆疊特性 。其構造包含能提供氫鍵的鞘脂骨架（含有氮基非甘油骨架）、Δ4 位置的反式雙鍵（trans double bond）、飽和脂肪酸鏈及超長醯基鏈 [2, 6-9]。這些特徵使它們極易與膽固醇結合，在細胞膜上形成耐去污劑的穩定脂質平台（Ceramide-rich platforms），進而改變細胞膜性質並作為代謝壓力的感測樞紐 [8-10]。
+
+2. 雙相毒性模型與細胞內感測機制
+根據最新的熱蛋白體分析技術（Thermal Proteome Profiling, TPP）篩選（Nicholson et al., Cell Metabolism, 2026）：
+• 早期第一相（代謝重編程）：神經醯胺增加會活化 PP2A 與 PKCζ 訊息途徑，阻斷 Akt 活化，導致葡萄糖攝取下降與胰島素阻抗；同時降低粒線體效率，使電子浪費並釋放活性氧（ROS） [9-12]。此時細胞會關閉葡萄糖利用，轉向三酸甘油酯儲存 。
+• 後期第二相（凋亡與纖維化）：當 Ceramides 持續高度累積，會活化死亡受體（如 CD95/FAS）與發炎小體（如 NLRP3），誘導細胞凋亡並啟動 CREB3L1 切割等親纖維化基因程序，導致器官走向衰竭 [9, 12-14]。
+• TPP 分析顯示：在腎臟中篩選出的神經醯胺敏感效應蛋白，約有三分之一與粒線體能量代謝相關（如 CPT2, SAMM50, CHCHD6），三分之一與脂質和葡萄糖處理相關（如 PLIN2, PLIN3, ELOVL 家族），高度印證此代謝重編程假說 [15-17]。
+
+3. 遺傳與藥物介入的因果證據
+• 基因敲除小鼠（DES1 Knockout）：DES1 是負責在 Ceramides 的 Δ4 位置插入雙鍵的關鍵酶 [18-20]。研究發現，在成年動物中敲除 DES1（保留 dihydroceramides 但消除雙鍵使其不黏），即使在 10 個月的高脂 NASH 飲食下，仍能顯著改善小鼠的糖耐受量，並大幅消除 AST、ALT 與鹼性磷酸酶等肝損傷指標 。
+• 組織特異性保護：僅在心臟中敲除 DES1，能完全逆轉由高脂飲食加一氧化氮合酶抑制劑（高血壓壓力）所誘發的射出分率保留型心衰竭（HFpEF）病變（包括心臟肥大與舒張功能障礙），且保護效果不受全身性高血糖與脂肪肝影響，證實神經醯胺具組織自主性的毒性 。類似保護效果也見於急性腎損傷模型 。
+• 小鼠急性調高 Ceramides（SPT 過度表現）：在心臟中急劇增加神經醯胺合成，會在短短數日內導致嚴重的組織纖維化、心輸出量與每搏輸出量急速惡化並致死；在肝臟中表現同樣引發嚴重肝纖維化與肝損傷 。
+• 藥物轉譯（DES1 抑制劑）：新藥候選分子 CNT2130 與 CNT2198 能高效抑制 DES1，透過監測 Ceramides/Dihydroceramides 比例評估目標參與度 [26-28]。臨床前研究證實其能模擬基因敲除效果，於雙側缺血再灌流腎損傷模型、胰島素阻抗、心衰竭及 MASH 中皆展現保護作用，且該藥物已於前一年 12 月完成 phase 1a 臨床試驗 [26, 27, 29-31]。
+
+三、對內分泌臨床實務的啟發
+1. 臨床生物標記的潛力：血液 Ceramides 濃度已被證實能預測心血管與代謝疾病風險（如 Mayo Clinic 已提供臨床檢測），雖然循環濃度僅是全身累積的間接反映，但未來有望成為評估脂毒性及併發症風險的重要精準醫療工具 。
+2. 治療靶點的新紀元：以往臨床主要著重於降低整體血糖或膽固醇，本研究揭示了「特定脂質化學結構（如 Δ4 雙鍵）」對病理結果有關鍵影響 。靶向降低特定神經醯胺（如抑制 DES1）可能成為未來治療糖尿病併發症、心腎代謝綜合症（CKM）的全新策略 。
+
+四、需要保守解讀的限制與疑慮
+1. 臨床檢測普及性與指引不足：雖然已有商業化血液 Ceramide 檢測，但臨床端對於「高檢測值應如何進行具體介入治療」仍缺乏明確的臨床指引與共識 。
+2. 臨床轉譯尚在早期階段：儘管 DES1 抑制劑在小鼠多器官損傷與胰島素阻抗模型中療效顯著，且剛完成 phase 1a 試驗，但在人體內是否能複製同等的胰島素增敏及多器官保護效益，仍需等待後續 phase 1b/2 臨床試驗的有效性與長期安全性數據 [29-31]。
+
+面對未來可能進入臨床的脂毒性靶向治療，我們該如何重新評估現行以「降糖、降脂」為核心的糖尿病照護模式，並將特定脂質代謝物的調控納入多器官保護的整體考量中？
+
+來源：
+Conference: ADA 2026 Scientific Sessions
+Session: Insulin Resistance A Cause or Consequence of Metabolic Dysfunction
+Title: Ceramides and the Lipotoxic Basis of Insulin Resistance
+Speaker: Scott Summers, PhD - University of Utah
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/39360353-6741-4c29-93b1-11e5a73aaaa9</description><content:encoded>ADA 2026 專業整理：神經醯胺（Ceramides）與胰島素阻抗的脂毒性機制&lt;br /&gt;
+&lt;br /&gt;
+本場演講由美國猶他大學（University of Utah）的 Scott Summers 教授主講，深入探討脂毒性（Lipotoxicity）如何主動驅動胰島素阻抗與多器官失能，並分享最新的基礎機制與藥物轉譯進展 。&lt;br /&gt;
+&lt;br /&gt;
+一、內分泌與代謝領域的臨床問題&lt;br /&gt;
+當飲食或代謝異常導致進入組織的脂質總量，超過該組織的能量需求或儲存能力時，會引發嚴重的脂毒性壓力 。這不僅驅動胰島素阻抗，更是心臟、肝臟與腎臟等關鍵器官功能障礙與糖尿病併發症的主因 。在眾多累積的脂質中，神經醯胺（Ceramides）已被證實是最具毒性與破壞性的形式之一 。&lt;br /&gt;
+&lt;br /&gt;
+二、演講核心關鍵訊息與科學證據&lt;br /&gt;
+1. 為什麼 Ceramides 毒性如此強？&lt;br /&gt;
+從生物物理特性來看，Ceramides 是皮膚角質層的重要防禦脂質（約占50%），極具黏性與緊密堆疊特性 。其構造包含能提供氫鍵的鞘脂骨架（含有氮基非甘油骨架）、Δ4 位置的反式雙鍵（trans double bond）、飽和脂肪酸鏈及超長醯基鏈 [2, 6-9]。這些特徵使它們極易與膽固醇結合，在細胞膜上形成耐去污劑的穩定脂質平台（Ceramide-rich platforms），進而改變細胞膜性質並作為代謝壓力的感測樞紐 [8-10]。&lt;br /&gt;
+&lt;br /&gt;
+2. 雙相毒性模型與細胞內感測機制&lt;br /&gt;
+根據最新的熱蛋白體分析技術（Thermal Proteome Profiling, TPP）篩選（Nicholson et al., Cell Metabolism, 2026）：&lt;br /&gt;
+• 早期第一相（代謝重編程）：神經醯胺增加會活化 PP2A 與 PKCζ 訊息途徑，阻斷 Akt 活化，導致葡萄糖攝取下降與胰島素阻抗；同時降低粒線體效率，使電子浪費並釋放活性氧（ROS） [9-12]。此時細胞會關閉葡萄糖利用，轉向三酸甘油酯儲存 。&lt;br /&gt;
+• 後期第二相（凋亡與纖維化）：當 Ceramides 持續高度累積，會活化死亡受體（如 CD95/FAS）與發炎小體（如 NLRP3），誘導細胞凋亡並啟動 CREB3L1 切割等親纖維化基因程序，導致器官走向衰竭 [9, 12-14]。&lt;br /&gt;
+• TPP 分析顯示：在腎臟中篩選出的神經醯胺敏感效應蛋白，約有三分之一與粒線體能量代謝相關（如 CPT2, SAMM50, CHCHD6），三分之一與脂質和葡萄糖處理相關（如 PLIN2, PLIN3, ELOVL 家族），高度印證此代謝重編程假說 [15-17]。&lt;br /&gt;
+&lt;br /&gt;
+3. 遺傳與藥物介入的因果證據&lt;br /&gt;
+• 基因敲除小鼠（DES1 Knockout）：DES1 是負責在 Ceramides 的 Δ4 位置插入雙鍵的關鍵酶 [18-20]。研究發現，在成年動物中敲除 DES1（保留 dihydroceramides 但消除雙鍵使其不黏），即使在 10 個月的高脂 NASH 飲食下，仍能顯著改善小鼠的糖耐受量，並大幅消除 AST、ALT 與鹼性磷酸酶等肝損傷指標 。&lt;br /&gt;
+• 組織特異性保護：僅在心臟中敲除 DES1，能完全逆轉由高脂飲食加一氧化氮合酶抑制劑（高血壓壓力）所誘發的射出分率保留型心衰竭（HFpEF）病變（包括心臟肥大與舒張功能障礙），且保護效果不受全身性高血糖與脂肪肝影響，證實神經醯胺具組織自主性的毒性 。類似保護效果也見於急性腎損傷模型 。&lt;br /&gt;
+• 小鼠急性調高 Ceramides（SPT 過度表現）：在心臟中急劇增加神經醯胺合成，會在短短數日內導致嚴重的組織纖維化、心輸出量與每搏輸出量急速惡化並致死；在肝臟中表現同樣引發嚴重肝纖維化與肝損傷 。&lt;br /&gt;
+• 藥物轉譯（DES1 抑制劑）：新藥候選分子 CNT2130 與 CNT2198 能高效抑制 DES1，透過監測 Ceramides/Dihydroceramides 比例評估目標參與度 [26-28]。臨床前研究證實其能模擬基因敲除效果，於雙側缺血再灌流腎損傷模型、胰島素阻抗、心衰竭及 MASH 中皆展現保護作用，且該藥物已於前一年 12 月完成 phase 1a 臨床試驗 [26, 27, 29-31]。&lt;br /&gt;
+&lt;br /&gt;
+三、對內分泌臨床實務的啟發&lt;br /&gt;
+1. 臨床生物標記的潛力：血液 Ceramides 濃度已被證實能預測心血管與代謝疾病風險（如 Mayo Clinic 已提供臨床檢測），雖然循環濃度僅是全身累積的間接反映，但未來有望成為評估脂毒性及併發症風險的重要精準醫療工具 。&lt;br /&gt;
+2. 治療靶點的新紀元：以往臨床主要著重於降低整體血糖或膽固醇，本研究揭示了「特定脂質化學結構（如 Δ4 雙鍵）」對病理結果有關鍵影響 。靶向降低特定神經醯胺（如抑制 DES1）可能成為未來治療糖尿病併發症、心腎代謝綜合症（CKM）的全新策略 。&lt;br /&gt;
+&lt;br /&gt;
+四、需要保守解讀的限制與疑慮&lt;br /&gt;
+1. 臨床檢測普及性與指引不足：雖然已有商業化血液 Ceramide 檢測，但臨床端對於「高檢測值應如何進行具體介入治療」仍缺乏明確的臨床指引與共識 。&lt;br /&gt;
+2. 臨床轉譯尚在早期階段：儘管 DES1 抑制劑在小鼠多器官損傷與胰島素阻抗模型中療效顯著，且剛完成 phase 1a 試驗，但在人體內是否能複製同等的胰島素增敏及多器官保護效益，仍需等待後續 phase 1b/2 臨床試驗的有效性與長期安全性數據 [29-31]。&lt;br /&gt;
+&lt;br /&gt;
+面對未來可能進入臨床的脂毒性靶向治療，我們該如何重新評估現行以「降糖、降脂」為核心的糖尿病照護模式，並將特定脂質代謝物的調控納入多器官保護的整體考量中？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+Conference: ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: Insulin Resistance A Cause or Consequence of Metabolic Dysfunction&lt;br /&gt;
+Title: Ceramides and the Lipotoxic Basis of Insulin Resistance&lt;br /&gt;
+Speaker: Scott Summers, PhD - University of Utah&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/39360353-6741-4c29-93b1-11e5a73aaaa9</content:encoded><pubDate>Sat, 27 Jun 2026 13:51:07 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-27-20260627-1337-ada2026-plenary-ceramides-and-the-lipotoxic-basis-of-insulin-resistance.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-27-20260627-1337-ada2026-plenary-ceramides-and-the-lipotoxic-basis-of-insulin-resistance.m4a" length="15733889" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>21:36</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-27-20260627-1337-ada2026-plenary-ceramides-and-the-lipotoxic-basis-of-insulin-resistance.jpg" /><link>https://mednote.zeabur.app/lectures/39360353-6741-4c29-93b1-11e5a73aaaa9</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Adipose Insulin Resistance as a Driver of Metabolic Dysfunction</title><description>ADA 2026 專業整理：脂肪細胞胰島素阻抗如何驅動全身代謝失衡，以及「胰島素」本身是否就是阻抗的主因 [1-4]。
+
+臨床問題與背景
+在腸泌素（Incretins）療法（如 GLP-1 受體促效劑、GIP/GLP-1 雙重促效劑）引領的 2026 年，心腎代謝症候群（Cardio-Renal-Metabolic Syndrome）的治療迎來巨大變革，而體重減輕被視為多器官保護的核心驅動因子 。德州大學西南醫學中心 Philipp E. Scherer 教授指出，體重減輕本質上改變了脂肪組織的微環境 。脂肪細胞並非單純的被動能量儲存庫，而是全身代謝健康的主動調節器 ；當脂肪細胞因營養過剩而變得「憤怒」（發炎、發育纖維化、產生胰島素阻抗），會引發周邊脂質外溢、異位脂肪堆積與跨器官代謝失調 。相反地，改善脂肪細胞的胰島素敏感性，使其轉化為「快樂」的代謝參與者，是改善全身代謝的關鍵驅動因素 。
+
+關鍵訊息一：單獨操控脂肪細胞胰島素敏感性，足以逆轉或惡化全身代謝
+研究團隊利用 PTEN 基因（將 PIP3 去磷酸化回 PIP2 以阻斷 PI3K-Akt 訊號傳導的煞車系統）作為研究工具，進行了一系列精準的基因操控試驗 ：
+1. 成熟脂肪細胞特異性 PTEN 剔除（AiPKO 小鼠）：在高脂飲食背景下，僅提升成熟脂肪細胞的胰島素敏感性，即足以改善口服葡萄糖耐受試驗（OGTT），且在糖負荷處理中，小鼠所需的血漿胰島素濃度極低，反映出顯著的系統性敏感性提升 。
+2. 皮下脂肪特異性剔除（SQ iKO 小鼠）：利用 doxycycline 誘導系統使 PTEN 缺失主要保留在皮下脂肪細胞中 。結果顯示，在體重無顯著差異的前提下，小鼠的 OGTT 血糖顯著下降，且葡萄糖刺激後的胰島素反應幾乎呈平坦且極低水平 。此外，這引發了類似 PPARγ 促效劑（TZDs）的脂肪重分配效應，使脂肪從有害的內臟/性腺脂肪庫轉移至安全的皮下脂肪庫儲存，且此表型在 12 週的追蹤中持續維持 。
+3. 棕色/米色脂肪（BIPKO）與前驅脂肪細胞（MIPKO）：試驗證實，在棕色脂肪或是在 PDGFRβ 前驅脂肪細胞層級提升胰島素敏感性，皆能降低全身處理葡萄糖所需的胰島素，改善系統性糖耐受性 [14-16]。
+4. 移植試驗：將含有 PTEN 缺失前驅細胞的皮下脂肪移植至受體小鼠，移植脂肪分化為成熟脂肪細胞後，亦能成功降低宿主處理葡萄糖時所需的胰島素量 。
+5. 反向操控（ePTEN 突變）：若在脂肪組織中過度表現高活性的 ePTEN（帶有六個點突變的增強型 PTEN），會阻斷胰島素刺激後的 Akt 磷酸化（p-Akt），引發脂肪組織胰島素阻抗，而此阻抗亦會外溢至系統，造成全身代謝惡化 。
+
+關鍵訊息二：慢性高胰島素暴露本身是胰島素阻抗的驅動因素
+演講的第二核心直指「Does insulin cause insulin resistance?（胰島素是否會導致胰島素阻抗？）」，並利用 Kir6.2 V59M 突變小鼠模型進行驗證，該模型可利用 doxycline 劑量精密設下胰島素分泌上限，在不引發高血糖的前提下限制胰島素過度分泌 。
+1. 代謝反應與周邊敏感性：在 9 週的高脂飲食下，限制胰島素分泌的小鼠（β-Kir6.2V59M）依然能維持正常的葡萄糖耐受，且 OGTT 期間的胰島素釋放顯著被限縮 。在胰島素耐受試驗（IPITT）中，其血糖下降幅度更大，反映出顯著增強的周邊胰島素敏感性（每單位胰島素的代謝效果更好）。
+2. 肝臟保護效應：限制過度胰島素分泌使肝臟呈現極佳狀態，脂肪肝（steatosis）顯著減少，且肝臟 de novo lipogenesis 相關轉錄基因（Srebp1c、ChREBP、Fasn、Scd-1）全面顯著下降 。
+3. 骨骼肌與體重：長期接受高脂飲食時，這群小鼠因同化激素（胰島素）受限而體重增加較少，且骨骼肌在胰島素刺激後的 Akt 磷酸化（p-Akt）訊號明顯增強，周邊敏感性大幅提高 。
+4. 逆轉效應：在小鼠已建立肥胖與胰島素阻抗後，逐步調低其胰島素水平，可恢復其系統性胰島素敏感性 。這證實了慢性高濃度胰島素具有代謝毒性，降低配體負荷反而能恢復受體路徑的敏感性 。
+
+對內分泌臨床實務的啟發
+這項研究為臨床治療策略帶來了重要的思維變革。臨床上常將肥胖患者體內的高胰島素血症視為單純的代償性反應，因而在血糖控制不佳時，有時會施加高劑量的外源性胰島素 。然而，本場研究提示我們，高胰島素血症可能主動參與並惡化了周邊組織的胰島素阻抗與脂肪肝 。在不引起高血糖的前提下，透過新型減重藥物改善脂肪細胞的胰島素敏感性，並設法降低胰島素的分泌需求，才是打破心腎代謝失衡惡性循環的核心方向 [3-6]。
+
+保守解讀的限制
+雖然試驗數據極具說服力，但多數核心數據（如 PTEN 基因剔除、Kir6.2 突變模型、脂肪移植以及棕色脂肪組織對全身代謝的調控）均來自臨床前小鼠模型 。特別是棕色脂肪（BAT）的胰島素敏感性在小鼠中扮演的角色可能顯著高於人類，此點在臨床轉化醫學應用時需審慎看待 。此外，臨床上針對糖尿病患者的胰島素治療仍是挽救生命的關鍵手段，限制胰島素分泌或降低高胰島素血症的策略，必須在維持血糖恆定的安全前提下進行，以免誘發急性併發症 。
+
+給醫師的後續思考問題：
+在腸泌素（incretins）已能實現顯著減重並改善脂肪細胞微環境的今日，我們在臨床處方胰島素或促胰島素分泌劑時，應如何平衡「即時的血糖控制」與「避免慢性高胰島素血症帶來的代謝毒性」？
+
+來源：
+ADA 2026 Scientific Sessions
+Session: Insulin Resistance A Cause or Consequence of Metabolic Dysfunction
+Title: Adipose Insulin Resistance as a Driver of Metabolic Dysfunction
+Speaker: Philipp Scherer - UT Southwestern Medical Center
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/84da3279-4025-403c-9c86-4508d8220eb1</description><content:encoded>ADA 2026 專業整理：脂肪細胞胰島素阻抗如何驅動全身代謝失衡，以及「胰島素」本身是否就是阻抗的主因 [1-4]。&lt;br /&gt;
+&lt;br /&gt;
+臨床問題與背景&lt;br /&gt;
+在腸泌素（Incretins）療法（如 GLP-1 受體促效劑、GIP/GLP-1 雙重促效劑）引領的 2026 年，心腎代謝症候群（Cardio-Renal-Metabolic Syndrome）的治療迎來巨大變革，而體重減輕被視為多器官保護的核心驅動因子 。德州大學西南醫學中心 Philipp E. Scherer 教授指出，體重減輕本質上改變了脂肪組織的微環境 。脂肪細胞並非單純的被動能量儲存庫，而是全身代謝健康的主動調節器 ；當脂肪細胞因營養過剩而變得「憤怒」（發炎、發育纖維化、產生胰島素阻抗），會引發周邊脂質外溢、異位脂肪堆積與跨器官代謝失調 。相反地，改善脂肪細胞的胰島素敏感性，使其轉化為「快樂」的代謝參與者，是改善全身代謝的關鍵驅動因素 。&lt;br /&gt;
+&lt;br /&gt;
+關鍵訊息一：單獨操控脂肪細胞胰島素敏感性，足以逆轉或惡化全身代謝&lt;br /&gt;
+研究團隊利用 PTEN 基因（將 PIP3 去磷酸化回 PIP2 以阻斷 PI3K-Akt 訊號傳導的煞車系統）作為研究工具，進行了一系列精準的基因操控試驗 ：&lt;br /&gt;
+1. 成熟脂肪細胞特異性 PTEN 剔除（AiPKO 小鼠）：在高脂飲食背景下，僅提升成熟脂肪細胞的胰島素敏感性，即足以改善口服葡萄糖耐受試驗（OGTT），且在糖負荷處理中，小鼠所需的血漿胰島素濃度極低，反映出顯著的系統性敏感性提升 。&lt;br /&gt;
+2. 皮下脂肪特異性剔除（SQ iKO 小鼠）：利用 doxycycline 誘導系統使 PTEN 缺失主要保留在皮下脂肪細胞中 。結果顯示，在體重無顯著差異的前提下，小鼠的 OGTT 血糖顯著下降，且葡萄糖刺激後的胰島素反應幾乎呈平坦且極低水平 。此外，這引發了類似 PPARγ 促效劑（TZDs）的脂肪重分配效應，使脂肪從有害的內臟/性腺脂肪庫轉移至安全的皮下脂肪庫儲存，且此表型在 12 週的追蹤中持續維持 。&lt;br /&gt;
+3. 棕色/米色脂肪（BIPKO）與前驅脂肪細胞（MIPKO）：試驗證實，在棕色脂肪或是在 PDGFRβ 前驅脂肪細胞層級提升胰島素敏感性，皆能降低全身處理葡萄糖所需的胰島素，改善系統性糖耐受性 [14-16]。&lt;br /&gt;
+4. 移植試驗：將含有 PTEN 缺失前驅細胞的皮下脂肪移植至受體小鼠，移植脂肪分化為成熟脂肪細胞後，亦能成功降低宿主處理葡萄糖時所需的胰島素量 。&lt;br /&gt;
+5. 反向操控（ePTEN 突變）：若在脂肪組織中過度表現高活性的 ePTEN（帶有六個點突變的增強型 PTEN），會阻斷胰島素刺激後的 Akt 磷酸化（p-Akt），引發脂肪組織胰島素阻抗，而此阻抗亦會外溢至系統，造成全身代謝惡化 。&lt;br /&gt;
+&lt;br /&gt;
+關鍵訊息二：慢性高胰島素暴露本身是胰島素阻抗的驅動因素&lt;br /&gt;
+演講的第二核心直指「Does insulin cause insulin resistance?（胰島素是否會導致胰島素阻抗？）」，並利用 Kir6.2 V59M 突變小鼠模型進行驗證，該模型可利用 doxycline 劑量精密設下胰島素分泌上限，在不引發高血糖的前提下限制胰島素過度分泌 。&lt;br /&gt;
+1. 代謝反應與周邊敏感性：在 9 週的高脂飲食下，限制胰島素分泌的小鼠（β-Kir6.2V59M）依然能維持正常的葡萄糖耐受，且 OGTT 期間的胰島素釋放顯著被限縮 。在胰島素耐受試驗（IPITT）中，其血糖下降幅度更大，反映出顯著增強的周邊胰島素敏感性（每單位胰島素的代謝效果更好）。&lt;br /&gt;
+2. 肝臟保護效應：限制過度胰島素分泌使肝臟呈現極佳狀態，脂肪肝（steatosis）顯著減少，且肝臟 de novo lipogenesis 相關轉錄基因（Srebp1c、ChREBP、Fasn、Scd-1）全面顯著下降 。&lt;br /&gt;
+3. 骨骼肌與體重：長期接受高脂飲食時，這群小鼠因同化激素（胰島素）受限而體重增加較少，且骨骼肌在胰島素刺激後的 Akt 磷酸化（p-Akt）訊號明顯增強，周邊敏感性大幅提高 。&lt;br /&gt;
+4. 逆轉效應：在小鼠已建立肥胖與胰島素阻抗後，逐步調低其胰島素水平，可恢復其系統性胰島素敏感性 。這證實了慢性高濃度胰島素具有代謝毒性，降低配體負荷反而能恢復受體路徑的敏感性 。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的啟發&lt;br /&gt;
+這項研究為臨床治療策略帶來了重要的思維變革。臨床上常將肥胖患者體內的高胰島素血症視為單純的代償性反應，因而在血糖控制不佳時，有時會施加高劑量的外源性胰島素 。然而，本場研究提示我們，高胰島素血症可能主動參與並惡化了周邊組織的胰島素阻抗與脂肪肝 。在不引起高血糖的前提下，透過新型減重藥物改善脂肪細胞的胰島素敏感性，並設法降低胰島素的分泌需求，才是打破心腎代謝失衡惡性循環的核心方向 [3-6]。&lt;br /&gt;
+&lt;br /&gt;
+保守解讀的限制&lt;br /&gt;
+雖然試驗數據極具說服力，但多數核心數據（如 PTEN 基因剔除、Kir6.2 突變模型、脂肪移植以及棕色脂肪組織對全身代謝的調控）均來自臨床前小鼠模型 。特別是棕色脂肪（BAT）的胰島素敏感性在小鼠中扮演的角色可能顯著高於人類，此點在臨床轉化醫學應用時需審慎看待 。此外，臨床上針對糖尿病患者的胰島素治療仍是挽救生命的關鍵手段，限制胰島素分泌或降低高胰島素血症的策略，必須在維持血糖恆定的安全前提下進行，以免誘發急性併發症 。&lt;br /&gt;
+&lt;br /&gt;
+給醫師的後續思考問題：&lt;br /&gt;
+在腸泌素（incretins）已能實現顯著減重並改善脂肪細胞微環境的今日，我們在臨床處方胰島素或促胰島素分泌劑時，應如何平衡「即時的血糖控制」與「避免慢性高胰島素血症帶來的代謝毒性」？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: Insulin Resistance A Cause or Consequence of Metabolic Dysfunction&lt;br /&gt;
+Title: Adipose Insulin Resistance as a Driver of Metabolic Dysfunction&lt;br /&gt;
+Speaker: Philipp Scherer - UT Southwestern Medical Center&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/84da3279-4025-403c-9c86-4508d8220eb1</content:encoded><pubDate>Sat, 27 Jun 2026 12:20:55 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-27-20260627-1206-ada2026-plenary-adipose-insulin-resistance-as-a-driver-of-metabolic-dysfun.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-27-20260627-1206-ada2026-plenary-adipose-insulin-resistance-as-a-driver-of-metabolic-dysfun.m4a" length="15381014" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>21:06</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-27-20260627-1206-ada2026-plenary-adipose-insulin-resistance-as-a-driver-of-metabolic-dysfun.jpg" /><link>https://mednote.zeabur.app/lectures/84da3279-4025-403c-9c86-4508d8220eb1</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Deafdiabetescan.org: A Diabetes Digital Health Education Website in American Sign Language</title><description>ADA 2026 專業整理：聾人與聽損族群的糖尿病數位健康教育
+
+在美國，聾人與聽力受損族群的糖尿病疾病負擔高達一般人的3倍，這顯示出長期被忽視的健康不平等問題 。
+
+臨床問題與照護現狀
+1. 餐桌症候群與語言剝奪：約90%至95%的聾人出生於聽力正常的家庭，但高達70%的聽力正常父母並未學會能與之順暢溝通的手語 。這導致聾人病患從小無法在家庭日常對話中獲取家族病史或健康知識（即餐桌症候群），並可能在幼年時期面臨語言剝奪，影響其日後理解抽象醫學概念與疾病機轉的能力 。
+2. 臨床翻譯資源嚴重缺口：在臨床門診中，僅約50%的就醫情境會提供合格的美國手語（ASL）口譯員 。即便有口譯員到場，仍有約三分之一的口譯員自認不具備足夠的專業能力來翻譯複雜的糖尿病臨床概念與術語（如 A1C、碳水化合物、胰島素、高低血糖等） 。
+3. 書面資料無法替代第一語言：手語並非「視覺化的英文」，其語法、結構與文化脈絡與書面英文完全不同 。提供英文衛教單張，就像把法文資料交給西班牙語使用者一樣，並不能保障病患能正確理解並落實日常自我照護 。
+4. 現有網絡資源缺乏專業把關：許多聾人病患會至 YouTube 搜尋衛教影片，但現有資源極少，且多數實際上是手語口譯系學生的課堂作業，其臨床正確性與手語翻譯品質皆未經醫學審核 。
+
+關鍵訊息與網站創新設計
+為了解決上述系統性缺口，研究團隊自2022年起與社群諮詢委員會（由50%第一型糖尿病、50%第二型糖尿病，且涵蓋美國不同地區與族裔的聾人組成）共同設計開發了 Deafdiabetescan.org 衛教網站 ：
+1. 視覺化糖尿病術語詞彙庫：針對容易混淆的臨床概念發展精準的手語。例如：針對「胰臟分泌的內源性胰島素」與「注射型的外源性胰島素藥物」，定義出兩種不同的手語，讓病患能從視覺上與概念上精確區分身體生理與治療用藥 [9-11]。
+2. 常青衛教影片：建立20支對齊 ADCES 7大健康行為的影片，由聾人演員在綠幕前以手語呈現，畫面右側搭配動態視覺圖像，底部設有閉路字幕，並配有英文語音 [9, 12-14]。除了常規飲食、用藥與監測外，更特別加入「自我倡議（教導如何要求手語口譯）」與「家庭支持」主題 。
+3. 使用者體驗測試：經過10位聾人使用者的實際操作測試（UX Testing N=10），證實該網站在可近性、導覽簡易度與滿意度上皆表現優異 。
+4. 四維品質控管：內容由糖尿病專科護理師等臨床專家與聾人團隊共同把關，針對「臨床內容」、「手語翻譯」、「視覺圖像」與「字幕一致性」進行協同審查 。
+
+對內分泌臨床實務的啟發
+1. 語言可近性是醫療品質的基石：改善聾人糖尿病患者臨床預後的基礎，在於「高品質醫療照護」與「語言可近性」兩者的結合，兩者缺一不可 。
+2. 數位工具是輔助，不可取代合格口譯：Deafdiabetescan.org 網站是協助病患在診後反覆複習與日常自主管理的輔助資源 。在診間現場，醫療團隊仍有法律與臨床義務提供合格的專業手語醫療翻譯，不應以提供網站資源作為規避口譯服務的替代方案 。
+
+保守解讀的限制
+1. 語言與文化適用性：此平台是基於美國手語（ASL）及美國的照護體系、ADCES 框架所設計 。由於世界各國手語（例如台灣手語）與文化、醫療保險體系大不相同，無法將此內容直接複製、轉移至非美語系的臨床環境。
+2. 樣本規模與臨床硬終點數據：目前網站的可行性與滿意度測試樣本數較小（N=10） 。此外，目前的實證數據偏向使用者體驗與理解度，尚未有大規模隨機對照試驗（RCT）來證實該網站的使用能直接改善患者的 HbA1c 或降低併發症發生率（目前團隊已提交 R01 計畫並正在發展12週的 ASL Zoom 遠距介入課程） 。
+
+給醫師後續思考的問題：
+當我們在診間面對無法以口語順暢溝通的病患時，我們是否曾預設只要提供精美的書面衛教單張即已足夠，進而忽略了語言障礙可能對其體內生理代謝概念所造成的根本理解落差？
+
+來源：
+ADA 2026 Scientific Sessions
+Session: Empowering Populations Diabetes Self Management Education in Practice
+Michelle Litchman - University of Utah
+Deafdiabetescan.org: A Diabetes Digital Health Education Website in American Sign Language
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/e88d3509-2531-4243-aace-788759ac99c3</description><content:encoded>ADA 2026 專業整理：聾人與聽損族群的糖尿病數位健康教育&lt;br /&gt;
+&lt;br /&gt;
+在美國，聾人與聽力受損族群的糖尿病疾病負擔高達一般人的3倍，這顯示出長期被忽視的健康不平等問題 。&lt;br /&gt;
+&lt;br /&gt;
+臨床問題與照護現狀&lt;br /&gt;
+1. 餐桌症候群與語言剝奪：約90%至95%的聾人出生於聽力正常的家庭，但高達70%的聽力正常父母並未學會能與之順暢溝通的手語 。這導致聾人病患從小無法在家庭日常對話中獲取家族病史或健康知識（即餐桌症候群），並可能在幼年時期面臨語言剝奪，影響其日後理解抽象醫學概念與疾病機轉的能力 。&lt;br /&gt;
+2. 臨床翻譯資源嚴重缺口：在臨床門診中，僅約50%的就醫情境會提供合格的美國手語（ASL）口譯員 。即便有口譯員到場，仍有約三分之一的口譯員自認不具備足夠的專業能力來翻譯複雜的糖尿病臨床概念與術語（如 A1C、碳水化合物、胰島素、高低血糖等） 。&lt;br /&gt;
+3. 書面資料無法替代第一語言：手語並非「視覺化的英文」，其語法、結構與文化脈絡與書面英文完全不同 。提供英文衛教單張，就像把法文資料交給西班牙語使用者一樣，並不能保障病患能正確理解並落實日常自我照護 。&lt;br /&gt;
+4. 現有網絡資源缺乏專業把關：許多聾人病患會至 YouTube 搜尋衛教影片，但現有資源極少，且多數實際上是手語口譯系學生的課堂作業，其臨床正確性與手語翻譯品質皆未經醫學審核 。&lt;br /&gt;
+&lt;br /&gt;
+關鍵訊息與網站創新設計&lt;br /&gt;
+為了解決上述系統性缺口，研究團隊自2022年起與社群諮詢委員會（由50%第一型糖尿病、50%第二型糖尿病，且涵蓋美國不同地區與族裔的聾人組成）共同設計開發了 Deafdiabetescan.org 衛教網站 ：&lt;br /&gt;
+1. 視覺化糖尿病術語詞彙庫：針對容易混淆的臨床概念發展精準的手語。例如：針對「胰臟分泌的內源性胰島素」與「注射型的外源性胰島素藥物」，定義出兩種不同的手語，讓病患能從視覺上與概念上精確區分身體生理與治療用藥 [9-11]。&lt;br /&gt;
+2. 常青衛教影片：建立20支對齊 ADCES 7大健康行為的影片，由聾人演員在綠幕前以手語呈現，畫面右側搭配動態視覺圖像，底部設有閉路字幕，並配有英文語音 [9, 12-14]。除了常規飲食、用藥與監測外，更特別加入「自我倡議（教導如何要求手語口譯）」與「家庭支持」主題 。&lt;br /&gt;
+3. 使用者體驗測試：經過10位聾人使用者的實際操作測試（UX Testing N=10），證實該網站在可近性、導覽簡易度與滿意度上皆表現優異 。&lt;br /&gt;
+4. 四維品質控管：內容由糖尿病專科護理師等臨床專家與聾人團隊共同把關，針對「臨床內容」、「手語翻譯」、「視覺圖像」與「字幕一致性」進行協同審查 。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的啟發&lt;br /&gt;
+1. 語言可近性是醫療品質的基石：改善聾人糖尿病患者臨床預後的基礎，在於「高品質醫療照護」與「語言可近性」兩者的結合，兩者缺一不可 。&lt;br /&gt;
+2. 數位工具是輔助，不可取代合格口譯：Deafdiabetescan.org 網站是協助病患在診後反覆複習與日常自主管理的輔助資源 。在診間現場，醫療團隊仍有法律與臨床義務提供合格的專業手語醫療翻譯，不應以提供網站資源作為規避口譯服務的替代方案 。&lt;br /&gt;
+&lt;br /&gt;
+保守解讀的限制&lt;br /&gt;
+1. 語言與文化適用性：此平台是基於美國手語（ASL）及美國的照護體系、ADCES 框架所設計 。由於世界各國手語（例如台灣手語）與文化、醫療保險體系大不相同，無法將此內容直接複製、轉移至非美語系的臨床環境。&lt;br /&gt;
+2. 樣本規模與臨床硬終點數據：目前網站的可行性與滿意度測試樣本數較小（N=10） 。此外，目前的實證數據偏向使用者體驗與理解度，尚未有大規模隨機對照試驗（RCT）來證實該網站的使用能直接改善患者的 HbA1c 或降低併發症發生率（目前團隊已提交 R01 計畫並正在發展12週的 ASL Zoom 遠距介入課程） 。&lt;br /&gt;
+&lt;br /&gt;
+給醫師後續思考的問題：&lt;br /&gt;
+當我們在診間面對無法以口語順暢溝通的病患時，我們是否曾預設只要提供精美的書面衛教單張即已足夠，進而忽略了語言障礙可能對其體內生理代謝概念所造成的根本理解落差？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: Empowering Populations Diabetes Self Management Education in Practice&lt;br /&gt;
+Michelle Litchman - University of Utah&lt;br /&gt;
+Deafdiabetescan.org: A Diabetes Digital Health Education Website in American Sign Language&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/e88d3509-2531-4243-aace-788759ac99c3</content:encoded><pubDate>Sat, 27 Jun 2026 08:18:51 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-27-20260627-0806-ada2026-plenary-deafdiabetescan-org-a-diabetes-digital-health-education-we.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-27-20260627-0806-ada2026-plenary-deafdiabetescan-org-a-diabetes-digital-health-education-we.m4a" length="9780087" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>13:23</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-27-20260627-0806-ada2026-plenary-deafdiabetescan-org-a-diabetes-digital-health-education-we.jpg" /><link>https://mednote.zeabur.app/lectures/e88d3509-2531-4243-aace-788759ac99c3</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Diabetes Self-Management Education (DSME) and Hospital Admission Rates in Adults with Type 2 Diabetes in England: An Epidemiological Analysis</title><description>ADA 2026 專業整理：第二型糖尿病成人參與糖尿病自我管理教育（DSME）與住院率之流行病學分析 
+
+【臨床問題】
+糖尿病自我管理教育（DSME）在國際上被強烈推薦用於改善第二型糖尿病患者的血糖控制與預防併發症，但在真實臨床環境中實際參與與完成率卻非常低（英國僅約 9% 開始參與，美國在診斷後第一年內僅約 7-10% 參與）。此外，過去對於 DSME 的臨床研究多聚焦於短期指標（如 HbA1c 改善或生活品質），其對長期住院率與死亡率等硬終點的影響則證據相對不足 。先前講者團隊進行的統合分析也顯示，DSME 對全因住院率的影響僅有不具統計學顯著意義的 9% 降幅 。因此，臨床上亟需大規模且具備長期追蹤數據的真實世界證據 。
+
+【研究設計】
+本研究使用英國臨床實踐研究數據庫（CPRD）連結死亡、住院Episode與人口特徵等多項健康數據 ，納入 364,589 名英格蘭成人第二型糖尿病患者進行分析 。研究採用 1:4 傾向配對（曾接受過 DSME：75,318 人；從未接受過 DSME：289,271 人），中位追蹤約 5.1 年，累積總追蹤時間超過 200 萬人年 。分析中排除診斷後前 12 個月內發生的住院事件，以避免逆向因果關係 ，並使用多變數 Poisson 與 Cox 回歸模型，調整年齡、性別、HbA1c、共病、ASCVD 史與主動尋求醫療行為（health-seeking behaviour）評分等潛在混雜變項 。
+
+【關鍵核心數據】
+1. 全因住院率（All-cause admission rate）：
+多變數調整分析顯示，曾接受過 DSME 與全因住院率降低 20% 顯著相關（IRR 0.80, 95% CI 0.79-0.81, p&lt;0.001）。性別分層分析顯示男女均能獲益，其中女性住院率降幅略高於男性（女性降低 22%，男性降低 19%）。
+
+2. 特定病因住院率（Cause-specific admission rate）：
+多數住院原因呈現一致性下降，降幅顯著的病因包括：
+• 非糖尿病相關癌症：降低 26%（IRR 0.74, 95% CI 0.71-0.76）
+• 肝臟疾病：降低 23%（IRR 0.78, 95% CI 0.74-0.81）
+• 呼吸道疾病：降低 17%（IRR 0.83, 95% CI 0.82-0.85）
+• 中風：降低 15%（IRR 0.85, 95% CI 0.82-0.88）
+• 糖尿病特定住院：降低 15%（IRR 0.85, 95% CI 0.84-0.86）
+• 皮膚與骨骼感染：降低 14%（IRR 0.86, 95% CI 0.82-0.89）
+其餘如缺血性心臟病（降低11%）、急性心肌梗塞（降低5%）等亦有顯著下降，但腎臟疾病、末期腎臟病與大截肢則無統計學顯著下降 。
+
+3. 首次住院事件風險（First-event hospitalization）：
+接受過 DSME 者首次全因住院風險降低 4%（HR 0.96, 95% CI 0.95-0.97, p&lt;0.001）。特定病因中，首次住院風險降幅最顯著的為高血糖危象與小截肢，均降低 13%（HR 0.87），而敗血症、腎臟感染與皮膚骨骼感染亦皆顯著降低 11%（HR 0.89）。
+
+4. 衰弱度次群組分析（Frailty subgroup analysis）：
+在約 40,000 名記錄有電子衰弱指數評分的患者亞群中，進一步調整衰弱程度後，DSME 仍與全因住院率降低 15% 顯著相關（IRR 0.85），證實衰弱程度不足以完全解釋上述主要分析中的顯著獲益 。
+
+【內分泌臨床實務的啟發】
+本研究在真實世界的大規模數據中，證實了 DSME 具有降低長期住院負擔與防範多系統感染、代謝失衡及小截肢等嚴重併發症的實質效益 。雖然臨床專家們大多認可教育的重要性，但目前 DSME 在形式、堂數（從 1 堂至 24 堂課不等）、時數以及品質上仍存在極大差異，未來需要更具一致性與標準化的模式 。
+
+【需要保守解讀的限制】
+1. 觀察性研究設計：無法直接確立因果關係，儘管調整了諸多變項，仍可能存在殘餘干擾（residual confounding）。
+2. 主動尋求醫療行為（health-seeking behaviour）偏差：參與 DSME 的患者在基線時展現出更好的預防照護與篩檢參與度，這可能部分高估了 DSME 的獨立保護效果 。
+3. 逆向因果關係：體能與臨床狀態較佳、本就不易住院的患者，可能有更高的意願與能力完成 DSME 。
+4. 臨床編碼限制：數據庫中關於 DSME「完成（completion）」的編碼完整度與記錄品質差，使得研究無法可靠地區分「僅出席」與「完全完成」的效應，亦無法穩定推估劑量效應 。
+
+【醫師後續思考問題】
+在現行的多學科與跨科別糖尿病照護環境下，我們該如何優化基層與專科間的轉介管道，並建立具備一致性、標準化且能結合後續同儕支持的 DSME 照護路徑，以有效突破患者轉介與完成率低下的瓶頸，轉化為實質的長期住院減負？
+
+來源：
+ADA 2026 Scientific Sessions
+Session: Empowering Populations Diabetes Self Management Education in Practice
+講者：Gemma A Lewis - Mersey and West Lancashire Teaching Hospitals NHS Trust
+題名：Diabetes Self-Management Education (DSME) and Hospital Admission Rates in Adults with Type 2 Diabetes in England: An Epidemiological Analysis
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/5f02dbca-cbea-46df-8cf5-a163c568f3f7</description><content:encoded>ADA 2026 專業整理：第二型糖尿病成人參與糖尿病自我管理教育（DSME）與住院率之流行病學分析 &lt;br /&gt;
+&lt;br /&gt;
+【臨床問題】&lt;br /&gt;
+糖尿病自我管理教育（DSME）在國際上被強烈推薦用於改善第二型糖尿病患者的血糖控制與預防併發症，但在真實臨床環境中實際參與與完成率卻非常低（英國僅約 9% 開始參與，美國在診斷後第一年內僅約 7-10% 參與）。此外，過去對於 DSME 的臨床研究多聚焦於短期指標（如 HbA1c 改善或生活品質），其對長期住院率與死亡率等硬終點的影響則證據相對不足 。先前講者團隊進行的統合分析也顯示，DSME 對全因住院率的影響僅有不具統計學顯著意義的 9% 降幅 。因此，臨床上亟需大規模且具備長期追蹤數據的真實世界證據 。&lt;br /&gt;
+&lt;br /&gt;
+【研究設計】&lt;br /&gt;
+本研究使用英國臨床實踐研究數據庫（CPRD）連結死亡、住院Episode與人口特徵等多項健康數據 ，納入 364,589 名英格蘭成人第二型糖尿病患者進行分析 。研究採用 1:4 傾向配對（曾接受過 DSME：75,318 人；從未接受過 DSME：289,271 人），中位追蹤約 5.1 年，累積總追蹤時間超過 200 萬人年 。分析中排除診斷後前 12 個月內發生的住院事件，以避免逆向因果關係 ，並使用多變數 Poisson 與 Cox 回歸模型，調整年齡、性別、HbA1c、共病、ASCVD 史與主動尋求醫療行為（health-seeking behaviour）評分等潛在混雜變項 。&lt;br /&gt;
+&lt;br /&gt;
+【關鍵核心數據】&lt;br /&gt;
+1. 全因住院率（All-cause admission rate）：&lt;br /&gt;
+多變數調整分析顯示，曾接受過 DSME 與全因住院率降低 20% 顯著相關（IRR 0.80, 95% CI 0.79-0.81, p&lt;0.001）。性別分層分析顯示男女均能獲益，其中女性住院率降幅略高於男性（女性降低 22%，男性降低 19%）。&lt;br /&gt;
+&lt;br /&gt;
+2. 特定病因住院率（Cause-specific admission rate）：&lt;br /&gt;
+多數住院原因呈現一致性下降，降幅顯著的病因包括：&lt;br /&gt;
+• 非糖尿病相關癌症：降低 26%（IRR 0.74, 95% CI 0.71-0.76）&lt;br /&gt;
+• 肝臟疾病：降低 23%（IRR 0.78, 95% CI 0.74-0.81）&lt;br /&gt;
+• 呼吸道疾病：降低 17%（IRR 0.83, 95% CI 0.82-0.85）&lt;br /&gt;
+• 中風：降低 15%（IRR 0.85, 95% CI 0.82-0.88）&lt;br /&gt;
+• 糖尿病特定住院：降低 15%（IRR 0.85, 95% CI 0.84-0.86）&lt;br /&gt;
+• 皮膚與骨骼感染：降低 14%（IRR 0.86, 95% CI 0.82-0.89）&lt;br /&gt;
+其餘如缺血性心臟病（降低11%）、急性心肌梗塞（降低5%）等亦有顯著下降，但腎臟疾病、末期腎臟病與大截肢則無統計學顯著下降 。&lt;br /&gt;
+&lt;br /&gt;
+3. 首次住院事件風險（First-event hospitalization）：&lt;br /&gt;
+接受過 DSME 者首次全因住院風險降低 4%（HR 0.96, 95% CI 0.95-0.97, p&lt;0.001）。特定病因中，首次住院風險降幅最顯著的為高血糖危象與小截肢，均降低 13%（HR 0.87），而敗血症、腎臟感染與皮膚骨骼感染亦皆顯著降低 11%（HR 0.89）。&lt;br /&gt;
+&lt;br /&gt;
+4. 衰弱度次群組分析（Frailty subgroup analysis）：&lt;br /&gt;
+在約 40,000 名記錄有電子衰弱指數評分的患者亞群中，進一步調整衰弱程度後，DSME 仍與全因住院率降低 15% 顯著相關（IRR 0.85），證實衰弱程度不足以完全解釋上述主要分析中的顯著獲益 。&lt;br /&gt;
+&lt;br /&gt;
+【內分泌臨床實務的啟發】&lt;br /&gt;
+本研究在真實世界的大規模數據中，證實了 DSME 具有降低長期住院負擔與防範多系統感染、代謝失衡及小截肢等嚴重併發症的實質效益 。雖然臨床專家們大多認可教育的重要性，但目前 DSME 在形式、堂數（從 1 堂至 24 堂課不等）、時數以及品質上仍存在極大差異，未來需要更具一致性與標準化的模式 。&lt;br /&gt;
+&lt;br /&gt;
+【需要保守解讀的限制】&lt;br /&gt;
+1. 觀察性研究設計：無法直接確立因果關係，儘管調整了諸多變項，仍可能存在殘餘干擾（residual confounding）。&lt;br /&gt;
+2. 主動尋求醫療行為（health-seeking behaviour）偏差：參與 DSME 的患者在基線時展現出更好的預防照護與篩檢參與度，這可能部分高估了 DSME 的獨立保護效果 。&lt;br /&gt;
+3. 逆向因果關係：體能與臨床狀態較佳、本就不易住院的患者，可能有更高的意願與能力完成 DSME 。&lt;br /&gt;
+4. 臨床編碼限制：數據庫中關於 DSME「完成（completion）」的編碼完整度與記錄品質差，使得研究無法可靠地區分「僅出席」與「完全完成」的效應，亦無法穩定推估劑量效應 。&lt;br /&gt;
+&lt;br /&gt;
+【醫師後續思考問題】&lt;br /&gt;
+在現行的多學科與跨科別糖尿病照護環境下，我們該如何優化基層與專科間的轉介管道，並建立具備一致性、標準化且能結合後續同儕支持的 DSME 照護路徑，以有效突破患者轉介與完成率低下的瓶頸，轉化為實質的長期住院減負？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: Empowering Populations Diabetes Self Management Education in Practice&lt;br /&gt;
+講者：Gemma A Lewis - Mersey and West Lancashire Teaching Hospitals NHS Trust&lt;br /&gt;
+題名：Diabetes Self-Management Education (DSME) and Hospital Admission Rates in Adults with Type 2 Diabetes in England: An Epidemiological Analysis&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/5f02dbca-cbea-46df-8cf5-a163c568f3f7</content:encoded><pubDate>Wed, 24 Jun 2026 16:32:23 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-24-20260624-0005-ada2026-plenary-diabetes-self-management-education-dsme-and-hospital-admis.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-24-20260624-0005-ada2026-plenary-diabetes-self-management-education-dsme-and-hospital-admis.m4a" length="17769986" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>24:20</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-24-20260624-0005-ada2026-plenary-diabetes-self-management-education-dsme-and-hospital-admis.jpg" /><link>https://mednote.zeabur.app/lectures/5f02dbca-cbea-46df-8cf5-a163c568f3f7</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Overview and Methodology of the Standards of Care in Overweight and Obesity</title><description>ADA 2026 演講重點：首部肥胖照護標準的制定方法學與臨床定位，打破「知道肥胖重要，但不知道如何做」的醫療實務僵局 。
 
 臨床問題與照護落差：
 世界衛生組織（WHO）與美國醫學會（AMA）已分別於 1999 年和 2013 年將肥胖定義為一種具有多重病理生理機制的複雜慢性疾病 。然而，臨床照護實務仍存在巨大落差 。醫師問卷調查指出，雖然超過 80% 的專科、內分泌與心臟科醫師認同肥胖是疾病，但高達 65% 擔心討論肥胖會冒犯病人，54% 至 68% 缺乏討論肥胖的專業訓練，超過 75% 缺乏轉介資源，且高達 76% 至 89% 的醫師認為成功協助病人維持健康體重的機率極低 [3-5]。NHANES 資料庫也顯示，雖然超過 90% 的肥胖成人有減重意願，但真正尋求專業協助者僅 10%，向醫師尋求治療者更低於 4% [5-7]。此外，美國健康系統資料指出，在 2017 與 2019 年，接受任何形式體重管理治療的肥胖病人僅占 5.3% 與 7.1%，且臨床上只有不到 10% 的基層醫療照護提供者會使用醫學指引來做肥胖治療決策 [5, 8-10]。
@@ -1033,7 +2409,77 @@ Speaker: Sherita Hill Golden - Johns Hopkins University&lt;br /&gt;
 &lt;br /&gt;
 本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
 &lt;br /&gt;
-來源連結：https://mednote.zeabur.app/lectures/147b468e-f254-4aed-bd57-acb89f563018</content:encoded><pubDate>Fri, 19 Jun 2026 12:21:22 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-19-20260619-1206-ada2026-symposium-felicia-hill-briggs-trailblazer-in-health-equity-award-lec.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-19-20260619-1206-ada2026-symposium-felicia-hill-briggs-trailblazer-in-health-equity-award-lec.m4a" length="12233991" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>16:47</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-19-20260619-1206-ada2026-symposium-felicia-hill-briggs-trailblazer-in-health-equity-award-lec.jpg" /><link>https://mednote.zeabur.app/lectures/147b468e-f254-4aed-bd57-acb89f563018</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Heart-Rate Monitoring for Early Detection of Physical Activity–Induced Hypoglycemia in Type 1 Diabetes</title><description>ADA 2026 專業整理：心率監測在第 1 型糖尿病運動誘發低血糖早期偵測之應用
+來源連結：https://mednote.zeabur.app/lectures/147b468e-f254-4aed-bd57-acb89f563018</content:encoded><pubDate>Fri, 19 Jun 2026 12:21:22 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-19-20260619-1206-ada2026-symposium-felicia-hill-briggs-trailblazer-in-health-equity-award-lec.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-19-20260619-1206-ada2026-symposium-felicia-hill-briggs-trailblazer-in-health-equity-award-lec.m4a" length="12233991" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>16:47</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-19-20260619-1206-ada2026-symposium-felicia-hill-briggs-trailblazer-in-health-equity-award-lec.jpg" /><link>https://mednote.zeabur.app/lectures/147b468e-f254-4aed-bd57-acb89f563018</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Mitraa-T1D: A Multicenter Randomized Trial of a Digital Conversational Support Tool in Adults with Type 1 Diabetes</title><description>ADA 2026 專業整理：Mitraa-T1D 數位對話式支持工具在成人第 1 型糖尿病的多中心隨機對照試驗 [1-3]
+
+臨床問題 ：
+成人第 1 型糖尿病（T1D）患者在日常照護上面臨持續且沉重的病理生理與認知負擔，包含繁雜的胰島素劑量計算、血糖監測與調整決策，極易引發嚴重的糖尿病心理困擾（diabetes distress）與臨床倦怠 [4-7]。在如印度等資源不均的醫療體系中，病患在診間之外缺乏連續性的醫療支持 。現行的行動健康（mHealth）工具多屬於被動的數據記錄平台，缺乏主動關懷與即時臨床支持，導致病患長期黏著度低下，難以有效緩解情緒壓力 [10-12]。
+
+試驗設計 ：
+本研究為一項多中心、1:1 隨機、6 個月平行組隨機對照試驗（RCT），於印度四個臨床中心執行 [13, 15-17]。納入 308 位 HbA1c 大於等於 7.0%、具基本數位基礎設施的成人 T1D 患者，最終完成分析共 292 人 [13, 15, 18-21]。介入組患者在常規照護之外，額外使用沙盒化（sandboxed）、非開放連網且已完成 HIPAA 合規的 AI 對話機器人 Mitraa（在當地語言中意為「朋友」），每日主動啟動關懷並提供微教育引導與行為提醒 [8, 9, 18, 22-24]。控制組則維持標準常規照護 。
+
+關鍵訊息與臨床終點數字：
+1. 高保留率：試驗 6 個月期間，患者的留存與參與率高達 94.8% 。
+2. 顯著降低 HbA1c：6 個月後，Mitraa 介入組平均 HbA1c 從基線 8.2% 降至 7.5%，常規照護組從 8.1% 降至 7.9% 。兩組間的淨差異達 -0.5%，具有高度統計顯著性（p &lt; 0.001） 。
+3. 自我照護行為改善：介入組的糖尿病自我照護活動（SDSCA）分數提升 1.3 分，而常規組僅提升 0.4 分，相當於每週多出約一天的自我照護行為 [31-34]。其中又以運動頻率的改善最為明顯 。
+4. 自我監測頻率翻倍（SMBG）：介入組的每日 SMBG 中位數頻率從基線的每日 4 次顯著提升至每日 7 次，控制組則從每日 4 次增加至每日 5 次 。這在缺乏連續血糖監測（CGM）健保給付、多數病患仍依賴 SMBG 的印度照護情境中，具備極高的臨床實用價值 。
+5. 心理困擾顯著緩解：糖尿病困擾量表（DDS-17）分數在介入組顯著降低 0.8 分，控制組僅降低 0.3 分（p &lt; 0.001），提供病患在診間外的「情緒緩衝」 [25, 39-41]。
+
+對內分泌臨床實務的啟發：
+對話式數位療法（conversational DTx）不應只是靜態儲存庫，其主動、即時的對話機制能有效補足患者在門診空窗期的自我照護缺口 。Mitraa 的安全邊界設計也為臨床智慧應用提供了重要典範：其採用沙盒化語言模型（sandboxed SLM），不從開放連網即時抓取資料以避免不安全建議，且系統被刻意限制「不提供胰島素劑量調整」等醫師專屬處方決策，定位為虛擬的糖尿病衛教與教練角色，既保障患者安全，也符合 HIPAA 合規要求 。
+
+需要保守解讀的限制：
+1. 本研究為開放標籤（open-label）隨機對照試驗，受試者因數位工具特性無法盲法，可能存在霍桑效應（Hawthorne effect）或表現偏差 。
+2. 評估與追蹤期間僅為 6 個月，對於 HbA1c 改善的長期持久性以及病患長期使用留存率（超過 12 個月），仍需要更長期的前瞻性研究驗證 。
+3. 入排條件要求病患必須擁有智慧型手機、網路連線及基本的數位識讀能力（digital literacy），因此試驗結果在外推至低社經地位、年長或科技資源貧乏的族群時需特別謹慎 。
+4. 行為與心理評估（SDSCA、DDS-17）皆採用受試者主觀自陳量表（self-reported outcomes），無法完全排除回憶偏差或社會期許偏差 。
+
+給醫師後續思考的問題：
+在您的臨床照護實務中，若能引入此類 HIPAA 合規、且不涉及胰島素處方與劑量調整的沙盒化虛擬衛教助手，您認為最能切入並解決您科內 T1D 患者的哪一項日常照護痛點？
+
+來源：
+會議：ADA 2026 Scientific Sessions 
+Session：What Works Outcomes of Behavioral Intervention Trials in Type 1 Type 2 and Gestational Diabetes 
+講者：Bharat Saboo (Prayas Diabetes Center) 
+題名：Mitraa-T1D: A Multicenter Randomized Trial of a Digital Conversational Support Tool in Adults with Type 1 Diabetes [1-3]
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/71381bf1-3c7b-4842-9b1c-d68ad3a38b77</description><content:encoded>ADA 2026 專業整理：Mitraa-T1D 數位對話式支持工具在成人第 1 型糖尿病的多中心隨機對照試驗 [1-3]&lt;br /&gt;
+&lt;br /&gt;
+臨床問題 ：&lt;br /&gt;
+成人第 1 型糖尿病（T1D）患者在日常照護上面臨持續且沉重的病理生理與認知負擔，包含繁雜的胰島素劑量計算、血糖監測與調整決策，極易引發嚴重的糖尿病心理困擾（diabetes distress）與臨床倦怠 [4-7]。在如印度等資源不均的醫療體系中，病患在診間之外缺乏連續性的醫療支持 。現行的行動健康（mHealth）工具多屬於被動的數據記錄平台，缺乏主動關懷與即時臨床支持，導致病患長期黏著度低下，難以有效緩解情緒壓力 [10-12]。&lt;br /&gt;
+&lt;br /&gt;
+試驗設計 ：&lt;br /&gt;
+本研究為一項多中心、1:1 隨機、6 個月平行組隨機對照試驗（RCT），於印度四個臨床中心執行 [13, 15-17]。納入 308 位 HbA1c 大於等於 7.0%、具基本數位基礎設施的成人 T1D 患者，最終完成分析共 292 人 [13, 15, 18-21]。介入組患者在常規照護之外，額外使用沙盒化（sandboxed）、非開放連網且已完成 HIPAA 合規的 AI 對話機器人 Mitraa（在當地語言中意為「朋友」），每日主動啟動關懷並提供微教育引導與行為提醒 [8, 9, 18, 22-24]。控制組則維持標準常規照護 。&lt;br /&gt;
+&lt;br /&gt;
+關鍵訊息與臨床終點數字：&lt;br /&gt;
+1. 高保留率：試驗 6 個月期間，患者的留存與參與率高達 94.8% 。&lt;br /&gt;
+2. 顯著降低 HbA1c：6 個月後，Mitraa 介入組平均 HbA1c 從基線 8.2% 降至 7.5%，常規照護組從 8.1% 降至 7.9% 。兩組間的淨差異達 -0.5%，具有高度統計顯著性（p &lt; 0.001） 。&lt;br /&gt;
+3. 自我照護行為改善：介入組的糖尿病自我照護活動（SDSCA）分數提升 1.3 分，而常規組僅提升 0.4 分，相當於每週多出約一天的自我照護行為 [31-34]。其中又以運動頻率的改善最為明顯 。&lt;br /&gt;
+4. 自我監測頻率翻倍（SMBG）：介入組的每日 SMBG 中位數頻率從基線的每日 4 次顯著提升至每日 7 次，控制組則從每日 4 次增加至每日 5 次 。這在缺乏連續血糖監測（CGM）健保給付、多數病患仍依賴 SMBG 的印度照護情境中，具備極高的臨床實用價值 。&lt;br /&gt;
+5. 心理困擾顯著緩解：糖尿病困擾量表（DDS-17）分數在介入組顯著降低 0.8 分，控制組僅降低 0.3 分（p &lt; 0.001），提供病患在診間外的「情緒緩衝」 [25, 39-41]。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的啟發：&lt;br /&gt;
+對話式數位療法（conversational DTx）不應只是靜態儲存庫，其主動、即時的對話機制能有效補足患者在門診空窗期的自我照護缺口 。Mitraa 的安全邊界設計也為臨床智慧應用提供了重要典範：其採用沙盒化語言模型（sandboxed SLM），不從開放連網即時抓取資料以避免不安全建議，且系統被刻意限制「不提供胰島素劑量調整」等醫師專屬處方決策，定位為虛擬的糖尿病衛教與教練角色，既保障患者安全，也符合 HIPAA 合規要求 。&lt;br /&gt;
+&lt;br /&gt;
+需要保守解讀的限制：&lt;br /&gt;
+1. 本研究為開放標籤（open-label）隨機對照試驗，受試者因數位工具特性無法盲法，可能存在霍桑效應（Hawthorne effect）或表現偏差 。&lt;br /&gt;
+2. 評估與追蹤期間僅為 6 個月，對於 HbA1c 改善的長期持久性以及病患長期使用留存率（超過 12 個月），仍需要更長期的前瞻性研究驗證 。&lt;br /&gt;
+3. 入排條件要求病患必須擁有智慧型手機、網路連線及基本的數位識讀能力（digital literacy），因此試驗結果在外推至低社經地位、年長或科技資源貧乏的族群時需特別謹慎 。&lt;br /&gt;
+4. 行為與心理評估（SDSCA、DDS-17）皆採用受試者主觀自陳量表（self-reported outcomes），無法完全排除回憶偏差或社會期許偏差 。&lt;br /&gt;
+&lt;br /&gt;
+給醫師後續思考的問題：&lt;br /&gt;
+在您的臨床照護實務中，若能引入此類 HIPAA 合規、且不涉及胰島素處方與劑量調整的沙盒化虛擬衛教助手，您認為最能切入並解決您科內 T1D 患者的哪一項日常照護痛點？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+會議：ADA 2026 Scientific Sessions &lt;br /&gt;
+Session：What Works Outcomes of Behavioral Intervention Trials in Type 1 Type 2 and Gestational Diabetes &lt;br /&gt;
+講者：Bharat Saboo (Prayas Diabetes Center) &lt;br /&gt;
+題名：Mitraa-T1D: A Multicenter Randomized Trial of a Digital Conversational Support Tool in Adults with Type 1 Diabetes [1-3]&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/71381bf1-3c7b-4842-9b1c-d68ad3a38b77</content:encoded><pubDate>Fri, 19 Jun 2026 09:52:40 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-19-20260619-0936-ada2026-plenary-mitraa-t1d-a-multicenter-randomized-trial-of-a-digital-con.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-19-20260619-0936-ada2026-plenary-mitraa-t1d-a-multicenter-randomized-trial-of-a-digital-con.m4a" length="15850004" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>21:45</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-19-20260619-0936-ada2026-plenary-mitraa-t1d-a-multicenter-randomized-trial-of-a-digital-con.jpg" /><link>https://mednote.zeabur.app/lectures/71381bf1-3c7b-4842-9b1c-d68ad3a38b77</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Heart-Rate Monitoring for Early Detection of Physical Activity–Induced Hypoglycemia in Type 1 Diabetes</title><description>ADA 2026 專業整理：心率監測在第 1 型糖尿病運動誘發低血糖早期偵測之應用
 
 臨床挑戰
 對第 1 型糖尿病（T1D）患者而言，未宣告的身體活動（unannounced physical activity）是人工胰臟系統（AID）在臨床血糖管理上面臨的重大痛點 。若患者在運動前未手動告知閉環系統，系統便缺乏提前調整胰島素給予量的機會，進而極易引發難以預測的運動後低血糖 。
