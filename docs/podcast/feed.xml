@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Fri, 03 Jul 2026 08:15:24 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Simultaneous Initiation</title><description>ADA 2026 專業整理：對多數糖尿病合併慢性腎臟病（CKD）患者而言，延後啟動多重指南推薦藥物治療（GDMT）本身就是一種風險 。在 How to Best Combine Therapies for Patients with Diabetic Kidney Disease 專題中，北卡羅來納大學的 Amy Mottl 教授以 Simultaneous Initiation 為題指出，傳統順序治療（sequential therapy）過於耗時且易導致治療惰性，臨床應更積極評估在安全監測下的同步啟動（simultaneous initiation）治療策略 [1-4]。
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Fri, 03 Jul 2026 08:22:39 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Simultaneous Initiation</title><description>ADA 2026 專業整理：對多數糖尿病合併慢性腎臟病（CKD）患者而言，延後啟動多重指南推薦藥物治療（GDMT）本身就是一種風險 。在 How to Best Combine Therapies for Patients with Diabetic Kidney Disease 專題中，北卡羅來納大學的 Amy Mottl 教授以 Simultaneous Initiation 為題指出，傳統順序治療（sequential therapy）過於耗時且易導致治療惰性，臨床應更積極評估在安全監測下的同步啟動（simultaneous initiation）治療策略 [1-4]。
 
 臨床問題與現實困境
 從生理機制來看，DCCT/EDIC 長期追蹤研究證實了早期積極血糖控制具有顯著的遺傳效益或代謝記憶（Legacy effect / Metabolic memory）。此控制效益對預防 GFR 受損、視網膜病變、神經病變及大血管併發症的影響可延續數十年，這顯示延誤控制會讓腎元持續暴露在可避免的風險下 。
@@ -155,7 +155,77 @@ Title: Sequential Addition&lt;br /&gt;
 &lt;br /&gt;
 本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
 &lt;br /&gt;
-來源連結：https://mednote.zeabur.app/lectures/93862b91-7885-400f-8f56-69a03f7b8a02</content:encoded><pubDate>Fri, 03 Jul 2026 08:21:09 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-07-03-20260703-0806-ada2026-scientific_parallel-sequential-addition.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-07-03-20260703-0806-ada2026-scientific_parallel-sequential-addition.m4a" length="13116540" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>18:00</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-07-03-20260703-0806-ada2026-scientific_parallel-sequential-addition.jpg" /><link>https://mednote.zeabur.app/lectures/93862b91-7885-400f-8f56-69a03f7b8a02</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：The CEBPβ-XOR Axis and Genetic Risk for Metabolic Dysfunction–Associated Kidney Disease</title><description>ADA 2026 專業整理：科學家證實 C/EBPβ-XOR 軸線的活化是決定糖尿病腎病變與代謝功能障礙相關腎臟疾病（MDAKD）易感性的關鍵遺傳與分子機制 。
+來源連結：https://mednote.zeabur.app/lectures/93862b91-7885-400f-8f56-69a03f7b8a02</content:encoded><pubDate>Fri, 03 Jul 2026 08:21:09 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-07-03-20260703-0806-ada2026-scientific_parallel-sequential-addition.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-07-03-20260703-0806-ada2026-scientific_parallel-sequential-addition.m4a" length="13116540" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>18:00</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-07-03-20260703-0806-ada2026-scientific_parallel-sequential-addition.jpg" /><link>https://mednote.zeabur.app/lectures/93862b91-7885-400f-8f56-69a03f7b8a02</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：糖尿病腎病變治療如何合併？循序加藥 vs 同步啟動｜How to Best Combine Therapies for Patients with Diabetic Kidney Disease?</title><description>ADA 2026 專業整理：在糖尿病腎病變（DKD）的治療中，面對高度心腎風險的患者，臨床上面臨「循序加藥（Sequential Addition）」與「同步啟動（Simultaneous Initiation）」的關鍵決策辯論 。
+
+臨床問題：
+糖尿病合併慢性腎臟病（CKD）患者面臨極高的腎衰竭、心血管死亡、中風與心臟衰竭風險 。根據大型統合研究（Grams ME et al, JAMA 2023），在 KDIGO 風險熱圖中，若估算腎絲球過濾率（eGFR）在 30-44 mL/min/1.73 m2 且尿白蛋白/肌酸酐比值（UACR）在 30-299 mg/g，其進展至需替代治療之腎衰竭的相對風險高達正常人的 115 倍 。
+儘管目前指引已建立包含 RAS 阻斷劑、SGLT2 抑制劑、GLP-1 受體促效劑與非類固醇型礦物皮質酮受體拮抗劑（ns-MRA）的完整治療工具箱 ，但在美國真實世界中，這些指引導向藥物（GDMT）的使用率仍嚴重偏低。QR-CKD 世代研究（N=39,158）指出，SGLT2 抑制劑與 GLP-1 受體促效劑的基準使用率皆低於 10%，且在 90 天時，SGLT2 抑制劑的服藥持續率甚至下滑至 5.0% 。如何將這些有效工具安全、可持續地落實於患者身上，是目前臨床的最大挑戰 。
+
+關鍵訊息：
+1. 循序加藥（Sequential Addition）的科學基礎
+Ian de Boer 醫師主張採取「個人化、反覆調整且加速的循序步驟」。其核心論點包括：
+• 治療反應的個體差異：ROTATE 試驗顯示，儘管藥物（如 telmisartan）的平均 UACR 降低效果顯著，但個體反應存在極大異質性，部分患者的白蛋白尿甚至可能上升，循序加藥有助於評估單一藥物的實際療效 。
+• 降低並釐清不良反應：多種心腎保護藥物皆會引起急性的血液動力學 eGFR 下降（eGFR dip）。在 CONFIDENCE 試驗中，兩週時的平均 eGFR 下降在單用 finerenone 組為 -2 mL/min，單用 empagliflozin 組為 -5 mL/min，而合併啟動組則達 -7 mL/min 。此外，白蛋白尿較高與使用利尿劑的患者會有更大的下降幅度 。若同時啟動多種藥物，當發生顯著 eGFR 下降、高血鉀（hyperkalemia）或低血壓時，臨床醫師將難以釐清副作用的歸因與來源 。
+• 優化長期順從性：DKD 是慢性病，治療必須持之以恆。退伍軍人體系（VA）研究顯示，開始治療 1.5 年內，高達 37% 的 SGLT2 抑制劑使用者與 47% 的 GLP-1 受體促效劑使用者曾中斷用藥，而停藥與死亡風險顯著上升相關（SGLT2 抑制劑停藥 death aHR 1.67；GLP-1 停藥 death aHR 1.97） 。一次給予過多藥物會增加患者的理解與服用負擔，降低長期留藥率 。
+
+2. 同步啟動（Simultaneous Initiation）的臨床實證
+Amy Mottl 醫師則提出「時間即是腎元（Time is nephrons）」的主張 。其核心論點包括：
+• 遺留效應（Legacy Effect）：DCCT/EDIC 長期追蹤研究證實，早期積極的血糖控制能使數十年後發生 GFR 受損的累積風險降低 50%，延遲治療會讓腎元暴露於不可逆的累積風險中 [24-26]。
+• 避免治療慣性與延誤：循序加藥在實務上極為耗時，繁瑣的「開藥-檢驗-開藥-檢驗」流程與患者因故改期或未回診（missed visits），會造成嚴重的治療延遲 [27-29]。
+• 互補機制與實證支持：VERIFY 試驗（metformin + vildagliptin）顯示，同步啟動相較於逐步加藥，可將 5 年內的治療失敗率從 62% 降至 36% ；TRIPLE-AXEL 試驗亦證實，三藥同步合併組在達到 HbA1c &lt; 6.5% 且無低血糖/體重增加的複合終點上顯著優於逐步加藥組（39% vs 17%） 。而在 DKD 專屬的 CONFIDENCE 試驗中，同時啟動 finerenone 與 empagliflozin 在 180 天時，相較於單藥組，可額外帶來約 25% 的 UACR 相對降幅 。在安全性方面，24小時連續血壓監測未見早期血壓危險下降 ；且嚴重不良事件（SAE）在三組間相近（約 5%-7%），血鉀 &gt; 6.0 mmol/L 的比例亦無顯著差異（合併組 4.6% vs 單用 finerenone 組 4.6%），證實機轉互補的藥物同步啟動安全可行 。
+
+對內分泌臨床實務的啟發：
+• 指引思維的轉變：2026 年 KDIGO 糖尿病與 CKD 指引將照護圖像從過去靜態的「金字塔（pyramid）」轉變為動態的「風車（windmill）」，強調治療並非一次性堆疊完成，而是包含生活型態、基礎藥物、基於風險的治療與基於目標的治療等四個葉片，需要臨床醫師在每次追蹤時進行連續、反覆的個人化評估與動態調整 [38-40]。
+• 採行「加速的循序加藥步驟（Accelerated Stepwise Approach）」：在臨床上，兩者並非絕對對立。對於副作用不重疊的藥物組合（如鈣離子阻斷劑合併 GLP-1 受體促效劑），或已有強烈安全實證支持的組合（如 SGLT2 抑制劑合併 ns-MRA），可考慮初始同步啟動 。然而，對於高齡、衰弱（frailty）或多重共病且處於進展期 CKD 的高風險患者，仍應秉持安全監測邏輯，在維持快速、有節奏的追蹤下，循序加入藥物並進行劑量滴定，以兼顧治療成效與長期藥物順從性 。
+
+需要保守解讀的限制：
+• 終點指標限制：CONFIDENCE 試驗主要評估的是 180 天的尿白蛋白排泄（UACR）與 eGFR 變化等中介替代指標（intermediate outcome），而非長期的硬性心腎臨床結局（clinical outcome） 。
+• 次族群分析的不確定性：例如 FLOW 試驗的亞組分析中，在已使用 SGLT2 抑制劑的患者中加入 semaglutide 的心腎效益 hazard ratio 方向未顯著支持，雖然這可能歸因於樣本數過小、統計檢定力（power）不足，但仍提醒我們不應將單一試驗的平均效益機械式地套用於所有臨床個案，必須結合患者個體的風險軌跡（如 KFRE 腎衰竭風險評估）與藥物耐受性進行動態判斷 [45-47]。
+• 真實世界數據的限制：儘管臨床上有高度需求利用電子病歷（EHR）的大數據來比較循序與同步治療的效果，但真實世界患者頻繁的用藥變動、多系統進出以及巨大的雜訊（noise），使得這類觀察性研究在方法學上的因果推論面臨巨大挑戰 。
+
+後續思考問題：
+在臨床實務中，面對心腎風險極高、但常因多重用藥而感到焦慮或對藥物耐受度較差的患者，我們該如何平衡「同步啟動」以搶佔黃金防護期，與「循序加藥」以確保長期服藥順從性的臨床抉擇？
+
+來源：ADA 2026 Scientific Sessions - Session: How to Best Combine Therapies for Patients with Diabetic Kidney Disease - Title: 糖尿病腎病變治療如何合併？循序加藥 vs 同步啟動｜How to Best Combine Therapies for Patients with Diabetic Kidney Disease?
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/fe9a0cfe-099f-469a-9f44-97915835bd72</description><content:encoded>ADA 2026 專業整理：在糖尿病腎病變（DKD）的治療中，面對高度心腎風險的患者，臨床上面臨「循序加藥（Sequential Addition）」與「同步啟動（Simultaneous Initiation）」的關鍵決策辯論 。&lt;br /&gt;
+&lt;br /&gt;
+臨床問題：&lt;br /&gt;
+糖尿病合併慢性腎臟病（CKD）患者面臨極高的腎衰竭、心血管死亡、中風與心臟衰竭風險 。根據大型統合研究（Grams ME et al, JAMA 2023），在 KDIGO 風險熱圖中，若估算腎絲球過濾率（eGFR）在 30-44 mL/min/1.73 m2 且尿白蛋白/肌酸酐比值（UACR）在 30-299 mg/g，其進展至需替代治療之腎衰竭的相對風險高達正常人的 115 倍 。&lt;br /&gt;
+儘管目前指引已建立包含 RAS 阻斷劑、SGLT2 抑制劑、GLP-1 受體促效劑與非類固醇型礦物皮質酮受體拮抗劑（ns-MRA）的完整治療工具箱 ，但在美國真實世界中，這些指引導向藥物（GDMT）的使用率仍嚴重偏低。QR-CKD 世代研究（N=39,158）指出，SGLT2 抑制劑與 GLP-1 受體促效劑的基準使用率皆低於 10%，且在 90 天時，SGLT2 抑制劑的服藥持續率甚至下滑至 5.0% 。如何將這些有效工具安全、可持續地落實於患者身上，是目前臨床的最大挑戰 。&lt;br /&gt;
+&lt;br /&gt;
+關鍵訊息：&lt;br /&gt;
+1. 循序加藥（Sequential Addition）的科學基礎&lt;br /&gt;
+Ian de Boer 醫師主張採取「個人化、反覆調整且加速的循序步驟」。其核心論點包括：&lt;br /&gt;
+• 治療反應的個體差異：ROTATE 試驗顯示，儘管藥物（如 telmisartan）的平均 UACR 降低效果顯著，但個體反應存在極大異質性，部分患者的白蛋白尿甚至可能上升，循序加藥有助於評估單一藥物的實際療效 。&lt;br /&gt;
+• 降低並釐清不良反應：多種心腎保護藥物皆會引起急性的血液動力學 eGFR 下降（eGFR dip）。在 CONFIDENCE 試驗中，兩週時的平均 eGFR 下降在單用 finerenone 組為 -2 mL/min，單用 empagliflozin 組為 -5 mL/min，而合併啟動組則達 -7 mL/min 。此外，白蛋白尿較高與使用利尿劑的患者會有更大的下降幅度 。若同時啟動多種藥物，當發生顯著 eGFR 下降、高血鉀（hyperkalemia）或低血壓時，臨床醫師將難以釐清副作用的歸因與來源 。&lt;br /&gt;
+• 優化長期順從性：DKD 是慢性病，治療必須持之以恆。退伍軍人體系（VA）研究顯示，開始治療 1.5 年內，高達 37% 的 SGLT2 抑制劑使用者與 47% 的 GLP-1 受體促效劑使用者曾中斷用藥，而停藥與死亡風險顯著上升相關（SGLT2 抑制劑停藥 death aHR 1.67；GLP-1 停藥 death aHR 1.97） 。一次給予過多藥物會增加患者的理解與服用負擔，降低長期留藥率 。&lt;br /&gt;
+&lt;br /&gt;
+2. 同步啟動（Simultaneous Initiation）的臨床實證&lt;br /&gt;
+Amy Mottl 醫師則提出「時間即是腎元（Time is nephrons）」的主張 。其核心論點包括：&lt;br /&gt;
+• 遺留效應（Legacy Effect）：DCCT/EDIC 長期追蹤研究證實，早期積極的血糖控制能使數十年後發生 GFR 受損的累積風險降低 50%，延遲治療會讓腎元暴露於不可逆的累積風險中 [24-26]。&lt;br /&gt;
+• 避免治療慣性與延誤：循序加藥在實務上極為耗時，繁瑣的「開藥-檢驗-開藥-檢驗」流程與患者因故改期或未回診（missed visits），會造成嚴重的治療延遲 [27-29]。&lt;br /&gt;
+• 互補機制與實證支持：VERIFY 試驗（metformin + vildagliptin）顯示，同步啟動相較於逐步加藥，可將 5 年內的治療失敗率從 62% 降至 36% ；TRIPLE-AXEL 試驗亦證實，三藥同步合併組在達到 HbA1c &lt; 6.5% 且無低血糖/體重增加的複合終點上顯著優於逐步加藥組（39% vs 17%） 。而在 DKD 專屬的 CONFIDENCE 試驗中，同時啟動 finerenone 與 empagliflozin 在 180 天時，相較於單藥組，可額外帶來約 25% 的 UACR 相對降幅 。在安全性方面，24小時連續血壓監測未見早期血壓危險下降 ；且嚴重不良事件（SAE）在三組間相近（約 5%-7%），血鉀 &gt; 6.0 mmol/L 的比例亦無顯著差異（合併組 4.6% vs 單用 finerenone 組 4.6%），證實機轉互補的藥物同步啟動安全可行 。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的啟發：&lt;br /&gt;
+• 指引思維的轉變：2026 年 KDIGO 糖尿病與 CKD 指引將照護圖像從過去靜態的「金字塔（pyramid）」轉變為動態的「風車（windmill）」，強調治療並非一次性堆疊完成，而是包含生活型態、基礎藥物、基於風險的治療與基於目標的治療等四個葉片，需要臨床醫師在每次追蹤時進行連續、反覆的個人化評估與動態調整 [38-40]。&lt;br /&gt;
+• 採行「加速的循序加藥步驟（Accelerated Stepwise Approach）」：在臨床上，兩者並非絕對對立。對於副作用不重疊的藥物組合（如鈣離子阻斷劑合併 GLP-1 受體促效劑），或已有強烈安全實證支持的組合（如 SGLT2 抑制劑合併 ns-MRA），可考慮初始同步啟動 。然而，對於高齡、衰弱（frailty）或多重共病且處於進展期 CKD 的高風險患者，仍應秉持安全監測邏輯，在維持快速、有節奏的追蹤下，循序加入藥物並進行劑量滴定，以兼顧治療成效與長期藥物順從性 。&lt;br /&gt;
+&lt;br /&gt;
+需要保守解讀的限制：&lt;br /&gt;
+• 終點指標限制：CONFIDENCE 試驗主要評估的是 180 天的尿白蛋白排泄（UACR）與 eGFR 變化等中介替代指標（intermediate outcome），而非長期的硬性心腎臨床結局（clinical outcome） 。&lt;br /&gt;
+• 次族群分析的不確定性：例如 FLOW 試驗的亞組分析中，在已使用 SGLT2 抑制劑的患者中加入 semaglutide 的心腎效益 hazard ratio 方向未顯著支持，雖然這可能歸因於樣本數過小、統計檢定力（power）不足，但仍提醒我們不應將單一試驗的平均效益機械式地套用於所有臨床個案，必須結合患者個體的風險軌跡（如 KFRE 腎衰竭風險評估）與藥物耐受性進行動態判斷 [45-47]。&lt;br /&gt;
+• 真實世界數據的限制：儘管臨床上有高度需求利用電子病歷（EHR）的大數據來比較循序與同步治療的效果，但真實世界患者頻繁的用藥變動、多系統進出以及巨大的雜訊（noise），使得這類觀察性研究在方法學上的因果推論面臨巨大挑戰 。&lt;br /&gt;
+&lt;br /&gt;
+後續思考問題：&lt;br /&gt;
+在臨床實務中，面對心腎風險極高、但常因多重用藥而感到焦慮或對藥物耐受度較差的患者，我們該如何平衡「同步啟動」以搶佔黃金防護期，與「循序加藥」以確保長期服藥順從性的臨床抉擇？&lt;br /&gt;
+&lt;br /&gt;
+來源：ADA 2026 Scientific Sessions - Session: How to Best Combine Therapies for Patients with Diabetic Kidney Disease - Title: 糖尿病腎病變治療如何合併？循序加藥 vs 同步啟動｜How to Best Combine Therapies for Patients with Diabetic Kidney Disease?&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/fe9a0cfe-099f-469a-9f44-97915835bd72</content:encoded><pubDate>Fri, 03 Jul 2026 06:02:51 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-07-03-20260703-0546-ada2026-scientific_parallel-vs-how-to-best-combine-therapies-for-patients-with-diabeti.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-07-03-20260703-0546-ada2026-scientific_parallel-vs-how-to-best-combine-therapies-for-patients-with-diabeti.m4a" length="17328326" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>23:47</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-07-03-20260703-0546-ada2026-scientific_parallel-vs-how-to-best-combine-therapies-for-patients-with-diabeti.jpg" /><link>https://mednote.zeabur.app/lectures/fe9a0cfe-099f-469a-9f44-97915835bd72</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：The CEBPβ-XOR Axis and Genetic Risk for Metabolic Dysfunction–Associated Kidney Disease</title><description>ADA 2026 專業整理：科學家證實 C/EBPβ-XOR 軸線的活化是決定糖尿病腎病變與代謝功能障礙相關腎臟疾病（MDAKD）易感性的關鍵遺傳與分子機制 。
 
 📌 臨床問題與背景
 在臨床上，糖尿病患者對腎臟併發症的易感性存在極大個體差異 。早期糖尿病腎病變（DKD）的超微結構改變包含腎小球基底膜（GBM）增厚、系膜基質擴張以及足細胞流失 。最新研究發現，在早期病理過程中，腎小球內皮細胞（GEC）的形態學病變（如內皮窗孔流失、細胞扁平化）會先於足細胞出現，而內皮窗孔的流失與活性氧（ROS）的增加密切相關 [7-10]。
