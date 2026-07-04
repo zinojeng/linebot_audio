@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Fri, 03 Jul 2026 08:22:39 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Simultaneous Initiation</title><description>ADA 2026 專業整理：對多數糖尿病合併慢性腎臟病（CKD）患者而言，延後啟動多重指南推薦藥物治療（GDMT）本身就是一種風險 。在 How to Best Combine Therapies for Patients with Diabetic Kidney Disease 專題中，北卡羅來納大學的 Amy Mottl 教授以 Simultaneous Initiation 為題指出，傳統順序治療（sequential therapy）過於耗時且易導致治療惰性，臨床應更積極評估在安全監測下的同步啟動（simultaneous initiation）治療策略 [1-4]。
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Sat, 04 Jul 2026 08:23:01 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Simultaneous Initiation</title><description>ADA 2026 專業整理：對多數糖尿病合併慢性腎臟病（CKD）患者而言，延後啟動多重指南推薦藥物治療（GDMT）本身就是一種風險 。在 How to Best Combine Therapies for Patients with Diabetic Kidney Disease 專題中，北卡羅來納大學的 Amy Mottl 教授以 Simultaneous Initiation 為題指出，傳統順序治療（sequential therapy）過於耗時且易導致治療惰性，臨床應更積極評估在安全監測下的同步啟動（simultaneous initiation）治療策略 [1-4]。
 
 臨床問題與現實困境
 從生理機制來看，DCCT/EDIC 長期追蹤研究證實了早期積極血糖控制具有顯著的遺傳效益或代謝記憶（Legacy effect / Metabolic memory）。此控制效益對預防 GFR 受損、視網膜病變、神經病變及大血管併發症的影響可延續數十年，這顯示延誤控制會讓腎元持續暴露在可避免的風險下 。
@@ -661,7 +661,87 @@ Title: Modeling Immune Responses to Autologous and Allogeneic Human Stem Cell-De
 &lt;br /&gt;
 本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
 &lt;br /&gt;
-來源連結：https://mednote.zeabur.app/lectures/e781e7f5-054c-48eb-93b3-e3eae4ca12f9</content:encoded><pubDate>Mon, 29 Jun 2026 11:50:06 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-1136-ada2026-plenary-modeling-immune-responses-to-autologous-and-allogeneic-hum.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-1136-ada2026-plenary-modeling-immune-responses-to-autologous-and-allogeneic-hum.m4a" length="9240783" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>12:40</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-29-20260629-1136-ada2026-plenary-modeling-immune-responses-to-autologous-and-allogeneic-hum.jpg" /><link>https://mednote.zeabur.app/lectures/e781e7f5-054c-48eb-93b3-e3eae4ca12f9</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Spatial Organization of Human Islet Endocrine Cells Modulates Stimulated Hormone Secretion</title><description>ADA 2026 專業整理：人類胰島內分泌細胞的空間排列如何調控荷爾蒙分泌功能
+來源連結：https://mednote.zeabur.app/lectures/e781e7f5-054c-48eb-93b3-e3eae4ca12f9</content:encoded><pubDate>Mon, 29 Jun 2026 11:50:06 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-1136-ada2026-plenary-modeling-immune-responses-to-autologous-and-allogeneic-hum.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-1136-ada2026-plenary-modeling-immune-responses-to-autologous-and-allogeneic-hum.m4a" length="9240783" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>12:40</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-29-20260629-1136-ada2026-plenary-modeling-immune-responses-to-autologous-and-allogeneic-hum.jpg" /><link>https://mednote.zeabur.app/lectures/e781e7f5-054c-48eb-93b3-e3eae4ca12f9</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Neighborhood Food Environments and Incidence of Type 2 Diabetes after Gestational Diabetes: A Population-Based Cohort Study in New York City</title><description>ADA 2026 專業整理：社區健康食物環境對妊娠糖尿病產後發展為第2型糖尿病的獨立影響
+
+臨床問題
+妊娠糖尿病（GDM）是未來發生第2型糖尿病（T2D）的重要早期預警，約有五分之一曾有GDM的女性會在產後發展為T2D 。儘管產後飲食管理是預防T2D的關鍵，但高風險女性在實際生活中常面臨巨大的執行障礙 。定性研究顯示，產後女性大多清楚「應該吃什麼」，但當她們重返職場並面對育兒與生活節奏時，若居住周邊環境難以取得健康食物，往往會成為行為改變的實質瓶頸 [1-3]。
+
+研究設計與終點
+本研究採用紐約市的APPLE（A1c in Pregnancy and Postpartum Linkage for Equity）回顧性產後世代研究數據 。研究者連結了2009至2011年間的出生登記數據、紐約州住院與出院病歷，以及紐約市強制申報的糖化血色素（A1C）登記系統 。研究團隊將參與者的住址對應至2010年的人口普查區，並以1公里的半徑圓形區域（radial buffer）界定其社區邊界 [3-5]。
+社區指標包含兩大維度：
+1. 食品環境：利用Dun &amp; Bradstreet食品商戶數據，計算超市、蔬果市場、天然食品店在單位土地面積中的健康食物據點密度，並以四分位數（Q1至Q4）進行分組 。
+2. 經濟貧困度：基於美國社區調查（ACS）數據，運用主成分分析法提取8項區域貧困指標進行評估 。
+
+樣本篩選流程與基本特徵
+研究最初納入19,878名在紐約市生產且具備GDM病史的女性 。排除地理數據缺失者（5,892人）、產前已存在既往糖尿病者（471人），以及缺乏產後追蹤A1C數據者（1,491人），最終分析樣本共12,204人 。此世代平均追蹤時間約為12年，新發T2D定義為產後12週起，出現至少兩次A1C大於或等於6.5% 。樣本年齡主要集中於30至39歲（56%），33%具備大學以上學歷，族群多樣（33%為西班牙裔、21%為非裔），且其中高達68%為非美國本土出生 。
+
+關鍵訊息與研究發現
+在12年的長期追蹤中，該高風險群體發展為T2D的累積風險達20% 。
+累積發生率曲線顯示，居住在健康食物密度最高社區（Q4組）的女性，其產後新發第2型糖尿病的風險最低 [10-12]。
+Cox比例風險模型的多變量分析結果如下，顯示較低的健康食物密度與較高新發糖尿病風險呈顯著相關（皆以Q4最高密度組為參考對照組 Ref） ：
+• 未調整模型（Model 1）：Q1最低密度組風險增加27%（HR 1.27, 95% CI 1.11-1.45）；Q2組增加25%（HR 1.25, 95% CI 1.12-1.40）；Q3組增加33%（HR 1.33, 95% CI 1.21-1.46） 。
+• 調整社會人口學因子模型（Model 2）：調整年齡、種族、教育程度、出生地與經產次數後，Q1組HR為1.15（95% CI 1.01-1.32）；Q2組HR為1.13（95% CI 1.01-1.27）；Q3組HR為1.17（95% CI 1.06-1.29） 。
+• 進一步調整社區貧困度模型（Model 3）：在Model 2基礎上進一步調整社區經濟貧困度後，其關聯性依然成立。相較於Q4，Q1組HR為1.19（95% CI 1.03-1.38）；Q2組HR為1.14（95% CI 1.01-1.29）；Q3組HR為1.14（95% CI 1.03-1.26） 。
+此發現最關鍵之處在於，即使在相同貧窮程度的社區之間進行比較，健康食物密度較低仍與較高的產後糖尿病轉化風險獨立相關 。這與過往多數文獻「加入社區貧窮度後，食物環境影響便稀釋趨近於零」的結果並不相同，證實了食品環境本身的獨立作用 。
+
+對內分泌臨床實務的啟發
+臨床照護團隊在擬定GDM患者的產後管理與追蹤計畫時，不能僅將飲食衛教視為個人的營養認知問題。若患者居住社區的健康食物可近性極差，僅依靠個別諮詢往往難以對抗環境結構所帶來的劣勢 。我們在進行風險評估時，應主動關懷患者產後生活的物理環境，並將社區食物環境視為臨床以外可介入的系統性風險因子 。
+
+需要保守解讀的限制
+本研究為回顧性觀察性世代研究，無法直接證實因果關係 。此外，健康食物據點的量化定義仍面臨方法學上的挑戰 。最後，此研究背景為高度步行化、步行可達性強且不需高度依賴汽車的紐約市（採用1公里半徑定義邊界） ，此一食物環境的影響在依賴車輛交通、公共運輸較差的郊區或中南部城市中是否完全適用，仍需要謹慎推估與保守解讀 。
+
+後續思考問題
+在我們目前的糖尿病照護系統中，當篩檢出居住在「健康食物貧瘠地區」（Food Desert）的產後高風險女性時，照護團隊應如何優化衛教介入或結合社會資源，以克服她們因社區環境帶來的飲食實踐障礙？
+
+來源：
+ADA 2026 Scientific Sessions
+Session: From Plate to Pancreas Mechanisms Linking Diet to Diabetes
+Sandra S. Albrecht - Columbia University Mailman School of Public Health
+Title: Neighborhood Food Environments and Incidence of Type 2 Diabetes after Gestational Diabetes: A Population-Based Cohort Study in New York City
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/2ff15933-bc90-4928-9b7d-a790f82e4508</description><content:encoded>ADA 2026 專業整理：社區健康食物環境對妊娠糖尿病產後發展為第2型糖尿病的獨立影響&lt;br /&gt;
+&lt;br /&gt;
+臨床問題&lt;br /&gt;
+妊娠糖尿病（GDM）是未來發生第2型糖尿病（T2D）的重要早期預警，約有五分之一曾有GDM的女性會在產後發展為T2D 。儘管產後飲食管理是預防T2D的關鍵，但高風險女性在實際生活中常面臨巨大的執行障礙 。定性研究顯示，產後女性大多清楚「應該吃什麼」，但當她們重返職場並面對育兒與生活節奏時，若居住周邊環境難以取得健康食物，往往會成為行為改變的實質瓶頸 [1-3]。&lt;br /&gt;
+&lt;br /&gt;
+研究設計與終點&lt;br /&gt;
+本研究採用紐約市的APPLE（A1c in Pregnancy and Postpartum Linkage for Equity）回顧性產後世代研究數據 。研究者連結了2009至2011年間的出生登記數據、紐約州住院與出院病歷，以及紐約市強制申報的糖化血色素（A1C）登記系統 。研究團隊將參與者的住址對應至2010年的人口普查區，並以1公里的半徑圓形區域（radial buffer）界定其社區邊界 [3-5]。&lt;br /&gt;
+社區指標包含兩大維度：&lt;br /&gt;
+1. 食品環境：利用Dun &amp; Bradstreet食品商戶數據，計算超市、蔬果市場、天然食品店在單位土地面積中的健康食物據點密度，並以四分位數（Q1至Q4）進行分組 。&lt;br /&gt;
+2. 經濟貧困度：基於美國社區調查（ACS）數據，運用主成分分析法提取8項區域貧困指標進行評估 。&lt;br /&gt;
+&lt;br /&gt;
+樣本篩選流程與基本特徵&lt;br /&gt;
+研究最初納入19,878名在紐約市生產且具備GDM病史的女性 。排除地理數據缺失者（5,892人）、產前已存在既往糖尿病者（471人），以及缺乏產後追蹤A1C數據者（1,491人），最終分析樣本共12,204人 。此世代平均追蹤時間約為12年，新發T2D定義為產後12週起，出現至少兩次A1C大於或等於6.5% 。樣本年齡主要集中於30至39歲（56%），33%具備大學以上學歷，族群多樣（33%為西班牙裔、21%為非裔），且其中高達68%為非美國本土出生 。&lt;br /&gt;
+&lt;br /&gt;
+關鍵訊息與研究發現&lt;br /&gt;
+在12年的長期追蹤中，該高風險群體發展為T2D的累積風險達20% 。&lt;br /&gt;
+累積發生率曲線顯示，居住在健康食物密度最高社區（Q4組）的女性，其產後新發第2型糖尿病的風險最低 [10-12]。&lt;br /&gt;
+Cox比例風險模型的多變量分析結果如下，顯示較低的健康食物密度與較高新發糖尿病風險呈顯著相關（皆以Q4最高密度組為參考對照組 Ref） ：&lt;br /&gt;
+• 未調整模型（Model 1）：Q1最低密度組風險增加27%（HR 1.27, 95% CI 1.11-1.45）；Q2組增加25%（HR 1.25, 95% CI 1.12-1.40）；Q3組增加33%（HR 1.33, 95% CI 1.21-1.46） 。&lt;br /&gt;
+• 調整社會人口學因子模型（Model 2）：調整年齡、種族、教育程度、出生地與經產次數後，Q1組HR為1.15（95% CI 1.01-1.32）；Q2組HR為1.13（95% CI 1.01-1.27）；Q3組HR為1.17（95% CI 1.06-1.29） 。&lt;br /&gt;
+• 進一步調整社區貧困度模型（Model 3）：在Model 2基礎上進一步調整社區經濟貧困度後，其關聯性依然成立。相較於Q4，Q1組HR為1.19（95% CI 1.03-1.38）；Q2組HR為1.14（95% CI 1.01-1.29）；Q3組HR為1.14（95% CI 1.03-1.26） 。&lt;br /&gt;
+此發現最關鍵之處在於，即使在相同貧窮程度的社區之間進行比較，健康食物密度較低仍與較高的產後糖尿病轉化風險獨立相關 。這與過往多數文獻「加入社區貧窮度後，食物環境影響便稀釋趨近於零」的結果並不相同，證實了食品環境本身的獨立作用 。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的啟發&lt;br /&gt;
+臨床照護團隊在擬定GDM患者的產後管理與追蹤計畫時，不能僅將飲食衛教視為個人的營養認知問題。若患者居住社區的健康食物可近性極差，僅依靠個別諮詢往往難以對抗環境結構所帶來的劣勢 。我們在進行風險評估時，應主動關懷患者產後生活的物理環境，並將社區食物環境視為臨床以外可介入的系統性風險因子 。&lt;br /&gt;
+&lt;br /&gt;
+需要保守解讀的限制&lt;br /&gt;
+本研究為回顧性觀察性世代研究，無法直接證實因果關係 。此外，健康食物據點的量化定義仍面臨方法學上的挑戰 。最後，此研究背景為高度步行化、步行可達性強且不需高度依賴汽車的紐約市（採用1公里半徑定義邊界） ，此一食物環境的影響在依賴車輛交通、公共運輸較差的郊區或中南部城市中是否完全適用，仍需要謹慎推估與保守解讀 。&lt;br /&gt;
+&lt;br /&gt;
+後續思考問題&lt;br /&gt;
+在我們目前的糖尿病照護系統中，當篩檢出居住在「健康食物貧瘠地區」（Food Desert）的產後高風險女性時，照護團隊應如何優化衛教介入或結合社會資源，以克服她們因社區環境帶來的飲食實踐障礙？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: From Plate to Pancreas Mechanisms Linking Diet to Diabetes&lt;br /&gt;
+Sandra S. Albrecht - Columbia University Mailman School of Public Health&lt;br /&gt;
+Title: Neighborhood Food Environments and Incidence of Type 2 Diabetes after Gestational Diabetes: A Population-Based Cohort Study in New York City&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/2ff15933-bc90-4928-9b7d-a790f82e4508</content:encoded><pubDate>Mon, 29 Jun 2026 08:50:35 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-0836-ada2026-plenary-neighborhood-food-environments-and-incidence-of-type-2-dia.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-0836-ada2026-plenary-neighborhood-food-environments-and-incidence-of-type-2-dia.m4a" length="14148128" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>19:28</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-29-20260629-0836-ada2026-plenary-neighborhood-food-environments-and-incidence-of-type-2-dia.jpg" /><link>https://mednote.zeabur.app/lectures/2ff15933-bc90-4928-9b7d-a790f82e4508</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Spatial Organization of Human Islet Endocrine Cells Modulates Stimulated Hormone Secretion</title><description>ADA 2026 專業整理：人類胰島內分泌細胞的空間排列如何調控荷爾蒙分泌功能
 
 臨床上面臨的研究問題
 胰臟胰島僅佔胰臟總質量的 1% 至 2%，且無法在健康人體內進行安全切片，因此人類胰島的研究高度依賴器官捐贈者的 ex vivo 分析 。過去科學界已知小鼠胰島具有核心為 β 細胞、外圍為 α 與 δ 細胞的清晰結構；相較之下，人類胰島的內分泌細胞呈現高度交錯（intermingled）排列，過往文獻常認為其屬於隨機分佈 。這項研究的核心問題在於：人類胰島內分泌細胞的空間分佈真的是隨機的嗎？如果是，這些空間排列方式是否會進一步影響其受刺激後的荷爾蒙分泌功能？ 
@@ -1527,7 +1607,163 @@ Session: Empowering Populations Diabetes Self Management Education in Practice&l
 &lt;br /&gt;
 本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
 &lt;br /&gt;
-來源連結：https://mednote.zeabur.app/lectures/5f02dbca-cbea-46df-8cf5-a163c568f3f7</content:encoded><pubDate>Wed, 24 Jun 2026 16:32:23 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-24-20260624-0005-ada2026-plenary-diabetes-self-management-education-dsme-and-hospital-admis.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-24-20260624-0005-ada2026-plenary-diabetes-self-management-education-dsme-and-hospital-admis.m4a" length="17769986" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>24:20</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-24-20260624-0005-ada2026-plenary-diabetes-self-management-education-dsme-and-hospital-admis.jpg" /><link>https://mednote.zeabur.app/lectures/5f02dbca-cbea-46df-8cf5-a163c568f3f7</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Overview and Methodology of the Standards of Care in Overweight and Obesity</title><description>ADA 2026 演講重點：首部肥胖照護標準的制定方法學與臨床定位，打破「知道肥胖重要，但不知道如何做」的醫療實務僵局 。
+來源連結：https://mednote.zeabur.app/lectures/5f02dbca-cbea-46df-8cf5-a163c568f3f7</content:encoded><pubDate>Wed, 24 Jun 2026 16:32:23 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-24-20260624-0005-ada2026-plenary-diabetes-self-management-education-dsme-and-hospital-admis.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-24-20260624-0005-ada2026-plenary-diabetes-self-management-education-dsme-and-hospital-admis.m4a" length="17769986" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>24:20</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-24-20260624-0005-ada2026-plenary-diabetes-self-management-education-dsme-and-hospital-admis.jpg" /><link>https://mednote.zeabur.app/lectures/5f02dbca-cbea-46df-8cf5-a163c568f3f7</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Enhancing A “Food Is Medicine Program” with Coaching from Community Health Workers Shows Significant Improvements in Health Outcomes for People with Diabe</title><description>ADA 2026 專業整理：在 Food is Medicine 介入計畫中，加入由社區健康工作者（CHW）引導的個人化健康教練服務，能顯著改善糖尿病患者的自我管理行為、生活形態與身心自評健康狀態 [1-3].
+
+臨床問題：
+在糖尿病照護中，社會健康決定因素（SDOH）如食物不安全感（Food Insecurity），是照護團隊在診間難以單獨解決的深層屏障 . 雖然學界逐漸重視「食物即藥物」計畫並提供患者食物箱，但如何幫助具備多元移民族群背景、面臨語言與經濟限制的患者建立可持續的自我管理習慣，將抽象的臨床飲食建議轉化為具體的日常實踐，仍是現行臨床體系的瓶頸 .
+
+關鍵訊息與試驗設計：
+本研究探討在加州斯托克頓（Stockton）運作的 Healthy Food Rx 計畫 . 該計畫為已診斷糖尿病的成人提供為期 6 個月、每兩週宅配一次（共 12 箱）家庭份量的食譜食材箱，內含新鮮蔬果、常備食材與食譜卡 . 
+為進一步驗證社區支持的加成效益，本試驗在此食物箱基礎上，額外加入由 APSARA 社區健康工作者（CHW）執行的密集一對一健康教練服務 . 課程包括疾病數據識能（Know Your Numbers）、增加蔬果攝取、健康飲品替代選擇、身體活動及壓力管理，並提供英文、西班牙文及高棉語教材 .
+
+在第一輪與第二輪合併分析中（總樣本數 n = 284），參與者展現出高度多元文化與高齡特徵（49% 為亞洲族群、41% 偏好使用高棉語、超過三分之二為 60 歲以上高齡患者） . 介入後的關鍵終點數據如下：
+
+1. 食物不安全感顯著改善：高達 91% 的初始食物不安全感，在介入後降至 76%（p &lt; 0.001），雖然改善顯著，但仍維持在偏高水準，反映了脆弱群體面臨的深層經濟困境 .
+2. 生活行為指標幾乎翻倍：水果每日攝取次數自 1.17 次增加至 2.25 次；蔬菜攝取自 1.23 次增加至 2.37 次；每日飲水頻率自 2.80 次增加至 4.08 次；每週身體活動天數自 2.80 天增加至 4.40 天（上述前後差異均達 p &lt; 0.001） .
+3. 身心健康自評大幅躍升：自評身體健康達到良好以上（Good / Very Good / Excellent）的比例自 21% 飆升至 77%；自評心理健康達到良好以上的比例由 34% 成長至 88%（p &lt; 0.001），顯示出極大的賦能感與心理支持效果 .
+4. 糖尿病自我管理高度落實：通常或總是能依處方服藥的比例由 57% 提升至 94%（增加 37%）；規律自我檢測血糖的比例自 28% 提升至 62%（增加 34%）；按時回診追蹤的比例則由 60% 增至 79%（增加 19%，p &lt; 0.001） .
+
+與單純提供食物箱（無 CHW 健康教練）的既有臨床研究（如 CMC RCT 介入組）對比：
+加入 CHW coaching 的組別在各項健康行為上的改善幅度均顯著高於單純提供食物箱。例如在食物箱 RCT 組中，水果攝取僅微幅增加每日 0.30 次，而 coaching 組增加了 1.10 次 . 更關鍵的是，在臨床場域招募的 RCT 組，其依醫囑服藥率與回診率在介入後反而出現微幅下滑（例如服藥率減少 5%），而接受 CHW 引導的社區組，其服藥率（+37%）與回診率（+19%）均呈現大幅度的正向逆轉 .
+
+對內分泌臨床實務的啟發：
+1. 補足基礎醫學識能缺口：研究指出，許多患者在未接受教練前，無法正確區分糖化血色素（HbA1c）與日常指尖血糖讀數的差異，因而難以落實個人化目標 . 教練課程中的 Know Your Numbers 成功補足了此一關鍵盲區 .
+2. 將醫囑具體化與生活化：單純告知「要吃健康、少喝甜飲」，對資源匱乏者往往淪為空洞口號 . 透過隨食物箱附上的多語系食譜卡、實際料理食材與低糖替代飲品示範，能將抽象醫囑轉化為家庭中容易落實的具體操作 .
+3. 信任與關懷是行為改變的核心：質性與量化數據共同指出，比起冰冷的衛教單張，CHW 與患者建立的信任關係、同儕語言可近性，以及固定電話或面對面追蹤帶來的「被關懷感」，是促使糖尿病自我管理任務轉化為日常行為的最強大動力 .
+
+研究限制與保守解讀：
+1. 本試驗設計並未包含同時期的對照組（Comparison Group），因此難以將所有改善完全排除外部環境或時間累積的效應 .
+2. 採用便利抽樣（Convenience Sampling），樣本偏向特定高齡與移民族群（如柬埔寨難民背景），其結果不能無條件外推至一般的糖尿病患者群體 .
+3. 由於研究是在社區組織（CBO）而非臨床體系內進行，因此缺乏 HbA1c、血壓或血脂等生理檢驗數據，無法直接評估其在血糖控制與併發症預防上的臨床硬終點改善 .
+4. 由於 CHW 與患者之間存在深厚且熟悉的社區關係，調查可能存在禮貌性偏差（Courtesy Bias）或社會期望偏差，導致自評結果偏向樂觀 .
+
+給臨床照護團隊後續思考的問題：
+在現行以「診間診斷與藥物開立」為核心的醫療照護體制中，我們如何能系統性地與社區非臨床夥伴協同合作，將患者在診間口頭承諾的「生活形態改變」，轉化為他們在日常文化脈絡中真正有能力且有意願實踐的行為？
+
+來源：
+ADA 2026 Scientific Sessions
+Session: Empowering Populations Diabetes Self Management Education in Practice
+Title: Enhancing A “Food Is Medicine Program” with Coaching from Community Health Workers Shows Significant Improvements in Health Outcomes for People with Diabetes
+Speaker: Maggie Wilkin - Public Health Institute
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。</description><content:encoded>ADA 2026 專業整理：在 Food is Medicine 介入計畫中，加入由社區健康工作者（CHW）引導的個人化健康教練服務，能顯著改善糖尿病患者的自我管理行為、生活形態與身心自評健康狀態 [1-3].&lt;br /&gt;
+&lt;br /&gt;
+臨床問題：&lt;br /&gt;
+在糖尿病照護中，社會健康決定因素（SDOH）如食物不安全感（Food Insecurity），是照護團隊在診間難以單獨解決的深層屏障 . 雖然學界逐漸重視「食物即藥物」計畫並提供患者食物箱，但如何幫助具備多元移民族群背景、面臨語言與經濟限制的患者建立可持續的自我管理習慣，將抽象的臨床飲食建議轉化為具體的日常實踐，仍是現行臨床體系的瓶頸 .&lt;br /&gt;
+&lt;br /&gt;
+關鍵訊息與試驗設計：&lt;br /&gt;
+本研究探討在加州斯托克頓（Stockton）運作的 Healthy Food Rx 計畫 . 該計畫為已診斷糖尿病的成人提供為期 6 個月、每兩週宅配一次（共 12 箱）家庭份量的食譜食材箱，內含新鮮蔬果、常備食材與食譜卡 . &lt;br /&gt;
+為進一步驗證社區支持的加成效益，本試驗在此食物箱基礎上，額外加入由 APSARA 社區健康工作者（CHW）執行的密集一對一健康教練服務 . 課程包括疾病數據識能（Know Your Numbers）、增加蔬果攝取、健康飲品替代選擇、身體活動及壓力管理，並提供英文、西班牙文及高棉語教材 .&lt;br /&gt;
+&lt;br /&gt;
+在第一輪與第二輪合併分析中（總樣本數 n = 284），參與者展現出高度多元文化與高齡特徵（49% 為亞洲族群、41% 偏好使用高棉語、超過三分之二為 60 歲以上高齡患者） . 介入後的關鍵終點數據如下：&lt;br /&gt;
+&lt;br /&gt;
+1. 食物不安全感顯著改善：高達 91% 的初始食物不安全感，在介入後降至 76%（p &lt; 0.001），雖然改善顯著，但仍維持在偏高水準，反映了脆弱群體面臨的深層經濟困境 .&lt;br /&gt;
+2. 生活行為指標幾乎翻倍：水果每日攝取次數自 1.17 次增加至 2.25 次；蔬菜攝取自 1.23 次增加至 2.37 次；每日飲水頻率自 2.80 次增加至 4.08 次；每週身體活動天數自 2.80 天增加至 4.40 天（上述前後差異均達 p &lt; 0.001） .&lt;br /&gt;
+3. 身心健康自評大幅躍升：自評身體健康達到良好以上（Good / Very Good / Excellent）的比例自 21% 飆升至 77%；自評心理健康達到良好以上的比例由 34% 成長至 88%（p &lt; 0.001），顯示出極大的賦能感與心理支持效果 .&lt;br /&gt;
+4. 糖尿病自我管理高度落實：通常或總是能依處方服藥的比例由 57% 提升至 94%（增加 37%）；規律自我檢測血糖的比例自 28% 提升至 62%（增加 34%）；按時回診追蹤的比例則由 60% 增至 79%（增加 19%，p &lt; 0.001） .&lt;br /&gt;
+&lt;br /&gt;
+與單純提供食物箱（無 CHW 健康教練）的既有臨床研究（如 CMC RCT 介入組）對比：&lt;br /&gt;
+加入 CHW coaching 的組別在各項健康行為上的改善幅度均顯著高於單純提供食物箱。例如在食物箱 RCT 組中，水果攝取僅微幅增加每日 0.30 次，而 coaching 組增加了 1.10 次 . 更關鍵的是，在臨床場域招募的 RCT 組，其依醫囑服藥率與回診率在介入後反而出現微幅下滑（例如服藥率減少 5%），而接受 CHW 引導的社區組，其服藥率（+37%）與回診率（+19%）均呈現大幅度的正向逆轉 .&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的啟發：&lt;br /&gt;
+1. 補足基礎醫學識能缺口：研究指出，許多患者在未接受教練前，無法正確區分糖化血色素（HbA1c）與日常指尖血糖讀數的差異，因而難以落實個人化目標 . 教練課程中的 Know Your Numbers 成功補足了此一關鍵盲區 .&lt;br /&gt;
+2. 將醫囑具體化與生活化：單純告知「要吃健康、少喝甜飲」，對資源匱乏者往往淪為空洞口號 . 透過隨食物箱附上的多語系食譜卡、實際料理食材與低糖替代飲品示範，能將抽象醫囑轉化為家庭中容易落實的具體操作 .&lt;br /&gt;
+3. 信任與關懷是行為改變的核心：質性與量化數據共同指出，比起冰冷的衛教單張，CHW 與患者建立的信任關係、同儕語言可近性，以及固定電話或面對面追蹤帶來的「被關懷感」，是促使糖尿病自我管理任務轉化為日常行為的最強大動力 .&lt;br /&gt;
+&lt;br /&gt;
+研究限制與保守解讀：&lt;br /&gt;
+1. 本試驗設計並未包含同時期的對照組（Comparison Group），因此難以將所有改善完全排除外部環境或時間累積的效應 .&lt;br /&gt;
+2. 採用便利抽樣（Convenience Sampling），樣本偏向特定高齡與移民族群（如柬埔寨難民背景），其結果不能無條件外推至一般的糖尿病患者群體 .&lt;br /&gt;
+3. 由於研究是在社區組織（CBO）而非臨床體系內進行，因此缺乏 HbA1c、血壓或血脂等生理檢驗數據，無法直接評估其在血糖控制與併發症預防上的臨床硬終點改善 .&lt;br /&gt;
+4. 由於 CHW 與患者之間存在深厚且熟悉的社區關係，調查可能存在禮貌性偏差（Courtesy Bias）或社會期望偏差，導致自評結果偏向樂觀 .&lt;br /&gt;
+&lt;br /&gt;
+給臨床照護團隊後續思考的問題：&lt;br /&gt;
+在現行以「診間診斷與藥物開立」為核心的醫療照護體制中，我們如何能系統性地與社區非臨床夥伴協同合作，將患者在診間口頭承諾的「生活形態改變」，轉化為他們在日常文化脈絡中真正有能力且有意願實踐的行為？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: Empowering Populations Diabetes Self Management Education in Practice&lt;br /&gt;
+Title: Enhancing A “Food Is Medicine Program” with Coaching from Community Health Workers Shows Significant Improvements in Health Outcomes for People with Diabetes&lt;br /&gt;
+Speaker: Maggie Wilkin - Public Health Institute&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。</content:encoded><pubDate>Wed, 24 Jun 2026 10:53:51 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-24-20260624-1035-ada2026-plenary-enhancing-a-food-is-medicine-program-with-coaching-from-co.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-24-20260624-1035-ada2026-plenary-enhancing-a-food-is-medicine-program-with-coaching-from-co.m4a" length="0" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>21:29</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-24-20260624-1035-ada2026-plenary-enhancing-a-food-is-medicine-program-with-coaching-from-co.jpg" /></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Effects of a Camp-Style Lifestyle Modification Program on Diabetes Prevention in Rural Women with Prior GDM</title><description>ADA 2026 專業整理：營隊式生活型態干預對農村妊娠糖尿病史女性的糖尿病預防成效 [1-3]
+
+臨床問題
+妊娠糖尿病（GDM）在全球的盛行率已接近 20% ，其中中國在東亞及東南亞地區的盛行率位居第 3 。曾患有 GDM 的女性在產後面臨長期的代謝風險，一生中進展為第 2 型糖尿病（T2DM）的風險高達 33% 至 50% 。雖然臨床指引建議產後進行包含飲食、身體活動、社會支持與壓力管理的生活型態修正 ，但傳統密集且長期的面對面課程在實務上面臨極大障礙。產後女性常因照顧嬰幼兒、家庭責任、交通與時間受限，導致傳統方案的招募率僅 10% 至 40%，流失率高達 50% 。在醫療資源較匱乏的農村地區，健康識能較低及醫療可近性不足更使此問題雪上加霜 。
+
+關鍵訊息與研究設計
+為了突破此臨床瓶頸，中南大學湘雅護理學院的郭佳教授團隊開發了「營隊式生活型態修正方案」（CAMP）。此方案將傳統需要多次往返的 6 堂核心課程濃縮為單一週末的 2 天密集實體營隊，隨後接續 3 個月的數位微學習，包含每日 1 分鐘短影音、5 題隨堂測驗、個人化回饋及社群軟體互動 [10-13]。
+
+本研究採用三臂、群集隨機對照試驗（cluster RCT），以 RE-AIM 模型為評估架構 [14-17]。研究在中國湖南省攸縣及永定區共 12 個鄉鎮進行，隨機分派以鄉鎮（town）為單位以防干預污染 。研究共納入 316 名產後 6 週至 3 年且具 GDM 病史的女性（平均年齡 33.68 歲，超過三分之一教育年數少於 12 年）[18-21]。研究分為三組進行 12 個月的意向分析（ITT）[19, 21-23]：
+1. CAMP 組（n=104）：週末 2 天實體營隊 + 3 個月數位微學習 。
+2. 傳統密集生活型態修正組（ILSMP，n=104）：6 次每兩週一次的實體團體課程 + 6 次每兩週一次的電話諮詢（包含個人化目標設定與問題解決） 。
+3. 常規照護組（Usual Care，n=108）：常規產後健康生活型態諮詢與衛教單張 。
+
+經過 12 個月的追蹤，主要臨床有效性（Effectiveness）結果顯示 ：
+－ 相比常規照護組，CAMP 組能顯著降低 T2DM 風險評分並改善 OGTT 2小時血糖值 [25-27]。
+－ 在臨床有效性上，CAMP 組與傳統高強度的 ILSMP 組之間沒有顯著統計學差異，證實了其療效的非劣效性（non-inferiority） [25-27]。
+－ 行為與心理社會指標方面：12個月時，CAMP 組的主食攝取量每日減少 56.59 克（ILSMP 組減少 50.64 克，對照組則增加 15.35 克，干預組皆顯著優於對照組） ；高參與度亞組的蔬菜攝取量亦顯著增加 [27-29]。此外，CAMP 組在飲食相關的社會支持及生活品質的心理維度改善上表現更佳 。
+
+在實施成效（Implementation Outcomes）上，CAMP 展現出顯著的臨床實務優勢 ：
+－ 招募率：CAMP 組為 78%（104/133），顯著高於 ILSMP 組的 63%（104/165） 。
+－ 實體參與度：CAMP 組高達 93.3% 的患者完成 5 次以上的課程，而 ILSMP 組僅有 54.7% 的完成率 。
+－ 數位參與度：CAMP 組有 82.7% 的患者達成 80% 以上的微學習完成率 。
+－ 滿意度（5分制）：CAMP 組平均為 4.4 分，優於 ILSMP 組的 3.7 分 。
+－ 成本效益：CAMP 組的總實施成本為 6,332 美元，低於 ILSMP 組的 8,032 美元 。
+－ 醫療人員採用率：負責執行方案的護理人員中，有 75%（15/20位護理師）願意採用 CAMP 模式，而 ILSMP 模式僅有 25%（5/20位護理師）的護理人員願意採用 。
+
+對內分泌臨床實務的啟發
+這項研究為糖尿病照護團隊帶來重要啟發 。在規劃產後代謝風險干預時，臨床上不能僅一味複製大型醫學中心的高強度、頻繁面對面諮詢模式 。特別是在資源有限或農村環境中，結合「週末密集實體建立動機與技能」與「日常數位微學習維持行為」的混合式干預方案（CAMP），不僅能達到與傳統密集介入相當的代謝風險改善成效，更因大幅降低患者的參與門檻與行政成本，使基層照護人員更容易推廣與落地 。
+
+需要保守解讀的限制
+在臨床應用此研究結果時，需注意以下限制：首先，研究對象的產後時間跨度較大（從產後 6 週至 3 年不等），這可能引入了一定的異質性 。其次，部分行為指標（如飲食攝取量）高度仰賴患者的自我回報，可能存在回憶偏差或社會期許偏差 。未來在更廣泛的實務推廣中，仍需進一步探索「最低有效參與劑量」（minimum effective participation dose），以兼顧介入成效與醫療資源配置效率 [32-34]。
+
+思考問題
+在我們現行的糖尿病臨床照護流程中，該如何有效平衡介入方案的「臨床理論療效」與患者在真實世界中的「日常執行可行性」，以設計出更具彈性且能讓產後女性長期維持的照護模式？
+
+來源：ADA 2026 Scientific Sessions, Session: What Works Outcomes of Behavioral Intervention Trials in Type 1 Type 2 and Gestational Diabetes, Speaker: Jia Guo (Central South University), Title: Effects of a Camp-Style Lifestyle Modification Program on Diabetes Prevention in Rural Women with Prior GDM
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/9b36702c-16d2-4a24-beba-2a023100ccc9</description><content:encoded>ADA 2026 專業整理：營隊式生活型態干預對農村妊娠糖尿病史女性的糖尿病預防成效 [1-3]&lt;br /&gt;
+&lt;br /&gt;
+臨床問題&lt;br /&gt;
+妊娠糖尿病（GDM）在全球的盛行率已接近 20% ，其中中國在東亞及東南亞地區的盛行率位居第 3 。曾患有 GDM 的女性在產後面臨長期的代謝風險，一生中進展為第 2 型糖尿病（T2DM）的風險高達 33% 至 50% 。雖然臨床指引建議產後進行包含飲食、身體活動、社會支持與壓力管理的生活型態修正 ，但傳統密集且長期的面對面課程在實務上面臨極大障礙。產後女性常因照顧嬰幼兒、家庭責任、交通與時間受限，導致傳統方案的招募率僅 10% 至 40%，流失率高達 50% 。在醫療資源較匱乏的農村地區，健康識能較低及醫療可近性不足更使此問題雪上加霜 。&lt;br /&gt;
+&lt;br /&gt;
+關鍵訊息與研究設計&lt;br /&gt;
+為了突破此臨床瓶頸，中南大學湘雅護理學院的郭佳教授團隊開發了「營隊式生活型態修正方案」（CAMP）。此方案將傳統需要多次往返的 6 堂核心課程濃縮為單一週末的 2 天密集實體營隊，隨後接續 3 個月的數位微學習，包含每日 1 分鐘短影音、5 題隨堂測驗、個人化回饋及社群軟體互動 [10-13]。&lt;br /&gt;
+&lt;br /&gt;
+本研究採用三臂、群集隨機對照試驗（cluster RCT），以 RE-AIM 模型為評估架構 [14-17]。研究在中國湖南省攸縣及永定區共 12 個鄉鎮進行，隨機分派以鄉鎮（town）為單位以防干預污染 。研究共納入 316 名產後 6 週至 3 年且具 GDM 病史的女性（平均年齡 33.68 歲，超過三分之一教育年數少於 12 年）[18-21]。研究分為三組進行 12 個月的意向分析（ITT）[19, 21-23]：&lt;br /&gt;
+1. CAMP 組（n=104）：週末 2 天實體營隊 + 3 個月數位微學習 。&lt;br /&gt;
+2. 傳統密集生活型態修正組（ILSMP，n=104）：6 次每兩週一次的實體團體課程 + 6 次每兩週一次的電話諮詢（包含個人化目標設定與問題解決） 。&lt;br /&gt;
+3. 常規照護組（Usual Care，n=108）：常規產後健康生活型態諮詢與衛教單張 。&lt;br /&gt;
+&lt;br /&gt;
+經過 12 個月的追蹤，主要臨床有效性（Effectiveness）結果顯示 ：&lt;br /&gt;
+－ 相比常規照護組，CAMP 組能顯著降低 T2DM 風險評分並改善 OGTT 2小時血糖值 [25-27]。&lt;br /&gt;
+－ 在臨床有效性上，CAMP 組與傳統高強度的 ILSMP 組之間沒有顯著統計學差異，證實了其療效的非劣效性（non-inferiority） [25-27]。&lt;br /&gt;
+－ 行為與心理社會指標方面：12個月時，CAMP 組的主食攝取量每日減少 56.59 克（ILSMP 組減少 50.64 克，對照組則增加 15.35 克，干預組皆顯著優於對照組） ；高參與度亞組的蔬菜攝取量亦顯著增加 [27-29]。此外，CAMP 組在飲食相關的社會支持及生活品質的心理維度改善上表現更佳 。&lt;br /&gt;
+&lt;br /&gt;
+在實施成效（Implementation Outcomes）上，CAMP 展現出顯著的臨床實務優勢 ：&lt;br /&gt;
+－ 招募率：CAMP 組為 78%（104/133），顯著高於 ILSMP 組的 63%（104/165） 。&lt;br /&gt;
+－ 實體參與度：CAMP 組高達 93.3% 的患者完成 5 次以上的課程，而 ILSMP 組僅有 54.7% 的完成率 。&lt;br /&gt;
+－ 數位參與度：CAMP 組有 82.7% 的患者達成 80% 以上的微學習完成率 。&lt;br /&gt;
+－ 滿意度（5分制）：CAMP 組平均為 4.4 分，優於 ILSMP 組的 3.7 分 。&lt;br /&gt;
+－ 成本效益：CAMP 組的總實施成本為 6,332 美元，低於 ILSMP 組的 8,032 美元 。&lt;br /&gt;
+－ 醫療人員採用率：負責執行方案的護理人員中，有 75%（15/20位護理師）願意採用 CAMP 模式，而 ILSMP 模式僅有 25%（5/20位護理師）的護理人員願意採用 。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的啟發&lt;br /&gt;
+這項研究為糖尿病照護團隊帶來重要啟發 。在規劃產後代謝風險干預時，臨床上不能僅一味複製大型醫學中心的高強度、頻繁面對面諮詢模式 。特別是在資源有限或農村環境中，結合「週末密集實體建立動機與技能」與「日常數位微學習維持行為」的混合式干預方案（CAMP），不僅能達到與傳統密集介入相當的代謝風險改善成效，更因大幅降低患者的參與門檻與行政成本，使基層照護人員更容易推廣與落地 。&lt;br /&gt;
+&lt;br /&gt;
+需要保守解讀的限制&lt;br /&gt;
+在臨床應用此研究結果時，需注意以下限制：首先，研究對象的產後時間跨度較大（從產後 6 週至 3 年不等），這可能引入了一定的異質性 。其次，部分行為指標（如飲食攝取量）高度仰賴患者的自我回報，可能存在回憶偏差或社會期許偏差 。未來在更廣泛的實務推廣中，仍需進一步探索「最低有效參與劑量」（minimum effective participation dose），以兼顧介入成效與醫療資源配置效率 [32-34]。&lt;br /&gt;
+&lt;br /&gt;
+思考問題&lt;br /&gt;
+在我們現行的糖尿病臨床照護流程中，該如何有效平衡介入方案的「臨床理論療效」與患者在真實世界中的「日常執行可行性」，以設計出更具彈性且能讓產後女性長期維持的照護模式？&lt;br /&gt;
+&lt;br /&gt;
+來源：ADA 2026 Scientific Sessions, Session: What Works Outcomes of Behavioral Intervention Trials in Type 1 Type 2 and Gestational Diabetes, Speaker: Jia Guo (Central South University), Title: Effects of a Camp-Style Lifestyle Modification Program on Diabetes Prevention in Rural Women with Prior GDM&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/9b36702c-16d2-4a24-beba-2a023100ccc9</content:encoded><pubDate>Wed, 24 Jun 2026 08:24:01 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-24-20260624-0806-ada2026-plenary-effects-of-a-camp-style-lifestyle-modification-program-on.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-24-20260624-0806-ada2026-plenary-effects-of-a-camp-style-lifestyle-modification-program-on.m4a" length="0" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>23:56</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-24-20260624-0806-ada2026-plenary-effects-of-a-camp-style-lifestyle-modification-program-on.jpg" /><link>https://mednote.zeabur.app/lectures/9b36702c-16d2-4a24-beba-2a023100ccc9</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Overview and Methodology of the Standards of Care in Overweight and Obesity</title><description>ADA 2026 演講重點：首部肥胖照護標準的制定方法學與臨床定位，打破「知道肥胖重要，但不知道如何做」的醫療實務僵局 。
 
 臨床問題與照護落差：
 世界衛生組織（WHO）與美國醫學會（AMA）已分別於 1999 年和 2013 年將肥胖定義為一種具有多重病理生理機制的複雜慢性疾病 。然而，臨床照護實務仍存在巨大落差 。醫師問卷調查指出，雖然超過 80% 的專科、內分泌與心臟科醫師認同肥胖是疾病，但高達 65% 擔心討論肥胖會冒犯病人，54% 至 68% 缺乏討論肥胖的專業訓練，超過 75% 缺乏轉介資源，且高達 76% 至 89% 的醫師認為成功協助病人維持健康體重的機率極低 [3-5]。NHANES 資料庫也顯示，雖然超過 90% 的肥胖成人有減重意願，但真正尋求專業協助者僅 10%，向醫師尋求治療者更低於 4% [5-7]。此外，美國健康系統資料指出，在 2017 與 2019 年，接受任何形式體重管理治療的肥胖病人僅占 5.3% 與 7.1%，且臨床上只有不到 10% 的基層醫療照護提供者會使用醫學指引來做肥胖治療決策 [5, 8-10]。
@@ -2561,7 +2797,93 @@ Speaker: Sherita Hill Golden - Johns Hopkins University&lt;br /&gt;
 &lt;br /&gt;
 本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
 &lt;br /&gt;
-來源連結：https://mednote.zeabur.app/lectures/147b468e-f254-4aed-bd57-acb89f563018</content:encoded><pubDate>Fri, 19 Jun 2026 12:21:22 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-19-20260619-1206-ada2026-symposium-felicia-hill-briggs-trailblazer-in-health-equity-award-lec.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-19-20260619-1206-ada2026-symposium-felicia-hill-briggs-trailblazer-in-health-equity-award-lec.m4a" length="12233991" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>16:47</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-19-20260619-1206-ada2026-symposium-felicia-hill-briggs-trailblazer-in-health-equity-award-lec.jpg" /><link>https://mednote.zeabur.app/lectures/147b468e-f254-4aed-bd57-acb89f563018</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Mitraa-T1D: A Multicenter Randomized Trial of a Digital Conversational Support Tool in Adults with Type 1 Diabetes</title><description>ADA 2026 專業整理：Mitraa-T1D 數位對話式支持工具在成人第 1 型糖尿病的多中心隨機對照試驗 [1-3]
+來源連結：https://mednote.zeabur.app/lectures/147b468e-f254-4aed-bd57-acb89f563018</content:encoded><pubDate>Fri, 19 Jun 2026 12:21:22 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-19-20260619-1206-ada2026-symposium-felicia-hill-briggs-trailblazer-in-health-equity-award-lec.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-19-20260619-1206-ada2026-symposium-felicia-hill-briggs-trailblazer-in-health-equity-award-lec.m4a" length="12233991" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>16:47</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-19-20260619-1206-ada2026-symposium-felicia-hill-briggs-trailblazer-in-health-equity-award-lec.jpg" /><link>https://mednote.zeabur.app/lectures/147b468e-f254-4aed-bd57-acb89f563018</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：The T1D-CATCH Study: Community Health Workers (CHWs) Increase Diabetes Technology Uptake in Young Adults (YA) with Type 1 Diabetes (T1D)</title><description>ADA 2026 演講重點：T1D-CATCH 臨床隨機對照試驗顯示，引進專門培訓的社區健康工作者（CHW）能以變革性的方式顯著提升年輕少數族裔患者的糖尿病科技使用率，有效克服醫療不平等與科技近用障礙 [1-4]。
+
+📌 內分泌專科面臨的臨床問題
+年輕成人（18-35歲）的第一型糖尿病（T1D）照護在臨床上面臨顯著的種族與族裔不平等 [5-7]。數據顯示，非裔與西裔年輕患者的糖化血色素（HbA1c）比白人患者高出約 2.3% ；其因酮酸中毒（DKA）與低血糖急性併發症住院的風險高出 2 至 3 倍 ；早發性死亡風險也高出 1.5 至 2 倍 。
+即使在醫療保險給付相對完善的地區，持續性血糖監測（CGM）與自動胰島素給藥（AID）的使用落差依然持續存在 。關鍵障礙不僅在於經濟，更包含患者難以獨自應對複雜的醫療與保險系統、專科醫師因擔憂開立科技處方後會衍生龐大的後續衛教與行政支持負擔而有所猶豫，以及日常生活中尚未被滿足的社會健康需求（HRSNs）成為患者自我照護的干擾因素 。
+
+📊 T1D-CATCH 臨床試驗設計
+本研究是一項療效與實施混合隨機對照試驗（Effectiveness-Implementation Hybrid RCT） 。
+試驗納入 119 名年齡 18-35 歲、基線未使用 AID 系統的非裔或西裔 T1D 年輕成人（平均年齡約 25 歲，女性約佔 48%，高達 80% 投保公共保險，約 50% 至 60% 至少面臨一項社會健康需求，基線平均 HbA1c 達 9.4% 至 9.6%） [6, 7, 12-17]。受試者以 stratified randomization 隨機分配至：
+1. CHW 介入組（n = 59）：在前 6 個月接受密集的個別訪視（頻率隨時間由每週、雙週遞減至每月，且包含診間之外的電話與簡訊追蹤），並可自由參加每月的小組會議；6 至 9 個月為延伸期 。CHW 在醫療系統與社區之間扮演中介，協助裝置導引、共享決策與解決社會需求 [18-20]。
+2. 常規照護組（n = 60）：接受常規的專科或基層照護，並依醫師判斷轉介衛教、營養或心理諮商 。
+主要終點為任何糖尿病科技的升級與採用率（路徑包含無科技升級至 CGM、胰島素幫浦，或升級至 AID） 。
+
+💡 核心研究結果與關鍵訊息
+本試驗展現了極高的臨床保留率（retention rate 達 95% 以上） ：
+1. 顯著且快速的科技升級：CHW 組在研究期間有 74% 的患者成功實現糖尿病科技升級，相較於常規照護組的 30% 呈現倍數成長（p = 0.0001） 。
+2. 大幅縮短科技導入時間：介入組高達 50% 的患者在隨機分配後「3 個月內」便成功升級科技，顯著快於常規組 。
+3. 先進科技 AID 採用率翻倍：在臨床療效最顯著的 AID 系統使用上，CHW 組的採用率幾乎是常規照護組的 3 倍 。
+4. 長期科技使用的持久性（Durability）：前 3 個月啟用科技的介入組患者，有高達 98% 穩定維持使用至第 9 個月；而常規照護組則有高達 50% 的中斷率 。
+5. 社會需求獲得實質解決：CHW 在 9 個月內成功協助解決了患者約四分之一（25%）被指認出的社會健康需求（如食物不安全、就醫交通或藥物費用等） 。
+6. 血糖控制呈改善趨勢：CHW 組的平均 HbA1c 從基線 9.4% 降至 3 個月時的 8.7%，並穩定維持至 6 個月；常規組則僅從基線 9.6% 輕微降至 9.3% 。
+
+🩺 對內分泌臨床實務的啟發
+1. 專科照護的工作轉移（Task-Shifting）：將經過培訓的 CHW 模式導入 T1D 專科照護具有高度可行性。CHW 可協助承擔耗時的科技教育、裝置開機引導（onboarding）與保險行政審查申請，能有效移除診間的工作流障礙，進而提高專科醫師處方先進科技的信心 [23, 30-32]。
+2. 重建互信的「關鍵特質」：本試驗成功的特殊要素在於選擇「年齡相仿的年輕成人」擔任 CHW，並接受自主支持（autonomy-supportive）訓練。年輕患者需要的是朋友而非評判者；這種同儕式的非評判支持能有效重建患者對醫療系統的信任，激發其自我管理的能力 [31-37]。
+3. 實踐真正的科技近用公平（Pharmacoequity）：唯有同時解決患者生活中的競爭性障礙（如社會健康需求），先進糖尿病科技與治療工具才能真正被公平取得、合理處方，並成功長期維持 。
+
+⚠️ 臨床應用與保守解讀的限制
+1. HbA1c 終點檢定力不足：雖然數據顯示 HbA1c 出現臨床上的改善趨勢，但由於本隨機對照試驗的樣本數限制（最終分析樣本為 113 人），此研究對於 HbA1c 下降的統計學檢定力略顯不足（underpowered），無法作為決定性的臨床療效宣稱 。
+2. 基層醫療招募挑戰（Cautionary Tale）：研究團隊原計畫同時從基層醫療（Primary Care）與內分泌專科招募患者，但基層醫療端的招募最終未能成功，所有受試者皆來自成人與兒童內分泌專科門診。這顯示該模式若要直接轉移至非專科的基層照護體系仍面臨重大執行瓶頸 。
+3. 族群與社會背景限制：本研究高度集中於紐約都會區、高公共保險率（約 80%）的少數族裔（非裔與西裔），對於高比例私人保險或不同地域、不同文化背景患者的推估力與外在效度仍需保守看待 。
+
+💬 臨床思考問題
+如果我們嘗試在現行的臨床共照網中，引入類似年輕同儕或社區支持人員的角色，來協助年輕第一型糖尿病患者克服持續性血糖監測（CGM）與幫浦引導期的心理排斥與繁瑣的行政程序，我們現有健保或專科照護工作流中面臨的最大阻礙會是什麼？
+
+來源：
+ADA 2026 Scientific Sessions
+Session: What Works: Outcomes of Behavioral Intervention Trials in Type 1, Type 2, and Gestational Diabetes
+Title: The T1D-CATCH Study: Community Health Workers (CHWs) Increase Diabetes Technology Uptake in Young Adults (YA) with Type 1 Diabetes (T1D)
+Speaker: Shivani Agarwal - Montefiore Einstein
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/6e0c7ad1-e753-4719-8fc0-f4aa0d114b2e</description><content:encoded>ADA 2026 演講重點：T1D-CATCH 臨床隨機對照試驗顯示，引進專門培訓的社區健康工作者（CHW）能以變革性的方式顯著提升年輕少數族裔患者的糖尿病科技使用率，有效克服醫療不平等與科技近用障礙 [1-4]。&lt;br /&gt;
+&lt;br /&gt;
+📌 內分泌專科面臨的臨床問題&lt;br /&gt;
+年輕成人（18-35歲）的第一型糖尿病（T1D）照護在臨床上面臨顯著的種族與族裔不平等 [5-7]。數據顯示，非裔與西裔年輕患者的糖化血色素（HbA1c）比白人患者高出約 2.3% ；其因酮酸中毒（DKA）與低血糖急性併發症住院的風險高出 2 至 3 倍 ；早發性死亡風險也高出 1.5 至 2 倍 。&lt;br /&gt;
+即使在醫療保險給付相對完善的地區，持續性血糖監測（CGM）與自動胰島素給藥（AID）的使用落差依然持續存在 。關鍵障礙不僅在於經濟，更包含患者難以獨自應對複雜的醫療與保險系統、專科醫師因擔憂開立科技處方後會衍生龐大的後續衛教與行政支持負擔而有所猶豫，以及日常生活中尚未被滿足的社會健康需求（HRSNs）成為患者自我照護的干擾因素 。&lt;br /&gt;
+&lt;br /&gt;
+📊 T1D-CATCH 臨床試驗設計&lt;br /&gt;
+本研究是一項療效與實施混合隨機對照試驗（Effectiveness-Implementation Hybrid RCT） 。&lt;br /&gt;
+試驗納入 119 名年齡 18-35 歲、基線未使用 AID 系統的非裔或西裔 T1D 年輕成人（平均年齡約 25 歲，女性約佔 48%，高達 80% 投保公共保險，約 50% 至 60% 至少面臨一項社會健康需求，基線平均 HbA1c 達 9.4% 至 9.6%） [6, 7, 12-17]。受試者以 stratified randomization 隨機分配至：&lt;br /&gt;
+1. CHW 介入組（n = 59）：在前 6 個月接受密集的個別訪視（頻率隨時間由每週、雙週遞減至每月，且包含診間之外的電話與簡訊追蹤），並可自由參加每月的小組會議；6 至 9 個月為延伸期 。CHW 在醫療系統與社區之間扮演中介，協助裝置導引、共享決策與解決社會需求 [18-20]。&lt;br /&gt;
+2. 常規照護組（n = 60）：接受常規的專科或基層照護，並依醫師判斷轉介衛教、營養或心理諮商 。&lt;br /&gt;
+主要終點為任何糖尿病科技的升級與採用率（路徑包含無科技升級至 CGM、胰島素幫浦，或升級至 AID） 。&lt;br /&gt;
+&lt;br /&gt;
+💡 核心研究結果與關鍵訊息&lt;br /&gt;
+本試驗展現了極高的臨床保留率（retention rate 達 95% 以上） ：&lt;br /&gt;
+1. 顯著且快速的科技升級：CHW 組在研究期間有 74% 的患者成功實現糖尿病科技升級，相較於常規照護組的 30% 呈現倍數成長（p = 0.0001） 。&lt;br /&gt;
+2. 大幅縮短科技導入時間：介入組高達 50% 的患者在隨機分配後「3 個月內」便成功升級科技，顯著快於常規組 。&lt;br /&gt;
+3. 先進科技 AID 採用率翻倍：在臨床療效最顯著的 AID 系統使用上，CHW 組的採用率幾乎是常規照護組的 3 倍 。&lt;br /&gt;
+4. 長期科技使用的持久性（Durability）：前 3 個月啟用科技的介入組患者，有高達 98% 穩定維持使用至第 9 個月；而常規照護組則有高達 50% 的中斷率 。&lt;br /&gt;
+5. 社會需求獲得實質解決：CHW 在 9 個月內成功協助解決了患者約四分之一（25%）被指認出的社會健康需求（如食物不安全、就醫交通或藥物費用等） 。&lt;br /&gt;
+6. 血糖控制呈改善趨勢：CHW 組的平均 HbA1c 從基線 9.4% 降至 3 個月時的 8.7%，並穩定維持至 6 個月；常規組則僅從基線 9.6% 輕微降至 9.3% 。&lt;br /&gt;
+&lt;br /&gt;
+🩺 對內分泌臨床實務的啟發&lt;br /&gt;
+1. 專科照護的工作轉移（Task-Shifting）：將經過培訓的 CHW 模式導入 T1D 專科照護具有高度可行性。CHW 可協助承擔耗時的科技教育、裝置開機引導（onboarding）與保險行政審查申請，能有效移除診間的工作流障礙，進而提高專科醫師處方先進科技的信心 [23, 30-32]。&lt;br /&gt;
+2. 重建互信的「關鍵特質」：本試驗成功的特殊要素在於選擇「年齡相仿的年輕成人」擔任 CHW，並接受自主支持（autonomy-supportive）訓練。年輕患者需要的是朋友而非評判者；這種同儕式的非評判支持能有效重建患者對醫療系統的信任，激發其自我管理的能力 [31-37]。&lt;br /&gt;
+3. 實踐真正的科技近用公平（Pharmacoequity）：唯有同時解決患者生活中的競爭性障礙（如社會健康需求），先進糖尿病科技與治療工具才能真正被公平取得、合理處方，並成功長期維持 。&lt;br /&gt;
+&lt;br /&gt;
+⚠️ 臨床應用與保守解讀的限制&lt;br /&gt;
+1. HbA1c 終點檢定力不足：雖然數據顯示 HbA1c 出現臨床上的改善趨勢，但由於本隨機對照試驗的樣本數限制（最終分析樣本為 113 人），此研究對於 HbA1c 下降的統計學檢定力略顯不足（underpowered），無法作為決定性的臨床療效宣稱 。&lt;br /&gt;
+2. 基層醫療招募挑戰（Cautionary Tale）：研究團隊原計畫同時從基層醫療（Primary Care）與內分泌專科招募患者，但基層醫療端的招募最終未能成功，所有受試者皆來自成人與兒童內分泌專科門診。這顯示該模式若要直接轉移至非專科的基層照護體系仍面臨重大執行瓶頸 。&lt;br /&gt;
+3. 族群與社會背景限制：本研究高度集中於紐約都會區、高公共保險率（約 80%）的少數族裔（非裔與西裔），對於高比例私人保險或不同地域、不同文化背景患者的推估力與外在效度仍需保守看待 。&lt;br /&gt;
+&lt;br /&gt;
+💬 臨床思考問題&lt;br /&gt;
+如果我們嘗試在現行的臨床共照網中，引入類似年輕同儕或社區支持人員的角色，來協助年輕第一型糖尿病患者克服持續性血糖監測（CGM）與幫浦引導期的心理排斥與繁瑣的行政程序，我們現有健保或專科照護工作流中面臨的最大阻礙會是什麼？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: What Works: Outcomes of Behavioral Intervention Trials in Type 1, Type 2, and Gestational Diabetes&lt;br /&gt;
+Title: The T1D-CATCH Study: Community Health Workers (CHWs) Increase Diabetes Technology Uptake in Young Adults (YA) with Type 1 Diabetes (T1D)&lt;br /&gt;
+Speaker: Shivani Agarwal - Montefiore Einstein&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/6e0c7ad1-e753-4719-8fc0-f4aa0d114b2e</content:encoded><pubDate>Fri, 19 Jun 2026 10:53:21 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-19-20260619-1036-ada2026-plenary-the-t1d-catch-study-community-health-workers-chws-increase.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-19-20260619-1036-ada2026-plenary-the-t1d-catch-study-community-health-workers-chws-increase.m4a" length="11800476" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>16:10</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-19-20260619-1036-ada2026-plenary-the-t1d-catch-study-community-health-workers-chws-increase.jpg" /><link>https://mednote.zeabur.app/lectures/6e0c7ad1-e753-4719-8fc0-f4aa0d114b2e</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Mitraa-T1D: A Multicenter Randomized Trial of a Digital Conversational Support Tool in Adults with Type 1 Diabetes</title><description>ADA 2026 專業整理：Mitraa-T1D 數位對話式支持工具在成人第 1 型糖尿病的多中心隨機對照試驗 [1-3]
 
 臨床問題 ：
 成人第 1 型糖尿病（T1D）患者在日常照護上面臨持續且沉重的病理生理與認知負擔，包含繁雜的胰島素劑量計算、血糖監測與調整決策，極易引發嚴重的糖尿病心理困擾（diabetes distress）與臨床倦怠 [4-7]。在如印度等資源不均的醫療體系中，病患在診間之外缺乏連續性的醫療支持 。現行的行動健康（mHealth）工具多屬於被動的數據記錄平台，缺乏主動關懷與即時臨床支持，導致病患長期黏著度低下，難以有效緩解情緒壓力 [10-12]。
