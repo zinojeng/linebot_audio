@@ -1,5 +1,24 @@
 [
   {
+    "id": "2026-07-06-20260706-1506-ada2026-symposium-patient-education-and-safety-boundaries-for-continuous-ket",
+    "guid": "https://linebotaudio.zeabur.app/audio/2026-07-06-20260706-1506-ada2026-symposium-patient-education-and-safety-boundaries-for-continuous-ket.m4a",
+    "title": "聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：連續酮體監測的病人教育與安全界線｜Patient Education and Safety Boundaries for Continuous Ketone Monitoring",
+    "description": "ADA 2026 專業整理：連續酮體監測的病人教育與安全界線\n\n臨床問題：隨著糖尿病科技普及，DKA 真的消失了嗎？\n近年來雖然持續血糖監測（CGM）與自動胰島素輸注（AID）的使用率大幅增加（例如感測器使用率從2016年的18%飆升至2024年的81%），且平均糖化血色素（mean HbA1c）從8.2%降至7.6%，但糖尿病酮酸中毒（DKA）的發生率卻依然持平、甚至在特定族群中上升 [1-3]。\n根據大型兒科住院資料庫分析，第一型糖尿病（T1D）兒少的住院原因中，高達93.5%歸因於 DKA，平均住院2天，醫療費用達33,244美元；第二型糖尿病（T2D）兒少亦有近90%住院歸因於 DKA，平均住院3天，費用逼近50,000美元 [3-6]。\n目前的尿酮（僅測量 acetoacetate而非 DKA 主要的 BHB，且有排尿延遲與便利性限制）與指尖血酮檢測，最大痛點在於需要病人主動想到並執行 [6-8]。真實世界數據顯示，在使用 FreeStyle Libre Reader 的177萬名使用者中，高達92%從未進行血酮測試，即使其中87%的人血糖曾超過 250 mg/dL 。這顯示臨床上極需更主動、被動收集的連續酮體監測（CKM）技術 。\n\n關鍵訊息與臨床實證數據：\n1. 血糖與酮體上升並不總是同步：在胰島素中斷研究中，部分個案在血糖尚未超過 250 mg/dL 前，酮體就已跨過 1.0 mmol/L 的界線 。若單靠血糖值來決定是否測酮體，將會錯失早期介入時機 。\n2. 臨床案例與早期數據：PARTNERS 試驗在第1型糖尿病成人導入 SGLT 抑制劑前，收集了2週盲性 CKM 數據，發現有 16% 的個案曾出現無症狀的酮體 >=1.0 mmol/L 。另外，臨床案例顯示，一名14歲使用 MDI 的女孩在因 DKA 住院前將近20小時，其盲性感測器就已顯示緊急高酮體 ；而另一名55歲使用 AID 的男性，在更換血糖感測器空窗期因高血糖進行「憤怒補針」（rage bolusing），幸好因 CKM 發出 BHB >1.0 mmol/L 的警報，並在酮體升至 3.0 mmol/L（血酮 3.7 mmol/L）時引導其更換胰島素輸送套件，成功避免 DKA 的發生 。\n3. 國際共識指引：2026年發表的國際專家建議（Lancet Diabetes and Endocrinology 2026）將 CKM 的 beta-hydroxybutyrate（BHB）濃度劃分為四個行動區間：\n• 正常（<0.6 mmol/L）：無須採取額外行動 。\n• 升高度（0.6 至 <1.5 mmol/L）：需注意症狀，增加血糖監測，確認幫浦與胰島素，補充水分與碳水 。\n• 高度（1.5 至 <3.0 mmol/L）：除上述行動外，需積極調整胰島素並聯絡醫療人員 。\n• 緊急高度（>=3.0 mmol/L）：需立即尋求醫院或急診治療 。\n\n對內分泌臨床實務的啟發：\n連續酮體監測（CKM）與雙重葡萄糖-酮體監測（Dual glucose-ketone sensor）技術，例如已取得歐盟 CE Mark 的 Libre Duo，代表了糖尿病安全管理的下一個範式轉移 。\n在臨床實務上，CKM 最有價值的切入點並非全面普及，而是針對高風險族群，包含 T1D、使用 SGLT2 抑制劑者、曾有 DKA 史、頻繁面臨生病日（sick days）風險，以及接受遠距監測（remote patient monitoring）的患者 。\nCKM 的價值不只在於警報，更是作為確認代謝安全的 Reassurance 工具 [25-27]。臨床照護團隊需要將 CKM 數值融入現有的「生病日規則」（sick day rules），建立更標準化的臨床決策支援流程（例如 Yale 將病人的總胰島素日劑量輸入電子病歷系統，自動產出對應的補水量與胰島素建議），縮短患者在酮體升高到主動測試之間的拖延時間 。\n\n需要保守解讀的限制：\n目前 CKM 仍缺乏大型隨機臨床對照試驗（RCT）來證實其能顯著降低 DKA 住院率或降低照護成本 [29-31]。\n此外，使用 SGLT2 抑制劑的患者，其生理性無症狀酮體波動會大幅增加（如 EmpaCKM 試驗顯示，使用 empagliflozin 10mg/day 後，無症狀酮體上升事件可能高達每天一次） ，目前臨床上對於何種波動代表病理性 DKA 訊號、何種僅是生理燃料適應，仍缺乏足夠數據支持，因此不能過早宣稱 CKM 已經完美解決了 SGLT2i 引起 DKA 的安全疑慮 。\n再者，CKM 導入初期，若缺乏明確的病人自我處置行動演算法，可能會引發患者過度焦慮，或為本就人力吃緊的診所團隊帶來龐大的諮詢電話與訊息負擔 。\n\n給醫師後續思考的問題：\n當連續酮體監測技術逐步走入臨床，我們該如何為糖尿病照護團隊建立一套可行且不增加工作負擔的遠距監測與臨床處置路徑，以避免數據洪流轉化為照護團隊與患者的數據焦慮？\n\n來源：ADA 2026 Scientific Sessions, Session: Continuous Ketone Monitoring for the Masses Risky or Rewarding, Jennifer L Sherr - Yale University School of Medicine, Title: 連續酮體監測的病人教育與安全界線｜Patient Education and Safety Boundaries for Continuous Ketone Monitoring\n\n本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。\n\n來源連結：https://mednote.zeabur.app/lectures/91dea9bf-45bd-4a62-9977-86e62cb41446",
+    "pub_date": "2026-07-06T15:21:47+08:00",
+    "pub_date_rfc2822": "Mon, 06 Jul 2026 15:21:47 +0800",
+    "audio_url": "https://linebotaudio.zeabur.app/audio/2026-07-06-20260706-1506-ada2026-symposium-patient-education-and-safety-boundaries-for-continuous-ket.m4a",
+    "audio_length": 11719198,
+    "audio_type": "audio/mp4",
+    "image_url": "https://linebotaudio.zeabur.app/image/2026-07-06-20260706-1506-ada2026-symposium-patient-education-and-safety-boundaries-for-continuous-ket.jpg",
+    "podcast_image_url": "",
+    "duration": "16:05",
+    "source_url": "https://mednote.zeabur.app/lectures/91dea9bf-45bd-4a62-9977-86e62cb41446",
+    "explicit": "false",
+    "language": "zh-TW",
+    "manifest": "/Users/ander/Documents/hermes-agent/diabetes-news-social-post/output/notebooklm/2026-07-06-20260706-1506-ada2026-symposium-patient-education-and-safety-boundaries-for-continuous-ket.manifest.json",
+    "kind": "ada2026_professional_line_post"
+  },
+  {
     "id": "2026-07-03-20260703-0908-ada2026-scientific_parallel-simultaneous-initiation",
     "guid": "https://linebotaudio.zeabur.app/audio/2026-07-03-20260703-0908-ada2026-scientific_parallel-simultaneous-initiation.m4a",
     "title": "聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Simultaneous Initiation",
