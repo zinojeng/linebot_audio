@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Sun, 19 Jul 2026 20:25:13 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：連續酮體監測的病人教育與安全界線｜Patient Education and Safety Boundaries for Continuous Ketone Monitoring</title><description>ADA 2026 專業整理：連續酮體監測的病人教育與安全界線
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Sun, 19 Jul 2026 20:40:32 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：連續酮體監測的病人教育與安全界線｜Patient Education and Safety Boundaries for Continuous Ketone Monitoring</title><description>ADA 2026 專業整理：連續酮體監測的病人教育與安全界線
 
 臨床問題：隨著糖尿病科技普及，DKA 真的消失了嗎？
 近年來雖然持續血糖監測（CGM）與自動胰島素輸注（AID）的使用率大幅增加（例如感測器使用率從2016年的18%飆升至2024年的81%），且平均糖化血色素（mean HbA1c）從8.2%降至7.6%，但糖尿病酮酸中毒（DKA）的發生率卻依然持平、甚至在特定族群中上升 [1-3]。
@@ -807,7 +807,67 @@ Title: Neighborhood Food Environments and Incidence of Type 2 Diabetes after Ges
 &lt;br /&gt;
 本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
 &lt;br /&gt;
-來源連結：https://mednote.zeabur.app/lectures/2ff15933-bc90-4928-9b7d-a790f82e4508</content:encoded><pubDate>Mon, 29 Jun 2026 08:50:35 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-0836-ada2026-plenary-neighborhood-food-environments-and-incidence-of-type-2-dia.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-0836-ada2026-plenary-neighborhood-food-environments-and-incidence-of-type-2-dia.m4a" length="14148128" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>19:28</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-29-20260629-0836-ada2026-plenary-neighborhood-food-environments-and-incidence-of-type-2-dia.jpg" /><link>https://mednote.zeabur.app/lectures/2ff15933-bc90-4928-9b7d-a790f82e4508</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Spatial Organization of Human Islet Endocrine Cells Modulates Stimulated Hormone Secretion</title><description>ADA 2026 專業整理：人類胰島內分泌細胞的空間排列如何調控荷爾蒙分泌功能
+來源連結：https://mednote.zeabur.app/lectures/2ff15933-bc90-4928-9b7d-a790f82e4508</content:encoded><pubDate>Mon, 29 Jun 2026 08:50:35 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-0836-ada2026-plenary-neighborhood-food-environments-and-incidence-of-type-2-dia.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-0836-ada2026-plenary-neighborhood-food-environments-and-incidence-of-type-2-dia.m4a" length="14148128" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>19:28</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-29-20260629-0836-ada2026-plenary-neighborhood-food-environments-and-incidence-of-type-2-dia.jpg" /><link>https://mednote.zeabur.app/lectures/2ff15933-bc90-4928-9b7d-a790f82e4508</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Associations and Interactions of Genetic Predispositions for Taste Preferences and Socioeconomic Status with Hyperpalatable Food Intake</title><description>ADA 2026 專業整理：基因與社會經濟地位對高適口性食物攝取的交互作用
+
+臨床問題
+在現代飲食環境中，高適口性食物（Hyper-Palatable Foods, HPF）的盛行率已從 1998 年的約 55% 攀升至 2018 年的近 70% 。HPF 透過糖、鹽、脂肪的人工組合最大化大腦獎賞性與愉悅感，並移除原本能促進飽足感的纖維和水分，進而容易導致進食過量與熱量攝取過剩，顯著增加體重上升、肥胖與第 2 型糖尿病等代謝疾病風險 [1-4]。臨床上的關鍵問題在於：不同個體因遺傳而產生的甜、鹹、油偏好，是否能有效預測其在真實世界中對相應 HPF 的過度攝取？此外，社會經濟地位（SES）是否能削弱這種由基因驅動的飲食傾向 ？
+
+試驗設計與方法
+研究團隊首先利用大數據庫 UK Biobank 的食物偏好問卷（FPQ）建立甜味、鹹味與脂肪偏好表型。FPQ 比傳統食物頻率問卷（FFQ）更少受到健康意識與社會經濟地位的干擾，且具有較佳的重測信度 。研究在 70% 的訓練集資料中進行全基因組關聯分析（GWAS）以建立三種味覺偏好的多基因風險評分（PGS），並在另外 30% 的驗證集中確認 PGS 對其對應味覺偏好的特異解釋力 [3, 5-7]。隨後，團隊將這三種 PGS 應用至兩個獨立的世代研究 cohort：Framingham Heart Study (FHS) 與 MESA，檢視甜味偏好 PGS 與甜點/點心攝取、鹹味偏好 PGS 與鹹零食攝取、脂肪偏好 PGS 與油炸食物攝取之關聯，並透過隨機效應整合分析（pooled random-effects meta-analysis）合併效應估計 。
+
+關鍵訊息
+第一，味覺偏好多基因風險評分（PGS）能顯著且特異地預測現實世界的 HPF 攝取行為 。甜味偏好 PGS 預測甜點/點心攝取、鹹味偏好 PGS 預測鹹零食攝取、脂肪偏好 PGS 則預測油炸食物攝取，且皆展現高度特異性 [6-8]。
+
+第二，該遺傳傾向亦高度反映在實際營養素的攝取上 。甜味 PGS 能預測蔗糖攝取，鹹味 PGS 預測鈉攝取，脂肪 PGS 預測單元不飽和及飽和脂肪酸的攝取 。
+
+第三，雖然不同社會經濟地位（本研究以教育程度作為 proxy）之群體的 HPF 攝取總量不同（例如高教育程度者鹹零食攝取量較低），但交互作用檢定顯示，教育程度並不會顯著修飾味覺偏好 PGS 與 HPF 攝取之間的關聯 [9-13]。這意味著，基因對味覺偏好的驅動影響在不同社會背景下皆相對穩定 。
+
+第四，研究也發現，甜味偏好 PGS 與肥胖顯著相關，但在校正現實中的 HPF 攝取量後，此關聯便會減弱。這證實了「基因透過影響食物偏好與攝取，間接導致肥胖與代謝風險」的病理路徑 。
+
+對內分泌臨床實務的啟發
+此研究結果打破了「飲食習慣完全取決於自制力或後天教育」的單一思維。患者對甜食、鹹味零食或油炸物的過度攝取，背後有著顯著的遺傳傾向驅動（PGS），且此基因偏好力量不易受教育水平等環境因素所改寫。對於糖尿病照護團隊而言，這提供了未來實施精準預防（Precision Prevention）的新思考方向。若能透過味覺基因風險分層，及早篩檢出高遺傳驅動的個體，並針對其特定的味覺渴求提供個人化的飲食行為替代方案或客製化預防措施，將比單純給予通用的健康飲食衛教更能有效提升臨床介入成效 。
+
+保守解讀的限制
+首先，本研究僅使用教育程度（大學畢業、大專、高中畢業、低於高中）作為社會經濟地位（SES）的替代指標，無法完整涵蓋收入、食物可得性及多元生活環境等更複雜的環境變數 [9-12]。其次，研究目前主要基於特定的西方人世代研究，未來仍需納入更大規模、更多元族群的資料集，以進一步探索基因與環境（G x E）交互作用在不同人群中的適用性 。
+
+後續思考問題
+當我們知道患者的味覺偏好與食物過度攝取具有強大的遺傳基礎且不易隨社會教育背景改變時，臨床上該如何重新設計符合糖尿病照護團隊實務、且能融入患者日常生活的精準飲食介入方案？
+
+來源：ADA 2026 Scientific Sessions, Session: From Plate to Pancreas Mechanisms Linking Diet to Diabetes, Speaker: Julie E Gervis (Massachusetts General Hospital), Title: Associations and Interactions of Genetic Predispositions for Taste Preferences and Socioeconomic Status with Hyperpalatable Food Intake.
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/cf76ee12-1eb8-4d5c-a986-5388a38f1b5a</description><content:encoded>ADA 2026 專業整理：基因與社會經濟地位對高適口性食物攝取的交互作用&lt;br /&gt;
+&lt;br /&gt;
+臨床問題&lt;br /&gt;
+在現代飲食環境中，高適口性食物（Hyper-Palatable Foods, HPF）的盛行率已從 1998 年的約 55% 攀升至 2018 年的近 70% 。HPF 透過糖、鹽、脂肪的人工組合最大化大腦獎賞性與愉悅感，並移除原本能促進飽足感的纖維和水分，進而容易導致進食過量與熱量攝取過剩，顯著增加體重上升、肥胖與第 2 型糖尿病等代謝疾病風險 [1-4]。臨床上的關鍵問題在於：不同個體因遺傳而產生的甜、鹹、油偏好，是否能有效預測其在真實世界中對相應 HPF 的過度攝取？此外，社會經濟地位（SES）是否能削弱這種由基因驅動的飲食傾向 ？&lt;br /&gt;
+&lt;br /&gt;
+試驗設計與方法&lt;br /&gt;
+研究團隊首先利用大數據庫 UK Biobank 的食物偏好問卷（FPQ）建立甜味、鹹味與脂肪偏好表型。FPQ 比傳統食物頻率問卷（FFQ）更少受到健康意識與社會經濟地位的干擾，且具有較佳的重測信度 。研究在 70% 的訓練集資料中進行全基因組關聯分析（GWAS）以建立三種味覺偏好的多基因風險評分（PGS），並在另外 30% 的驗證集中確認 PGS 對其對應味覺偏好的特異解釋力 [3, 5-7]。隨後，團隊將這三種 PGS 應用至兩個獨立的世代研究 cohort：Framingham Heart Study (FHS) 與 MESA，檢視甜味偏好 PGS 與甜點/點心攝取、鹹味偏好 PGS 與鹹零食攝取、脂肪偏好 PGS 與油炸食物攝取之關聯，並透過隨機效應整合分析（pooled random-effects meta-analysis）合併效應估計 。&lt;br /&gt;
+&lt;br /&gt;
+關鍵訊息&lt;br /&gt;
+第一，味覺偏好多基因風險評分（PGS）能顯著且特異地預測現實世界的 HPF 攝取行為 。甜味偏好 PGS 預測甜點/點心攝取、鹹味偏好 PGS 預測鹹零食攝取、脂肪偏好 PGS 則預測油炸食物攝取，且皆展現高度特異性 [6-8]。&lt;br /&gt;
+&lt;br /&gt;
+第二，該遺傳傾向亦高度反映在實際營養素的攝取上 。甜味 PGS 能預測蔗糖攝取，鹹味 PGS 預測鈉攝取，脂肪 PGS 預測單元不飽和及飽和脂肪酸的攝取 。&lt;br /&gt;
+&lt;br /&gt;
+第三，雖然不同社會經濟地位（本研究以教育程度作為 proxy）之群體的 HPF 攝取總量不同（例如高教育程度者鹹零食攝取量較低），但交互作用檢定顯示，教育程度並不會顯著修飾味覺偏好 PGS 與 HPF 攝取之間的關聯 [9-13]。這意味著，基因對味覺偏好的驅動影響在不同社會背景下皆相對穩定 。&lt;br /&gt;
+&lt;br /&gt;
+第四，研究也發現，甜味偏好 PGS 與肥胖顯著相關，但在校正現實中的 HPF 攝取量後，此關聯便會減弱。這證實了「基因透過影響食物偏好與攝取，間接導致肥胖與代謝風險」的病理路徑 。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的啟發&lt;br /&gt;
+此研究結果打破了「飲食習慣完全取決於自制力或後天教育」的單一思維。患者對甜食、鹹味零食或油炸物的過度攝取，背後有著顯著的遺傳傾向驅動（PGS），且此基因偏好力量不易受教育水平等環境因素所改寫。對於糖尿病照護團隊而言，這提供了未來實施精準預防（Precision Prevention）的新思考方向。若能透過味覺基因風險分層，及早篩檢出高遺傳驅動的個體，並針對其特定的味覺渴求提供個人化的飲食行為替代方案或客製化預防措施，將比單純給予通用的健康飲食衛教更能有效提升臨床介入成效 。&lt;br /&gt;
+&lt;br /&gt;
+保守解讀的限制&lt;br /&gt;
+首先，本研究僅使用教育程度（大學畢業、大專、高中畢業、低於高中）作為社會經濟地位（SES）的替代指標，無法完整涵蓋收入、食物可得性及多元生活環境等更複雜的環境變數 [9-12]。其次，研究目前主要基於特定的西方人世代研究，未來仍需納入更大規模、更多元族群的資料集，以進一步探索基因與環境（G x E）交互作用在不同人群中的適用性 。&lt;br /&gt;
+&lt;br /&gt;
+後續思考問題&lt;br /&gt;
+當我們知道患者的味覺偏好與食物過度攝取具有強大的遺傳基礎且不易隨社會教育背景改變時，臨床上該如何重新設計符合糖尿病照護團隊實務、且能融入患者日常生活的精準飲食介入方案？&lt;br /&gt;
+&lt;br /&gt;
+來源：ADA 2026 Scientific Sessions, Session: From Plate to Pancreas Mechanisms Linking Diet to Diabetes, Speaker: Julie E Gervis (Massachusetts General Hospital), Title: Associations and Interactions of Genetic Predispositions for Taste Preferences and Socioeconomic Status with Hyperpalatable Food Intake.&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/cf76ee12-1eb8-4d5c-a986-5388a38f1b5a</content:encoded><pubDate>Mon, 29 Jun 2026 07:15:48 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-0701-ada2026-plenary-associations-and-interactions-of-genetic-predispositions-f.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-0701-ada2026-plenary-associations-and-interactions-of-genetic-predispositions-f.m4a" length="45944541" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>23:47</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-29-20260629-0701-ada2026-plenary-associations-and-interactions-of-genetic-predispositions-f.jpg" /><link>https://mednote.zeabur.app/lectures/cf76ee12-1eb8-4d5c-a986-5388a38f1b5a</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Spatial Organization of Human Islet Endocrine Cells Modulates Stimulated Hormone Secretion</title><description>ADA 2026 專業整理：人類胰島內分泌細胞的空間排列如何調控荷爾蒙分泌功能
 
 臨床上面臨的研究問題
 胰臟胰島僅佔胰臟總質量的 1% 至 2%，且無法在健康人體內進行安全切片，因此人類胰島的研究高度依賴器官捐贈者的 ex vivo 分析 。過去科學界已知小鼠胰島具有核心為 β 細胞、外圍為 α 與 δ 細胞的清晰結構；相較之下，人類胰島的內分泌細胞呈現高度交錯（intermingled）排列，過往文獻常認為其屬於隨機分佈 。這項研究的核心問題在於：人類胰島內分泌細胞的空間分佈真的是隨機的嗎？如果是，這些空間排列方式是否會進一步影響其受刺激後的荷爾蒙分泌功能？ 
