@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Mon, 20 Jul 2026 00:36:05 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：連續酮體監測的病人教育與安全界線｜Patient Education and Safety Boundaries for Continuous Ketone Monitoring</title><description>ADA 2026 專業整理：連續酮體監測的病人教育與安全界線
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link><description>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</description><language>zh-TW</language><lastBuildDate>Mon, 20 Jul 2026 00:36:38 +0000</lastBuildDate><generator>Hermes Agent NotebookLM Podcast</generator><itunes:author>童綜合醫院新陳代謝科團隊</itunes:author><itunes:summary>童綜合醫院新陳代謝科團隊整理的糖尿病新知、ATTD/ADA 會議重點與 NotebookLM 雙主持討論。</itunes:summary><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>童綜合醫院新陳代謝科團隊</itunes:name><itunes:email>clawbot4ander@gmail.com</itunes:email></itunes:owner><itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine" /></itunes:category><image><url>https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg</url><title>聽懂 糖尿病新知雙聲道</title><link>https://zinojeng.github.io/linebot_audio/podcast/feed.xml</link></image><itunes:image href="https://linebotaudio.zeabur.app/image/podcast-cover-3a315a12-zoom2.jpg" /><atom:link href="https://zinojeng.github.io/linebot_audio/podcast/feed.xml" rel="self" type="application/rss+xml" /><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：連續酮體監測的病人教育與安全界線｜Patient Education and Safety Boundaries for Continuous Ketone Monitoring</title><description>ADA 2026 專業整理：連續酮體監測的病人教育與安全界線
 
 臨床問題：隨著糖尿病科技普及，DKA 真的消失了嗎？
 近年來雖然持續血糖監測（CGM）與自動胰島素輸注（AID）的使用率大幅增加（例如感測器使用率從2016年的18%飆升至2024年的81%），且平均糖化血色素（mean HbA1c）從8.2%降至7.6%，但糖尿病酮酸中毒（DKA）的發生率卻依然持平、甚至在特定族群中上升 [1-3]。
@@ -727,7 +727,109 @@ Title: Modeling Immune Responses to Autologous and Allogeneic Human Stem Cell-De
 &lt;br /&gt;
 本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
 &lt;br /&gt;
-來源連結：https://mednote.zeabur.app/lectures/e781e7f5-054c-48eb-93b3-e3eae4ca12f9</content:encoded><pubDate>Mon, 29 Jun 2026 11:50:06 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-1136-ada2026-plenary-modeling-immune-responses-to-autologous-and-allogeneic-hum.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-1136-ada2026-plenary-modeling-immune-responses-to-autologous-and-allogeneic-hum.m4a" length="9240783" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>12:40</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-29-20260629-1136-ada2026-plenary-modeling-immune-responses-to-autologous-and-allogeneic-hum.jpg" /><link>https://mednote.zeabur.app/lectures/e781e7f5-054c-48eb-93b3-e3eae4ca12f9</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Neighborhood Food Environments and Incidence of Type 2 Diabetes after Gestational Diabetes: A Population-Based Cohort Study in New York City</title><description>ADA 2026 專業整理：社區健康食物環境對妊娠糖尿病產後發展為第2型糖尿病的獨立影響
+來源連結：https://mednote.zeabur.app/lectures/e781e7f5-054c-48eb-93b3-e3eae4ca12f9</content:encoded><pubDate>Mon, 29 Jun 2026 11:50:06 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-1136-ada2026-plenary-modeling-immune-responses-to-autologous-and-allogeneic-hum.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-1136-ada2026-plenary-modeling-immune-responses-to-autologous-and-allogeneic-hum.m4a" length="9240783" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>12:40</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-29-20260629-1136-ada2026-plenary-modeling-immune-responses-to-autologous-and-allogeneic-hum.jpg" /><link>https://mednote.zeabur.app/lectures/e781e7f5-054c-48eb-93b3-e3eae4ca12f9</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Integrated Metabolomic, Proteomic, and Genomic Biomarkers Improve Identification of Coronary Artery Disease in East Asians with Type 2 Diabetes</title><description>ADA 2026 專業整理：整合多體學標記，精準篩檢東亞糖尿病患者之冠狀動脈疾病風險
+
+臨床問題
+第二型糖尿病（T2D）患者的心血管疾病負擔極重，相較於非糖尿病族群，其心血管併發症風險增加 2 至 3 倍，平均預期壽命縮短約 8 年 。在 T2D 患者中，冠狀動脈疾病（CAD）常表現為無症狀缺血（silent ischemia）、較早發病、多血管病變且病變血管段較長 。然而，現行依賴傳統臨床因子（如 PREVENT 模型，納入年齡、性別、血壓、BMI、抽菸、膽固醇、腎功能、用藥等）的預測模型，其 C-statistic 僅約 0.75-0.80，在非典型症狀為主的糖尿病族群中仍有顯著改善空間，且過去文獻中東亞族群的體學數據相對不足 。
+
+試驗設計與方法
+本研究主要分析採用南韓 K-PREDICT 前瞻性糖尿病世代研究（納入 5,438 名東亞成年參與者，中位追蹤 2.8 年，招募目標於 2030 年達 3 萬人），其中代謝體分析可用樣本為 4,633 人 。另外採用英國生物樣本庫（UK Biobank）作為外部複製與比較世代（主要為歐洲血統，502,485 人，中位追蹤 13.4 年） 。
+在 K-PREDICT 中，CAD 表型定義整合了診斷碼（I21-I22）、心導管支架與繞道手術史以及自述問卷，經病歷審查確認其敏感度達 0.90，特異度達 0.97 。
+在 K-PREDICT 1,222 名同時具備代謝體、蛋白體與基因體三層體學數據的參與者中，隨機選出 400 人作為獨立測試集，其餘 4,233 人為發現集 。基因體資料採用包含 Biobank Japan 等跨族群全基因體關聯分析（GWAS）所構建的 CAD 多基因風險評分（PRS） 。
+
+關鍵研究發現
+1. 代謝體學（Metabolomics）
+在發現集中比較 338 名 CAD 患者與 3,895 名對照組，篩選出 32 個顯著關聯的代謝物（29 個內源性、3 個外源性） 。外源性代謝物如 carvedilol 及阿斯匹靈代謝物（O-hydroxyhippuric acid / salicyluric acid）出現在最顯著信號中，驗證了臨床表型定義的準確性 。
+其中，與 CAD 正相關最強的內源性信號為 4-hydroxybenzoate（為腸道菌群代謝物、輔酶 Q10 前驅物，beta=0.447，p=1.93x10^-15） 。相反地，ceramide (d18:1/24:0)（beta=-0.265，p=3.94x10^-6，在 Mayo Clinic 評分中與 MACE 具保護性模式相關）及 DHEA sulfate（beta=-0.212，p=4.84x10^-6）則與 CAD 呈負相關 。由於兩大世代研究的分析平台重疊代謝物極少（僅 7 個），因此無法在 UK Biobank 進行代謝體複製 。
+
+2. 蛋白體學（Proteomics）
+在 K-PREDICT 中篩選出 18 個與 prevalent CAD 顯著相關的蛋白質，其中最強的信號為利鈉肽 B（NPPB/BNP），其餘包括 Midkine (MDK)、Apolipoprotein M (APOM)、脂肪酸結合蛋白及 Pleiotrophin (PTN) 。通路分析顯示與轉譯、PI3K-AKT-mTOR、心臟胰島素信號傳遞以及干擾素和壓力反應上調有關，而與 DNA 複製下調有關 。
+將此 18 個蛋白質在 UK Biobank 進行比較（約 3,000 名糖尿病患者，追蹤期間發生 194 例心肌梗塞），在可取得的 14 個蛋白質中，有 6 個與未來心肌梗塞（MI）顯著相關（p &lt; 0.05），包含 BNP、與動脈粥狀硬化相關的 Midkine（MDK）、與纖維化相關的 PCOLCE 及 sporadic inclusion body myositis 標記 NT5C1A 。
+
+3. 多體學整合預測表現
+在獨立測試集（56 名 CAD，344 名對照組）中，評估各模型預測 prevalent CAD 的表現 ：
+• 傳統臨床模型（PREVENT）：AUC 為 0.774 。
+• 臨床模型 + 29 個代謝物：AUC 顯著提升至 0.831（AUC 增益達 0.057, p=0.016） 。
+• 臨床模型 + 18 個蛋白質：AUC 為 0.791（AUC 增益 0.016, p=0.414） 。
+• 臨床模型 + 基因體（PRS）：AUC 為 0.805（AUC 增益 0.030, p=0.099） 。
+• 臨床模型 + 整合三層多體學：AUC 顯著提升至 0.843（AUC 增益達 0.069, p=0.009） 。
+在單一體學中，代謝體對預測能力的增益最大，其次為基因體（PRS），最後是蛋白質 。
+
+研究延伸：腦中風相關性
+研究進一步將篩檢擴展至腦中風（stroke），在發現集（441 例中風，3,792 例對照組）篩選出 60 個顯著相關的代謝物 。比較發現，CAD 與腦中風僅共享 12 個方向完全一致的代謝物（如 4-hydroxybenzoate、12-HETE、propylurofuranic acid 等），其餘 48 個為腦中風特異性，18 個為 CAD 特異性，顯示兩者雖共享部分大血管代謝風險核心，但仍具備獨特的代謝生物學特徵 。
+
+對內分泌臨床實務的啟發
+此研究展示了透過單次血液檢測，整合代謝物、蛋白質與基因體評分，即可在不依賴影像學或侵入性檢查的情況下，顯著改善糖尿病患者的冠狀動脈疾病風險辨識，這對於常表現為無症狀缺血（silent ischemia）的糖尿病族群極具臨床篩檢潛力 。
+
+保守解讀與限制
+第一，本研究關聯性仍屬觀察性研究（observational associations），無法直接推論因果關係 。
+第二，K-PREDICT 的代謝體平台與 UK Biobank 不同，重疊代謝物極少，使得代謝體信號缺乏外部世代的直接複製驗證 。
+第三，4-hydroxybenzoate 除了來自腸道菌群，也可能來自保存食品，但目前 cohort 尚缺乏完整的飲食資訊可供釐清 。
+未來仍需透過孟德爾隨機化（Mendelian randomization）等方法進行因果推論，並在前瞻性臨床試驗中測試核心標記所組成的標靶檢測套組（targeted panel）的實際臨床效用 。
+
+後續思考問題
+在未來，當多體學標靶檢測套組（targeted panel）成功轉化為臨床可用的檢測項目時，我們該如何將這種新型分子風險評估，與現行指引推薦的心血管保護藥物（如 SGLT2 抑制劑或 GLP-1 受體促效劑）介入時機進行最有效的整合？
+
+來源：
+ADA 2026 Scientific Sessions
+Session: Old and New Tools to Understand Cardiovascular Risk With Edwin Bierman Award Lecture
+Speaker: Hyunsuk Lee - Seoul National University
+Title: Integrated Metabolomic, Proteomic, and Genomic Biomarkers Improve Identification of Coronary Artery Disease in East Asians with Type 2 Diabetes
+
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。
+
+來源連結：https://mednote.zeabur.app/lectures/97f88c35-a1e8-40dc-9ad9-c3116a6bc862</description><content:encoded>ADA 2026 專業整理：整合多體學標記，精準篩檢東亞糖尿病患者之冠狀動脈疾病風險&lt;br /&gt;
+&lt;br /&gt;
+臨床問題&lt;br /&gt;
+第二型糖尿病（T2D）患者的心血管疾病負擔極重，相較於非糖尿病族群，其心血管併發症風險增加 2 至 3 倍，平均預期壽命縮短約 8 年 。在 T2D 患者中，冠狀動脈疾病（CAD）常表現為無症狀缺血（silent ischemia）、較早發病、多血管病變且病變血管段較長 。然而，現行依賴傳統臨床因子（如 PREVENT 模型，納入年齡、性別、血壓、BMI、抽菸、膽固醇、腎功能、用藥等）的預測模型，其 C-statistic 僅約 0.75-0.80，在非典型症狀為主的糖尿病族群中仍有顯著改善空間，且過去文獻中東亞族群的體學數據相對不足 。&lt;br /&gt;
+&lt;br /&gt;
+試驗設計與方法&lt;br /&gt;
+本研究主要分析採用南韓 K-PREDICT 前瞻性糖尿病世代研究（納入 5,438 名東亞成年參與者，中位追蹤 2.8 年，招募目標於 2030 年達 3 萬人），其中代謝體分析可用樣本為 4,633 人 。另外採用英國生物樣本庫（UK Biobank）作為外部複製與比較世代（主要為歐洲血統，502,485 人，中位追蹤 13.4 年） 。&lt;br /&gt;
+在 K-PREDICT 中，CAD 表型定義整合了診斷碼（I21-I22）、心導管支架與繞道手術史以及自述問卷，經病歷審查確認其敏感度達 0.90，特異度達 0.97 。&lt;br /&gt;
+在 K-PREDICT 1,222 名同時具備代謝體、蛋白體與基因體三層體學數據的參與者中，隨機選出 400 人作為獨立測試集，其餘 4,233 人為發現集 。基因體資料採用包含 Biobank Japan 等跨族群全基因體關聯分析（GWAS）所構建的 CAD 多基因風險評分（PRS） 。&lt;br /&gt;
+&lt;br /&gt;
+關鍵研究發現&lt;br /&gt;
+1. 代謝體學（Metabolomics）&lt;br /&gt;
+在發現集中比較 338 名 CAD 患者與 3,895 名對照組，篩選出 32 個顯著關聯的代謝物（29 個內源性、3 個外源性） 。外源性代謝物如 carvedilol 及阿斯匹靈代謝物（O-hydroxyhippuric acid / salicyluric acid）出現在最顯著信號中，驗證了臨床表型定義的準確性 。&lt;br /&gt;
+其中，與 CAD 正相關最強的內源性信號為 4-hydroxybenzoate（為腸道菌群代謝物、輔酶 Q10 前驅物，beta=0.447，p=1.93x10^-15） 。相反地，ceramide (d18:1/24:0)（beta=-0.265，p=3.94x10^-6，在 Mayo Clinic 評分中與 MACE 具保護性模式相關）及 DHEA sulfate（beta=-0.212，p=4.84x10^-6）則與 CAD 呈負相關 。由於兩大世代研究的分析平台重疊代謝物極少（僅 7 個），因此無法在 UK Biobank 進行代謝體複製 。&lt;br /&gt;
+&lt;br /&gt;
+2. 蛋白體學（Proteomics）&lt;br /&gt;
+在 K-PREDICT 中篩選出 18 個與 prevalent CAD 顯著相關的蛋白質，其中最強的信號為利鈉肽 B（NPPB/BNP），其餘包括 Midkine (MDK)、Apolipoprotein M (APOM)、脂肪酸結合蛋白及 Pleiotrophin (PTN) 。通路分析顯示與轉譯、PI3K-AKT-mTOR、心臟胰島素信號傳遞以及干擾素和壓力反應上調有關，而與 DNA 複製下調有關 。&lt;br /&gt;
+將此 18 個蛋白質在 UK Biobank 進行比較（約 3,000 名糖尿病患者，追蹤期間發生 194 例心肌梗塞），在可取得的 14 個蛋白質中，有 6 個與未來心肌梗塞（MI）顯著相關（p &lt; 0.05），包含 BNP、與動脈粥狀硬化相關的 Midkine（MDK）、與纖維化相關的 PCOLCE 及 sporadic inclusion body myositis 標記 NT5C1A 。&lt;br /&gt;
+&lt;br /&gt;
+3. 多體學整合預測表現&lt;br /&gt;
+在獨立測試集（56 名 CAD，344 名對照組）中，評估各模型預測 prevalent CAD 的表現 ：&lt;br /&gt;
+• 傳統臨床模型（PREVENT）：AUC 為 0.774 。&lt;br /&gt;
+• 臨床模型 + 29 個代謝物：AUC 顯著提升至 0.831（AUC 增益達 0.057, p=0.016） 。&lt;br /&gt;
+• 臨床模型 + 18 個蛋白質：AUC 為 0.791（AUC 增益 0.016, p=0.414） 。&lt;br /&gt;
+• 臨床模型 + 基因體（PRS）：AUC 為 0.805（AUC 增益 0.030, p=0.099） 。&lt;br /&gt;
+• 臨床模型 + 整合三層多體學：AUC 顯著提升至 0.843（AUC 增益達 0.069, p=0.009） 。&lt;br /&gt;
+在單一體學中，代謝體對預測能力的增益最大，其次為基因體（PRS），最後是蛋白質 。&lt;br /&gt;
+&lt;br /&gt;
+研究延伸：腦中風相關性&lt;br /&gt;
+研究進一步將篩檢擴展至腦中風（stroke），在發現集（441 例中風，3,792 例對照組）篩選出 60 個顯著相關的代謝物 。比較發現，CAD 與腦中風僅共享 12 個方向完全一致的代謝物（如 4-hydroxybenzoate、12-HETE、propylurofuranic acid 等），其餘 48 個為腦中風特異性，18 個為 CAD 特異性，顯示兩者雖共享部分大血管代謝風險核心，但仍具備獨特的代謝生物學特徵 。&lt;br /&gt;
+&lt;br /&gt;
+對內分泌臨床實務的啟發&lt;br /&gt;
+此研究展示了透過單次血液檢測，整合代謝物、蛋白質與基因體評分，即可在不依賴影像學或侵入性檢查的情況下，顯著改善糖尿病患者的冠狀動脈疾病風險辨識，這對於常表現為無症狀缺血（silent ischemia）的糖尿病族群極具臨床篩檢潛力 。&lt;br /&gt;
+&lt;br /&gt;
+保守解讀與限制&lt;br /&gt;
+第一，本研究關聯性仍屬觀察性研究（observational associations），無法直接推論因果關係 。&lt;br /&gt;
+第二，K-PREDICT 的代謝體平台與 UK Biobank 不同，重疊代謝物極少，使得代謝體信號缺乏外部世代的直接複製驗證 。&lt;br /&gt;
+第三，4-hydroxybenzoate 除了來自腸道菌群，也可能來自保存食品，但目前 cohort 尚缺乏完整的飲食資訊可供釐清 。&lt;br /&gt;
+未來仍需透過孟德爾隨機化（Mendelian randomization）等方法進行因果推論，並在前瞻性臨床試驗中測試核心標記所組成的標靶檢測套組（targeted panel）的實際臨床效用 。&lt;br /&gt;
+&lt;br /&gt;
+後續思考問題&lt;br /&gt;
+在未來，當多體學標靶檢測套組（targeted panel）成功轉化為臨床可用的檢測項目時，我們該如何將這種新型分子風險評估，與現行指引推薦的心血管保護藥物（如 SGLT2 抑制劑或 GLP-1 受體促效劑）介入時機進行最有效的整合？&lt;br /&gt;
+&lt;br /&gt;
+來源：&lt;br /&gt;
+ADA 2026 Scientific Sessions&lt;br /&gt;
+Session: Old and New Tools to Understand Cardiovascular Risk With Edwin Bierman Award Lecture&lt;br /&gt;
+Speaker: Hyunsuk Lee - Seoul National University&lt;br /&gt;
+Title: Integrated Metabolomic, Proteomic, and Genomic Biomarkers Improve Identification of Coronary Artery Disease in East Asians with Type 2 Diabetes&lt;br /&gt;
+&lt;br /&gt;
+本集內容為衛教與學術資訊整理，不能取代個別醫療診斷與治療建議；若有用藥或治療調整，請與您的醫療團隊討論。&lt;br /&gt;
+&lt;br /&gt;
+來源連結：https://mednote.zeabur.app/lectures/97f88c35-a1e8-40dc-9ad9-c3116a6bc862</content:encoded><pubDate>Mon, 29 Jun 2026 10:21:48 +0800</pubDate><guid isPermaLink="false">https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-1007-ada2026-scientific_parallel-integrated-metabolomic-proteomic-and-genomic-biomarkers-im.m4a</guid><enclosure url="https://linebotaudio.zeabur.app/audio/2026-06-29-20260629-1007-ada2026-scientific_parallel-integrated-metabolomic-proteomic-and-genomic-biomarkers-im.m4a" length="0" type="audio/mp4" /><itunes:explicit>false</itunes:explicit><itunes:duration>13:40</itunes:duration><itunes:image href="https://linebotaudio.zeabur.app/image/2026-06-29-20260629-1007-ada2026-scientific_parallel-integrated-metabolomic-proteomic-and-genomic-biomarkers-im.jpg" /><link>https://mednote.zeabur.app/lectures/97f88c35-a1e8-40dc-9ad9-c3116a6bc862</link></item><item><title>聽懂 糖尿病新知雙聲道｜ADA 2026 專業摘要：Neighborhood Food Environments and Incidence of Type 2 Diabetes after Gestational Diabetes: A Population-Based Cohort Study in New York City</title><description>ADA 2026 專業整理：社區健康食物環境對妊娠糖尿病產後發展為第2型糖尿病的獨立影響
 
 臨床問題
 妊娠糖尿病（GDM）是未來發生第2型糖尿病（T2D）的重要早期預警，約有五分之一曾有GDM的女性會在產後發展為T2D 。儘管產後飲食管理是預防T2D的關鍵，但高風險女性在實際生活中常面臨巨大的執行障礙 。定性研究顯示，產後女性大多清楚「應該吃什麼」，但當她們重返職場並面對育兒與生活節奏時，若居住周邊環境難以取得健康食物，往往會成為行為改變的實質瓶頸 [1-3]。
